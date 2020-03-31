@@ -35,9 +35,87 @@
       <category term="区块链" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/"/>
     
     
+      <category term="区块链" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE/"/>
+    
       <category term="区块链看点" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE%E7%9C%8B%E7%82%B9/"/>
     
+  </entry>
+  
+  <entry>
+    <title>IPFS实现去中心化应用程序实践（1）</title>
+    <link href="https://www.chengwf.com/2020/03/ipfs-1-index.html"/>
+    <id>https://www.chengwf.com/2020/03/ipfs-1-index.html</id>
+    <published>2020-03-29T16:00:00.000Z</published>
+    <updated>2020-03-31T18:25:43.652Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="目录"><a href="#目录" class="headerlink" title="目录"></a>目录</h2><ol><li><p><strong>IPFS简介</strong></p></li><li><p><strong><a href="/2020/03/ipfs-2-index.html" title="IPFS本地环境安装">IPFS本地环境安装</a></strong></p><p> 2.1 <a href="/2020/03/ipfs-2-index.html" title="下载ipfs压缩包">下载ipfs压缩包</a></p><p> 2.2 <a href="/2020/03/ipfs-w-index.html" title="IPFS Desktop 安装">IPFS Desktop 安装</a></p><p> 2.3 <a href="/2020/03/ipfs-2-index.html" title="IPFS 的安装包下载">IPFS 的安装包下载</a></p></li><li><p>项目配置 </p><ul><li>3.1 创建ipfs节点</li><li>3.2 修改节点默认存储空间</li><li>3.3 查看节点id</li><li>3.4 启动节点服务器</li><li>3.5 跨域资源共享CORS配置</li><li>3.6 验证</li></ul></li><li><p><strong>IPFS简介</strong></p></li></ol><p><strong>IPFS（InterPlanetary File System）</strong>是一个点对点的分布式超媒体分发协议，它整合了过去几年最好的分布式系统思路，为所有人提供全球统一的可寻址空间，包括Git、自证明文件系统SFS、BitTorrent和DHT，同时也被认为是最有可能取代HTTP的新一代互联网协议。</p><p>IPFS用基于内容的寻址替代传统的基于域名的寻址，用户不需要关心服务器的位置，不用考虑文件存储的名字和路径。我们将一个文件放到IPFS节点中，将会得到基于其内容计算出的唯一加密哈希值。哈希值直接反映文件的内容，哪怕只修改1比特，哈希值也会完全不同。当IPFS被请求一个文件哈希时，它会使用一个分布式哈希表找到文件所在的节点，取回文件并验证文件数据。</p><p>IPFS是通用目的的基础架构，基本没有存储上的限制。大文件会被切分成小的分块，下载的时候可以从多个服务器同时获取。IPFS的网络是不固定的、细粒度的、分布式的网络，可以很好的适应内容分发网络的要求。这样的设计可以很好的共享各类数据，包括图像、视频流、分布式数据库、整个操作系统、模块链、8英寸软盘的备份，还有静态网站。</p><p><strong>协议实现：</strong><br> Go、JavaScript、Python<br>** 客户端库：**Go、Java、JavaScript、Python、Scala、Haskell、Swift、CommonLisp、Rust、Ruby、Swift、PHP、C#</p><p><strong>IPFS</strong>提供了一个友好的<strong>WEB</strong>访问接口，用户可通过<a href="http://ipfs.io/hash" target="_blank" rel="noopener">http://ipfs.io/hash</a></p><p>获取IPFS网络中的内容，也许在不久的将来，IPFS协议将会彻底替代传统的HTTP协议。</p>]]></content>
+    
+    <summary type="html">
+    
+      IPFS的配置安装，以Window桌面版0.10.4为例
+    
+    </summary>
+    
+    
+      <category term="区块链" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/"/>
+    
+      <category term="IPFS" scheme="https://www.chengwf.com/categories/IPFS/"/>
+    
+      <category term="IPFS安装" scheme="https://www.chengwf.com/categories/IPFS/IPFS%E5%AE%89%E8%A3%85/"/>
+    
+      <category term="数字货币" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/"/>
+    
+      <category term="IPFS" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/IPFS/"/>
+    
+    
       <category term="区块链" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE/"/>
+    
+      <category term="IPFS" scheme="https://www.chengwf.com/tags/IPFS/"/>
+    
+      <category term="IPFS安装" scheme="https://www.chengwf.com/tags/IPFS%E5%AE%89%E8%A3%85/"/>
+    
+      <category term="数字货币" scheme="https://www.chengwf.com/tags/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/"/>
+    
+      <category term="用IPFS搭建个人免服务器独立博客" scheme="https://www.chengwf.com/tags/%E7%94%A8IPFS%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%85%8D%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%8B%AC%E7%AB%8B%E5%8D%9A%E5%AE%A2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>IPFS的下载和安装（2）</title>
+    <link href="https://www.chengwf.com/2020/03/ipfs-2-install.html"/>
+    <id>https://www.chengwf.com/2020/03/ipfs-2-install.html</id>
+    <published>2020-03-29T16:00:00.000Z</published>
+    <updated>2020-03-31T18:28:04.357Z</updated>
+    
+    <content type="html"><![CDATA[<p>返回—<a href="/2020/03/ipfs-1-index.html"《IPFS实现去中心化应用程序实践》主目录"">《IPFS实现去中心化应用程序实践》主目录</a></p><p><strong>2、IPFS本地环境安装</strong></p><p>2.1 下载ipfs压缩包</p><p>—  进入IPFS.io官网，点击“<strong>Get started</strong>”<br><img src="https://s1.ax1x.com/2020/03/30/Gn6Z6O.jpg" alt="Gn6Z6O.jpg"></p><p>—  页面会下拉，然后点击“<strong>install IPFS Desktop</strong>”<br><img src="https://s1.ax1x.com/2020/03/30/Gn6V1K.jpg" alt="Gn6V1K.jpg"></p><p>—  然后会跳转到IPFS在<strong>Github</strong>上所在的安装程序托管代码空间，或者你可以手动在地址栏输入：<a href="https://github.com/ipfs-shipyard/ipfs-desktop。" target="_blank" rel="noopener">https://github.com/ipfs-shipyard/ipfs-desktop。</a><br><img src="https://s1.ax1x.com/2020/03/30/Gn6eXD.jpg" alt="Gn6eXD.jpg"></p><p>—  到该页下面找到：<a href="https://github.com/ipfs-shipyard/ipfs-desktop/releases/download/v0.10.4/IPFS-Desktop-Setup-0.10.4.exe" target="_blank" rel="noopener" title=" IPFS-Desktop-Setup-0.10.4.exe"> IPFS-Desktop-Setup-0.10.4.exe</a>，根据你所在的系统环境下载所属的安装包，即可进入下载进度。<br><img src="https://s1.ax1x.com/2020/03/30/Gn6Ep6.jpg" alt="Gn6Ep6.jpg"></p><p>2.2 “IPFS desktop” 安装</p><p>—  进行安装<br><img src="https://s1.ax1x.com/2020/03/30/Gn6kfx.jpg" alt="Gn6kfx.jpg"></p><p>2.3  IPFS的安装包下载</p><p>—  官网首页找到“<strong>install IPFS</strong>”,点击”<strong>Command line</strong>“<br><img src="https://s1.ax1x.com/2020/03/30/GnXMQS.jpg" alt="GnXMQS.jpg"></p><p>—  进到”install IPFS”页面，找到“ <a href="https://dist.ipfs.io/#go-ipfs" target="_blank" rel="noopener" title="download IPFS for your platform">download IPFS for your platform</a>”点击即进入下载该安装包<br><img src="https://s1.ax1x.com/2020/03/30/GnXuz8.jpg" alt="GnXuz8.jpg"></p><p>—  下载后，解压缩安装包，为ipfs的安装程序：<strong>go-ipfs</strong><br><img src="https://s1.ax1x.com/2020/03/30/GnXmJP.jpg" alt="GnXmJP.jpg"></p><p>到此步，需要用到的安装步骤已完成，后面就是配置和应用部分。</p>]]></content>
+    
+    <summary type="html">
+    
+      IPFS的配置安装，以Window桌面版0.10.4安装为例
+    
+    </summary>
+    
+    
+      <category term="区块链" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/"/>
+    
+      <category term="IPFS" scheme="https://www.chengwf.com/categories/IPFS/"/>
+    
+      <category term="IPFS安装" scheme="https://www.chengwf.com/categories/IPFS/IPFS%E5%AE%89%E8%A3%85/"/>
+    
+      <category term="数字货币" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/"/>
+    
+      <category term="IPFS" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/IPFS/"/>
+    
+    
+      <category term="区块链" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE/"/>
+    
+      <category term="IPFS" scheme="https://www.chengwf.com/tags/IPFS/"/>
+    
+      <category term="IPFS安装" scheme="https://www.chengwf.com/tags/IPFS%E5%AE%89%E8%A3%85/"/>
+    
+      <category term="数字货币" scheme="https://www.chengwf.com/tags/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/"/>
+    
+      <category term="用IPFS搭建个人免服务器独立博客" scheme="https://www.chengwf.com/tags/%E7%94%A8IPFS%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%85%8D%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%8B%AC%E7%AB%8B%E5%8D%9A%E5%AE%A2/"/>
     
   </entry>
   
@@ -66,15 +144,15 @@
       <category term="区块链技术" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E5%8C%BA%E5%9D%97%E9%93%BE%E6%8A%80%E6%9C%AF/"/>
     
     
+      <category term="区块链看点" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE%E7%9C%8B%E7%82%B9/"/>
+    
       <category term="区块链技术" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE%E6%8A%80%E6%9C%AF/"/>
     
-      <category term="区块链看点" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE%E7%9C%8B%E7%82%B9/"/>
+      <category term="数据" scheme="https://www.chengwf.com/tags/%E6%95%B0%E6%8D%AE/"/>
     
       <category term="人工智能（AI）" scheme="https://www.chengwf.com/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%EF%BC%88AI%EF%BC%89/"/>
     
       <category term="AI芯片" scheme="https://www.chengwf.com/tags/AI%E8%8A%AF%E7%89%87/"/>
-    
-      <category term="数据" scheme="https://www.chengwf.com/tags/%E6%95%B0%E6%8D%AE/"/>
     
   </entry>
   
@@ -94,15 +172,15 @@
     </summary>
     
     
+      <category term="区块链" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/"/>
+    
       <category term="国家主权货币" scheme="https://www.chengwf.com/categories/%E5%9B%BD%E5%AE%B6%E4%B8%BB%E6%9D%83%E8%B4%A7%E5%B8%81/"/>
     
-      <category term="区块链" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/"/>
+      <category term="区块链金融" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E5%8C%BA%E5%9D%97%E9%93%BE%E9%87%91%E8%9E%8D/"/>
     
       <category term="DCEP" scheme="https://www.chengwf.com/categories/%E5%9B%BD%E5%AE%B6%E4%B8%BB%E6%9D%83%E8%B4%A7%E5%B8%81/DCEP/"/>
     
       <category term="数字经济" scheme="https://www.chengwf.com/categories/%E6%95%B0%E5%AD%97%E7%BB%8F%E6%B5%8E/"/>
-    
-      <category term="区块链金融" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E5%8C%BA%E5%9D%97%E9%93%BE%E9%87%91%E8%9E%8D/"/>
     
       <category term="DCEP" scheme="https://www.chengwf.com/categories/DCEP/"/>
     
@@ -111,15 +189,15 @@
       <category term="数字银行" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E5%8C%BA%E5%9D%97%E9%93%BE%E9%87%91%E8%9E%8D/%E6%95%B0%E5%AD%97%E9%93%B6%E8%A1%8C/"/>
     
     
-      <category term="DCEP" scheme="https://www.chengwf.com/tags/DCEP/"/>
-    
-      <category term="区块链看点" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE%E7%9C%8B%E7%82%B9/"/>
-    
       <category term="区块链" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE/"/>
     
       <category term="数字经济" scheme="https://www.chengwf.com/tags/%E6%95%B0%E5%AD%97%E7%BB%8F%E6%B5%8E/"/>
     
       <category term="区块链金融" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE%E9%87%91%E8%9E%8D/"/>
+    
+      <category term="区块链看点" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE%E7%9C%8B%E7%82%B9/"/>
+    
+      <category term="DCEP" scheme="https://www.chengwf.com/tags/DCEP/"/>
     
       <category term="数字银行" scheme="https://www.chengwf.com/tags/%E6%95%B0%E5%AD%97%E9%93%B6%E8%A1%8C/"/>
     
@@ -150,9 +228,9 @@
       <category term="加密资产" scheme="https://www.chengwf.com/categories/%E6%96%B0%E5%85%B4%E8%B5%84%E4%BA%A7/%E5%8A%A0%E5%AF%86%E8%B5%84%E4%BA%A7/"/>
     
     
-      <category term="区块链看点" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE%E7%9C%8B%E7%82%B9/"/>
-    
       <category term="数字经济" scheme="https://www.chengwf.com/tags/%E6%95%B0%E5%AD%97%E7%BB%8F%E6%B5%8E/"/>
+    
+      <category term="区块链看点" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE%E7%9C%8B%E7%82%B9/"/>
     
       <category term="数据" scheme="https://www.chengwf.com/tags/%E6%95%B0%E6%8D%AE/"/>
     
@@ -178,22 +256,24 @@
     </summary>
     
     
-      <category term="国家主权货币" scheme="https://www.chengwf.com/categories/%E5%9B%BD%E5%AE%B6%E4%B8%BB%E6%9D%83%E8%B4%A7%E5%B8%81/"/>
-    
       <category term="区块链" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/"/>
+    
+      <category term="国家主权货币" scheme="https://www.chengwf.com/categories/%E5%9B%BD%E5%AE%B6%E4%B8%BB%E6%9D%83%E8%B4%A7%E5%B8%81/"/>
     
       <category term="DCEP" scheme="https://www.chengwf.com/categories/%E5%9B%BD%E5%AE%B6%E4%B8%BB%E6%9D%83%E8%B4%A7%E5%B8%81/DCEP/"/>
     
       <category term="DCEP" scheme="https://www.chengwf.com/categories/DCEP/"/>
     
-      <category term="区块链技术" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E5%8C%BA%E5%9D%97%E9%93%BE%E6%8A%80%E6%9C%AF/"/>
-    
       <category term="新兴资产" scheme="https://www.chengwf.com/categories/%E6%96%B0%E5%85%B4%E8%B5%84%E4%BA%A7/"/>
     
-      <category term="数字资产" scheme="https://www.chengwf.com/categories/%E6%96%B0%E5%85%B4%E8%B5%84%E4%BA%A7/%E6%95%B0%E5%AD%97%E8%B5%84%E4%BA%A7/"/>
+      <category term="区块链技术" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E5%8C%BA%E5%9D%97%E9%93%BE%E6%8A%80%E6%9C%AF/"/>
     
       <category term="加密资产" scheme="https://www.chengwf.com/categories/%E6%96%B0%E5%85%B4%E8%B5%84%E4%BA%A7/%E5%8A%A0%E5%AF%86%E8%B5%84%E4%BA%A7/"/>
     
+      <category term="数字资产" scheme="https://www.chengwf.com/categories/%E6%96%B0%E5%85%B4%E8%B5%84%E4%BA%A7/%E6%95%B0%E5%AD%97%E8%B5%84%E4%BA%A7/"/>
+    
+    
+      <category term="区块链看点" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE%E7%9C%8B%E7%82%B9/"/>
     
       <category term="国家主权货币" scheme="https://www.chengwf.com/tags/%E5%9B%BD%E5%AE%B6%E4%B8%BB%E6%9D%83%E8%B4%A7%E5%B8%81/"/>
     
@@ -204,8 +284,6 @@
       <category term="数字资产" scheme="https://www.chengwf.com/tags/%E6%95%B0%E5%AD%97%E8%B5%84%E4%BA%A7/"/>
     
       <category term="加密资产" scheme="https://www.chengwf.com/tags/%E5%8A%A0%E5%AF%86%E8%B5%84%E4%BA%A7/"/>
-    
-      <category term="区块链看点" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE%E7%9C%8B%E7%82%B9/"/>
     
   </entry>
   
@@ -232,11 +310,11 @@
       <category term="新冠状病毒" scheme="https://www.chengwf.com/categories/%E9%87%8F%E5%AD%90%E6%8A%80%E6%9C%AF/%E9%87%8F%E5%AD%90%E6%8A%80%E6%9C%AF%E5%BA%94%E7%94%A8/%E6%96%B0%E5%86%A0%E7%8A%B6%E7%97%85%E6%AF%92/"/>
     
     
-      <category term="区块链看点" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE%E7%9C%8B%E7%82%B9/"/>
-    
       <category term="新冠状病毒" scheme="https://www.chengwf.com/tags/%E6%96%B0%E5%86%A0%E7%8A%B6%E7%97%85%E6%AF%92/"/>
     
       <category term="COVID-19" scheme="https://www.chengwf.com/tags/COVID-19/"/>
+    
+      <category term="区块链看点" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE%E7%9C%8B%E7%82%B9/"/>
     
       <category term="量子技术" scheme="https://www.chengwf.com/tags/%E9%87%8F%E5%AD%90%E6%8A%80%E6%9C%AF/"/>
     
@@ -262,16 +340,14 @@
     
       <category term="区块链" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/"/>
     
-      <category term="数字经济" scheme="https://www.chengwf.com/categories/%E6%95%B0%E5%AD%97%E7%BB%8F%E6%B5%8E/"/>
-    
       <category term="区块链金融" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E5%8C%BA%E5%9D%97%E9%93%BE%E9%87%91%E8%9E%8D/"/>
+    
+      <category term="数字经济" scheme="https://www.chengwf.com/categories/%E6%95%B0%E5%AD%97%E7%BB%8F%E6%B5%8E/"/>
     
       <category term="区块链应用" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E5%8C%BA%E5%9D%97%E9%93%BE%E5%BA%94%E7%94%A8/"/>
     
       <category term="新冠状病毒" scheme="https://www.chengwf.com/categories/%E6%96%B0%E5%86%A0%E7%8A%B6%E7%97%85%E6%AF%92/"/>
     
-    
-      <category term="区块链看点" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE%E7%9C%8B%E7%82%B9/"/>
     
       <category term="区块链" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE/"/>
     
@@ -284,6 +360,8 @@
       <category term="区块链金融" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE%E9%87%91%E8%9E%8D/"/>
     
       <category term="区块链应用" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE%E5%BA%94%E7%94%A8/"/>
+    
+      <category term="区块链看点" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE%E7%9C%8B%E7%82%B9/"/>
     
   </entry>
   
@@ -314,9 +392,9 @@
       <category term="稳定币" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/%E7%A8%B3%E5%AE%9A%E5%B8%81/"/>
     
     
-      <category term="区块链看点" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE%E7%9C%8B%E7%82%B9/"/>
-    
       <category term="数字经济" scheme="https://www.chengwf.com/tags/%E6%95%B0%E5%AD%97%E7%BB%8F%E6%B5%8E/"/>
+    
+      <category term="区块链看点" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE%E7%9C%8B%E7%82%B9/"/>
     
       <category term="加密经济" scheme="https://www.chengwf.com/tags/%E5%8A%A0%E5%AF%86%E7%BB%8F%E6%B5%8E/"/>
     
