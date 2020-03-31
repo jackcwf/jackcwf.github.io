@@ -32,42 +32,8 @@
         <category>区块链</category>
       </categories>
       <tags>
-        <tag>区块链</tag>
         <tag>区块链看点</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>IPFS的下载和安装</title>
-    <url>/2020/03/ipfs-1-install.html</url>
-    <content><![CDATA[<script type="text/javascript" src="/js/src/bai.js"></script>
-
-<p>返回—<a href="https://www.chengwf.com/ipfs/" title="《IPFS实现去中心化应用程序实践》主目录">《IPFS实现去中心化应用程序实践》主目录</a></p>
-<p><strong>2、IPFS本地环境安装</strong></p>
-<p>2.1 下载ipfs压缩包</p>
-<p>—  进入IPFS.io官网，点击“<strong>Get started</strong>”<br><img src="https://s1.ax1x.com/2020/03/30/Gn6Z6O.jpg" alt="Gn6Z6O.jpg"></p>
-<p>—  页面会下拉，然后点击“<strong>install IPFS Desktop</strong>”<br><img src="https://s1.ax1x.com/2020/03/30/Gn6V1K.jpg" alt="Gn6V1K.jpg"></p>
-<p>—  然后会跳转到IPFS在<strong>Github</strong>上所在的安装程序托管代码空间，或者你可以手动在地址栏输入：<a href="https://github.com/ipfs-shipyard/ipfs-desktop。" target="_blank" rel="noopener">https://github.com/ipfs-shipyard/ipfs-desktop。</a><br><img src="https://s1.ax1x.com/2020/03/30/Gn6eXD.jpg" alt="Gn6eXD.jpg"></p>
-<p>—  到该页下面找到：<a href="https://github.com/ipfs-shipyard/ipfs-desktop/releases/download/v0.10.4/IPFS-Desktop-Setup-0.10.4.exe" target="_blank" rel="noopener" title=" IPFS-Desktop-Setup-0.10.4.exe"> IPFS-Desktop-Setup-0.10.4.exe</a>，根据你所在的系统环境下载所属的安装包，即可进入下载进度。<br><img src="https://s1.ax1x.com/2020/03/30/Gn6Ep6.jpg" alt="Gn6Ep6.jpg"></p>
-<p>2.2 “IPFS desktop” 安装</p>
-<p>—  进行安装<br><img src="https://s1.ax1x.com/2020/03/30/Gn6kfx.jpg" alt="Gn6kfx.jpg"></p>
-<p>2.3  IPFS的安装包下载</p>
-<p>—  官网首页找到“<strong>install IPFS</strong>”,点击”<strong>Command line</strong>“<br><img src="https://s1.ax1x.com/2020/03/30/GnXMQS.jpg" alt="GnXMQS.jpg"></p>
-<p>—  进到”install IPFS”页面，找到“ <a href="https://dist.ipfs.io/#go-ipfs" target="_blank" rel="noopener" title="download IPFS for your platform">download IPFS for your platform</a>”点击即进入下载该安装包<br><img src="https://s1.ax1x.com/2020/03/30/GnXuz8.jpg" alt="GnXuz8.jpg"></p>
-<p>—  下载后，解压缩安装包，为ipfs的安装程序：<strong>go-ipfs</strong><br><img src="https://s1.ax1x.com/2020/03/30/GnXmJP.jpg" alt="GnXmJP.jpg"></p>
-<p>到此步，需要用到的安装步骤已完成，后面就是配置和应用部分。</p>
-]]></content>
-      <categories>
-        <category>区块链</category>
-        <category>IPFS</category>
-        <category>IPFS安装</category>
-        <category>数字货币</category>
-        <category>IPFS</category>
-      </categories>
-      <tags>
         <tag>区块链</tag>
-        <tag>IPFS</tag>
-        <tag>IPFS安装</tag>
-        <tag>数字货币</tag>
       </tags>
   </entry>
   <entry>
@@ -129,11 +95,11 @@
         <category>区块链技术</category>
       </categories>
       <tags>
-        <tag>区块链看点</tag>
         <tag>区块链技术</tag>
-        <tag>数据</tag>
+        <tag>区块链看点</tag>
         <tag>人工智能（AI）</tag>
         <tag>AI芯片</tag>
+        <tag>数据</tag>
       </tags>
   </entry>
   <entry>
@@ -246,21 +212,21 @@
 </ul>
 ]]></content>
       <categories>
-        <category>区块链</category>
         <category>国家主权货币</category>
-        <category>区块链金融</category>
+        <category>区块链</category>
         <category>DCEP</category>
         <category>数字经济</category>
+        <category>区块链金融</category>
         <category>DCEP</category>
         <category>数字银行</category>
         <category>数字银行</category>
       </categories>
       <tags>
+        <tag>DCEP</tag>
+        <tag>区块链看点</tag>
         <tag>区块链</tag>
         <tag>数字经济</tag>
         <tag>区块链金融</tag>
-        <tag>区块链看点</tag>
-        <tag>DCEP</tag>
         <tag>数字银行</tag>
       </tags>
   </entry>
@@ -355,8 +321,8 @@ AI的关键重要性
         <category>加密资产</category>
       </categories>
       <tags>
-        <tag>数字经济</tag>
         <tag>区块链看点</tag>
+        <tag>数字经济</tag>
         <tag>数据</tag>
         <tag>数据经济</tag>
         <tag>数据资产</tag>
@@ -405,22 +371,22 @@ AI的关键重要性
 <p><a href="https://imgchr.com/i/8xe1Z6" target="_blank" rel="noopener"><img src="https://s1.ax1x.com/2020/03/25/8xe1Z6.th.png" alt="8xe1Z6.th.png"></a></p>
 ]]></content>
       <categories>
-        <category>区块链</category>
         <category>国家主权货币</category>
+        <category>区块链</category>
         <category>DCEP</category>
         <category>DCEP</category>
-        <category>新兴资产</category>
         <category>区块链技术</category>
-        <category>加密资产</category>
+        <category>新兴资产</category>
         <category>数字资产</category>
+        <category>加密资产</category>
       </categories>
       <tags>
-        <tag>区块链看点</tag>
         <tag>国家主权货币</tag>
         <tag>DCEP</tag>
         <tag>区块链技术</tag>
         <tag>数字资产</tag>
         <tag>加密资产</tag>
+        <tag>区块链看点</tag>
       </tags>
   </entry>
   <entry>
@@ -496,9 +462,9 @@ AI的关键重要性
         <category>新冠状病毒</category>
       </categories>
       <tags>
+        <tag>区块链看点</tag>
         <tag>新冠状病毒</tag>
         <tag>COVID-19</tag>
-        <tag>区块链看点</tag>
         <tag>量子技术</tag>
         <tag>量子计算</tag>
       </tags>
@@ -557,19 +523,19 @@ AI的关键重要性
 ]]></content>
       <categories>
         <category>区块链</category>
-        <category>区块链金融</category>
         <category>数字经济</category>
+        <category>区块链金融</category>
         <category>区块链应用</category>
         <category>新冠状病毒</category>
       </categories>
       <tags>
+        <tag>区块链看点</tag>
         <tag>区块链</tag>
         <tag>新冠状病毒</tag>
         <tag>COVID-19</tag>
         <tag>数字经济</tag>
         <tag>区块链金融</tag>
         <tag>区块链应用</tag>
-        <tag>区块链看点</tag>
       </tags>
   </entry>
   <entry>
@@ -654,8 +620,8 @@ AI的关键重要性
         <category>稳定币</category>
       </categories>
       <tags>
-        <tag>数字经济</tag>
         <tag>区块链看点</tag>
+        <tag>数字经济</tag>
         <tag>加密经济</tag>
       </tags>
   </entry>
