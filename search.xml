@@ -32,8 +32,8 @@
         <category>区块链</category>
       </categories>
       <tags>
-        <tag>区块链</tag>
         <tag>区块链看点</tag>
+        <tag>区块链</tag>
       </tags>
   </entry>
   <entry>
@@ -174,8 +174,8 @@
         <category>区块链技术</category>
       </categories>
       <tags>
-        <tag>区块链看点</tag>
         <tag>区块链技术</tag>
+        <tag>区块链看点</tag>
         <tag>数据</tag>
         <tag>人工智能（AI）</tag>
         <tag>AI芯片</tag>
@@ -291,21 +291,21 @@
 </ul>
 ]]></content>
       <categories>
-        <category>区块链</category>
         <category>国家主权货币</category>
-        <category>区块链金融</category>
+        <category>区块链</category>
+        <category>DCEP</category>
         <category>数字经济</category>
         <category>DCEP</category>
-        <category>DCEP</category>
+        <category>区块链金融</category>
         <category>数字银行</category>
         <category>数字银行</category>
       </categories>
       <tags>
+        <tag>DCEP</tag>
+        <tag>区块链看点</tag>
         <tag>区块链</tag>
         <tag>数字经济</tag>
         <tag>区块链金融</tag>
-        <tag>区块链看点</tag>
-        <tag>DCEP</tag>
         <tag>数字银行</tag>
       </tags>
   </entry>
@@ -400,9 +400,9 @@ AI的关键重要性
         <category>加密资产</category>
       </categories>
       <tags>
-        <tag>数字经济</tag>
         <tag>区块链看点</tag>
         <tag>数据</tag>
+        <tag>数字经济</tag>
         <tag>数据经济</tag>
         <tag>数据资产</tag>
       </tags>
@@ -450,8 +450,8 @@ AI的关键重要性
 <p><a href="https://imgchr.com/i/8xe1Z6" target="_blank" rel="noopener"><img src="https://s1.ax1x.com/2020/03/25/8xe1Z6.th.png" alt="8xe1Z6.th.png"></a></p>
 ]]></content>
       <categories>
-        <category>区块链</category>
         <category>国家主权货币</category>
+        <category>区块链</category>
         <category>DCEP</category>
         <category>DCEP</category>
         <category>新兴资产</category>
@@ -460,12 +460,12 @@ AI的关键重要性
         <category>数字资产</category>
       </categories>
       <tags>
-        <tag>区块链看点</tag>
         <tag>国家主权货币</tag>
         <tag>DCEP</tag>
         <tag>区块链技术</tag>
         <tag>数字资产</tag>
         <tag>加密资产</tag>
+        <tag>区块链看点</tag>
       </tags>
   </entry>
   <entry>
@@ -541,11 +541,11 @@ AI的关键重要性
         <category>新冠状病毒</category>
       </categories>
       <tags>
-        <tag>新冠状病毒</tag>
-        <tag>COVID-19</tag>
         <tag>区块链看点</tag>
         <tag>量子技术</tag>
+        <tag>新冠状病毒</tag>
         <tag>量子计算</tag>
+        <tag>COVID-19</tag>
       </tags>
   </entry>
   <entry>
@@ -602,19 +602,19 @@ AI的关键重要性
 ]]></content>
       <categories>
         <category>区块链</category>
-        <category>区块链金融</category>
         <category>数字经济</category>
+        <category>区块链金融</category>
         <category>区块链应用</category>
         <category>新冠状病毒</category>
       </categories>
       <tags>
-        <tag>区块链</tag>
+        <tag>区块链看点</tag>
         <tag>新冠状病毒</tag>
         <tag>COVID-19</tag>
+        <tag>区块链</tag>
         <tag>数字经济</tag>
         <tag>区块链金融</tag>
         <tag>区块链应用</tag>
-        <tag>区块链看点</tag>
       </tags>
   </entry>
   <entry>
@@ -699,8 +699,8 @@ AI的关键重要性
         <category>稳定币</category>
       </categories>
       <tags>
-        <tag>数字经济</tag>
         <tag>区块链看点</tag>
+        <tag>数字经济</tag>
         <tag>加密经济</tag>
       </tags>
   </entry>
