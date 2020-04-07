@@ -111,20 +111,20 @@
 <p>完整PDF原文请点击&gt;&gt;&gt;</p>
 ]]></content>
       <categories>
-        <category>区块链</category>
-        <category>区块链金融</category>
         <category>新冠状病毒</category>
         <category>数据</category>
         <category>数字经济</category>
         <category>数字银行</category>
+        <category>区块链</category>
+        <category>区块链金融</category>
         <category>数字银行</category>
         <category>大数据</category>
       </categories>
       <tags>
+        <tag>区块链看点</tag>
         <tag>新冠状病毒</tag>
         <tag>COVID-19</tag>
         <tag>数字经济</tag>
-        <tag>区块链看点</tag>
         <tag>数字营销</tag>
         <tag>大数据</tag>
       </tags>
@@ -161,8 +161,8 @@
         <category>区块链</category>
       </categories>
       <tags>
-        <tag>区块链</tag>
         <tag>区块链看点</tag>
+        <tag>区块链</tag>
       </tags>
   </entry>
   <entry>
@@ -204,9 +204,9 @@
         <category>IPFS</category>
       </categories>
       <tags>
-        <tag>区块链</tag>
         <tag>IPFS</tag>
         <tag>IPFS安装</tag>
+        <tag>区块链</tag>
         <tag>数字货币</tag>
         <tag>用IPFS搭建个人免服务器独立博客</tag>
       </tags>
@@ -237,9 +237,9 @@
         <category>IPFS</category>
       </categories>
       <tags>
-        <tag>区块链</tag>
         <tag>IPFS</tag>
         <tag>IPFS安装</tag>
+        <tag>区块链</tag>
         <tag>数字货币</tag>
         <tag>用IPFS搭建个人免服务器独立博客</tag>
       </tags>
@@ -298,16 +298,67 @@
 ]]></content>
       <categories>
         <category>区块链</category>
+        <category>区块链技术</category>
         <category>人工智能（AI）</category>
         <category>AI芯片</category>
-        <category>区块链技术</category>
       </categories>
       <tags>
-        <tag>区块链看点</tag>
         <tag>区块链技术</tag>
+        <tag>区块链看点</tag>
         <tag>数据</tag>
         <tag>人工智能（AI）</tag>
         <tag>AI芯片</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>一个自我进化的知识解密引擎库</title>
+    <url>/2020/03/inevo/inevo-principle.html</url>
+    <content><![CDATA[<p><strong>一个能自我进化、智能完善的知识引擎库：</strong></p>
+<p><abbr title="Hyper Text Markup Language">IN-EVOLUTIO</abbr>，简称：<abbr title="World Wide Web Consortium">Inevo</abbr></p>
+<hr>
+<p><strong>Inevo是什么</strong></p>
+<blockquote>
+<p> Inevo是Jack.Chan在全球首个提出的信息检索、智能抽取、真实对照的引擎库系统，利用区块链和AI的特性，适应人脑神经网络运算机制和思维体系逻辑，通过建立独立而可供接入编程API的数据库索引中纽神经库，进而为人类智能提供可解析、可检索、可溯源的知识体系还原成果系统。</p>
+</blockquote>
+<a id="more"></a>]]></content>
+      <categories>
+        <category>解密引擎</category>
+      </categories>
+      <tags>
+        <tag>解密引擎</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>区块链（知识解密引擎库）</title>
+    <url>/2020/03/inevo/bc-index.html</url>
+    <content><![CDATA[<h1 id="区块链是什么"><a href="#区块链是什么" class="headerlink" title="区块链是什么"></a>区块链是什么</h1><br/>
+
+<p>区块链起源于中本聪的比特币，作为比特币的底层技术，本质上是一个去中心化的数据库。是指通过去中心化和去信任的方式集体维护一个可靠数据库的技术方案。<a id="more"></a></p>
+<p>从科技层面来看，区块链是一门涉及数学、密码学、互联网和计算机编程等很多科学技术综合交叉学问。</p>
+<p>从应用视角来看，区块链是一种新兴技术，它是一个分布式的共享账本和数据库；这门技术从特点上分析，具有去中心化、不可篡改、全程留痕、可以追溯、集体维护、公开透明等特点。</p>
+<p>从计算机技术应用模式的视角来看，它具备分布式数据存储、点对点传输、共识机制、加密算法等技术模式</p>
+<hr>
+<h1 id="区块链最先由谁提出"><a href="#区块链最先由谁提出" class="headerlink" title="区块链最先由谁提出"></a><strong>区块链最先由谁提出</strong></h1><br/>
+
+<p> 中本聪在2008年于《比特币白皮书》中提出“区块链”概念，并在2009年创立了比特币网络，开发出第一个区块，即“创世区块”。</p>
+<p> 比特币白皮书：<a href="https://bitcoin.org/" target="_blank" rel="noopener" title="《比特币：一种点对点电子货币系统》">《比特币：一种点对点电子货币系统》</a><a href="https://bitcoin.org/" target="_blank" rel="noopener">https://bitcoin.org/</a></p>
+<hr>
+<h1 id="区块链由哪些领域组成"><a href="#区块链由哪些领域组成" class="headerlink" title="区块链由哪些领域组成"></a><strong>区块链由哪些领域组成</strong></h1><br/>
+
+<p>由数学、密码学、互联网、计算机编程组成。具体每个领域体现在哪些技术：</p>
+<p>数学[1]：区块链的重要底层加密技术是不对称加密算法，是基于椭圆曲线的算术理论</p>
+<blockquote>
+<p>[1]区块链的数学层面认知：<a href="https://www.jianshu.com/p/b71c6e7cfb1c" target="_blank" rel="noopener">https://www.jianshu.com/p/b71c6e7cfb1c</a></p>
+</blockquote>
+<hr>
+]]></content>
+      <categories>
+        <category>区块链</category>
+        <category>解密引擎</category>
+      </categories>
+      <tags>
+        <tag>区块链</tag>
+        <tag>解密引擎</tag>
       </tags>
   </entry>
   <entry>
@@ -420,21 +471,21 @@
 </ul>
 ]]></content>
       <categories>
-        <category>区块链</category>
         <category>国家主权货币</category>
-        <category>区块链金融</category>
         <category>DCEP</category>
         <category>数字经济</category>
         <category>DCEP</category>
         <category>数字银行</category>
+        <category>区块链</category>
+        <category>区块链金融</category>
         <category>数字银行</category>
       </categories>
       <tags>
-        <tag>区块链</tag>
-        <tag>数字经济</tag>
-        <tag>区块链金融</tag>
-        <tag>区块链看点</tag>
         <tag>DCEP</tag>
+        <tag>区块链看点</tag>
+        <tag>数字经济</tag>
+        <tag>区块链</tag>
+        <tag>区块链金融</tag>
         <tag>数字银行</tag>
       </tags>
   </entry>
@@ -529,8 +580,8 @@ AI的关键重要性
         <category>加密资产</category>
       </categories>
       <tags>
-        <tag>数字经济</tag>
         <tag>区块链看点</tag>
+        <tag>数字经济</tag>
         <tag>数据</tag>
         <tag>数据经济</tag>
         <tag>数据资产</tag>
@@ -579,22 +630,22 @@ AI的关键重要性
 <p><a href="https://imgchr.com/i/8xe1Z6" target="_blank" rel="noopener"><img src="https://s1.ax1x.com/2020/03/25/8xe1Z6.th.png" alt="8xe1Z6.th.png"></a></p>
 ]]></content>
       <categories>
-        <category>区块链</category>
         <category>国家主权货币</category>
         <category>DCEP</category>
         <category>DCEP</category>
         <category>新兴资产</category>
-        <category>区块链技术</category>
+        <category>区块链</category>
         <category>加密资产</category>
         <category>数字资产</category>
+        <category>区块链技术</category>
       </categories>
       <tags>
-        <tag>区块链看点</tag>
         <tag>国家主权货币</tag>
         <tag>DCEP</tag>
         <tag>区块链技术</tag>
         <tag>数字资产</tag>
         <tag>加密资产</tag>
+        <tag>区块链看点</tag>
       </tags>
   </entry>
   <entry>
@@ -670,11 +721,11 @@ AI的关键重要性
         <category>新冠状病毒</category>
       </categories>
       <tags>
-        <tag>新冠状病毒</tag>
-        <tag>COVID-19</tag>
         <tag>区块链看点</tag>
         <tag>量子技术</tag>
+        <tag>新冠状病毒</tag>
         <tag>量子计算</tag>
+        <tag>COVID-19</tag>
       </tags>
   </entry>
   <entry>
@@ -730,20 +781,20 @@ AI的关键重要性
 <p><a href="https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzIwNTI5MDIwMg==#wechat_redirect" target="_blank" rel="noopener"><img src="https://s1.ax1x.com/2020/03/25/8xe1Z6.png" alt="8xe1Z6.png"></a></p>
 ]]></content>
       <categories>
-        <category>区块链</category>
-        <category>区块链金融</category>
         <category>新冠状病毒</category>
         <category>数字经济</category>
+        <category>区块链</category>
+        <category>区块链金融</category>
         <category>区块链应用</category>
       </categories>
       <tags>
-        <tag>区块链</tag>
+        <tag>区块链看点</tag>
         <tag>新冠状病毒</tag>
         <tag>COVID-19</tag>
         <tag>数字经济</tag>
+        <tag>区块链</tag>
         <tag>区块链金融</tag>
         <tag>区块链应用</tag>
-        <tag>区块链看点</tag>
       </tags>
   </entry>
   <entry>
@@ -821,15 +872,15 @@ AI的关键重要性
 </blockquote>
 ]]></content>
       <categories>
-        <category>区块链</category>
         <category>数字经济</category>
+        <category>区块链</category>
         <category>加密经济</category>
         <category>数字货币</category>
         <category>稳定币</category>
       </categories>
       <tags>
-        <tag>数字经济</tag>
         <tag>区块链看点</tag>
+        <tag>数字经济</tag>
         <tag>加密经济</tag>
       </tags>
   </entry>
