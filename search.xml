@@ -111,11 +111,11 @@
 <p>完整PDF原文请点击&gt;&gt;&gt;</p>
 ]]></content>
       <categories>
-        <category>区块链</category>
         <category>新冠状病毒</category>
-        <category>区块链金融</category>
-        <category>数据</category>
+        <category>区块链</category>
         <category>数字经济</category>
+        <category>数据</category>
+        <category>区块链金融</category>
         <category>数字银行</category>
         <category>数字银行</category>
         <category>大数据</category>
@@ -123,8 +123,8 @@
       <tags>
         <tag>新冠状病毒</tag>
         <tag>COVID-19</tag>
-        <tag>数字经济</tag>
         <tag>区块链看点</tag>
+        <tag>数字经济</tag>
         <tag>数字营销</tag>
         <tag>大数据</tag>
       </tags>
@@ -161,8 +161,8 @@
         <category>区块链</category>
       </categories>
       <tags>
-        <tag>区块链</tag>
         <tag>区块链看点</tag>
+        <tag>区块链</tag>
       </tags>
   </entry>
   <entry>
@@ -199,8 +199,8 @@
       <categories>
         <category>区块链</category>
         <category>IPFS</category>
-        <category>IPFS安装</category>
         <category>数字货币</category>
+        <category>IPFS安装</category>
         <category>IPFS</category>
       </categories>
       <tags>
@@ -232,8 +232,8 @@
       <categories>
         <category>区块链</category>
         <category>IPFS</category>
-        <category>IPFS安装</category>
         <category>数字货币</category>
+        <category>IPFS安装</category>
         <category>IPFS</category>
       </categories>
       <tags>
@@ -305,9 +305,9 @@
       <tags>
         <tag>区块链看点</tag>
         <tag>区块链技术</tag>
-        <tag>数据</tag>
         <tag>人工智能（AI）</tag>
         <tag>AI芯片</tag>
+        <tag>数据</tag>
       </tags>
   </entry>
   <entry>
@@ -551,7 +551,89 @@
 <td></td>
 </tr>
 </tbody></table>
-<h1 id="参考文献"><a href="#参考文献" class="headerlink" title="参考文献"></a><strong>参考文献</strong></h1><br/>
+<hr>
+<h1 id="区块链的共识机制"><a href="#区块链的共识机制" class="headerlink" title="区块链的共识机制"></a><strong>区块链的共识机制</strong></h1><br/>
+
+<p>由于加密货币多数采用去中心化的区块链设计，节点是各处分散且平行的，所以必须设计一套制度，来维护系统的运作顺序与公平性，统一区块链的版本，并奖励提供资源维护区块链的使用者，以及惩罚恶意的危害者。这样的制度，必须依赖某种方式来证明，是由谁取得了一个区块链的打包权（或称记帐权），并且可以获取打包这一个区块的奖励；又或者是谁意图进行危害，就会获得一定的惩罚，这就是共识机制。<sup><a href="https://ictjournal.itri.org.tw/Content/Messagess/contents.aspx?&MmmID=654304432061644411&MSID=744257557510131250" target="_blank" rel="noopener">[9]</a></sup></p>
+<p><strong>常见的共识机制</strong>：</p>
+<p>工作量证明（Proof-of-Work，PoW），典型案例：比特币网络<br>权益证明（Proof-of-Stake，PoS，又译持有量证明），典型案例：以太坊<br>股份授权证明（Delegated-Proof-of-Stake，DPoS），典型案例：EOS<br>容量证明（Proof-of-space，PoSpace，又称 Proof-of-Capacity，PoC），典型案例：Filecoin<br>Paxos<br>RAFT<br>PBFT<br>LibraBFT（Byzantine fault-tolerance）：Libra上使用</p>
+<p><strong>共识机制比较</strong>：</p>
+<p> 评价一个共识机制，不能单纯的用好或者坏来定义，要区分业务属性。而业务属性主要基于区块链的不可能三角及业务类型，所以主要从场景、去中心化程度、记账节点、响应时间、存储效率、吞吐量和容错性等维度进行比较，详情如下：<sup><a href="https://www.jianshu.com/p/9ce110a4e7db" target="_blank" rel="noopener">[10]</a></sup></p>
+<blockquote>
+<p>tips：区块链不可能三角指任何区块链系统在安全、性能和去中心化三个方面都不能完全兼顾。</p>
+</blockquote>
+<table>
+<thead>
+<tr>
+<th></th>
+<th><strong>PoW</strong></th>
+<th><strong>PoS</strong></th>
+<th><strong>DPoS</strong></th>
+<th><strong>Paft</strong></th>
+<th><strong>PBFT</strong></th>
+</tr>
+</thead>
+<tbody><tr>
+<td><strong>场景</strong></td>
+<td><strong>公链、联盟链</strong></td>
+<td><strong>公链、联盟链</strong></td>
+<td><strong>公链、联盟链</strong></td>
+<td><strong>联盟链</strong></td>
+<td><strong>联盟链</strong></td>
+</tr>
+<tr>
+<td><strong>去中心化程度</strong></td>
+<td>完全</td>
+<td>完全</td>
+<td>完全</td>
+<td>半中心化</td>
+<td>半中心化</td>
+</tr>
+<tr>
+<td><strong>记账节点</strong></td>
+<td>全网</td>
+<td>全网</td>
+<td>选出若干代表</td>
+<td>选出若干代表</td>
+<td>动态决定</td>
+</tr>
+<tr>
+<td><strong>响应时间</strong></td>
+<td>10分钟</td>
+<td>1分钟</td>
+<td>3秒左右</td>
+<td>秒级</td>
+<td>秒级</td>
+</tr>
+<tr>
+<td><strong>存储效率</strong></td>
+<td>全账本</td>
+<td>全账本</td>
+<td>全账本</td>
+<td>全账本</td>
+<td>全账本+部分全账本</td>
+</tr>
+<tr>
+<td><strong>吞吐量</strong></td>
+<td>约7TPS</td>
+<td>约15TPS</td>
+<td>约300TPS或更高</td>
+<td>几千甚至上万</td>
+<td>约1000TPS或更高</td>
+</tr>
+<tr>
+<td><strong>容错</strong></td>
+<td>50%</td>
+<td>50%</td>
+<td>50%</td>
+<td>50%</td>
+<td>33%</td>
+</tr>
+</tbody></table>
+<center><font color="acacac" size=2>上图共识机制对比图参考[10]</font></center>
+
+<hr>
+<h1 id="参考文献"><a href="#参考文献" class="headerlink" title="参考文献"></a>参考文献</h1><br/>
 
 <blockquote>
 <p><a href="https://www.kepuchina.cn/tech/info/201910/t20191031_1142466.shtml" target="_blank" rel="noopener">[0] 科普中国：分布化账本到底是什么？</a></p>
@@ -564,18 +646,22 @@
 <p><a href="https://zhuanlan.zhihu.com/p/34385708://cloud.tencent.com/developer/article/1170525" target="_blank" rel="noopener">[6] 香港大学-李迪一：《理解区块链的结构及其设计原理》</a></p>
 <p><a href="https://www.chainnews.com/articles/667226575871.htm" target="_blank" rel="noopener">[7] 区块链的六大特性</a></p>
 <p><a href="https://www.jianshu.com/p/7827ee0f8fae" target="_blank" rel="noopener">[8] 区块链种类</a></p>
+<p><a href="https://ictjournal.itri.org.tw/Content/Messagess/contents.aspx?&MmmID=654304432061644411&MSID=744257557510131250" target="_blank" rel="noopener">[9] 工研院资通所：区块链简介与技术探讨</a></p>
+<p><a href="https://www.jianshu.com/p/9ce110a4e7db" target="_blank" rel="noopener">[10] 区块链共识机制</a></p>
 </blockquote>
 ]]></content>
       <categories>
         <category>区块链</category>
         <category>数字货币</category>
-        <category>解密引擎</category>
         <category>比特币</category>
+        <category>区块链技术</category>
+        <category>解密引擎</category>
       </categories>
       <tags>
         <tag>区块链</tag>
         <tag>解密引擎</tag>
         <tag>比特币</tag>
+        <tag>共识机制</tag>
       </tags>
   </entry>
   <entry>
@@ -706,22 +792,162 @@
 </ul>
 ]]></content>
       <categories>
-        <category>区块链</category>
         <category>国家主权货币</category>
-        <category>区块链金融</category>
-        <category>DCEP</category>
+        <category>区块链</category>
         <category>数字经济</category>
         <category>DCEP</category>
+        <category>区块链金融</category>
         <category>数字银行</category>
+        <category>DCEP</category>
         <category>数字银行</category>
       </categories>
       <tags>
+        <tag>区块链看点</tag>
+        <tag>DCEP</tag>
         <tag>区块链</tag>
         <tag>数字经济</tag>
         <tag>区块链金融</tag>
-        <tag>区块链看点</tag>
-        <tag>DCEP</tag>
         <tag>数字银行</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>巴菲特最新深度访谈实录｜谈加密货币、新冠病毒和苹果公司</title>
+    <url>/2020/03/Buffett-Bcoin.html</url>
+    <content><![CDATA[<p>股神沃伦．巴菲特(Warren Buffett) 在2月24日接受外媒《CNBC》的长篇影音专访时谈到的议题层面相当广泛。其中不乏对于比特币与其他加密货币其经济价值的看法。本文将节录 18 段专访焦点言论。</p>
+<img src="http://p3.pstatp.com/large/pgc-image/0069a3cd565f435eb496b01f706f1416" aline=center  />
+
+<center><font color="acacac" size=2>股神沃伦．巴菲特(Warren Buffett)</font></center>
+
+<p>近期股神沃伦．巴菲特在币圈引起了莫大关注，起因于他与波场创办人孙宇晨的一场午餐之约。在上月月底接受外媒《CNBC》专访时他不仅尬笑打脸了波场（TRON）创办人孙宇晨在午餐会上赠送比特币一说，并宣称「他没有拥有任何加密货币，而且永远也不会」，向比特币与加密货币再开了一炮。<a id="more"></a></p>
+<p>其实撇除巴菲特讨厌比特币一事，对于全球广大的投资人来说，巴菲特作出的评论一向极具机智与洞察力，且会将其评论视为投资圭臬。这位柏克夏海瑟威公司（Berkshire Hathaway）首席执行长巴菲特在与 CNBC 展开的这场访谈中，其实除了比特币以外，还针对了苹果（Apple Inc.）、新型冠状病毒、美国民主党总统初选、他的死亡以及其他一些议题发表了一些独道看法。</p>
+<img src="http://p3.pstatp.com/large/pgc-image/21dc4a72024448ebb1408707b9c603dc" aline=center  />
+
+
+
+<p>以下是编辑参考 《MSN》，编撰并整理出巴菲特在访谈中的 18 个言论焦点：</p>
+<ol>
+<li><strong>回答关于柏克夏海瑟威的继任规划</strong></li>
+</ol>
+<blockquote>
+<p>就算我今晚就会离开人世，明早董事会也会十分清楚接下来该怎么做。但我还是希望他们能等到我大体冷透了再作行动。</p>
+</blockquote>
+<ol start="2">
+<li><strong>谈论企业长期远景</strong></li>
+</ol>
+<blockquote>
+<p>柏克夏海瑟威不管有没有我，在核心企业价值上基本是相同的。</p>
+</blockquote>
+<ol start="3">
+<li><strong>柏克夏海瑟威今年5月预计会召开年度股东大会，他与他的 96岁高龄合伙人查理．芒格(Charlie Munger) 会不会担心受到新型冠状病毒的影响？</strong></li>
+</ol>
+<blockquote>
+<p>个人加起来都有 185 岁了，我们了解自己的身体状况，自然不会去靠近有传染迹象的人。</p>
+</blockquote>
+<ol start="4">
+<li><strong>他与查理．芒格的谈话中提及：</strong></li>
+</ol>
+<blockquote>
+<p>查理是世界上 30 秒思维能最优秀的人……没有人比 96 岁的他更适合交谈了。</p>
+</blockquote>
+<ol start="5">
+<li><strong>评论本週新型冠状病毒引起的市场抛售恐慌。</strong></li>
+</ol>
+<blockquote>
+<p>绝对不要看每日的头条新闻来决定要不要买进或售出手上的股票。</p>
+</blockquote>
+<ol start="6">
+<li><strong>巴菲特透露自己曾跟比尔．盖茨讨论过新冠状肺炎病毒</strong></li>
+</ol>
+<blockquote>
+<p>我个人的科学顾问是比尔．盖茨。</p>
+</blockquote>
+<ol start="7">
+<li><strong>巴菲特对「品牌影响力」的看法</strong></li>
+</ol>
+<blockquote>
+<p>你给我 100 亿美元的资金预算，我来打造出新一代的可口可乐，打爆现在的可口可乐。可惜我做不到。</p>
+</blockquote>
+<ol start="8">
+<li><strong>谈到保险业者承担的风险越来越大</strong></li>
+</ol>
+<blockquote>
+<p>追求收益实在很蠢，但这就是人类的天性…最终到了午夜，你会发现一切都变回了南瓜跟老鼠。</p>
+</blockquote>
+<ol start="9">
+<li><strong>问及比特币与其他加密货币</strong></li>
+</ol>
+<blockquote>
+<p>我现在没有任何加密货币，也永远不会有。</p>
+</blockquote>
+<ol start="10">
+<li><strong>巴菲特认为比特币的价值微不足道</strong></li>
+</ol>
+<blockquote>
+<p>引入比特币就像是你把钱放进手提箱裡，因为钱在手提箱中从一个国家被运到了另一个国家 — 人们对手提箱的需求可能会降低。你可以把这当成比特币对社会的经济贡献。</p>
+</blockquote>
+<ol start="11">
+<li><strong>巴菲特表态支持前纽约市市长迈克．彭博（Mike Bloomberg）成为美国民主党总统候选人</strong></li>
+</ol>
+<blockquote>
+<p>我觉得再出一个亿万富翁公开表态支持他，对彭博来说不见得是最好。</p>
+</blockquote>
+<ol start="12">
+<li><strong>谈及是否保留美国资本主义制度</strong></li>
+</ol>
+<blockquote>
+<p>我认为我们应该让金鹅继续下蛋。</p>
+</blockquote>
+<ol start="13">
+<li><strong>谈及自己不甚认同参议员伯尼．桑德斯（Bernie Sanders）的某些看法</strong></li>
+</ol>
+<blockquote>
+<p>我很同情桑德斯竟有「很多人被抛到了后头，但这并不是他们自己的错」这种想法。</p>
+</blockquote>
+<ol start="14">
+<li><strong>那些「柏克夏海瑟威式」的企业集团，你怎么看？</strong></li>
+</ol>
+<blockquote>
+<p>在过去几年里，美国大众开始疯狂著迷于大型集团… 他们称之为「指数基金」。你买进500 家企业，整体就组成了一个终极集团，跟买入指数基金很像不是吗？</p>
+</blockquote>
+<ol start="15">
+<li><strong>谈及需要依据股东的意愿来经营柏克夏海瑟威</strong></li>
+</ol>
+<blockquote>
+<p>你不能开一家法国餐厅，却卖汉堡；也不能开一家麦当劳，却在里面卖高级法式料理吧。</p>
+</blockquote>
+<ol start="16">
+<li><strong>巴菲特怎么看苹果？（柏克夏海瑟威最大的控股公司之一）</strong></li>
+</ol>
+<blockquote>
+<p>苹果可能是我所知道的世界上最棒的企业。</p>
+</blockquote>
+<ol start="17">
+<li><strong>聊到柏克夏海瑟威的年会可能要录一段取笑他最近终于把手机升级到 iPhone 的短影片</strong></li>
+</ol>
+<blockquote>
+<p>可能会拍我用脚踩烂旧手机的「掀盖」，同时对我的新 iPhone 爱不释手的画面吧。</p>
+</blockquote>
+<ol start="18">
+<li><strong>柏克夏海瑟威股票价值的前景</strong></li>
+</ol>
+<blockquote>
+<p>我觉得在未来的 10 到 15 年内，它都不会名列表现最好的前 15% 的股票。但我也可以跟你保证，在未来很长的一段时间，柏克夏海瑟威的股票，也不会落到倒数 25% 中。</p>
+</blockquote>
+]]></content>
+      <categories>
+        <category>新冠状病毒</category>
+        <category>区块链</category>
+        <category>数字经济</category>
+        <category>数字货币</category>
+        <category>比特币</category>
+        <category>数字货币</category>
+      </categories>
+      <tags>
+        <tag>巴菲特</tag>
+        <tag>新冠状病毒</tag>
+        <tag>COVID-19</tag>
+        <tag>加密货币</tag>
+        <tag>区块链看点</tag>
       </tags>
   </entry>
   <entry>
@@ -815,8 +1041,8 @@ AI的关键重要性
         <category>加密资产</category>
       </categories>
       <tags>
-        <tag>数字经济</tag>
         <tag>区块链看点</tag>
+        <tag>数字经济</tag>
         <tag>数据</tag>
         <tag>数据经济</tag>
         <tag>数据资产</tag>
@@ -865,14 +1091,14 @@ AI的关键重要性
 <p><a href="https://imgchr.com/i/8xe1Z6" target="_blank" rel="noopener"><img src="https://s1.ax1x.com/2020/03/25/8xe1Z6.th.png" alt="8xe1Z6.th.png"></a></p>
 ]]></content>
       <categories>
-        <category>区块链</category>
         <category>国家主权货币</category>
+        <category>区块链</category>
         <category>DCEP</category>
         <category>DCEP</category>
-        <category>新兴资产</category>
         <category>区块链技术</category>
-        <category>加密资产</category>
+        <category>新兴资产</category>
         <category>数字资产</category>
+        <category>加密资产</category>
       </categories>
       <tags>
         <tag>区块链看点</tag>
@@ -881,6 +1107,86 @@ AI的关键重要性
         <tag>区块链技术</tag>
         <tag>数字资产</tag>
         <tag>加密资产</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>超级黑色星期一，美股熔断，全球暴跌20万亿，是什么造就了这只大黑天鹅？</title>
+    <url>/2020/03/usstock-circuit.html</url>
+    <content><![CDATA[<p>我们先来看看2020年3月10日，黑色星期一，全球资本市场到底发生了什么：</p>
+<h1 id="全球股市暴跌，多国触发熔断"><a href="#全球股市暴跌，多国触发熔断" class="headerlink" title="全球股市暴跌，多国触发熔断"></a>全球股市暴跌，多国触发熔断</h1><br/>
+
+<p>周一美国股市开盘暴跌7%，触发第一层熔断机制，暂停交易15分钟。加拿大股指开盘跌7%，创2008年以来最大跌幅，巴西股市也跌去了10%，触发熔断机制。巴西基准股指跌10%，触发熔断。</p>
+<blockquote>
+<p>所谓的<strong>熔断机制</strong>等级是指由于极端下跌导致交易所停止或关闭市场交易的门槛，这些等级是根据标普500指数前一天的收盘价来决定的。简单来说，就是当股市跌到一定幅度之后，市场自动停止交易一段时间，可能是几分钟，也可能是全天交易就此终止。这样做的主要目的就是，防范恐慌情绪进一步扩散，给市场带来更大的冲击。<a id="more"></a></p>
+</blockquote>
+<img src="https://s1.ax1x.com/2020/04/10/GI0fpR.png" aline=center style="zoom: 33%;" />
+
+<center><font color="acacac" size=2>美股当天周一的交易时间时刻分时图</font></center>
+
+<p><a href="https://imgchr.com/i/GI046x" target="_blank" rel="noopener"><img src="https://s1.ax1x.com/2020/04/10/GI046x.png" alt="GI046x.png" style="zoom: 33%;" /></a></p>
+<center><font color="acacac" size=2>美股熔断机制说明</font></center>
+
+<hr>
+<h1 id="全球经济市场“血雨腥风”"><a href="#全球经济市场“血雨腥风”" class="headerlink" title="全球经济市场“血雨腥风”"></a>全球经济市场“血雨腥风”</h1><br/>
+
+<p><strong>一、全球原油价格暴跌31%，为这次美股暴跌的主要凶手</strong></p>
+<p>在OPEC+谈判无果而终后，沙特阿拉伯大幅降低售往欧洲、远东和美国等市场的原油价格，折扣幅度创逾20年来最大，同时计划增加产量，甚至可能达到1200万桶/日的纪录水平。</p>
+<p>此举被视为对俄罗斯的报复行为，并意图将其他高成本生产商挤出市场，包括美国页岩气行业的部分生产商。国际能源署在上个月发布的一份报告中指出，沙特阿拉伯可能每天增加200万桶以上的石油产量，阿联酋、科威特和伊拉克可能总共每天增加大约100万桶。</p>
+<p>受此影响，全球原油价格暴跌，今日早间，布伦特原油期货大幅跳空低开25%，截至发稿，跌幅超27.93%至32.63美元/桶；而WTI原油期货跌幅扩大至29%，达到29.05美元/桶。</p>
+<p><strong>二、各类大宗商品大幅下行</strong></p>
+<p>3月9日，“大宗商品之王”：原油，出现暴跌，其大宗商品市场开盘大幅下行，能化系品种大面积跌停。据文华财经数据显示，国内商品期货市场开盘后，燃料油、原油、沥青、橡胶、塑料、PTA、乙二醇、甲醇、聚丙烯（PP）、苯乙烯（EB）等能源化工品期货品种全部跌停。此外，豆油、棉花期货主力开盘也迅速跌停。</p>
+<p><strong>三、黄金、BTC暴跌，避险工具失效</strong></p>
+<p>当前，新冠肺炎在全球肆虐，日本、韩国及美国等国家纷纷出现大规模疫情，市场恐慌指数上涨，市场避险情绪上升。然而，本周黄金价格却出现跳水，有“数字黄金”之称的BTC价格也持续下跌。</p>
+<img src="https://s1.ax1x.com/2020/04/10/GI0Rh9.png" alt="GI0Rh9.png" style="zoom:50%;" />
+
+<center><font color="acacac" size=2>资料来源：新浪财经，CoinMarketCap，通证通研究</font></center>
+
+<p>新型肺炎在全球范围蔓延，加剧市场避险情绪以及对未来经济的悲观预期。黄金作为重要避险工具，具有保值增值的特性，往往在宏观环境不确定性上升时，会受到投资者的青睐。由此来看，本次疫情来袭，黄金价格理应上涨，然而本周黄金却出现跳水行情，原因如下：</p>
+<p>首先，本次金价上涨行情的启动较早，后继乏力。从2月初开始，黄金价格就开始一路飙升，至2月21日报1640.59美元/盎司，创下了自2013年1月以来的最高记录。之后，部分投资者出于流动性和安全性等考虑，套现离场，导致市场上涨乏力，出现收益回吐。</p>
+<p>其次，全球股市暴跌也是黄金下跌的重要原因。世卫组织上调新冠肺炎疫情全球风险，市场恐慌情绪飙升，全球股市经历了黑色的一星期。股市连连暴跌，杠杆交易者需要转移资金来满足股市追加保证金的要求，黄金被用作股票市场中的流动资产进行交易，因此导致黄金市场出现抛盘行为</p>
+<p><strong>四、美元遭抛售 外汇市场现流动性紧张</strong></p>
+<p>在恐慌情绪下，欧元兑美元汇率则上涨1%至1.1408，澳币、新西兰元兑美元汇率均下跌约2%。同时，由于原油价格暴跌，导致石油出口国的货币也集体走软，俄罗斯卢比以及墨西哥比索兑美元的汇率则暴跌了约6%。加拿大元兑美元的汇率则跌至2017年以来的新低，至1.364。</p>
+<p>衡量欧元兑美元波动率的指标飙升至2017年4月以来的新高，而美元兑日元的一个月隐含波幅则激增至11年新高。</p>
+<hr>
+<h1 id="黑周一，却有今日黑红的一“趣”事"><a href="#黑周一，却有今日黑红的一“趣”事" class="headerlink" title="黑周一，却有今日黑红的一“趣”事"></a>黑周一，却有今日黑红的一“趣”事</h1><p><br/>这是今日最火的一张图：</p>
+<img src="https://s1.ax1x.com/2020/04/10/GI02tJ.png" alt="GI02tJ.png" style="zoom:50%;" />
+
+
+
+<p><strong>油价便宜过农夫山泉！</strong></p>
+<p>30美元/桶的原油是什么概念？国际原油一桶是158.98升，每升原油0.19美元，即1.3人民币。农夫山泉的价格在每升2元左右，水比油贵的日子来了。</p>
+<hr>
+<h1 id="周一“黑天鹅”的主要导火线"><a href="#周一“黑天鹅”的主要导火线" class="headerlink" title="周一“黑天鹅”的主要导火线"></a>周一“黑天鹅”的主要导火线</h1><br/>
+
+<p>此次全球风暴主要还是欧佩克和减产协议的破裂，直接导致了油价和远期曲线崩踏式的下跌，而引起的。</p>
+<p><strong>经济预期增长下降。</strong>另外，再加上疫情正在席卷在全球，大规模的扩散，从而导致各国的经济预期大幅度的下降，全球供应链受到巨大的冲击，导致各国对经济萧条的预期越来越强。</p>
+<p><strong>油价下降真凶。</strong>各国经济预期下降，欧佩克看淡经济形势，自然要对油价减产，这是要为了保住石油的价格。</p>
+<p><strong>消费不容乐观。</strong>既然经济预期看淡，消费自然就更不容乐观了，石油需求就远期减少。</p>
+<hr>
+<h1 id="美国国债收益率暴跌"><a href="#美国国债收益率暴跌" class="headerlink" title="美国国债收益率暴跌"></a>美国国债收益率暴跌</h1><img src="https://s1.ax1x.com/2020/04/10/GI0gk4.png" alt="GI0gk4.png" style="zoom:50%;" />
+
+<p><strong>全球资产的避风港</strong>——美国10年期国债收益率一路下探，于北京时间3月9日下午一度跌破0.4%关口，一度跌至0.319%，日跌幅近40%。</p>
+<p>30年期美国国债一度呈破“0.7”之势，下探至0.702%，续刷历史新低，日跌幅近30%。</p>
+<p>美联储前主席格林斯潘当日接受彭博社电话采访时表示，30年期美债收益率可能变为负值，加入全球逾14万亿美元负收益率债券的行列。</p>
+<p>格林斯潘称：“收益率可以低到什么程度实际上没有限制，即使到零也非底线。负收益率是可能的。”</p>
+<hr>
+<h1 id="真正的避风港到底在哪里"><a href="#真正的避风港到底在哪里" class="headerlink" title="真正的避风港到底在哪里"></a>真正的避风港到底在哪里</h1><p><br/>A股？黄金？国债？全球投资者都在找的避险资产到底在哪里？</p>
+<p>目前，疫情在中国得到控制，海外则受到疫情的影响，美元指数从此前接近100的高位跌至目前的95附近，两周跌幅近5%，而人民币则连涨两周。截至北京时间3月9日收盘，美元/人民币报约6.95，人民币对美元小幅走贬100点，早盘一度到6.93。</p>
+<p>摩根士丹利日前将中国股票由中性调升为<strong>增持</strong>，建议买入中国股票作为此次全球疫情爆发后的对冲资产。国际资管巨头景顺资产近日发表研报，建议买入中国股票以及在中国有大量收入敞口的全球股票。</p>
+<p>国盛证券策略团队发表研报预测称，短期内海外投资者聚焦中国疫情防控的卓有成效及逆周期调节的持续加码，A股有望成为全球资金避险港。</p>
+<p>长城证券认为，人民币资产有望成为全球资产的避难场所：在此次疫情的全球扩散过程中，我国的体制优势和对疫情的快速、有效控制有目共睹，我国的证券市场在全球普跌大背景下显示出了非常明显的价值韧性。当前全球疫情呈现扩散态势，我国疫情则反过来呈现明显的收敛态势，人民币资产有望成为全球资产的避难场所。</p>
+<p><img src="https://s1.ax1x.com/2020/04/10/GI0h11.png" alt="GI0h11.png"></p>
+]]></content>
+      <categories>
+        <category>新冠状病毒</category>
+        <category>数字经济</category>
+      </categories>
+      <tags>
+        <tag>新冠状病毒</tag>
+        <tag>COVID-19</tag>
+        <tag>区块链看点</tag>
+        <tag>全球经济</tag>
+        <tag>熔断</tag>
       </tags>
   </entry>
   <entry>
@@ -1016,20 +1322,20 @@ AI的关键重要性
 <p><a href="https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzIwNTI5MDIwMg==#wechat_redirect" target="_blank" rel="noopener"><img src="https://s1.ax1x.com/2020/03/25/8xe1Z6.png" alt="8xe1Z6.png"></a></p>
 ]]></content>
       <categories>
-        <category>区块链</category>
         <category>新冠状病毒</category>
-        <category>区块链金融</category>
+        <category>区块链</category>
         <category>数字经济</category>
+        <category>区块链金融</category>
         <category>区块链应用</category>
       </categories>
       <tags>
-        <tag>区块链</tag>
         <tag>新冠状病毒</tag>
         <tag>COVID-19</tag>
+        <tag>区块链看点</tag>
+        <tag>区块链</tag>
         <tag>数字经济</tag>
         <tag>区块链金融</tag>
         <tag>区块链应用</tag>
-        <tag>区块链看点</tag>
       </tags>
   </entry>
   <entry>
@@ -1109,13 +1415,13 @@ AI的关键重要性
       <categories>
         <category>区块链</category>
         <category>数字经济</category>
-        <category>加密经济</category>
         <category>数字货币</category>
+        <category>加密经济</category>
         <category>稳定币</category>
       </categories>
       <tags>
-        <tag>数字经济</tag>
         <tag>区块链看点</tag>
+        <tag>数字经济</tag>
         <tag>加密经济</tag>
       </tags>
   </entry>
