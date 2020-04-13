@@ -85,11 +85,11 @@
     
       <category term="区块链金融" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E5%8C%BA%E5%9D%97%E9%93%BE%E9%87%91%E8%9E%8D/"/>
     
+      <category term="数据" scheme="https://www.chengwf.com/categories/%E6%95%B0%E6%8D%AE/"/>
+    
       <category term="数字银行" scheme="https://www.chengwf.com/categories/%E6%95%B0%E5%AD%97%E7%BB%8F%E6%B5%8E/%E6%95%B0%E5%AD%97%E9%93%B6%E8%A1%8C/"/>
     
       <category term="数字银行" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E5%8C%BA%E5%9D%97%E9%93%BE%E9%87%91%E8%9E%8D/%E6%95%B0%E5%AD%97%E9%93%B6%E8%A1%8C/"/>
-    
-      <category term="数据" scheme="https://www.chengwf.com/categories/%E6%95%B0%E6%8D%AE/"/>
     
       <category term="大数据" scheme="https://www.chengwf.com/categories/%E6%95%B0%E6%8D%AE/%E5%A4%A7%E6%95%B0%E6%8D%AE/"/>
     
@@ -229,11 +229,11 @@
     
       <category term="区块链" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/"/>
     
-      <category term="区块链技术" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E5%8C%BA%E5%9D%97%E9%93%BE%E6%8A%80%E6%9C%AF/"/>
-    
       <category term="人工智能（AI）" scheme="https://www.chengwf.com/categories/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%EF%BC%88AI%EF%BC%89/"/>
     
       <category term="AI芯片" scheme="https://www.chengwf.com/categories/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%EF%BC%88AI%EF%BC%89/AI%E8%8A%AF%E7%89%87/"/>
+    
+      <category term="区块链技术" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E5%8C%BA%E5%9D%97%E9%93%BE%E6%8A%80%E6%9C%AF/"/>
     
     
       <category term="区块链看点" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE%E7%9C%8B%E7%82%B9/"/>
@@ -335,32 +335,32 @@
     </summary>
     
     
-      <category term="国家主权货币" scheme="https://www.chengwf.com/categories/%E5%9B%BD%E5%AE%B6%E4%B8%BB%E6%9D%83%E8%B4%A7%E5%B8%81/"/>
-    
       <category term="区块链" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/"/>
+    
+      <category term="国家主权货币" scheme="https://www.chengwf.com/categories/%E5%9B%BD%E5%AE%B6%E4%B8%BB%E6%9D%83%E8%B4%A7%E5%B8%81/"/>
     
       <category term="数字经济" scheme="https://www.chengwf.com/categories/%E6%95%B0%E5%AD%97%E7%BB%8F%E6%B5%8E/"/>
     
-      <category term="DCEP" scheme="https://www.chengwf.com/categories/%E5%9B%BD%E5%AE%B6%E4%B8%BB%E6%9D%83%E8%B4%A7%E5%B8%81/DCEP/"/>
-    
       <category term="区块链金融" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E5%8C%BA%E5%9D%97%E9%93%BE%E9%87%91%E8%9E%8D/"/>
     
-      <category term="DCEP" scheme="https://www.chengwf.com/categories/DCEP/"/>
+      <category term="DCEP" scheme="https://www.chengwf.com/categories/%E5%9B%BD%E5%AE%B6%E4%B8%BB%E6%9D%83%E8%B4%A7%E5%B8%81/DCEP/"/>
     
       <category term="数字银行" scheme="https://www.chengwf.com/categories/%E6%95%B0%E5%AD%97%E7%BB%8F%E6%B5%8E/%E6%95%B0%E5%AD%97%E9%93%B6%E8%A1%8C/"/>
+    
+      <category term="DCEP" scheme="https://www.chengwf.com/categories/DCEP/"/>
     
       <category term="数字银行" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E5%8C%BA%E5%9D%97%E9%93%BE%E9%87%91%E8%9E%8D/%E6%95%B0%E5%AD%97%E9%93%B6%E8%A1%8C/"/>
     
     
       <category term="区块链看点" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE%E7%9C%8B%E7%82%B9/"/>
     
-      <category term="DCEP" scheme="https://www.chengwf.com/tags/DCEP/"/>
-    
       <category term="区块链" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE/"/>
     
       <category term="数字经济" scheme="https://www.chengwf.com/tags/%E6%95%B0%E5%AD%97%E7%BB%8F%E6%B5%8E/"/>
     
       <category term="区块链金融" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE%E9%87%91%E8%9E%8D/"/>
+    
+      <category term="DCEP" scheme="https://www.chengwf.com/tags/DCEP/"/>
     
       <category term="数字银行" scheme="https://www.chengwf.com/tags/%E6%95%B0%E5%AD%97%E9%93%B6%E8%A1%8C/"/>
     
@@ -423,13 +423,13 @@
     </summary>
     
     
-      <category term="新兴资产" scheme="https://www.chengwf.com/categories/%E6%96%B0%E5%85%B4%E8%B5%84%E4%BA%A7/"/>
-    
       <category term="数据" scheme="https://www.chengwf.com/categories/%E6%95%B0%E6%8D%AE/"/>
     
-      <category term="加密资产" scheme="https://www.chengwf.com/categories/%E6%96%B0%E5%85%B4%E8%B5%84%E4%BA%A7/%E5%8A%A0%E5%AF%86%E8%B5%84%E4%BA%A7/"/>
-    
       <category term="数据资产" scheme="https://www.chengwf.com/categories/%E6%95%B0%E6%8D%AE/%E6%95%B0%E6%8D%AE%E8%B5%84%E4%BA%A7/"/>
+    
+      <category term="新兴资产" scheme="https://www.chengwf.com/categories/%E6%96%B0%E5%85%B4%E8%B5%84%E4%BA%A7/"/>
+    
+      <category term="加密资产" scheme="https://www.chengwf.com/categories/%E6%96%B0%E5%85%B4%E8%B5%84%E4%BA%A7/%E5%8A%A0%E5%AF%86%E8%B5%84%E4%BA%A7/"/>
     
     
       <category term="区块链看点" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE%E7%9C%8B%E7%82%B9/"/>
@@ -460,9 +460,9 @@
     </summary>
     
     
-      <category term="国家主权货币" scheme="https://www.chengwf.com/categories/%E5%9B%BD%E5%AE%B6%E4%B8%BB%E6%9D%83%E8%B4%A7%E5%B8%81/"/>
-    
       <category term="区块链" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/"/>
+    
+      <category term="国家主权货币" scheme="https://www.chengwf.com/categories/%E5%9B%BD%E5%AE%B6%E4%B8%BB%E6%9D%83%E8%B4%A7%E5%B8%81/"/>
     
       <category term="DCEP" scheme="https://www.chengwf.com/categories/%E5%9B%BD%E5%AE%B6%E4%B8%BB%E6%9D%83%E8%B4%A7%E5%B8%81/DCEP/"/>
     
@@ -470,11 +470,11 @@
     
       <category term="新兴资产" scheme="https://www.chengwf.com/categories/%E6%96%B0%E5%85%B4%E8%B5%84%E4%BA%A7/"/>
     
-      <category term="数字资产" scheme="https://www.chengwf.com/categories/%E6%96%B0%E5%85%B4%E8%B5%84%E4%BA%A7/%E6%95%B0%E5%AD%97%E8%B5%84%E4%BA%A7/"/>
+      <category term="区块链技术" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E5%8C%BA%E5%9D%97%E9%93%BE%E6%8A%80%E6%9C%AF/"/>
     
       <category term="加密资产" scheme="https://www.chengwf.com/categories/%E6%96%B0%E5%85%B4%E8%B5%84%E4%BA%A7/%E5%8A%A0%E5%AF%86%E8%B5%84%E4%BA%A7/"/>
     
-      <category term="区块链技术" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E5%8C%BA%E5%9D%97%E9%93%BE%E6%8A%80%E6%9C%AF/"/>
+      <category term="数字资产" scheme="https://www.chengwf.com/categories/%E6%96%B0%E5%85%B4%E8%B5%84%E4%BA%A7/%E6%95%B0%E5%AD%97%E8%B5%84%E4%BA%A7/"/>
     
     
       <category term="区块链看点" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE%E7%9C%8B%E7%82%B9/"/>
