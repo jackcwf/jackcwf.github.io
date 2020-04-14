@@ -62,9 +62,9 @@
       <categories>
         <category>区块链</category>
         <category>数字货币</category>
+        <category>数字货币</category>
         <category>加密货币交易平台</category>
         <category>矿池</category>
-        <category>数字货币</category>
       </categories>
       <tags>
         <tag>加密货币</tag>
@@ -189,8 +189,8 @@
 ]]></content>
       <categories>
         <category>新冠状病毒</category>
-        <category>区块链</category>
         <category>数字经济</category>
+        <category>区块链</category>
         <category>区块链金融</category>
         <category>数据</category>
         <category>数字银行</category>
@@ -240,85 +240,6 @@
       <tags>
         <tag>区块链看点</tag>
         <tag>区块链</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>IPFS实现去中心化应用程序实践（1）</title>
-    <url>/2020/03/ipfs-1-index.html</url>
-    <content><![CDATA[<h2 id="目录"><a href="#目录" class="headerlink" title="目录"></a>目录</h2><ol>
-<li><p><strong>IPFS简介</strong></p>
-</li>
-<li><p><strong><a href="/2020/03/ipfs-2-install.html" title="IPFS本地环境安装">IPFS本地环境安装</a></strong></p>
-<p> 2.1 <a href="/2020/03/ipfs-2-install.html" title="下载ipfs压缩包">下载ipfs压缩包</a></p>
-<p> 2.2 <a href="/2020/03/ipfs-2-install.html" title="IPFS Desktop 安装">IPFS Desktop 安装</a></p>
-<p> 2.3 <a href="/2020/03/ipfs-2-install.html" title="IPFS 的安装包下载">IPFS 的安装包下载</a></p>
-</li>
-<li><p>项目配置 </p>
-<ul>
-<li>3.1 创建ipfs节点</li>
-<li>3.2 修改节点默认存储空间</li>
-<li>3.3 查看节点id</li>
-<li>3.4 启动节点服务器</li>
-<li>3.5 跨域资源共享CORS配置</li>
-<li>3.6 验证</li>
-</ul>
-</li>
-<li><p><strong>IPFS简介</strong></p>
-</li>
-</ol>
-<p><strong>IPFS（InterPlanetary File System）</strong>是一个点对点的分布式超媒体分发协议，它整合了过去几年最好的分布式系统思路，为所有人提供全球统一的可寻址空间，包括Git、自证明文件系统SFS、BitTorrent和DHT，同时也被认为是最有可能取代HTTP的新一代互联网协议。</p>
-<p>IPFS用基于内容的寻址替代传统的基于域名的寻址，用户不需要关心服务器的位置，不用考虑文件存储的名字和路径。我们将一个文件放到IPFS节点中，将会得到基于其内容计算出的唯一加密哈希值。哈希值直接反映文件的内容，哪怕只修改1比特，哈希值也会完全不同。当IPFS被请求一个文件哈希时，它会使用一个分布式哈希表找到文件所在的节点，取回文件并验证文件数据。</p>
-<p>IPFS是通用目的的基础架构，基本没有存储上的限制。大文件会被切分成小的分块，下载的时候可以从多个服务器同时获取。IPFS的网络是不固定的、细粒度的、分布式的网络，可以很好的适应内容分发网络的要求。这样的设计可以很好的共享各类数据，包括图像、视频流、分布式数据库、整个操作系统、模块链、8英寸软盘的备份，还有静态网站。</p>
-<p><strong>协议实现：</strong><br> Go、JavaScript、Python<br>** 客户端库：**Go、Java、JavaScript、Python、Scala、Haskell、Swift、CommonLisp、Rust、Ruby、Swift、PHP、C#</p>
-<p><strong>IPFS</strong>提供了一个友好的<strong>WEB</strong>访问接口，用户可通过<a href="http://ipfs.io/hash" target="_blank" rel="noopener">http://ipfs.io/hash</a></p>
-<p>获取IPFS网络中的内容，也许在不久的将来，IPFS协议将会彻底替代传统的HTTP协议。</p>
-]]></content>
-      <categories>
-        <category>区块链</category>
-        <category>数字货币</category>
-        <category>IPFS</category>
-        <category>IPFS安装</category>
-        <category>IPFS</category>
-      </categories>
-      <tags>
-        <tag>区块链</tag>
-        <tag>IPFS</tag>
-        <tag>IPFS安装</tag>
-        <tag>数字货币</tag>
-        <tag>用IPFS搭建个人免服务器独立博客</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>IPFS的下载和安装（2）</title>
-    <url>/2020/03/ipfs-2-install.html</url>
-    <content><![CDATA[<p>返回—<a href="/2020/03/ipfs-1-index.html"《IPFS实现去中心化应用程序实践》主目录"">《IPFS实现去中心化应用程序实践》主目录</a></p>
-<p><strong>2、IPFS本地环境安装</strong></p>
-<p>2.1 下载ipfs压缩包</p>
-<p>—  进入IPFS.io官网，点击“<strong>Get started</strong>”<br><img src="https://s1.ax1x.com/2020/03/30/Gn6Z6O.jpg" alt="Gn6Z6O.jpg"></p>
-<p>—  页面会下拉，然后点击“<strong>install IPFS Desktop</strong>”<br><img src="https://s1.ax1x.com/2020/03/30/Gn6V1K.jpg" alt="Gn6V1K.jpg"></p>
-<p>—  然后会跳转到IPFS在<strong>Github</strong>上所在的安装程序托管代码空间，或者你可以手动在地址栏输入：<a href="https://github.com/ipfs-shipyard/ipfs-desktop。" target="_blank" rel="noopener">https://github.com/ipfs-shipyard/ipfs-desktop。</a><br><img src="https://s1.ax1x.com/2020/03/30/Gn6eXD.jpg" alt="Gn6eXD.jpg"></p>
-<p>—  到该页下面找到：<a href="https://github.com/ipfs-shipyard/ipfs-desktop/releases/download/v0.10.4/IPFS-Desktop-Setup-0.10.4.exe" target="_blank" rel="noopener" title=" IPFS-Desktop-Setup-0.10.4.exe"> IPFS-Desktop-Setup-0.10.4.exe</a>，根据你所在的系统环境下载所属的安装包，即可进入下载进度。<br><img src="https://s1.ax1x.com/2020/03/30/Gn6Ep6.jpg" alt="Gn6Ep6.jpg"></p>
-<p>2.2 “IPFS desktop” 安装</p>
-<p>—  进行安装<br><img src="https://s1.ax1x.com/2020/03/30/Gn6kfx.jpg" alt="Gn6kfx.jpg"></p>
-<p>2.3  IPFS的安装包下载</p>
-<p>—  官网首页找到“<strong>install IPFS</strong>”,点击”<strong>Command line</strong>“<br><img src="https://s1.ax1x.com/2020/03/30/GnXMQS.jpg" alt="GnXMQS.jpg"></p>
-<p>—  进到”install IPFS”页面，找到“ <a href="https://dist.ipfs.io/#go-ipfs" target="_blank" rel="noopener" title="download IPFS for your platform">download IPFS for your platform</a>”点击即进入下载该安装包<br><img src="https://s1.ax1x.com/2020/03/30/GnXuz8.jpg" alt="GnXuz8.jpg"></p>
-<p>—  下载后，解压缩安装包，为ipfs的安装程序：<strong>go-ipfs</strong><br><img src="https://s1.ax1x.com/2020/03/30/GnXmJP.jpg" alt="GnXmJP.jpg"></p>
-<p>到此步，需要用到的安装步骤已完成，后面就是配置和应用部分。</p>
-]]></content>
-      <categories>
-        <category>区块链</category>
-        <category>数字货币</category>
-        <category>IPFS</category>
-        <category>IPFS安装</category>
-        <category>IPFS</category>
-      </categories>
-      <tags>
-        <tag>区块链</tag>
-        <tag>IPFS</tag>
-        <tag>IPFS安装</tag>
-        <tag>数字货币</tag>
-        <tag>用IPFS搭建个人免服务器独立博客</tag>
       </tags>
   </entry>
   <entry>
@@ -385,6 +306,24 @@
         <tag>数据</tag>
         <tag>人工智能（AI）</tag>
         <tag>AI芯片</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>一个自我进化的知识解密引擎库</title>
+    <url>/2020/03/inevo/inevo-principle.html</url>
+    <content><![CDATA[<p><strong>一个能自我进化、智能完善的知识引擎库：</strong></p>
+<p><abbr title="Hyper Text Markup Language">IN-EVOLUTIO</abbr>，简称：<abbr title="World Wide Web Consortium">Inevo</abbr></p>
+<hr>
+<p><strong>Inevo是什么</strong></p>
+<blockquote>
+<p> Inevo是Jack.Chan在全球首个提出的信息检索、智能抽取、真实对照的引擎库系统，利用区块链和AI的特性，适应人脑神经网络运算机制和思维体系逻辑，通过建立独立而可供接入编程API的数据库索引中纽神经库，进而为人类智能提供可解析、可检索、可溯源的知识体系还原成果系统。</p>
+</blockquote>
+<a id="more"></a>]]></content>
+      <categories>
+        <category>解密引擎</category>
+      </categories>
+      <tags>
+        <tag>解密引擎</tag>
       </tags>
   </entry>
   <entry>
@@ -763,24 +702,6 @@
       </tags>
   </entry>
   <entry>
-    <title>一个自我进化的知识解密引擎库</title>
-    <url>/2020/03/inevo/inevo-principle.html</url>
-    <content><![CDATA[<p><strong>一个能自我进化、智能完善的知识引擎库：</strong></p>
-<p><abbr title="Hyper Text Markup Language">IN-EVOLUTIO</abbr>，简称：<abbr title="World Wide Web Consortium">Inevo</abbr></p>
-<hr>
-<p><strong>Inevo是什么</strong></p>
-<blockquote>
-<p> Inevo是Jack.Chan在全球首个提出的信息检索、智能抽取、真实对照的引擎库系统，利用区块链和AI的特性，适应人脑神经网络运算机制和思维体系逻辑，通过建立独立而可供接入编程API的数据库索引中纽神经库，进而为人类智能提供可解析、可检索、可溯源的知识体系还原成果系统。</p>
-</blockquote>
-<a id="more"></a>]]></content>
-      <categories>
-        <category>解密引擎</category>
-      </categories>
-      <tags>
-        <tag>解密引擎</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>数字经济替代传统经济，现在起你的生活将离不开数字银行</title>
     <url>/2020/03/without-digit-bank.html</url>
     <content><![CDATA[<h1 id="数字经济替代传统经济，你的生活将离不开数字银行"><a href="#数字经济替代传统经济，你的生活将离不开数字银行" class="headerlink" title="数字经济替代传统经济，你的生活将离不开数字银行"></a>数字经济替代传统经济，你的生活将离不开数字银行</h1><p>2019年12月10日至12月12日，中央经济工作会议举行，会议提出2020年六大重点工作，第五项为着力推动高质量发展，其中明确提出要大力发展数字经济。</p>
@@ -890,9 +811,9 @@
 </ul>
 ]]></content>
       <categories>
+        <category>数字经济</category>
         <category>区块链</category>
         <category>国家主权货币</category>
-        <category>数字经济</category>
         <category>区块链金融</category>
         <category>DCEP</category>
         <category>数字银行</category>
@@ -902,9 +823,9 @@
       <tags>
         <tag>区块链看点</tag>
         <tag>区块链</tag>
+        <tag>DCEP</tag>
         <tag>数字经济</tag>
         <tag>区块链金融</tag>
-        <tag>DCEP</tag>
         <tag>数字银行</tag>
       </tags>
   </entry>
@@ -1034,8 +955,8 @@
 ]]></content>
       <categories>
         <category>新冠状病毒</category>
-        <category>区块链</category>
         <category>数字经济</category>
+        <category>区块链</category>
         <category>数字货币</category>
         <category>比特币</category>
         <category>数字货币</category>
@@ -1195,8 +1116,8 @@ AI的关键重要性
         <category>DCEP</category>
         <category>新兴资产</category>
         <category>区块链技术</category>
-        <category>加密资产</category>
         <category>数字资产</category>
+        <category>加密资产</category>
       </categories>
       <tags>
         <tag>区块链看点</tag>
@@ -1421,8 +1342,8 @@ AI的关键重要性
 ]]></content>
       <categories>
         <category>新冠状病毒</category>
-        <category>区块链</category>
         <category>数字经济</category>
+        <category>区块链</category>
         <category>区块链金融</category>
         <category>区块链应用</category>
       </categories>
@@ -1431,9 +1352,9 @@ AI的关键重要性
         <tag>COVID-19</tag>
         <tag>区块链看点</tag>
         <tag>区块链</tag>
+        <tag>区块链应用</tag>
         <tag>数字经济</tag>
         <tag>区块链金融</tag>
-        <tag>区块链应用</tag>
       </tags>
   </entry>
   <entry>
@@ -1511,8 +1432,8 @@ AI的关键重要性
 </blockquote>
 ]]></content>
       <categories>
-        <category>区块链</category>
         <category>数字经济</category>
+        <category>区块链</category>
         <category>数字货币</category>
         <category>加密经济</category>
         <category>稳定币</category>
@@ -1595,6 +1516,48 @@ AI的关键重要性
       </tags>
   </entry>
   <entry>
+    <title>IPFS实现去中心化应用程序实践</title>
+    <url>/2019/06/ipfs-1-index.html</url>
+    <content><![CDATA[<h1 id="1、IPFS简介"><a href="#1、IPFS简介" class="headerlink" title="1、IPFS简介"></a><strong>1、IPFS简介</strong></h1><p><br/><strong>IPFS（InterPlanetary File System）</strong>是一个点对点的分布式超媒体分发协议，它整合了过去几年最好的分布式系统思路，为所有人提供全球统一的可寻址空间，包括Git、自证明文件系统SFS、BitTorrent和DHT，同时也被认为是最有可能取代HTTP的新一代互联网协议。</p>
+<p>IPFS用基于内容的寻址替代传统的基于域名的寻址，用户不需要关心服务器的位置，不用考虑文件存储的名字和路径。我们将一个文件放到IPFS节点中，将会得到基于其内容计算出的唯一加密哈希值。哈希值直接反映文件的内容，哪怕只修改1比特，哈希值也会完全不同。当IPFS被请求一个文件哈希时，它会使用一个分布式哈希表找到文件所在的节点，取回文件并验证文件数据。</p>
+<p>IPFS是通用目的的基础架构，基本没有存储上的限制。大文件会被切分成小的分块，下载的时候可以从多个服务器同时获取。IPFS的网络是不固定的、细粒度的、分布式的网络，可以很好的适应内容分发网络的要求。这样的设计可以很好的共享各类数据，包括图像、视频流、分布式数据库、整个操作系统、模块链、8英寸软盘的备份，还有静态网站。</p>
+<br/>
+
+<p><strong>协议实现：</strong><br> Go、JavaScript、Python</p>
+<p><strong>客户端库：</strong></p>
+<p>Go、Java、JavaScript、Python、Scala、Haskell、Swift、CommonLisp、Rust、Ruby、Swift、PHP、C#</p>
+<p><strong>IPFS</strong>提供了一个友好的<strong>WEB</strong>访问接口，用户可通过<a href="http://ipfs.io/hash" target="_blank" rel="noopener">http://ipfs.io/hash</a></p>
+<p>获取IPFS网络中的内容，也许在不久的将来，IPFS协议将会彻底替代传统的HTTP协议。</p>
+<hr>
+<h1 id="2、IPFS本地环境安装"><a href="#2、IPFS本地环境安装" class="headerlink" title="2、IPFS本地环境安装"></a>2、IPFS本地环境安装</h1><h2 id="2-1-下载ipfs压缩包"><a href="#2-1-下载ipfs压缩包" class="headerlink" title="2.1 下载ipfs压缩包"></a>2.1 下载ipfs压缩包</h2><p>—  进入IPFS.io官网，点击“<strong>Get started</strong>”</p>
+<p><img src="https://s1.ax1x.com/2020/03/30/Gn6Z6O.jpg" alt="Gn6Z6O.jpg"></p>
+<p>—  页面会下拉，然后点击“<strong>install IPFS Desktop</strong>”<br><img src="https://s1.ax1x.com/2020/03/30/Gn6V1K.jpg" alt="Gn6V1K.jpg"></p>
+<p>—  然后会跳转到IPFS在<strong>Github</strong>上所在的安装程序托管代码空间，或者你可以手动在地址栏输入：<a href="https://github.com/ipfs-shipyard/ipfs-desktop。" target="_blank" rel="noopener">https://github.com/ipfs-shipyard/ipfs-desktop。</a><br><img src="https://s1.ax1x.com/2020/03/30/Gn6eXD.jpg" alt="Gn6eXD.jpg"></p>
+<p>—  到该页下面找到：<a href="https://github.com/ipfs-shipyard/ipfs-desktop/releases/download/v0.10.4/IPFS-Desktop-Setup-0.10.4.exe" target="_blank" rel="noopener" title=" IPFS-Desktop-Setup-0.10.4.exe"> IPFS-Desktop-Setup-0.10.4.exe</a>，根据你所在的系统环境下载所属的安装包，即可进入下载进度。<br><img src="https://s1.ax1x.com/2020/03/30/Gn6Ep6.jpg" alt="Gn6Ep6.jpg"></p>
+<h2 id="2-2-“IPFS-desktop”-安装"><a href="#2-2-“IPFS-desktop”-安装" class="headerlink" title="2.2 “IPFS desktop” 安装"></a>2.2 “IPFS desktop” 安装</h2><br/>
+
+<p>—  进行安装</p>
+<p><img src="https://s1.ax1x.com/2020/03/30/Gn6kfx.jpg" alt="Gn6kfx.jpg"></p>
+<h2 id="2-3-IPFS的安装包下载"><a href="#2-3-IPFS的安装包下载" class="headerlink" title="2.3  IPFS的安装包下载"></a>2.3  IPFS的安装包下载</h2><p><br/>—  官网首页找到“<strong>install IPFS</strong>”,点击”<strong>Command line</strong>“<br><img src="https://s1.ax1x.com/2020/03/30/GnXMQS.jpg" alt="GnXMQS.jpg"></p>
+<p>—  进到”install IPFS”页面，找到“ <a href="https://dist.ipfs.io/#go-ipfs" target="_blank" rel="noopener" title="download IPFS for your platform">download IPFS for your platform</a>”点击即进入下载该安装包<br><img src="https://s1.ax1x.com/2020/03/30/GnXuz8.jpg" alt="GnXuz8.jpg"></p>
+<p>—  下载后，解压缩安装包，为ipfs的安装程序：<strong>go-ipfs</strong><br><img src="https://s1.ax1x.com/2020/03/30/GnXmJP.jpg" alt="GnXmJP.jpg"></p>
+<p>到此步，需要用到的安装步骤已完成，后面就是配置和应用部分。</p>
+<hr>
+<h1 id="3、项目配置"><a href="#3、项目配置" class="headerlink" title="3、项目配置"></a>3、项目配置</h1><h2 id="3-1-创建ipfs节点"><a href="#3-1-创建ipfs节点" class="headerlink" title="3.1 创建ipfs节点"></a>3.1 创建ipfs节点</h2><h2 id="3-2-修改节点默认存储空间"><a href="#3-2-修改节点默认存储空间" class="headerlink" title="3.2 修改节点默认存储空间"></a>3.2 修改节点默认存储空间</h2><h2 id="3-3-查看节点id"><a href="#3-3-查看节点id" class="headerlink" title="3.3 查看节点id"></a>3.3 查看节点id</h2><h2 id="3-4-启动节点服务器"><a href="#3-4-启动节点服务器" class="headerlink" title="3.4 启动节点服务器"></a>3.4 启动节点服务器</h2><h2 id="3-5-跨域资源共享CORS配置"><a href="#3-5-跨域资源共享CORS配置" class="headerlink" title="3.5 跨域资源共享CORS配置"></a>3.5 跨域资源共享CORS配置</h2><h2 id="3-6-验证"><a href="#3-6-验证" class="headerlink" title="3.6 验证"></a>3.6 验证</h2>]]></content>
+      <categories>
+        <category>区块链</category>
+        <category>数字货币</category>
+        <category>区块链应用</category>
+        <category>IPFS</category>
+      </categories>
+      <tags>
+        <tag>区块链</tag>
+        <tag>区块链应用</tag>
+        <tag>IPFS</tag>
+        <tag>数字货币</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>基于共享停车位的车位区块链项目</title>
     <url>/2018/07/parkeco.html</url>
     <content><![CDATA[<div id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
@@ -1614,6 +1577,21 @@ AI的关键重要性
         <tag>共享经济</tag>
         <tag>人工智能</tag>
         <tag>共享停车</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>区块链应用</title>
+    <url>/2018/01/blockchain-application-index.html</url>
+    <content><![CDATA[<p><a href="https://www.chengwf.com/2020/03/ipfs-1-index.html"><img src="https://s1.ax1x.com/2020/04/14/JpAUGn.md.jpg" alt="IPFS实现去中心化应用程序实践" style="zoom: 67%;" /></a></p>
+<center><font color="acacac" size=4><a href="https://www.chengwf.com/2020/03/ipfs-1-index.html">IPFS实现去中心化应用程序实践</a></font></center>
+
+]]></content>
+      <categories>
+        <category>区块链应用</category>
+      </categories>
+      <tags>
+        <tag>区块链</tag>
+        <tag>区块链应用</tag>
       </tags>
   </entry>
 </search>

@@ -36,11 +36,11 @@
     
       <category term="数字货币" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/"/>
     
+      <category term="数字货币" scheme="https://www.chengwf.com/categories/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/"/>
+    
       <category term="加密货币交易平台" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/%E5%8A%A0%E5%AF%86%E8%B4%A7%E5%B8%81%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0/"/>
     
       <category term="矿池" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/%E7%9F%BF%E6%B1%A0/"/>
-    
-      <category term="数字货币" scheme="https://www.chengwf.com/categories/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/"/>
     
     
       <category term="加密货币" scheme="https://www.chengwf.com/tags/%E5%8A%A0%E5%AF%86%E8%B4%A7%E5%B8%81/"/>
@@ -79,9 +79,9 @@
     
       <category term="新冠状病毒" scheme="https://www.chengwf.com/categories/%E6%96%B0%E5%86%A0%E7%8A%B6%E7%97%85%E6%AF%92/"/>
     
-      <category term="区块链" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/"/>
-    
       <category term="数字经济" scheme="https://www.chengwf.com/categories/%E6%95%B0%E5%AD%97%E7%BB%8F%E6%B5%8E/"/>
+    
+      <category term="区块链" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/"/>
     
       <category term="区块链金融" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E5%8C%BA%E5%9D%97%E9%93%BE%E9%87%91%E8%9E%8D/"/>
     
@@ -134,84 +134,6 @@
   </entry>
   
   <entry>
-    <title>IPFS实现去中心化应用程序实践（1）</title>
-    <link href="https://www.chengwf.com/2020/03/ipfs-1-index.html"/>
-    <id>https://www.chengwf.com/2020/03/ipfs-1-index.html</id>
-    <published>2020-03-29T16:00:00.000Z</published>
-    <updated>2020-04-08T18:42:15.608Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="目录"><a href="#目录" class="headerlink" title="目录"></a>目录</h2><ol><li><p><strong>IPFS简介</strong></p></li><li><p><strong><a href="/2020/03/ipfs-2-install.html" title="IPFS本地环境安装">IPFS本地环境安装</a></strong></p><p> 2.1 <a href="/2020/03/ipfs-2-install.html" title="下载ipfs压缩包">下载ipfs压缩包</a></p><p> 2.2 <a href="/2020/03/ipfs-2-install.html" title="IPFS Desktop 安装">IPFS Desktop 安装</a></p><p> 2.3 <a href="/2020/03/ipfs-2-install.html" title="IPFS 的安装包下载">IPFS 的安装包下载</a></p></li><li><p>项目配置 </p><ul><li>3.1 创建ipfs节点</li><li>3.2 修改节点默认存储空间</li><li>3.3 查看节点id</li><li>3.4 启动节点服务器</li><li>3.5 跨域资源共享CORS配置</li><li>3.6 验证</li></ul></li><li><p><strong>IPFS简介</strong></p></li></ol><p><strong>IPFS（InterPlanetary File System）</strong>是一个点对点的分布式超媒体分发协议，它整合了过去几年最好的分布式系统思路，为所有人提供全球统一的可寻址空间，包括Git、自证明文件系统SFS、BitTorrent和DHT，同时也被认为是最有可能取代HTTP的新一代互联网协议。</p><p>IPFS用基于内容的寻址替代传统的基于域名的寻址，用户不需要关心服务器的位置，不用考虑文件存储的名字和路径。我们将一个文件放到IPFS节点中，将会得到基于其内容计算出的唯一加密哈希值。哈希值直接反映文件的内容，哪怕只修改1比特，哈希值也会完全不同。当IPFS被请求一个文件哈希时，它会使用一个分布式哈希表找到文件所在的节点，取回文件并验证文件数据。</p><p>IPFS是通用目的的基础架构，基本没有存储上的限制。大文件会被切分成小的分块，下载的时候可以从多个服务器同时获取。IPFS的网络是不固定的、细粒度的、分布式的网络，可以很好的适应内容分发网络的要求。这样的设计可以很好的共享各类数据，包括图像、视频流、分布式数据库、整个操作系统、模块链、8英寸软盘的备份，还有静态网站。</p><p><strong>协议实现：</strong><br> Go、JavaScript、Python<br>** 客户端库：**Go、Java、JavaScript、Python、Scala、Haskell、Swift、CommonLisp、Rust、Ruby、Swift、PHP、C#</p><p><strong>IPFS</strong>提供了一个友好的<strong>WEB</strong>访问接口，用户可通过<a href="http://ipfs.io/hash" target="_blank" rel="noopener">http://ipfs.io/hash</a></p><p>获取IPFS网络中的内容，也许在不久的将来，IPFS协议将会彻底替代传统的HTTP协议。</p>]]></content>
-    
-    <summary type="html">
-    
-      IPFS的配置安装，以Window桌面版0.10.4为例
-    
-    </summary>
-    
-    
-      <category term="区块链" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/"/>
-    
-      <category term="数字货币" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/"/>
-    
-      <category term="IPFS" scheme="https://www.chengwf.com/categories/IPFS/"/>
-    
-      <category term="IPFS安装" scheme="https://www.chengwf.com/categories/IPFS/IPFS%E5%AE%89%E8%A3%85/"/>
-    
-      <category term="IPFS" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/IPFS/"/>
-    
-    
-      <category term="区块链" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE/"/>
-    
-      <category term="IPFS" scheme="https://www.chengwf.com/tags/IPFS/"/>
-    
-      <category term="IPFS安装" scheme="https://www.chengwf.com/tags/IPFS%E5%AE%89%E8%A3%85/"/>
-    
-      <category term="数字货币" scheme="https://www.chengwf.com/tags/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/"/>
-    
-      <category term="用IPFS搭建个人免服务器独立博客" scheme="https://www.chengwf.com/tags/%E7%94%A8IPFS%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%85%8D%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%8B%AC%E7%AB%8B%E5%8D%9A%E5%AE%A2/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>IPFS的下载和安装（2）</title>
-    <link href="https://www.chengwf.com/2020/03/ipfs-2-install.html"/>
-    <id>https://www.chengwf.com/2020/03/ipfs-2-install.html</id>
-    <published>2020-03-29T16:00:00.000Z</published>
-    <updated>2020-03-31T18:28:04.357Z</updated>
-    
-    <content type="html"><![CDATA[<p>返回—<a href="/2020/03/ipfs-1-index.html"《IPFS实现去中心化应用程序实践》主目录"">《IPFS实现去中心化应用程序实践》主目录</a></p><p><strong>2、IPFS本地环境安装</strong></p><p>2.1 下载ipfs压缩包</p><p>—  进入IPFS.io官网，点击“<strong>Get started</strong>”<br><img src="https://s1.ax1x.com/2020/03/30/Gn6Z6O.jpg" alt="Gn6Z6O.jpg"></p><p>—  页面会下拉，然后点击“<strong>install IPFS Desktop</strong>”<br><img src="https://s1.ax1x.com/2020/03/30/Gn6V1K.jpg" alt="Gn6V1K.jpg"></p><p>—  然后会跳转到IPFS在<strong>Github</strong>上所在的安装程序托管代码空间，或者你可以手动在地址栏输入：<a href="https://github.com/ipfs-shipyard/ipfs-desktop。" target="_blank" rel="noopener">https://github.com/ipfs-shipyard/ipfs-desktop。</a><br><img src="https://s1.ax1x.com/2020/03/30/Gn6eXD.jpg" alt="Gn6eXD.jpg"></p><p>—  到该页下面找到：<a href="https://github.com/ipfs-shipyard/ipfs-desktop/releases/download/v0.10.4/IPFS-Desktop-Setup-0.10.4.exe" target="_blank" rel="noopener" title=" IPFS-Desktop-Setup-0.10.4.exe"> IPFS-Desktop-Setup-0.10.4.exe</a>，根据你所在的系统环境下载所属的安装包，即可进入下载进度。<br><img src="https://s1.ax1x.com/2020/03/30/Gn6Ep6.jpg" alt="Gn6Ep6.jpg"></p><p>2.2 “IPFS desktop” 安装</p><p>—  进行安装<br><img src="https://s1.ax1x.com/2020/03/30/Gn6kfx.jpg" alt="Gn6kfx.jpg"></p><p>2.3  IPFS的安装包下载</p><p>—  官网首页找到“<strong>install IPFS</strong>”,点击”<strong>Command line</strong>“<br><img src="https://s1.ax1x.com/2020/03/30/GnXMQS.jpg" alt="GnXMQS.jpg"></p><p>—  进到”install IPFS”页面，找到“ <a href="https://dist.ipfs.io/#go-ipfs" target="_blank" rel="noopener" title="download IPFS for your platform">download IPFS for your platform</a>”点击即进入下载该安装包<br><img src="https://s1.ax1x.com/2020/03/30/GnXuz8.jpg" alt="GnXuz8.jpg"></p><p>—  下载后，解压缩安装包，为ipfs的安装程序：<strong>go-ipfs</strong><br><img src="https://s1.ax1x.com/2020/03/30/GnXmJP.jpg" alt="GnXmJP.jpg"></p><p>到此步，需要用到的安装步骤已完成，后面就是配置和应用部分。</p>]]></content>
-    
-    <summary type="html">
-    
-      IPFS的配置安装，以Window桌面版0.10.4安装为例
-    
-    </summary>
-    
-    
-      <category term="区块链" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/"/>
-    
-      <category term="数字货币" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/"/>
-    
-      <category term="IPFS" scheme="https://www.chengwf.com/categories/IPFS/"/>
-    
-      <category term="IPFS安装" scheme="https://www.chengwf.com/categories/IPFS/IPFS%E5%AE%89%E8%A3%85/"/>
-    
-      <category term="IPFS" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/IPFS/"/>
-    
-    
-      <category term="区块链" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE/"/>
-    
-      <category term="IPFS" scheme="https://www.chengwf.com/tags/IPFS/"/>
-    
-      <category term="IPFS安装" scheme="https://www.chengwf.com/tags/IPFS%E5%AE%89%E8%A3%85/"/>
-    
-      <category term="数字货币" scheme="https://www.chengwf.com/tags/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/"/>
-    
-      <category term="用IPFS搭建个人免服务器独立博客" scheme="https://www.chengwf.com/tags/%E7%94%A8IPFS%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%85%8D%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%8B%AC%E7%AB%8B%E5%8D%9A%E5%AE%A2/"/>
-    
-  </entry>
-  
-  <entry>
     <title>谷歌已利用AI芯片大大提高芯片设计周期，AI芯片和产业的突破点及趋势在哪？</title>
     <link href="https://www.chengwf.com/2020/03/google-ai-chip.html"/>
     <id>https://www.chengwf.com/2020/03/google-ai-chip.html</id>
@@ -245,6 +167,35 @@
       <category term="人工智能（AI）" scheme="https://www.chengwf.com/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%EF%BC%88AI%EF%BC%89/"/>
     
       <category term="AI芯片" scheme="https://www.chengwf.com/tags/AI%E8%8A%AF%E7%89%87/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>一个自我进化的知识解密引擎库</title>
+    <link href="https://www.chengwf.com/2020/03/inevo/inevo-principle.html"/>
+    <id>https://www.chengwf.com/2020/03/inevo/inevo-principle.html</id>
+    <published>2020-03-19T16:00:00.000Z</published>
+    <updated>2020-04-07T13:45:45.127Z</updated>
+    
+    <content type="html"><![CDATA[<p><strong>一个能自我进化、智能完善的知识引擎库：</strong></p><p><abbr title="Hyper Text Markup Language">IN-EVOLUTIO</abbr>，简称：<abbr title="World Wide Web Consortium">Inevo</abbr></p><hr><p><strong>Inevo是什么</strong></p><blockquote><p> Inevo是Jack.Chan在全球首个提出的信息检索、智能抽取、真实对照的引擎库系统，利用区块链和AI的特性，适应人脑神经网络运算机制和思维体系逻辑，通过建立独立而可供接入编程API的数据库索引中纽神经库，进而为人类智能提供可解析、可检索、可溯源的知识体系还原成果系统。</p></blockquote><a id="more"></a>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;strong&gt;一个能自我进化、智能完善的知识引擎库：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;abbr title=&quot;Hyper Text Markup Language&quot;&gt;IN-EVOLUTIO&lt;/abbr&gt;，简称：&lt;abbr title=&quot;World Wide Web Consortium&quot;&gt;Inevo&lt;/abbr&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Inevo是什么&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt; Inevo是Jack.Chan在全球首个提出的信息检索、智能抽取、真实对照的引擎库系统，利用区块链和AI的特性，适应人脑神经网络运算机制和思维体系逻辑，通过建立独立而可供接入编程API的数据库索引中纽神经库，进而为人类智能提供可解析、可检索、可溯源的知识体系还原成果系统。&lt;/p&gt;
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+    
+      <category term="解密引擎" scheme="https://www.chengwf.com/categories/%E8%A7%A3%E5%AF%86%E5%BC%95%E6%93%8E/"/>
+    
+    
+      <category term="解密引擎" scheme="https://www.chengwf.com/tags/%E8%A7%A3%E5%AF%86%E5%BC%95%E6%93%8E/"/>
     
   </entry>
   
@@ -291,35 +242,6 @@
   </entry>
   
   <entry>
-    <title>一个自我进化的知识解密引擎库</title>
-    <link href="https://www.chengwf.com/2020/03/inevo/inevo-principle.html"/>
-    <id>https://www.chengwf.com/2020/03/inevo/inevo-principle.html</id>
-    <published>2020-03-19T16:00:00.000Z</published>
-    <updated>2020-04-07T13:45:45.127Z</updated>
-    
-    <content type="html"><![CDATA[<p><strong>一个能自我进化、智能完善的知识引擎库：</strong></p><p><abbr title="Hyper Text Markup Language">IN-EVOLUTIO</abbr>，简称：<abbr title="World Wide Web Consortium">Inevo</abbr></p><hr><p><strong>Inevo是什么</strong></p><blockquote><p> Inevo是Jack.Chan在全球首个提出的信息检索、智能抽取、真实对照的引擎库系统，利用区块链和AI的特性，适应人脑神经网络运算机制和思维体系逻辑，通过建立独立而可供接入编程API的数据库索引中纽神经库，进而为人类智能提供可解析、可检索、可溯源的知识体系还原成果系统。</p></blockquote><a id="more"></a>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;strong&gt;一个能自我进化、智能完善的知识引擎库：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;abbr title=&quot;Hyper Text Markup Language&quot;&gt;IN-EVOLUTIO&lt;/abbr&gt;，简称：&lt;abbr title=&quot;World Wide Web Consortium&quot;&gt;Inevo&lt;/abbr&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;Inevo是什么&lt;/strong&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt; Inevo是Jack.Chan在全球首个提出的信息检索、智能抽取、真实对照的引擎库系统，利用区块链和AI的特性，适应人脑神经网络运算机制和思维体系逻辑，通过建立独立而可供接入编程API的数据库索引中纽神经库，进而为人类智能提供可解析、可检索、可溯源的知识体系还原成果系统。&lt;/p&gt;
-&lt;/blockquote&gt;
-    
-    </summary>
-    
-    
-      <category term="解密引擎" scheme="https://www.chengwf.com/categories/%E8%A7%A3%E5%AF%86%E5%BC%95%E6%93%8E/"/>
-    
-    
-      <category term="解密引擎" scheme="https://www.chengwf.com/tags/%E8%A7%A3%E5%AF%86%E5%BC%95%E6%93%8E/"/>
-    
-  </entry>
-  
-  <entry>
     <title>数字经济替代传统经济，现在起你的生活将离不开数字银行</title>
     <link href="https://www.chengwf.com/2020/03/without-digit-bank.html"/>
     <id>https://www.chengwf.com/2020/03/without-digit-bank.html</id>
@@ -335,11 +257,11 @@
     </summary>
     
     
+      <category term="数字经济" scheme="https://www.chengwf.com/categories/%E6%95%B0%E5%AD%97%E7%BB%8F%E6%B5%8E/"/>
+    
       <category term="区块链" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/"/>
     
       <category term="国家主权货币" scheme="https://www.chengwf.com/categories/%E5%9B%BD%E5%AE%B6%E4%B8%BB%E6%9D%83%E8%B4%A7%E5%B8%81/"/>
-    
-      <category term="数字经济" scheme="https://www.chengwf.com/categories/%E6%95%B0%E5%AD%97%E7%BB%8F%E6%B5%8E/"/>
     
       <category term="区块链金融" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E5%8C%BA%E5%9D%97%E9%93%BE%E9%87%91%E8%9E%8D/"/>
     
@@ -356,11 +278,11 @@
     
       <category term="区块链" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE/"/>
     
+      <category term="DCEP" scheme="https://www.chengwf.com/tags/DCEP/"/>
+    
       <category term="数字经济" scheme="https://www.chengwf.com/tags/%E6%95%B0%E5%AD%97%E7%BB%8F%E6%B5%8E/"/>
     
       <category term="区块链金融" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE%E9%87%91%E8%9E%8D/"/>
-    
-      <category term="DCEP" scheme="https://www.chengwf.com/tags/DCEP/"/>
     
       <category term="数字银行" scheme="https://www.chengwf.com/tags/%E6%95%B0%E5%AD%97%E9%93%B6%E8%A1%8C/"/>
     
@@ -384,9 +306,9 @@
     
       <category term="新冠状病毒" scheme="https://www.chengwf.com/categories/%E6%96%B0%E5%86%A0%E7%8A%B6%E7%97%85%E6%AF%92/"/>
     
-      <category term="区块链" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/"/>
-    
       <category term="数字经济" scheme="https://www.chengwf.com/categories/%E6%95%B0%E5%AD%97%E7%BB%8F%E6%B5%8E/"/>
+    
+      <category term="区块链" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/"/>
     
       <category term="数字货币" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/"/>
     
@@ -472,9 +394,9 @@
     
       <category term="区块链技术" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E5%8C%BA%E5%9D%97%E9%93%BE%E6%8A%80%E6%9C%AF/"/>
     
-      <category term="加密资产" scheme="https://www.chengwf.com/categories/%E6%96%B0%E5%85%B4%E8%B5%84%E4%BA%A7/%E5%8A%A0%E5%AF%86%E8%B5%84%E4%BA%A7/"/>
-    
       <category term="数字资产" scheme="https://www.chengwf.com/categories/%E6%96%B0%E5%85%B4%E8%B5%84%E4%BA%A7/%E6%95%B0%E5%AD%97%E8%B5%84%E4%BA%A7/"/>
+    
+      <category term="加密资产" scheme="https://www.chengwf.com/categories/%E6%96%B0%E5%85%B4%E8%B5%84%E4%BA%A7/%E5%8A%A0%E5%AF%86%E8%B5%84%E4%BA%A7/"/>
     
     
       <category term="区块链看点" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE%E7%9C%8B%E7%82%B9/"/>
@@ -577,9 +499,9 @@
     
       <category term="新冠状病毒" scheme="https://www.chengwf.com/categories/%E6%96%B0%E5%86%A0%E7%8A%B6%E7%97%85%E6%AF%92/"/>
     
-      <category term="区块链" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/"/>
-    
       <category term="数字经济" scheme="https://www.chengwf.com/categories/%E6%95%B0%E5%AD%97%E7%BB%8F%E6%B5%8E/"/>
+    
+      <category term="区块链" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/"/>
     
       <category term="区块链金融" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E5%8C%BA%E5%9D%97%E9%93%BE%E9%87%91%E8%9E%8D/"/>
     
@@ -594,11 +516,11 @@
     
       <category term="区块链" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE/"/>
     
+      <category term="区块链应用" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE%E5%BA%94%E7%94%A8/"/>
+    
       <category term="数字经济" scheme="https://www.chengwf.com/tags/%E6%95%B0%E5%AD%97%E7%BB%8F%E6%B5%8E/"/>
     
       <category term="区块链金融" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE%E9%87%91%E8%9E%8D/"/>
-    
-      <category term="区块链应用" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE%E5%BA%94%E7%94%A8/"/>
     
   </entry>
   
@@ -618,9 +540,9 @@
     </summary>
     
     
-      <category term="区块链" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/"/>
-    
       <category term="数字经济" scheme="https://www.chengwf.com/categories/%E6%95%B0%E5%AD%97%E7%BB%8F%E6%B5%8E/"/>
+    
+      <category term="区块链" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/"/>
     
       <category term="数字货币" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/"/>
     
@@ -669,6 +591,41 @@
   </entry>
   
   <entry>
+    <title>IPFS实现去中心化应用程序实践</title>
+    <link href="https://www.chengwf.com/2019/06/ipfs-1-index.html"/>
+    <id>https://www.chengwf.com/2019/06/ipfs-1-index.html</id>
+    <published>2019-06-29T16:00:00.000Z</published>
+    <updated>2020-04-14T13:36:42.522Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="1、IPFS简介"><a href="#1、IPFS简介" class="headerlink" title="1、IPFS简介"></a><strong>1、IPFS简介</strong></h1><p><br/><strong>IPFS（InterPlanetary File System）</strong>是一个点对点的分布式超媒体分发协议，它整合了过去几年最好的分布式系统思路，为所有人提供全球统一的可寻址空间，包括Git、自证明文件系统SFS、BitTorrent和DHT，同时也被认为是最有可能取代HTTP的新一代互联网协议。</p><p>IPFS用基于内容的寻址替代传统的基于域名的寻址，用户不需要关心服务器的位置，不用考虑文件存储的名字和路径。我们将一个文件放到IPFS节点中，将会得到基于其内容计算出的唯一加密哈希值。哈希值直接反映文件的内容，哪怕只修改1比特，哈希值也会完全不同。当IPFS被请求一个文件哈希时，它会使用一个分布式哈希表找到文件所在的节点，取回文件并验证文件数据。</p><p>IPFS是通用目的的基础架构，基本没有存储上的限制。大文件会被切分成小的分块，下载的时候可以从多个服务器同时获取。IPFS的网络是不固定的、细粒度的、分布式的网络，可以很好的适应内容分发网络的要求。这样的设计可以很好的共享各类数据，包括图像、视频流、分布式数据库、整个操作系统、模块链、8英寸软盘的备份，还有静态网站。</p><br/><p><strong>协议实现：</strong><br> Go、JavaScript、Python</p><p><strong>客户端库：</strong></p><p>Go、Java、JavaScript、Python、Scala、Haskell、Swift、CommonLisp、Rust、Ruby、Swift、PHP、C#</p><p><strong>IPFS</strong>提供了一个友好的<strong>WEB</strong>访问接口，用户可通过<a href="http://ipfs.io/hash" target="_blank" rel="noopener">http://ipfs.io/hash</a></p><p>获取IPFS网络中的内容，也许在不久的将来，IPFS协议将会彻底替代传统的HTTP协议。</p><hr><h1 id="2、IPFS本地环境安装"><a href="#2、IPFS本地环境安装" class="headerlink" title="2、IPFS本地环境安装"></a>2、IPFS本地环境安装</h1><h2 id="2-1-下载ipfs压缩包"><a href="#2-1-下载ipfs压缩包" class="headerlink" title="2.1 下载ipfs压缩包"></a>2.1 下载ipfs压缩包</h2><p>—  进入IPFS.io官网，点击“<strong>Get started</strong>”</p><p><img src="https://s1.ax1x.com/2020/03/30/Gn6Z6O.jpg" alt="Gn6Z6O.jpg"></p><p>—  页面会下拉，然后点击“<strong>install IPFS Desktop</strong>”<br><img src="https://s1.ax1x.com/2020/03/30/Gn6V1K.jpg" alt="Gn6V1K.jpg"></p><p>—  然后会跳转到IPFS在<strong>Github</strong>上所在的安装程序托管代码空间，或者你可以手动在地址栏输入：<a href="https://github.com/ipfs-shipyard/ipfs-desktop。" target="_blank" rel="noopener">https://github.com/ipfs-shipyard/ipfs-desktop。</a><br><img src="https://s1.ax1x.com/2020/03/30/Gn6eXD.jpg" alt="Gn6eXD.jpg"></p><p>—  到该页下面找到：<a href="https://github.com/ipfs-shipyard/ipfs-desktop/releases/download/v0.10.4/IPFS-Desktop-Setup-0.10.4.exe" target="_blank" rel="noopener" title=" IPFS-Desktop-Setup-0.10.4.exe"> IPFS-Desktop-Setup-0.10.4.exe</a>，根据你所在的系统环境下载所属的安装包，即可进入下载进度。<br><img src="https://s1.ax1x.com/2020/03/30/Gn6Ep6.jpg" alt="Gn6Ep6.jpg"></p><h2 id="2-2-“IPFS-desktop”-安装"><a href="#2-2-“IPFS-desktop”-安装" class="headerlink" title="2.2 “IPFS desktop” 安装"></a>2.2 “IPFS desktop” 安装</h2><br/><p>—  进行安装</p><p><img src="https://s1.ax1x.com/2020/03/30/Gn6kfx.jpg" alt="Gn6kfx.jpg"></p><h2 id="2-3-IPFS的安装包下载"><a href="#2-3-IPFS的安装包下载" class="headerlink" title="2.3  IPFS的安装包下载"></a>2.3  IPFS的安装包下载</h2><p><br/>—  官网首页找到“<strong>install IPFS</strong>”,点击”<strong>Command line</strong>“<br><img src="https://s1.ax1x.com/2020/03/30/GnXMQS.jpg" alt="GnXMQS.jpg"></p><p>—  进到”install IPFS”页面，找到“ <a href="https://dist.ipfs.io/#go-ipfs" target="_blank" rel="noopener" title="download IPFS for your platform">download IPFS for your platform</a>”点击即进入下载该安装包<br><img src="https://s1.ax1x.com/2020/03/30/GnXuz8.jpg" alt="GnXuz8.jpg"></p><p>—  下载后，解压缩安装包，为ipfs的安装程序：<strong>go-ipfs</strong><br><img src="https://s1.ax1x.com/2020/03/30/GnXmJP.jpg" alt="GnXmJP.jpg"></p><p>到此步，需要用到的安装步骤已完成，后面就是配置和应用部分。</p><hr><h1 id="3、项目配置"><a href="#3、项目配置" class="headerlink" title="3、项目配置"></a>3、项目配置</h1><h2 id="3-1-创建ipfs节点"><a href="#3-1-创建ipfs节点" class="headerlink" title="3.1 创建ipfs节点"></a>3.1 创建ipfs节点</h2><h2 id="3-2-修改节点默认存储空间"><a href="#3-2-修改节点默认存储空间" class="headerlink" title="3.2 修改节点默认存储空间"></a>3.2 修改节点默认存储空间</h2><h2 id="3-3-查看节点id"><a href="#3-3-查看节点id" class="headerlink" title="3.3 查看节点id"></a>3.3 查看节点id</h2><h2 id="3-4-启动节点服务器"><a href="#3-4-启动节点服务器" class="headerlink" title="3.4 启动节点服务器"></a>3.4 启动节点服务器</h2><h2 id="3-5-跨域资源共享CORS配置"><a href="#3-5-跨域资源共享CORS配置" class="headerlink" title="3.5 跨域资源共享CORS配置"></a>3.5 跨域资源共享CORS配置</h2><h2 id="3-6-验证"><a href="#3-6-验证" class="headerlink" title="3.6 验证"></a>3.6 验证</h2>]]></content>
+    
+    <summary type="html">
+    
+      IPFS的配置安装，以Window桌面版0.10.4为例
+    
+    </summary>
+    
+    
+      <category term="区块链" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/"/>
+    
+      <category term="数字货币" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/"/>
+    
+      <category term="区块链应用" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E5%8C%BA%E5%9D%97%E9%93%BE%E5%BA%94%E7%94%A8/"/>
+    
+      <category term="IPFS" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/IPFS/"/>
+    
+    
+      <category term="区块链" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE/"/>
+    
+      <category term="区块链应用" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE%E5%BA%94%E7%94%A8/"/>
+    
+      <category term="IPFS" scheme="https://www.chengwf.com/tags/IPFS/"/>
+    
+      <category term="数字货币" scheme="https://www.chengwf.com/tags/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/"/>
+    
+  </entry>
+  
+  <entry>
     <title>基于共享停车位的车位区块链项目</title>
     <link href="https://www.chengwf.com/2018/07/parkeco.html"/>
     <id>https://www.chengwf.com/2018/07/parkeco.html</id>
@@ -694,6 +651,31 @@
       <category term="人工智能" scheme="https://www.chengwf.com/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/"/>
     
       <category term="共享停车" scheme="https://www.chengwf.com/tags/%E5%85%B1%E4%BA%AB%E5%81%9C%E8%BD%A6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>区块链应用</title>
+    <link href="https://www.chengwf.com/2018/01/blockchain-application-index.html"/>
+    <id>https://www.chengwf.com/2018/01/blockchain-application-index.html</id>
+    <published>2017-12-31T16:00:00.000Z</published>
+    <updated>2020-04-14T13:39:05.260Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="https://www.chengwf.com/2020/03/ipfs-1-index.html"><img src="https://s1.ax1x.com/2020/04/14/JpAUGn.md.jpg" alt="IPFS实现去中心化应用程序实践" style="zoom: 67%;" /></a></p><center><font color="acacac" size=4><a href="https://www.chengwf.com/2020/03/ipfs-1-index.html">IPFS实现去中心化应用程序实践</a></font></center>]]></content>
+    
+    <summary type="html">
+    
+      IPFS的应用
+    
+    </summary>
+    
+    
+      <category term="区块链应用" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE%E5%BA%94%E7%94%A8/"/>
+    
+    
+      <category term="区块链" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE/"/>
+    
+      <category term="区块链应用" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE%E5%BA%94%E7%94%A8/"/>
     
   </entry>
   
