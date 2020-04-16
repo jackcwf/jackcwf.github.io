@@ -17,6 +17,8 @@
 <img src="https://s1.ax1x.com/2020/04/16/JkhADx.png" alt="JkhADx.png" style="zoom: 33%;" />
 
 <hr>
+<a id="more"></a>
+
 <h1 id="DCEP是什么"><a href="#DCEP是什么" class="headerlink" title="DCEP是什么"></a>DCEP是什么</h1><br/>
 
 <p><strong>DCEP</strong> 本质上就是一种数字支付工具。<strong>DCEP</strong> 全称是 Digital Currency Electronic Payment，DC 指的是数字货币，EP 指的电子支付，即数字货币和电子支付工具。其功能属性与纸钞完全一样，只不过是数字化形态。</p>
@@ -29,7 +31,9 @@
 
 <blockquote>
 <p>的确如此，但从以上图可以看出商业银行的非现金支付和第三方互联网支付，走的是商业银行存款货币结算，属于M1和M2级别的数字化不具有M0级别法律效力，更不可能取代M0。</p>
-<a id="more"></a>
+</blockquote>
+<blockquote>
+<p>央行数字货币研究所：DC/EP参考了《金融分布式账本技术安全规范》<sup><a href="[https://xcja073-my.sharepoint.com/personal/cwf_gov_com_sb/Documents/%E9%87%91%E8%9E%8D%E5%88%86%E5%B8%83%E5%BC%8F%E8%B4%A6%E6%9C%AC%E6%8A%80%E6%9C%AF%E5%AE%89%E5%85%A8%E8%A7%84%E8%8C%83+-+JR'T+0184-2020.pdf](https://xcja073-my.sharepoint.com/personal/cwf_gov_com_sb/Documents/金融分布式账本技术安全规范+-+JR'T+0184-2020.pdf)">[4]</a></sup>有关要求。 </p>
 </blockquote>
 <hr>
 <h1 id="DCEP的基础信息"><a href="#DCEP的基础信息" class="headerlink" title="DCEP的基础信息"></a>DCEP的基础信息</h1><br/>
@@ -176,7 +180,8 @@
 <td>提现手续费</td>
 </tr>
 </tbody></table>
-<h1 id="认识DCEP对于币圈的四大误区"><a href="#认识DCEP对于币圈的四大误区" class="headerlink" title="认识DCEP对于币圈的四大误区"></a><strong>认识DCEP对于币圈的四大误区</strong></h1><br/>
+<hr>
+<h1 id="认识DCEP，对于币圈层面的四大误区"><a href="#认识DCEP，对于币圈层面的四大误区" class="headerlink" title="认识DCEP，对于币圈层面的四大误区"></a><strong>认识DCEP，对于币圈层面的四大误区</strong></h1><br/>
 
 <ul>
 <li><p><strong>误区一：DCEP是和BTC是属性相似</strong></p>
@@ -207,6 +212,18 @@
 <p>央行数字货币进入试点阶段，说明问世已不远矣。和币圈没关系，但会促进中国数字经济的发展，区块链应用落地的发展。</p>
 </li>
 </ul>
+<hr>
+<h1 id="农行、中行相继传出DCEP内测数字钱包"><a href="#农行、中行相继传出DCEP内测数字钱包" class="headerlink" title="农行、中行相继传出DCEP内测数字钱包"></a><strong>农行、中行相继传出DCEP内测数字钱包</strong></h1><br/>
+
+<p>2020年4月14日晚，一张DCEP的个人钱包APP截图在网上盛传，该截图显示，兑换数字货币的付款账户选择为农业银行；农业银行或已开始对央行数字货币DCEP进行内部测试。</p>
+<img src="https://s1.ax1x.com/2020/04/16/JAlzj0.jpg" alt="JAlzj0.jpg" style="zoom:50%;" />
+
+<center><font color="acacac" size=2>上图为农业银行对央行数字货币DCEP内部测试界面</font></center>
+
+<img src="https://s1.ax1x.com/2020/04/16/JA1nu6.jpg" alt="JA1nu6.jpg" style="zoom:50%;" />
+
+<center><font color="acacac" size=2>上图为中国银行对央行数字货币DCEP内部测试界面</font></center>
+
 <h1 id="参考文献"><a href="#参考文献" class="headerlink" title="参考文献"></a>参考文献</h1><br/>
 
 <blockquote>
@@ -214,6 +231,7 @@
 <p><a href="https://www.imf.org/zh/News/Articles/2018/11/13/sp111418-winds-of-change-the-case-for-new-digital-currency" target="_blank" rel="noopener">[1] IMF总裁 克里斯蒂娜 • 拉加德 变《革之风：发行新型数字货币的理由》</a></p>
 <p><a href="https://bbs.wence.cn/thread-108940-1-1.html" target="_blank" rel="noopener">[2] 广发证券关于DCEP的运行机制</a></p>
 <p><a href="https://learnblockchain.cn/2019/11/06/DCEP-research" target="_blank" rel="noopener">[3] 对央行数字货币(DCEP)的技术研究报告</a></p>
+<p><a href="[https://xcja073-my.sharepoint.com/personal/cwf_gov_com_sb/Documents/%E9%87%91%E8%9E%8D%E5%88%86%E5%B8%83%E5%BC%8F%E8%B4%A6%E6%9C%AC%E6%8A%80%E6%9C%AF%E5%AE%89%E5%85%A8%E8%A7%84%E8%8C%83+-+JR'T+0184-2020.pdf](https://xcja073-my.sharepoint.com/personal/cwf_gov_com_sb/Documents/金融分布式账本技术安全规范+-+JR'T+0184-2020.pdf)">[4] 中华人民共和国金融行业标准《金融分布式账本技术安全规范》</a></p>
 </blockquote>
 ]]></content>
       <categories>
@@ -226,6 +244,7 @@
       <tags>
         <tag>DCEP</tag>
         <tag>中国数字货币</tag>
+        <tag>国家主权数字货币</tag>
       </tags>
   </entry>
   <entry>
