@@ -1,6 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>2020年每个区块链工程师都应该要了解的10件事</title>
+    <url>/2020/04/2020-blockchain-10thing.html</url>
+    <content><![CDATA[<p><img src="https://s1.ax1x.com/2020/04/25/Jr2jnP.png" alt="Jr2jnP.png"></p>
+<p>区块链不再仅仅是比特币（BT）或加密货币的主干网。不仅如此。利用区块链包含的各种计算机技术、密码学原理、数学知识等方面，每项技术在各个行业中的应用范围得到广泛创新。尽管该技术存在局限性和挑战性，但在2018年至2019年期间，对区块链工程师的需求仍增长了500％以上。许多工程师都希望跳上区块链这波国家支持下的热潮流。如果他们了解行业的这十个方面，则区块链工程师可以抢先一步或保持与时俱进。就算不能了解全部，但是对于区块链工程师来说，知道的越多就越好。<a id="more"></a></p>
+<h2 id="区块链互操作性（interoperability）"><a href="#区块链互操作性（interoperability）" class="headerlink" title="区块链互操作性（interoperability）"></a>区块链互操作性（interoperability）</h2><p>区块链互操作性是指独立的区块链相互访问，查看和共享信息的能力。但是，当前每个区块链项目或平台都是相对独立而隔离开的。每个区块链项目独立存在的原因，可能是因为这个行业竞争过多激烈的缘故。业内一些专家认为，如果区块链整体网络出现互操作性或互通性，将导致整个行业的出现一片新的成功繁荣景象。举个很好的例子是：可以与其他移动支付应用程序互操作的支付平台（如PayPal），中间建立一座桥梁，例如在比特币和以太（ETH）之间建立桥梁。让我们想象一个不可能从Yahoo服务器向Google Gmail服务器发送电子邮件的世界。</p>
+<h2 id="DeFi"><a href="#DeFi" class="headerlink" title="DeFi"></a>DeFi</h2><p>DeFi是Decentralized finance的简称，中文译称：去中心化金融，通常称为DeFi或开放式金融，是指在公共区块链上提供金融服务，例如贷款，借款，保险，储蓄，贷款，交易等。与传统金融服务相比，DeFi具有更多优势。根据分析网站“<strong>Defipulse</strong>”的数据，到2020年2月，锁定在DeFi中的总价值超过12亿美元。去中心化金融正在增长，并且有可能通过未来新一代智能手机（AI与云结合的智能设备）触及每个人。</p>
+<h2 id="DAML"><a href="#DAML" class="headerlink" title="DAML"></a>DAML</h2><p>随着区块链技术的不断发展，对改进的区块链系统的需求也在增长。数字资产建模语言（DAML）是一种智能合约语言，可让区块链工程师为各种区块链准确地编写多方协议。DAML现在是开源的，预计将在2020年部署改进的开发人员体验，并提供前端支持和分类帐模型改进。</p>
+<h2 id="BssS"><a href="#BssS" class="headerlink" title="BssS"></a>BssS</h2><p>区块链即服务（BaaS）是一种托管的区块链模型，允许工程师在分布式网络上构建区块链应用程序和其他数字服务。在此模型中，行业提供了基础架构和区块链构建工具。BaaS模型提供了可审核的交易记录，用于监视应用程序开发的中间件，模块化和预配置的网络和基础架构以及平台体系结构管理。</p>
+<h2 id="加密劫持"><a href="#加密劫持" class="headerlink" title="加密劫持"></a>加密劫持</h2><p>加密劫持（也称为恶意加密挖矿）是一种新兴的在线威胁，涉及在受害者设备上恶意挖矿加密货币。尽管尚未充分探索加密挖掘的潜力，但加密劫持实例已显着增加。最好通过网络监视解决方案来检测和防止加密劫持，因为端点解决方案不容易检测到威胁。大多数企业和组织都有网络监视工具。</p>
+<h2 id="闪电网络"><a href="#闪电网络" class="headerlink" title="闪电网络"></a>闪电网络</h2><p>引入了闪电网络— 一种用于即时小额支付的第二层技术 —作为解决区块链可扩展性问题的解决方案。但是，它正面临着自己的麻烦。一份名为“闪电网络：通往比特币经济集中化的第二条道路”<a href="https://xcja073-my.sharepoint.com/personal/cwf_gov_com_sb/Documents/Lighting-Network.pdf" target="_blank" rel="noopener">(1)</a>的研究论文得出结论，该网络由于集中化程度提高而具有安全漏洞。区块链工程师正在努力消除这一漏洞。</p>
+<blockquote>
+<p>闪电网络白皮书：“Lightning Network: A Second Path Towards Centralisation of the Bitcoin Economy”<a href="https://xcja073-my.sharepoint.com/personal/cwf_gov_com_sb/Documents/Lighting-Network.pdf" target="_blank" rel="noopener">(1)</a></p>
+</blockquote>
+<h2 id="联邦区块链"><a href="#联邦区块链" class="headerlink" title="联邦区块链"></a>联邦区块链</h2><p>区块链是许多组织的福祉，也是处理高度敏感信息的组织的祸根。联邦区块链的突破为这些组织带来了缓解。联邦区块链是私有且经许可的区块链，其中实体通过投票或事先批准成为网络的成员。2020年是联邦区块链的一年，每个工程师都应该为这一壮举做好准备。</p>
+<h2 id="基于区块链的供应链"><a href="#基于区块链的供应链" class="headerlink" title="基于区块链的供应链"></a>基于区块链的供应链</h2><p>供应链对于许多组织至关重要。区块链提高了可追溯性，减少了假冒商品，提高了透明度，并重新定义了供应链中的可贸易性。分布式分类帐技术记录关键产品信息，例如制造产品中的原产地，使用的原材料等。消费者可以使用此信息来验证产品的真实性。预计在未来十年中，区块链将使供应链更加完善。</p>
+<h2 id="可转移的技能"><a href="#可转移的技能" class="headerlink" title="可转移的技能"></a>可转移的技能</h2><p>区块链建立在其他技术之上。这个新生的空间要求工程师具有软件开发，加密，编程，Web应用程序和数据分析等方面的技能。没有一项技能足以使工程师比其他人具有优势。每天都需要将新概念引入该领域，因此非常需要在多个领域结合技能。</p>
+<p>例如近几年最流行的Python语言，结合Goland，是否可以开发出更具有人工智能和数据分析的区块链网络。</p>
+<h2 id="物联网"><a href="#物联网" class="headerlink" title="物联网"></a>物联网</h2><p>物联网（IoT）行业在最近的几年中已经起飞。Gartner的研究估计，到2020年，物联网设备的数量将超过200亿。物联网将物、人、传感器和产品链接在一起，其中数据是其中的共同点。尽管这令人很兴奋，但必须指出，有许多安全漏洞可以利用。区块链可用于在IoT系统中认证和传输数据，而无需第三方。</p>
+<h2 id="不断发展的行业需要灵活的工程师"><a href="#不断发展的行业需要灵活的工程师" class="headerlink" title="不断发展的行业需要灵活的工程师"></a>不断发展的行业需要灵活的工程师</h2><p>区块链的覆盖范围尚不完整。有些人将这项技术称为“寻找钉子的锤子”。许多加密货币初创公司因使用区块链而受到批评，而简单的解决方案就足够了。显而易见且清楚的是该技术的采用率。例如，CargoSmart正与中远海运(COSCO SHIPPING LINES)和电动汽车制造商特斯拉(Tesla)合作，测试一个区块链供应链试点项目。</p>
+]]></content>
+      <categories>
+        <category>区块链</category>
+      </categories>
+      <tags>
+        <tag>区块链看点</tag>
+        <tag>区块链</tag>
+        <tag>数字货币</tag>
+        <tag>闪电网络</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>DCEP（知识解密引擎库）</title>
     <url>/2020/04/inevo/dcep-index.html</url>
     <content><![CDATA[<blockquote>
