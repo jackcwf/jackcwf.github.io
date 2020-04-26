@@ -39,13 +39,13 @@
       <category term="人民币" scheme="https://www.chengwf.com/categories/%E5%A4%96%E6%B1%87/%E4%BA%BA%E6%B0%91%E5%B8%81/"/>
     
     
-      <category term="区块链看点" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE%E7%9C%8B%E7%82%B9/"/>
-    
       <category term="美元" scheme="https://www.chengwf.com/tags/%E7%BE%8E%E5%85%83/"/>
     
       <category term="货币" scheme="https://www.chengwf.com/tags/%E8%B4%A7%E5%B8%81/"/>
     
       <category term="外汇" scheme="https://www.chengwf.com/tags/%E5%A4%96%E6%B1%87/"/>
+    
+      <category term="区块链看点" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE%E7%9C%8B%E7%82%B9/"/>
     
   </entry>
   
@@ -68,13 +68,13 @@
       <category term="区块链" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/"/>
     
     
+      <category term="区块链看点" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE%E7%9C%8B%E7%82%B9/"/>
+    
       <category term="区块链" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE/"/>
     
       <category term="数字货币" scheme="https://www.chengwf.com/tags/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/"/>
     
       <category term="闪电网络" scheme="https://www.chengwf.com/tags/%E9%97%AA%E7%94%B5%E7%BD%91%E7%BB%9C/"/>
-    
-      <category term="区块链看点" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE%E7%9C%8B%E7%82%B9/"/>
     
   </entry>
   
@@ -140,11 +140,9 @@
       <category term="数字货币" scheme="https://www.chengwf.com/categories/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/"/>
     
     
-      <category term="区块链" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE/"/>
-    
       <category term="区块链看点" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE%E7%9C%8B%E7%82%B9/"/>
     
-      <category term="加密货币" scheme="https://www.chengwf.com/tags/%E5%8A%A0%E5%AF%86%E8%B4%A7%E5%B8%81/"/>
+      <category term="区块链" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE/"/>
     
       <category term="加密货币交易平台" scheme="https://www.chengwf.com/tags/%E5%8A%A0%E5%AF%86%E8%B4%A7%E5%B8%81%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0/"/>
     
@@ -153,6 +151,8 @@
       <category term="币安" scheme="https://www.chengwf.com/tags/%E5%B8%81%E5%AE%89/"/>
     
       <category term="OKEx" scheme="https://www.chengwf.com/tags/OKEx/"/>
+    
+      <category term="加密货币" scheme="https://www.chengwf.com/tags/%E5%8A%A0%E5%AF%86%E8%B4%A7%E5%B8%81/"/>
     
       <category term="矿池" scheme="https://www.chengwf.com/tags/%E7%9F%BF%E6%B1%A0/"/>
     
@@ -176,9 +176,9 @@
     
       <category term="区块链" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/"/>
     
-      <category term="新冠状病毒" scheme="https://www.chengwf.com/categories/%E6%96%B0%E5%86%A0%E7%8A%B6%E7%97%85%E6%AF%92/"/>
-    
       <category term="区块链金融" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E5%8C%BA%E5%9D%97%E9%93%BE%E9%87%91%E8%9E%8D/"/>
+    
+      <category term="新冠状病毒" scheme="https://www.chengwf.com/categories/%E6%96%B0%E5%86%A0%E7%8A%B6%E7%97%85%E6%AF%92/"/>
     
       <category term="数据" scheme="https://www.chengwf.com/categories/%E6%95%B0%E6%8D%AE/"/>
     
@@ -224,9 +224,9 @@
       <category term="区块链" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/"/>
     
     
-      <category term="区块链" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE/"/>
-    
       <category term="区块链看点" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE%E7%9C%8B%E7%82%B9/"/>
+    
+      <category term="区块链" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE/"/>
     
   </entry>
   
@@ -268,48 +268,6 @@
   </entry>
   
   <entry>
-    <title>区块链（知识解密引擎库）</title>
-    <link href="https://www.chengwf.com/2020/03/inevo/bc-index.html"/>
-    <id>https://www.chengwf.com/2020/03/inevo/bc-index.html</id>
-    <published>2020-03-19T16:00:00.000Z</published>
-    <updated>2020-04-11T09:14:44.796Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="区块链是什么"><a href="#区块链是什么" class="headerlink" title="区块链是什么"></a>区块链是什么</h1><br/><p>“<strong>区块链</strong>”一词起源于中本聪发明的一种点对点电子货币系统中<sup><a href="https://bitcoin.org/files/bitcoin-paper/bitcoin_zh_cn.pdf" target="_blank" rel="noopener">[1]</a></sup>，这电子货币系统称为<strong>比特币</strong>。作为比特币的底层技术，本质上是一个去中心化的数据库。是指通过去中心化和去信任的方式集体维护一个可靠数据库的技术方案。</p><p>从科技层面来看，区块链是一门涉及数学、密码学、互联网和计算机编程等很多科学技术综合交叉学问。</p><p>从应用视角来看，区块链是一种新兴技术，它是一个分布式的共享账本和数据库；这门技术从特点上分析，具有去中心化、不可篡改、全程留痕、可以追溯、集体维护、公开透明等特点。</p><p>从计算机技术应用模式的视角来看，它具备分布式数据存储、点对点传输、共识机制、加密算法等技术模式。</p><a id="more"></a><hr><h1 id="区块链广义解释"><a href="#区块链广义解释" class="headerlink" title="区块链广义解释"></a>区块链广义解释</h1><br/><p>通俗一点说，不管从什么角度来看，区块链就是一门技术，区块链技术就指一种全民参与记账的方式。所有的系统背后都有一个数据库，你可以把数据库看成是就是一个大账本。那么谁来记这个账本就变得很重要。目前就是谁的系统谁来记账，微信的账本就是腾讯在记，淘宝的账本就是阿里在记。但在区块链网络里，系统中的每个人都可以有机会参与记账。在一定时间段内如果有任何数据变化，系统中每个人都可以来进行记账，系统会评判这段时间内记账最快最好的人，把他记录的内容写到账本，并将这段时间内账本内容发给系统内所有的其他人进行备份。这样系统中的每个人都了一本完整的账本。这种方式，我们就称它为区块链技术。—<strong>分布化账本</strong>的通俗解释<sup><a href="https://www.kepuchina.cn/tech/info/201910/t20191031_1142466.shtml" target="_blank" rel="noopener">[0]</a></sup>。</p><p>区块链技术被认为是互联网发明以来最具颠覆性的技术创新，它依靠密码学和数学巧妙的分布式算法，在无法建立信任关系的互联网上，无需借助任何第三方中心的介入就可以使参与者达成共识，以极低的成本解决了信任与价值的可靠传递难题。</p><p>比特币点对点网络将所有的交易历史都储存在“区块链”中。区块链在持续延长，而且新区块一旦加入到区块链中，就不会再被移走。区块链实际上是一群分散的用户端节点，并由所有参与者组成的分布式数据库，是对所有比特币交易历史的记录。比特币的交易数据被打包到一个“数据块”或 “区块”(block)中后，交易就算初步确认了。当区块链接到前一个区块之后，交易会得到进一步的确认。在连续得到6个区块确认之后，这笔交易基本上就不可逆转地得到确认了。</p><p>区块链在网络上是公开的，可以在每一个离线比特币钱包数据中查询。轻量级比特币钱包使用在线确认，即不会下载区块链数据到设备存储中。</p><hr><h1 id="区块链最先由谁提出"><a href="#区块链最先由谁提出" class="headerlink" title="区块链最先由谁提出"></a><strong>区块链最先由谁提出</strong></h1><br/><p> <strong>中本聪</strong>在2008年于《比特币白皮书》<sup><a href="https://bitcoin.org/files/bitcoin-paper/bitcoin_zh_cn.pdf" target="_blank" rel="noopener">[1]</a></sup>中提出“<strong>区块链</strong>”概念，并在2009年创立了比特币网络，开发出第一个区块，即“创世区块”。</p><p>《比特币白皮书》提到的一种点对点电子货币系统就是数字货币，但实际上其底层技术的意义和价值远远大于其货币属性。以比特币为例，一般意义上它被当作一种点对点形式的数字货币，但从技术层面来说，它实际上是一个点对点的去中心化网络平台，这样一个网络平台依托的正是区块链技术。</p><p>但其实最先诞生“电子货币”概念的创造性方案，却又不是中本聪是首个提出的。</p><hr><h1 id="加密数字货币前传：从大卫·乔姆到中本聪"><a href="#加密数字货币前传：从大卫·乔姆到中本聪" class="headerlink" title="加密数字货币前传：从大卫·乔姆到中本聪"></a><strong>加密数字货币前传：从大卫·乔姆到中本聪</strong></h1><br/><p>加密数字货币有着非常漫长的历史，这个冷知识专栏用几个主要人物和他们的创造，来展示一个简明的加密数字货币前传。</p><blockquote><p>《区块链：技术驱动金融》<sup><a href="https://max.book118.com/html/2018/0110/148162413.shtm" target="_blank" rel="noopener">[1.1]</a></sup>一书的前言“通往比特币的漫长道路”（杰里米·克拉克/文）从技术与历史的角度对加密数字货币的历史进行了详细的阐述，这里参考了他的梳理分析。</p></blockquote><p><strong>1) 1983年，大卫·乔姆（David Chaum）最早提出把加密技术用在数字现金上</strong></p><p>在物理世界中，现金可以非常简单，它需要的是防伪功能。现金是一张纸条，我可以在一张纸条上写“拿到这张纸条的人可以找我领取一只羊”，然后签上自己的名字。签名就是防伪措施。我把纸条拿给你，纸条到你手中，我就没有了。</p><p>在数字世界中，情况开始变得复杂：这张纸条和上面的签名是一个数字文件，而电子文件可以被无数次地完美复制。把这个电子文件给你之后，我还可以再把这个电子文件给第三个人。这就是所谓的双重支付（double spending）问题。</p><p>大卫·乔姆提出了一个创造性的方案，在数字世界里解决了这个难题。他的方法是采用这样的逻辑：在一张纸条上，你选择一个只有你知道的序列号，然后我在上面签名。由于我不知道这个序列号，因此我没法再复制一份这张纸条给另一个人。这就是密码学上所谓的盲签（blind signature）。这个思路形成了“第一个真正意义上的电子货币方案”。1989年，大卫·乔姆还创建了数字现金公司（DigiCash）来把自己的想法商业化，但未能被大规模接受。<br>这个方案的缺点是，它要运转起来，就必须有一个所有参与者都信任的中心化服务器来进行这些“数字纸条”的验证。</p><p><strong>2) 1997～1998年，亚当·贝克（Adam Back）与哈希现金（HashCash）、戴伟（Wei Dai）与B币（B-Money）、尼克·萨博（Nick Szabo）与比特黄金（bit gold）、哈尔·芬尼（Hal Finney）与工作量证明（POW）</strong></p><p>在比特币白皮书中，中本聪引用了1997年亚当·贝克设计的哈希现金、1998年华裔密码学家戴伟设计的B币等前人的成果。2010年，由于维基百科试图删除比特币词条，因此中本聪与人讨论了如何修改词条描述以让维基百科接受，他建议这样写：“比特币是戴伟在1998年在密码朋克中所提到的B币构想和尼克·萨博提出的比特黄金的具体实现。”他说是具体实现，是因为B币和比特黄金都只是停留在构想中。</p><p>这就引出了区块链领域的一个重要人物——计算机科学家尼克·萨博。他在1998年提出了名为比特黄金的方案。在现在的区块链世界中，尼克·萨博有着更为重要的位置：萨博是“智能合约”（smart contract）的提出者，1993年他写出了“智能合约”论文。智能合约是区块链处理交易的核心方式，区块链应用的实质可被看成是一个个智能合约的组合。</p><p>这一阶段的第四个重要人物是知名密码学家哈尔·芬尼，他是著名的PGP加密中的“G”，是密码朋克圈中的前辈。他在2004年推出了自己版本的采用工作量证明（POW）机制的电子货币。在比特币开发过程中，哈尔·芬尼与中本聪有很多互动，比特币的第一笔转账就是中本聪转了10个比特币给哈尔·芬尼。</p><p>他们四人的具体设想各有不同，但有一个共同点，即都是让计算机进行计算，从而“创造”电子现金，它们是比特币系统让计算机进行加密计算的工作量证明和“挖矿”的创意来源。这非常重要，有了这个想法，中心化服务器才可以被去中心网络所取代，困扰数字货币的难题被解决了。</p><blockquote><p>再往前，这个想法可追溯到1992年密码学家辛提亚·沃克（Cynthia Dwork）、摩尼·纳欧尔（Moni Naor）提出来的用于减少垃圾邮件的一个方案，对此杰里米·克拉克在《区块链：技术驱动金融》一书中解释说：“设想你每次发送邮件时，计算机都不得不花几秒钟解决一道数学计算题目。如果你没能附上答案，收件人的邮箱会自动忽略这封邮件”。</p></blockquote><p><strong>3) 2008年10月，中本聪发布论文“比特币：一个点对点电子现金系统”</strong></p><p>最终，中本聪把前人的创新综合起来，实现了一种在发行和交易上都去中心化的电子现金。</p><p>对于前人的数字货币系统（比如乔姆的系统）为什么会失败，中本聪曾经写道：自20世纪90年代以来所有的虚拟货币公司全都失败了……我希望，人们可以看到，这些系统之所以失败，显然是因为它们的中心化控制这一特性。我想，我们正在首次尝试建立一个去中心化的、非基于信任的系统。</p><p>这里他提到了两个相关的词，一是去中心化（decentralized），二是非基于信任的（non-trust-based）。去中心网络一定是非基于信任的。</p><hr><h1 id="区块链由哪些领域及其技术组成"><a href="#区块链由哪些领域及其技术组成" class="headerlink" title="区块链由哪些领域及其技术组成"></a><strong>区块链由哪些领域及其技术组成</strong></h1><br/><p>由数学、密码学、互联网、计算机编程组成。具体每个领域体现在哪些技术：</p><table><thead><tr><th><strong>数学</strong><sup><a href="https://www.jianshu.com/p/b71c6e7cfb1c" target="_blank" rel="noopener">[2]</a></sup></th><th align="center"><strong>密码学</strong><sup><a href="https://zhuanlan.zhihu.com/p/35649160" target="_blank" rel="noopener">[3]</a></sup></th><th><strong>互联网</strong><sup><a href="https://www.jianshu.com/p/4a201dca9b05" target="_blank" rel="noopener">[4]</a></sup></th><th><strong>计算机编程</strong><sup><a href="https://cloud.tencent.com/developer/article/1170525" target="_blank" rel="noopener">[5]</a></sup></th></tr></thead><tbody><tr><td>非对称加密</td><td align="center">哈希(Hash)、散列函数</td><td>P2P网络</td><td>GO</td></tr><tr><td></td><td align="center">加密解密算法</td><td></td><td>Java</td></tr><tr><td></td><td align="center">消息认证与数字签名</td><td></td><td>JavaScript</td></tr><tr><td></td><td align="center">数字证书</td><td></td><td>Solidity</td></tr><tr><td></td><td align="center">PKI体系</td><td></td><td>Python</td></tr><tr><td></td><td align="center">哈希链表、Merkle树结构</td><td></td><td></td></tr><tr><td></td><td align="center">布隆过滤器</td><td></td><td></td></tr><tr><td></td><td align="center">同态加密</td><td></td><td></td></tr></tbody></table><hr><h1 id="区块链的核心技术"><a href="#区块链的核心技术" class="headerlink" title="区块链的核心技术"></a><strong>区块链的核心技术</strong></h1><br/><ol><li><p><strong>分布式存储</strong>，作用：数字存储</p><p>区块链中的分布式存储是参与的节点各自都有独立的、完整的数据存储，其独特性主要体现在两个方面，一是区块链每个节点都按照块链式结构存储完整的数据，二是区块链每个节点存储都是独立的、地位等同的，依靠共识机制保证存储的一致性。</p></li><li><p><strong>密码学原理</strong>，作用：数字安全</p><p>密码学是保证区块链中数据传输、存储和访问安全的重要技术手段，是构造交易双方信任的基石。在区块链技术中应用了大量的密码学的知识，如：公钥、私钥、哈希、对称加密、非对称加密、同态加密、签名、零知识证明等。</p></li><li><p><strong>共识机制</strong>，作用：数字处理</p><p>所谓共识，是指多方参与的节点在预设规则下，通过多个节点交互对某些数据、行为或流程达成一致的过程。共识机制是指定义共识过程的算法、协议和规则，区块链的共识机制具备“少数服从多数”以及“人人平等”的特点。</p></li><li><p><strong>智能合约</strong>，作用：数字应用</p><p>智能合约是基于这些可信的不可篡改的数据，可以自动化的执行一些预先定义好的规则和条款。以保险为例，如果说每个人的信息（包括医疗信息和风险发生的信息）都是真实可信的，那就很容易的在一些标准化的保险产品中，去进行自动化的理赔。在保险公司的日常业务中，虽然交易不像银行和证券行业那样频繁，但是对可信数据的依赖是有增无减。因此，笔者认为利用区块链技术，从数据管理的角度切入，能够有效地帮助保险公司提高风险管理能力。具体来讲主要分投保人风险管理和保险公司的风险监督</p></li></ol><hr><h1 id="区块链的基本原理"><a href="#区块链的基本原理" class="headerlink" title="区块链的基本原理"></a><strong>区块链的基本原理</strong></h1><br/><blockquote><p>香港大学 金融学硕士 李迪一，《理解区块链的结构及其设计原理》<sup><a href="https://zhuanlan.zhihu.com/p/34385708" target="_blank" rel="noopener">[6]</a></sup>对区块链结构作了深度的分析见解。</p></blockquote><p>区块链的基本原理理解起来并不复杂。首先，区块链包括三个基本概念：</p><ul><li><p><strong>交易（transaction）</strong>：一次对账本的操作，导致账本状态的一次改变，如添加一条转账记录；</p></li><li><p><strong>区块（block）</strong>：记录一段时间发生的所有交易和状态结果，是对当前账本状态的一次共识；</p></li><li><p><strong>链（chain）</strong>：由区块按照发生顺序串联而成，是整个账本状态变化的日志记录。</p></li></ul><p>如果把区块链作为一个状态机，则每次交易就是试图改变一次状态，而每次共识生成的区块，就是参与者对于区块中交易导致状态改变的结果进行确认。</p><p>在实现上，首先假设存在一个分布式的数据记录账本，这个账本只允许添加、不允许删除。账本底层的基本结构是一个线性的链表，这也是其名字“区块链”的来源。链表由一个个“区块”串联组成（如下图1所示），后继区块记录前导区块的哈希值（pre hash）。新的数据要加入，必须放到一个新的区块中。而这个块（以及块里的交易）是否合法，可以通过计算哈希值的方式快速检验出来。任意维护节点都可以提议一个新的合法区块，然而必须经过一定的共识机制来对最终选择的区块达成一致。</p><p><img src="https://s1.ax1x.com/2020/04/09/Gh5CUx.jpg" alt="Gh5CUx.jpg"></p><center>图1为： 区块链结构示例</center><hr><h1 id="区块链的特征"><a href="#区块链的特征" class="headerlink" title="区块链的特征"></a><strong>区块链的特征</strong></h1><br/><p>从区块链的形成过程看，区块链技术具有以下特征：<sup><a href="https://www.chainnews.com/articles/667226575871.htm" target="_blank" rel="noopener">[7]</a></sup></p><ul><li><strong>去中心化</strong>。区块链技术不依赖额外的第三方管理机构或硬件设施，没有中心管制，除了自成一体的区块链本身，通过分布式核算和存储，各个节点实现了信息自我验证、传递和管理。去中心化是区块链最突出最本质的特征。</li><li><strong>不可篡改。</strong>区块链上的内容都需要采用密码学原理进行复杂的运算之后才能够记录上链，而且区块链上，后一个区块的内容会包含前一个区块的内容，这就使得信息篡改的难度非常大、篡改成本非常高，这就是区块链“不可篡改”的特性。区块链“不可篡改”的特性，意味着一旦数据写入到区块链 ,任何人都无法擅自更改数据信息。</li><li><strong>开放性</strong>。区块链技术基础是开源的，除了交易各方的私有信息被加密外，区块链的数据对所有人开放，任何人都可以通过公开的接口查询区块链数据和开发相关应用，因此整个系统信息高度透明。</li><li><strong>独立性</strong>。基于协商一致的规范和协议(类似比特币采用的哈希算法等各种数学算法)，整个区块链系统不依赖其他第三方，所有节点能够在系统内自动安全地验证、交换数据，不需要任何人为的干预。</li><li><strong>安全性</strong>。只要不能掌控全部数据节点的51%，就无法肆意操控修改网络数据，这使区块链本身变得相对安全，避免了主观人为的数据变更。</li><li><strong>匿名性</strong>。除非有法律规范要求，单从技术上来讲，各区块节点的身份信息不需要公开或验证，信息传递可以匿名进行。</li></ul><hr><h1 id="区块链的类型"><a href="#区块链的类型" class="headerlink" title="区块链的类型"></a><strong>区块链的类型</strong></h1><br/><blockquote><p>在张健著《区块链：定义未来金融与经济新格局》（机械工业出版社）提到的3种区块链类型</p></blockquote><p>从区块链的类型<sup><a href="https://www.jianshu.com/p/7827ee0f8fae" target="_blank" rel="noopener">[8]</a></sup>分类来看，主要有以下三种：</p><ol><li><p><strong>公有区块链（</strong>简称：公有链）</p><p>公有区块链（Public Block Chains)是指：世界上任何个体或者团体都可以发送交易，且交易能够获得该区块链的有效确认，任何人都可以参与其共识过程。公有区块链是最早的区块链，也是应用最广泛的区块链，各大bitcoins系列的虚拟数字货币均基于公有区块链，世界上有且仅有一条该币种对应的区块链   。</p></li><li><p><strong>联合（行业）区块链</strong>（简称：联盟链）</p><p>行业区块链（Consortium Block Chains)：由某个群体内部指定多个预选的节点为记账人，每个块的生成由所有的预选节点共同决定（预选节点参与共识过程），其他接入节点可以参与交易，但不过问记账过程(本质上还是托管记账，只是变成分布式记账，预选节点的多少，如何决定每个块的记账者成为该区块链的主要风险点），其他任何人可以通过该区块链开放的API进行限定查询 。</p></li><li><p><strong>私有区块链</strong>（简称：私有链）</p><p>私有区块链（Private Block Chains)：仅仅使用区块链的总账技术进行记账，可以是一个公司，也可以是个人，独享该区块链的写入权限，本链与其他的分布式存储方案没有太大区别。传统金融都是想实验尝试私有区块链，而公链的应用例如bitcoin已经工业化，私链的应用产品还在摸索当中  。</p></li></ol><p>从区块链的类型<sup><a href="https://www.jianshu.com/p/7827ee0f8fae" target="_blank" rel="noopener">[8]</a></sup>对比来看：</p><table><thead><tr><th></th><th><strong>公有链</strong></th><th><strong>联盟链</strong></th><th><strong>私有链</strong></th></tr></thead><tbody><tr><td><strong>参与者</strong></td><td>任何人自由进出</td><td>联盟成员</td><td>链的所有者</td></tr><tr><td><strong>共识机制</strong></td><td>pow/pos</td><td>分布式一致性算法</td><td>solo/pbft等</td></tr><tr><td><strong>记账人</strong></td><td>所有参与者</td><td>联盟成员协商确定</td><td>链的所有者</td></tr><tr><td><strong>激励机制</strong></td><td>需要</td><td>可选</td><td>无</td></tr><tr><td><strong>中心化程度</strong></td><td>去中心化</td><td>弱中心化</td><td>强中心化</td></tr><tr><td><strong>如初特点</strong></td><td>信用的自创建</td><td>效率和成本优化</td><td>安全性高、效率高</td></tr><tr><td><strong>承载能力</strong></td><td>&lt;100笔/秒</td><td>&lt;10万笔/秒</td><td>视配置决定</td></tr><tr><td><strong>典型场景</strong></td><td>加密货币</td><td>供应链金融、银行、物流、电商</td><td>大型组织、机构</td></tr><tr><td><strong>代表项目</strong></td><td>比特币、以太坊</td><td>R3、Hyperledger</td><td></td></tr></tbody></table><hr><h1 id="区块链的共识机制"><a href="#区块链的共识机制" class="headerlink" title="区块链的共识机制"></a><strong>区块链的共识机制</strong></h1><br/><p>由于加密货币多数采用去中心化的区块链设计，节点是各处分散且平行的，所以必须设计一套制度，来维护系统的运作顺序与公平性，统一区块链的版本，并奖励提供资源维护区块链的使用者，以及惩罚恶意的危害者。这样的制度，必须依赖某种方式来证明，是由谁取得了一个区块链的打包权（或称记帐权），并且可以获取打包这一个区块的奖励；又或者是谁意图进行危害，就会获得一定的惩罚，这就是共识机制。<sup><a href="https://ictjournal.itri.org.tw/Content/Messagess/contents.aspx?&MmmID=654304432061644411&MSID=744257557510131250" target="_blank" rel="noopener">[9]</a></sup></p><p><strong>常见的共识机制</strong>：</p><p>工作量证明（Proof-of-Work，PoW），典型案例：比特币网络<br>权益证明（Proof-of-Stake，PoS，又译持有量证明），典型案例：以太坊<br>股份授权证明（Delegated-Proof-of-Stake，DPoS），典型案例：EOS<br>容量证明（Proof-of-space，PoSpace，又称 Proof-of-Capacity，PoC），典型案例：Filecoin<br>Paxos<br>RAFT<br>PBFT<br>LibraBFT（Byzantine fault-tolerance）：Libra上使用</p><p><strong>共识机制比较</strong>：</p><p> 评价一个共识机制，不能单纯的用好或者坏来定义，要区分业务属性。而业务属性主要基于区块链的不可能三角及业务类型，所以主要从场景、去中心化程度、记账节点、响应时间、存储效率、吞吐量和容错性等维度进行比较，详情如下：<sup><a href="https://www.jianshu.com/p/9ce110a4e7db" target="_blank" rel="noopener">[10]</a></sup></p><blockquote><p>tips：区块链不可能三角指任何区块链系统在安全、性能和去中心化三个方面都不能完全兼顾。</p></blockquote><table><thead><tr><th></th><th><strong>PoW</strong></th><th><strong>PoS</strong></th><th><strong>DPoS</strong></th><th><strong>Paft</strong></th><th><strong>PBFT</strong></th></tr></thead><tbody><tr><td><strong>场景</strong></td><td><strong>公链、联盟链</strong></td><td><strong>公链、联盟链</strong></td><td><strong>公链、联盟链</strong></td><td><strong>联盟链</strong></td><td><strong>联盟链</strong></td></tr><tr><td><strong>去中心化程度</strong></td><td>完全</td><td>完全</td><td>完全</td><td>半中心化</td><td>半中心化</td></tr><tr><td><strong>记账节点</strong></td><td>全网</td><td>全网</td><td>选出若干代表</td><td>选出若干代表</td><td>动态决定</td></tr><tr><td><strong>响应时间</strong></td><td>10分钟</td><td>1分钟</td><td>3秒左右</td><td>秒级</td><td>秒级</td></tr><tr><td><strong>存储效率</strong></td><td>全账本</td><td>全账本</td><td>全账本</td><td>全账本</td><td>全账本+部分全账本</td></tr><tr><td><strong>吞吐量</strong></td><td>约7TPS</td><td>约15TPS</td><td>约300TPS或更高</td><td>几千甚至上万</td><td>约1000TPS或更高</td></tr><tr><td><strong>容错</strong></td><td>50%</td><td>50%</td><td>50%</td><td>50%</td><td>33%</td></tr></tbody></table><center><font color="acacac" size=2>上图共识机制对比图参考[10]</font></center><hr><h1 id="区块链的架构模型"><a href="#区块链的架构模型" class="headerlink" title="区块链的架构模型"></a><strong>区块链的架构模型</strong></h1><br/><blockquote><p>2017年5月16日上午，在杭州国际博览中心举行的区块链技术应用峰会暨首届中国区块链开发大赛成果发布会上，首个区块链标准《区块链 参考架构》正式发布。<sup><a href="https://www.jianshu.com/p/be4db6f918ed" target="_blank" rel="noopener">[11]</a></sup></p></blockquote><p>区块链系统由自下而上的数据层、网络层、共识层、激励层、合约层和应用层组成。</p><p><img src="https://s1.ax1x.com/2020/04/11/GbSZUs.png" alt="GbSZUs.png"></p><p><strong>1.数据层</strong></p><p>数据层封装了底层数据区块的链式结构，以及相关的非对称公私钥数据加密技术和时间戳等技术，这是整个区块链技术中最底层的数据机构，其中大多数技术都已被发明数十年，并在计算机领域使用了很久，无须担心其中的安全性，因为如果这些技术出现安全性上的巨大漏洞，则意味着全球金融技术都会出现严重的问题。中本聪在设计比特币时，为每个区块设置了1MB（兆）大小的容量限制，但由于目前比特币的交易量迅速提升，1MB的区块空间能容纳的交易数量有限，所以要考虑扩容区块链来突破这个限制。</p><p><strong>2.网络层</strong></p><p>网络层包括分布式组网机制、数据传播机制和数据验证机制等，由于采用了完全P2P的组网技术，也就意味着区块链是具有自动组网功能的。这种P2P组网技术，在早先应用于BT（比特流）和eMule（电驴）之类的P2P下载软件中，也是一种相对来说非常成熟的技术。</p><p><strong>3.共识层</strong></p><p>共识层主要封装网络节点的各类共识机制算法。共识机制算法是区块链技术的核心技术，因为这决定了到底由谁来进行记账，记账者选择方式将会影响到整个系统的安全性和可靠性。目前已经出现了十余种共识机制算法，其中最为知名的有工作量证明机制（Proof of Work，PoW）、权益证明机制（Proof of Stake，PoS）、股份授权证明机制（Delegated Proof of Stake，DPoS）等。在下一节中将会详细介绍这些共识机制。</p><p><strong>4.激励层</strong></p><p>激励层将经济因素集成到区块链技术体系中来，主要包括经济激励的发行机制和分配机制等，该层主要出现在公有链（Public Blockchain）中，因为在公有链中必须激励遵守规则参与记账的节点，并且惩罚不遵守规则的节点，才能让整个系统朝着良性循环的方向发展。所以激励机制往往也是一种博弈机制，让更多遵守规则的节点愿意进行记账。而在私有链（Private Blockchain）中，则不一定需要进行激励，因为参与记账的节点往往是在链外完成了博弈，也就是可能有强制力或者有其他需求来要求参与记账。</p><p><strong>5.合约层</strong></p><p>合约层主要封装各类脚本、算法和智能合约，是区块链可编程特性的基础。以以太坊为首的新一代区块链系统试图完善比特币的合约层。比特币尽管也包含了脚本代码，但是并不是图灵完备的，即不支持循环语句；以太坊在比特币结构的基础上，内置了编程语言协议，从而在理论上可以实现任何应用功能。如果把比特币看成是全球账本的话，那么就可以把以太坊看作是一台“全球计算机”——任何人都可以上传和执行任意的应用程序，并且程序的有效执行能够得到保证。</p><p><strong>6.应用层</strong></p><p>应用层则封装了区块链的各种应用场景和案例。比如搭建在以太坊上的各类区块链应用就是部署在应用层，所谓可编程货币和可编程金融也将会搭建在应用层。 该模型中，基于时间戳的链式区块结构、分布式节点的共识机制、基于共识机制的经济激励和灵活可编程的智能合约是区块链技术最具代表性的创新点。其中数据层、网络层和共识层是构建区块链应用的必要因素，否则将不能称为真正意义上的区块链。而激励层、合约层和应用层则不是每个区块链应用的必要因素，有部分的区块链应用并不完整地包含着这三层结构。</p><hr><h1 id="参考文献"><a href="#参考文献" class="headerlink" title="参考文献"></a>参考文献</h1><br/><blockquote><p><a href="https://www.kepuchina.cn/tech/info/201910/t20191031_1142466.shtml" target="_blank" rel="noopener">[0] 科普中国：分布化账本到底是什么？</a></p><p><a href="https://bitcoin.org/files/bitcoin-paper/bitcoin_zh_cn.pdf" target="_blank" rel="noopener">[1] 比特币白皮书：《比特币：一种点对点电子货币系统》</a></p><p><a href="https://max.book118.com/html/2018/0110/148162413.shtm" target="_blank" rel="noopener">[1.1] 《区块链：技术驱动金融》</a></p><p><a href="https://www.jianshu.com/p/b71c6e7cfb1c" target="_blank" rel="noopener">[2] 区块链的数学层面认知</a></p><p><a href="https://zhuanlan.zhihu.com/p/35649160" target="_blank" rel="noopener">[3] 知乎：区块链中的密码学与安全技术</a></p><p><a href="https://www.jianshu.com/p/4a201dca9b05" target="_blank" rel="noopener">[4] 区块链与P2P网络</a></p><p><a href="https://cloud.tencent.com/developer/article/1170525" target="_blank" rel="noopener">[5] 腾讯云：区块链技术入门，都涉及哪些编程语言？</a></p><p><a href="https://zhuanlan.zhihu.com/p/34385708://cloud.tencent.com/developer/article/1170525" target="_blank" rel="noopener">[6] 香港大学-李迪一：《理解区块链的结构及其设计原理》</a></p><p><a href="https://www.chainnews.com/articles/667226575871.htm" target="_blank" rel="noopener">[7] 区块链的六大特性</a></p><p><a href="https://www.jianshu.com/p/7827ee0f8fae" target="_blank" rel="noopener">[8] 区块链种类</a></p><p><a href="https://ictjournal.itri.org.tw/Content/Messagess/contents.aspx?&MmmID=654304432061644411&MSID=744257557510131250" target="_blank" rel="noopener">[9] 工研院资通所：区块链简介与技术探讨</a></p><p><a href="https://www.jianshu.com/p/9ce110a4e7db" target="_blank" rel="noopener">[10] 区块链共识机制</a></p><p><a href="https://www.jianshu.com/p/be4db6f918ed" target="_blank" rel="noopener">[11] 中国首个区块链标准《区块链参考架构》</a></p></blockquote>]]></content>
-    
-    <summary type="html">
-    
-      &lt;h1 id=&quot;区块链是什么&quot;&gt;&lt;a href=&quot;#区块链是什么&quot; class=&quot;headerlink&quot; title=&quot;区块链是什么&quot;&gt;&lt;/a&gt;区块链是什么&lt;/h1&gt;&lt;br/&gt;
-
-&lt;p&gt;“&lt;strong&gt;区块链&lt;/strong&gt;”一词起源于中本聪发明的一种点对点电子货币系统中&lt;sup&gt;&lt;a href=&quot;https://bitcoin.org/files/bitcoin-paper/bitcoin_zh_cn.pdf&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;[1]&lt;/a&gt;&lt;/sup&gt;，这电子货币系统称为&lt;strong&gt;比特币&lt;/strong&gt;。作为比特币的底层技术，本质上是一个去中心化的数据库。是指通过去中心化和去信任的方式集体维护一个可靠数据库的技术方案。&lt;/p&gt;
-&lt;p&gt;从科技层面来看，区块链是一门涉及数学、密码学、互联网和计算机编程等很多科学技术综合交叉学问。&lt;/p&gt;
-&lt;p&gt;从应用视角来看，区块链是一种新兴技术，它是一个分布式的共享账本和数据库；这门技术从特点上分析，具有去中心化、不可篡改、全程留痕、可以追溯、集体维护、公开透明等特点。&lt;/p&gt;
-&lt;p&gt;从计算机技术应用模式的视角来看，它具备分布式数据存储、点对点传输、共识机制、加密算法等技术模式。&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="区块链" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/"/>
-    
-      <category term="数字货币" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/"/>
-    
-      <category term="比特币" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/%E6%AF%94%E7%89%B9%E5%B8%81/"/>
-    
-      <category term="区块链技术" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E5%8C%BA%E5%9D%97%E9%93%BE%E6%8A%80%E6%9C%AF/"/>
-    
-      <category term="解密引擎" scheme="https://www.chengwf.com/categories/%E8%A7%A3%E5%AF%86%E5%BC%95%E6%93%8E/"/>
-    
-    
-      <category term="区块链" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE/"/>
-    
-      <category term="解密引擎" scheme="https://www.chengwf.com/tags/%E8%A7%A3%E5%AF%86%E5%BC%95%E6%93%8E/"/>
-    
-      <category term="比特币" scheme="https://www.chengwf.com/tags/%E6%AF%94%E7%89%B9%E5%B8%81/"/>
-    
-      <category term="共识机制" scheme="https://www.chengwf.com/tags/%E5%85%B1%E8%AF%86%E6%9C%BA%E5%88%B6/"/>
-    
-  </entry>
-  
-  <entry>
     <title>一个自我进化的知识解密引擎库</title>
     <link href="https://www.chengwf.com/2020/03/inevo/inevo-principle.html"/>
     <id>https://www.chengwf.com/2020/03/inevo/inevo-principle.html</id>
@@ -335,6 +293,48 @@
     
     
       <category term="解密引擎" scheme="https://www.chengwf.com/tags/%E8%A7%A3%E5%AF%86%E5%BC%95%E6%93%8E/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>区块链（知识解密引擎库）</title>
+    <link href="https://www.chengwf.com/2020/03/inevo/bc-index.html"/>
+    <id>https://www.chengwf.com/2020/03/inevo/bc-index.html</id>
+    <published>2020-03-19T16:00:00.000Z</published>
+    <updated>2020-04-11T09:14:44.796Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="区块链是什么"><a href="#区块链是什么" class="headerlink" title="区块链是什么"></a>区块链是什么</h1><br/><p>“<strong>区块链</strong>”一词起源于中本聪发明的一种点对点电子货币系统中<sup><a href="https://bitcoin.org/files/bitcoin-paper/bitcoin_zh_cn.pdf" target="_blank" rel="noopener">[1]</a></sup>，这电子货币系统称为<strong>比特币</strong>。作为比特币的底层技术，本质上是一个去中心化的数据库。是指通过去中心化和去信任的方式集体维护一个可靠数据库的技术方案。</p><p>从科技层面来看，区块链是一门涉及数学、密码学、互联网和计算机编程等很多科学技术综合交叉学问。</p><p>从应用视角来看，区块链是一种新兴技术，它是一个分布式的共享账本和数据库；这门技术从特点上分析，具有去中心化、不可篡改、全程留痕、可以追溯、集体维护、公开透明等特点。</p><p>从计算机技术应用模式的视角来看，它具备分布式数据存储、点对点传输、共识机制、加密算法等技术模式。</p><a id="more"></a><hr><h1 id="区块链广义解释"><a href="#区块链广义解释" class="headerlink" title="区块链广义解释"></a>区块链广义解释</h1><br/><p>通俗一点说，不管从什么角度来看，区块链就是一门技术，区块链技术就指一种全民参与记账的方式。所有的系统背后都有一个数据库，你可以把数据库看成是就是一个大账本。那么谁来记这个账本就变得很重要。目前就是谁的系统谁来记账，微信的账本就是腾讯在记，淘宝的账本就是阿里在记。但在区块链网络里，系统中的每个人都可以有机会参与记账。在一定时间段内如果有任何数据变化，系统中每个人都可以来进行记账，系统会评判这段时间内记账最快最好的人，把他记录的内容写到账本，并将这段时间内账本内容发给系统内所有的其他人进行备份。这样系统中的每个人都了一本完整的账本。这种方式，我们就称它为区块链技术。—<strong>分布化账本</strong>的通俗解释<sup><a href="https://www.kepuchina.cn/tech/info/201910/t20191031_1142466.shtml" target="_blank" rel="noopener">[0]</a></sup>。</p><p>区块链技术被认为是互联网发明以来最具颠覆性的技术创新，它依靠密码学和数学巧妙的分布式算法，在无法建立信任关系的互联网上，无需借助任何第三方中心的介入就可以使参与者达成共识，以极低的成本解决了信任与价值的可靠传递难题。</p><p>比特币点对点网络将所有的交易历史都储存在“区块链”中。区块链在持续延长，而且新区块一旦加入到区块链中，就不会再被移走。区块链实际上是一群分散的用户端节点，并由所有参与者组成的分布式数据库，是对所有比特币交易历史的记录。比特币的交易数据被打包到一个“数据块”或 “区块”(block)中后，交易就算初步确认了。当区块链接到前一个区块之后，交易会得到进一步的确认。在连续得到6个区块确认之后，这笔交易基本上就不可逆转地得到确认了。</p><p>区块链在网络上是公开的，可以在每一个离线比特币钱包数据中查询。轻量级比特币钱包使用在线确认，即不会下载区块链数据到设备存储中。</p><hr><h1 id="区块链最先由谁提出"><a href="#区块链最先由谁提出" class="headerlink" title="区块链最先由谁提出"></a><strong>区块链最先由谁提出</strong></h1><br/><p> <strong>中本聪</strong>在2008年于《比特币白皮书》<sup><a href="https://bitcoin.org/files/bitcoin-paper/bitcoin_zh_cn.pdf" target="_blank" rel="noopener">[1]</a></sup>中提出“<strong>区块链</strong>”概念，并在2009年创立了比特币网络，开发出第一个区块，即“创世区块”。</p><p>《比特币白皮书》提到的一种点对点电子货币系统就是数字货币，但实际上其底层技术的意义和价值远远大于其货币属性。以比特币为例，一般意义上它被当作一种点对点形式的数字货币，但从技术层面来说，它实际上是一个点对点的去中心化网络平台，这样一个网络平台依托的正是区块链技术。</p><p>但其实最先诞生“电子货币”概念的创造性方案，却又不是中本聪是首个提出的。</p><hr><h1 id="加密数字货币前传：从大卫·乔姆到中本聪"><a href="#加密数字货币前传：从大卫·乔姆到中本聪" class="headerlink" title="加密数字货币前传：从大卫·乔姆到中本聪"></a><strong>加密数字货币前传：从大卫·乔姆到中本聪</strong></h1><br/><p>加密数字货币有着非常漫长的历史，这个冷知识专栏用几个主要人物和他们的创造，来展示一个简明的加密数字货币前传。</p><blockquote><p>《区块链：技术驱动金融》<sup><a href="https://max.book118.com/html/2018/0110/148162413.shtm" target="_blank" rel="noopener">[1.1]</a></sup>一书的前言“通往比特币的漫长道路”（杰里米·克拉克/文）从技术与历史的角度对加密数字货币的历史进行了详细的阐述，这里参考了他的梳理分析。</p></blockquote><p><strong>1) 1983年，大卫·乔姆（David Chaum）最早提出把加密技术用在数字现金上</strong></p><p>在物理世界中，现金可以非常简单，它需要的是防伪功能。现金是一张纸条，我可以在一张纸条上写“拿到这张纸条的人可以找我领取一只羊”，然后签上自己的名字。签名就是防伪措施。我把纸条拿给你，纸条到你手中，我就没有了。</p><p>在数字世界中，情况开始变得复杂：这张纸条和上面的签名是一个数字文件，而电子文件可以被无数次地完美复制。把这个电子文件给你之后，我还可以再把这个电子文件给第三个人。这就是所谓的双重支付（double spending）问题。</p><p>大卫·乔姆提出了一个创造性的方案，在数字世界里解决了这个难题。他的方法是采用这样的逻辑：在一张纸条上，你选择一个只有你知道的序列号，然后我在上面签名。由于我不知道这个序列号，因此我没法再复制一份这张纸条给另一个人。这就是密码学上所谓的盲签（blind signature）。这个思路形成了“第一个真正意义上的电子货币方案”。1989年，大卫·乔姆还创建了数字现金公司（DigiCash）来把自己的想法商业化，但未能被大规模接受。<br>这个方案的缺点是，它要运转起来，就必须有一个所有参与者都信任的中心化服务器来进行这些“数字纸条”的验证。</p><p><strong>2) 1997～1998年，亚当·贝克（Adam Back）与哈希现金（HashCash）、戴伟（Wei Dai）与B币（B-Money）、尼克·萨博（Nick Szabo）与比特黄金（bit gold）、哈尔·芬尼（Hal Finney）与工作量证明（POW）</strong></p><p>在比特币白皮书中，中本聪引用了1997年亚当·贝克设计的哈希现金、1998年华裔密码学家戴伟设计的B币等前人的成果。2010年，由于维基百科试图删除比特币词条，因此中本聪与人讨论了如何修改词条描述以让维基百科接受，他建议这样写：“比特币是戴伟在1998年在密码朋克中所提到的B币构想和尼克·萨博提出的比特黄金的具体实现。”他说是具体实现，是因为B币和比特黄金都只是停留在构想中。</p><p>这就引出了区块链领域的一个重要人物——计算机科学家尼克·萨博。他在1998年提出了名为比特黄金的方案。在现在的区块链世界中，尼克·萨博有着更为重要的位置：萨博是“智能合约”（smart contract）的提出者，1993年他写出了“智能合约”论文。智能合约是区块链处理交易的核心方式，区块链应用的实质可被看成是一个个智能合约的组合。</p><p>这一阶段的第四个重要人物是知名密码学家哈尔·芬尼，他是著名的PGP加密中的“G”，是密码朋克圈中的前辈。他在2004年推出了自己版本的采用工作量证明（POW）机制的电子货币。在比特币开发过程中，哈尔·芬尼与中本聪有很多互动，比特币的第一笔转账就是中本聪转了10个比特币给哈尔·芬尼。</p><p>他们四人的具体设想各有不同，但有一个共同点，即都是让计算机进行计算，从而“创造”电子现金，它们是比特币系统让计算机进行加密计算的工作量证明和“挖矿”的创意来源。这非常重要，有了这个想法，中心化服务器才可以被去中心网络所取代，困扰数字货币的难题被解决了。</p><blockquote><p>再往前，这个想法可追溯到1992年密码学家辛提亚·沃克（Cynthia Dwork）、摩尼·纳欧尔（Moni Naor）提出来的用于减少垃圾邮件的一个方案，对此杰里米·克拉克在《区块链：技术驱动金融》一书中解释说：“设想你每次发送邮件时，计算机都不得不花几秒钟解决一道数学计算题目。如果你没能附上答案，收件人的邮箱会自动忽略这封邮件”。</p></blockquote><p><strong>3) 2008年10月，中本聪发布论文“比特币：一个点对点电子现金系统”</strong></p><p>最终，中本聪把前人的创新综合起来，实现了一种在发行和交易上都去中心化的电子现金。</p><p>对于前人的数字货币系统（比如乔姆的系统）为什么会失败，中本聪曾经写道：自20世纪90年代以来所有的虚拟货币公司全都失败了……我希望，人们可以看到，这些系统之所以失败，显然是因为它们的中心化控制这一特性。我想，我们正在首次尝试建立一个去中心化的、非基于信任的系统。</p><p>这里他提到了两个相关的词，一是去中心化（decentralized），二是非基于信任的（non-trust-based）。去中心网络一定是非基于信任的。</p><hr><h1 id="区块链由哪些领域及其技术组成"><a href="#区块链由哪些领域及其技术组成" class="headerlink" title="区块链由哪些领域及其技术组成"></a><strong>区块链由哪些领域及其技术组成</strong></h1><br/><p>由数学、密码学、互联网、计算机编程组成。具体每个领域体现在哪些技术：</p><table><thead><tr><th><strong>数学</strong><sup><a href="https://www.jianshu.com/p/b71c6e7cfb1c" target="_blank" rel="noopener">[2]</a></sup></th><th align="center"><strong>密码学</strong><sup><a href="https://zhuanlan.zhihu.com/p/35649160" target="_blank" rel="noopener">[3]</a></sup></th><th><strong>互联网</strong><sup><a href="https://www.jianshu.com/p/4a201dca9b05" target="_blank" rel="noopener">[4]</a></sup></th><th><strong>计算机编程</strong><sup><a href="https://cloud.tencent.com/developer/article/1170525" target="_blank" rel="noopener">[5]</a></sup></th></tr></thead><tbody><tr><td>非对称加密</td><td align="center">哈希(Hash)、散列函数</td><td>P2P网络</td><td>GO</td></tr><tr><td></td><td align="center">加密解密算法</td><td></td><td>Java</td></tr><tr><td></td><td align="center">消息认证与数字签名</td><td></td><td>JavaScript</td></tr><tr><td></td><td align="center">数字证书</td><td></td><td>Solidity</td></tr><tr><td></td><td align="center">PKI体系</td><td></td><td>Python</td></tr><tr><td></td><td align="center">哈希链表、Merkle树结构</td><td></td><td></td></tr><tr><td></td><td align="center">布隆过滤器</td><td></td><td></td></tr><tr><td></td><td align="center">同态加密</td><td></td><td></td></tr></tbody></table><hr><h1 id="区块链的核心技术"><a href="#区块链的核心技术" class="headerlink" title="区块链的核心技术"></a><strong>区块链的核心技术</strong></h1><br/><ol><li><p><strong>分布式存储</strong>，作用：数字存储</p><p>区块链中的分布式存储是参与的节点各自都有独立的、完整的数据存储，其独特性主要体现在两个方面，一是区块链每个节点都按照块链式结构存储完整的数据，二是区块链每个节点存储都是独立的、地位等同的，依靠共识机制保证存储的一致性。</p></li><li><p><strong>密码学原理</strong>，作用：数字安全</p><p>密码学是保证区块链中数据传输、存储和访问安全的重要技术手段，是构造交易双方信任的基石。在区块链技术中应用了大量的密码学的知识，如：公钥、私钥、哈希、对称加密、非对称加密、同态加密、签名、零知识证明等。</p></li><li><p><strong>共识机制</strong>，作用：数字处理</p><p>所谓共识，是指多方参与的节点在预设规则下，通过多个节点交互对某些数据、行为或流程达成一致的过程。共识机制是指定义共识过程的算法、协议和规则，区块链的共识机制具备“少数服从多数”以及“人人平等”的特点。</p></li><li><p><strong>智能合约</strong>，作用：数字应用</p><p>智能合约是基于这些可信的不可篡改的数据，可以自动化的执行一些预先定义好的规则和条款。以保险为例，如果说每个人的信息（包括医疗信息和风险发生的信息）都是真实可信的，那就很容易的在一些标准化的保险产品中，去进行自动化的理赔。在保险公司的日常业务中，虽然交易不像银行和证券行业那样频繁，但是对可信数据的依赖是有增无减。因此，笔者认为利用区块链技术，从数据管理的角度切入，能够有效地帮助保险公司提高风险管理能力。具体来讲主要分投保人风险管理和保险公司的风险监督</p></li></ol><hr><h1 id="区块链的基本原理"><a href="#区块链的基本原理" class="headerlink" title="区块链的基本原理"></a><strong>区块链的基本原理</strong></h1><br/><blockquote><p>香港大学 金融学硕士 李迪一，《理解区块链的结构及其设计原理》<sup><a href="https://zhuanlan.zhihu.com/p/34385708" target="_blank" rel="noopener">[6]</a></sup>对区块链结构作了深度的分析见解。</p></blockquote><p>区块链的基本原理理解起来并不复杂。首先，区块链包括三个基本概念：</p><ul><li><p><strong>交易（transaction）</strong>：一次对账本的操作，导致账本状态的一次改变，如添加一条转账记录；</p></li><li><p><strong>区块（block）</strong>：记录一段时间发生的所有交易和状态结果，是对当前账本状态的一次共识；</p></li><li><p><strong>链（chain）</strong>：由区块按照发生顺序串联而成，是整个账本状态变化的日志记录。</p></li></ul><p>如果把区块链作为一个状态机，则每次交易就是试图改变一次状态，而每次共识生成的区块，就是参与者对于区块中交易导致状态改变的结果进行确认。</p><p>在实现上，首先假设存在一个分布式的数据记录账本，这个账本只允许添加、不允许删除。账本底层的基本结构是一个线性的链表，这也是其名字“区块链”的来源。链表由一个个“区块”串联组成（如下图1所示），后继区块记录前导区块的哈希值（pre hash）。新的数据要加入，必须放到一个新的区块中。而这个块（以及块里的交易）是否合法，可以通过计算哈希值的方式快速检验出来。任意维护节点都可以提议一个新的合法区块，然而必须经过一定的共识机制来对最终选择的区块达成一致。</p><p><img src="https://s1.ax1x.com/2020/04/09/Gh5CUx.jpg" alt="Gh5CUx.jpg"></p><center>图1为： 区块链结构示例</center><hr><h1 id="区块链的特征"><a href="#区块链的特征" class="headerlink" title="区块链的特征"></a><strong>区块链的特征</strong></h1><br/><p>从区块链的形成过程看，区块链技术具有以下特征：<sup><a href="https://www.chainnews.com/articles/667226575871.htm" target="_blank" rel="noopener">[7]</a></sup></p><ul><li><strong>去中心化</strong>。区块链技术不依赖额外的第三方管理机构或硬件设施，没有中心管制，除了自成一体的区块链本身，通过分布式核算和存储，各个节点实现了信息自我验证、传递和管理。去中心化是区块链最突出最本质的特征。</li><li><strong>不可篡改。</strong>区块链上的内容都需要采用密码学原理进行复杂的运算之后才能够记录上链，而且区块链上，后一个区块的内容会包含前一个区块的内容，这就使得信息篡改的难度非常大、篡改成本非常高，这就是区块链“不可篡改”的特性。区块链“不可篡改”的特性，意味着一旦数据写入到区块链 ,任何人都无法擅自更改数据信息。</li><li><strong>开放性</strong>。区块链技术基础是开源的，除了交易各方的私有信息被加密外，区块链的数据对所有人开放，任何人都可以通过公开的接口查询区块链数据和开发相关应用，因此整个系统信息高度透明。</li><li><strong>独立性</strong>。基于协商一致的规范和协议(类似比特币采用的哈希算法等各种数学算法)，整个区块链系统不依赖其他第三方，所有节点能够在系统内自动安全地验证、交换数据，不需要任何人为的干预。</li><li><strong>安全性</strong>。只要不能掌控全部数据节点的51%，就无法肆意操控修改网络数据，这使区块链本身变得相对安全，避免了主观人为的数据变更。</li><li><strong>匿名性</strong>。除非有法律规范要求，单从技术上来讲，各区块节点的身份信息不需要公开或验证，信息传递可以匿名进行。</li></ul><hr><h1 id="区块链的类型"><a href="#区块链的类型" class="headerlink" title="区块链的类型"></a><strong>区块链的类型</strong></h1><br/><blockquote><p>在张健著《区块链：定义未来金融与经济新格局》（机械工业出版社）提到的3种区块链类型</p></blockquote><p>从区块链的类型<sup><a href="https://www.jianshu.com/p/7827ee0f8fae" target="_blank" rel="noopener">[8]</a></sup>分类来看，主要有以下三种：</p><ol><li><p><strong>公有区块链（</strong>简称：公有链）</p><p>公有区块链（Public Block Chains)是指：世界上任何个体或者团体都可以发送交易，且交易能够获得该区块链的有效确认，任何人都可以参与其共识过程。公有区块链是最早的区块链，也是应用最广泛的区块链，各大bitcoins系列的虚拟数字货币均基于公有区块链，世界上有且仅有一条该币种对应的区块链   。</p></li><li><p><strong>联合（行业）区块链</strong>（简称：联盟链）</p><p>行业区块链（Consortium Block Chains)：由某个群体内部指定多个预选的节点为记账人，每个块的生成由所有的预选节点共同决定（预选节点参与共识过程），其他接入节点可以参与交易，但不过问记账过程(本质上还是托管记账，只是变成分布式记账，预选节点的多少，如何决定每个块的记账者成为该区块链的主要风险点），其他任何人可以通过该区块链开放的API进行限定查询 。</p></li><li><p><strong>私有区块链</strong>（简称：私有链）</p><p>私有区块链（Private Block Chains)：仅仅使用区块链的总账技术进行记账，可以是一个公司，也可以是个人，独享该区块链的写入权限，本链与其他的分布式存储方案没有太大区别。传统金融都是想实验尝试私有区块链，而公链的应用例如bitcoin已经工业化，私链的应用产品还在摸索当中  。</p></li></ol><p>从区块链的类型<sup><a href="https://www.jianshu.com/p/7827ee0f8fae" target="_blank" rel="noopener">[8]</a></sup>对比来看：</p><table><thead><tr><th></th><th><strong>公有链</strong></th><th><strong>联盟链</strong></th><th><strong>私有链</strong></th></tr></thead><tbody><tr><td><strong>参与者</strong></td><td>任何人自由进出</td><td>联盟成员</td><td>链的所有者</td></tr><tr><td><strong>共识机制</strong></td><td>pow/pos</td><td>分布式一致性算法</td><td>solo/pbft等</td></tr><tr><td><strong>记账人</strong></td><td>所有参与者</td><td>联盟成员协商确定</td><td>链的所有者</td></tr><tr><td><strong>激励机制</strong></td><td>需要</td><td>可选</td><td>无</td></tr><tr><td><strong>中心化程度</strong></td><td>去中心化</td><td>弱中心化</td><td>强中心化</td></tr><tr><td><strong>如初特点</strong></td><td>信用的自创建</td><td>效率和成本优化</td><td>安全性高、效率高</td></tr><tr><td><strong>承载能力</strong></td><td>&lt;100笔/秒</td><td>&lt;10万笔/秒</td><td>视配置决定</td></tr><tr><td><strong>典型场景</strong></td><td>加密货币</td><td>供应链金融、银行、物流、电商</td><td>大型组织、机构</td></tr><tr><td><strong>代表项目</strong></td><td>比特币、以太坊</td><td>R3、Hyperledger</td><td></td></tr></tbody></table><hr><h1 id="区块链的共识机制"><a href="#区块链的共识机制" class="headerlink" title="区块链的共识机制"></a><strong>区块链的共识机制</strong></h1><br/><p>由于加密货币多数采用去中心化的区块链设计，节点是各处分散且平行的，所以必须设计一套制度，来维护系统的运作顺序与公平性，统一区块链的版本，并奖励提供资源维护区块链的使用者，以及惩罚恶意的危害者。这样的制度，必须依赖某种方式来证明，是由谁取得了一个区块链的打包权（或称记帐权），并且可以获取打包这一个区块的奖励；又或者是谁意图进行危害，就会获得一定的惩罚，这就是共识机制。<sup><a href="https://ictjournal.itri.org.tw/Content/Messagess/contents.aspx?&MmmID=654304432061644411&MSID=744257557510131250" target="_blank" rel="noopener">[9]</a></sup></p><p><strong>常见的共识机制</strong>：</p><p>工作量证明（Proof-of-Work，PoW），典型案例：比特币网络<br>权益证明（Proof-of-Stake，PoS，又译持有量证明），典型案例：以太坊<br>股份授权证明（Delegated-Proof-of-Stake，DPoS），典型案例：EOS<br>容量证明（Proof-of-space，PoSpace，又称 Proof-of-Capacity，PoC），典型案例：Filecoin<br>Paxos<br>RAFT<br>PBFT<br>LibraBFT（Byzantine fault-tolerance）：Libra上使用</p><p><strong>共识机制比较</strong>：</p><p> 评价一个共识机制，不能单纯的用好或者坏来定义，要区分业务属性。而业务属性主要基于区块链的不可能三角及业务类型，所以主要从场景、去中心化程度、记账节点、响应时间、存储效率、吞吐量和容错性等维度进行比较，详情如下：<sup><a href="https://www.jianshu.com/p/9ce110a4e7db" target="_blank" rel="noopener">[10]</a></sup></p><blockquote><p>tips：区块链不可能三角指任何区块链系统在安全、性能和去中心化三个方面都不能完全兼顾。</p></blockquote><table><thead><tr><th></th><th><strong>PoW</strong></th><th><strong>PoS</strong></th><th><strong>DPoS</strong></th><th><strong>Paft</strong></th><th><strong>PBFT</strong></th></tr></thead><tbody><tr><td><strong>场景</strong></td><td><strong>公链、联盟链</strong></td><td><strong>公链、联盟链</strong></td><td><strong>公链、联盟链</strong></td><td><strong>联盟链</strong></td><td><strong>联盟链</strong></td></tr><tr><td><strong>去中心化程度</strong></td><td>完全</td><td>完全</td><td>完全</td><td>半中心化</td><td>半中心化</td></tr><tr><td><strong>记账节点</strong></td><td>全网</td><td>全网</td><td>选出若干代表</td><td>选出若干代表</td><td>动态决定</td></tr><tr><td><strong>响应时间</strong></td><td>10分钟</td><td>1分钟</td><td>3秒左右</td><td>秒级</td><td>秒级</td></tr><tr><td><strong>存储效率</strong></td><td>全账本</td><td>全账本</td><td>全账本</td><td>全账本</td><td>全账本+部分全账本</td></tr><tr><td><strong>吞吐量</strong></td><td>约7TPS</td><td>约15TPS</td><td>约300TPS或更高</td><td>几千甚至上万</td><td>约1000TPS或更高</td></tr><tr><td><strong>容错</strong></td><td>50%</td><td>50%</td><td>50%</td><td>50%</td><td>33%</td></tr></tbody></table><center><font color="acacac" size=2>上图共识机制对比图参考[10]</font></center><hr><h1 id="区块链的架构模型"><a href="#区块链的架构模型" class="headerlink" title="区块链的架构模型"></a><strong>区块链的架构模型</strong></h1><br/><blockquote><p>2017年5月16日上午，在杭州国际博览中心举行的区块链技术应用峰会暨首届中国区块链开发大赛成果发布会上，首个区块链标准《区块链 参考架构》正式发布。<sup><a href="https://www.jianshu.com/p/be4db6f918ed" target="_blank" rel="noopener">[11]</a></sup></p></blockquote><p>区块链系统由自下而上的数据层、网络层、共识层、激励层、合约层和应用层组成。</p><p><img src="https://s1.ax1x.com/2020/04/11/GbSZUs.png" alt="GbSZUs.png"></p><p><strong>1.数据层</strong></p><p>数据层封装了底层数据区块的链式结构，以及相关的非对称公私钥数据加密技术和时间戳等技术，这是整个区块链技术中最底层的数据机构，其中大多数技术都已被发明数十年，并在计算机领域使用了很久，无须担心其中的安全性，因为如果这些技术出现安全性上的巨大漏洞，则意味着全球金融技术都会出现严重的问题。中本聪在设计比特币时，为每个区块设置了1MB（兆）大小的容量限制，但由于目前比特币的交易量迅速提升，1MB的区块空间能容纳的交易数量有限，所以要考虑扩容区块链来突破这个限制。</p><p><strong>2.网络层</strong></p><p>网络层包括分布式组网机制、数据传播机制和数据验证机制等，由于采用了完全P2P的组网技术，也就意味着区块链是具有自动组网功能的。这种P2P组网技术，在早先应用于BT（比特流）和eMule（电驴）之类的P2P下载软件中，也是一种相对来说非常成熟的技术。</p><p><strong>3.共识层</strong></p><p>共识层主要封装网络节点的各类共识机制算法。共识机制算法是区块链技术的核心技术，因为这决定了到底由谁来进行记账，记账者选择方式将会影响到整个系统的安全性和可靠性。目前已经出现了十余种共识机制算法，其中最为知名的有工作量证明机制（Proof of Work，PoW）、权益证明机制（Proof of Stake，PoS）、股份授权证明机制（Delegated Proof of Stake，DPoS）等。在下一节中将会详细介绍这些共识机制。</p><p><strong>4.激励层</strong></p><p>激励层将经济因素集成到区块链技术体系中来，主要包括经济激励的发行机制和分配机制等，该层主要出现在公有链（Public Blockchain）中，因为在公有链中必须激励遵守规则参与记账的节点，并且惩罚不遵守规则的节点，才能让整个系统朝着良性循环的方向发展。所以激励机制往往也是一种博弈机制，让更多遵守规则的节点愿意进行记账。而在私有链（Private Blockchain）中，则不一定需要进行激励，因为参与记账的节点往往是在链外完成了博弈，也就是可能有强制力或者有其他需求来要求参与记账。</p><p><strong>5.合约层</strong></p><p>合约层主要封装各类脚本、算法和智能合约，是区块链可编程特性的基础。以以太坊为首的新一代区块链系统试图完善比特币的合约层。比特币尽管也包含了脚本代码，但是并不是图灵完备的，即不支持循环语句；以太坊在比特币结构的基础上，内置了编程语言协议，从而在理论上可以实现任何应用功能。如果把比特币看成是全球账本的话，那么就可以把以太坊看作是一台“全球计算机”——任何人都可以上传和执行任意的应用程序，并且程序的有效执行能够得到保证。</p><p><strong>6.应用层</strong></p><p>应用层则封装了区块链的各种应用场景和案例。比如搭建在以太坊上的各类区块链应用就是部署在应用层，所谓可编程货币和可编程金融也将会搭建在应用层。 该模型中，基于时间戳的链式区块结构、分布式节点的共识机制、基于共识机制的经济激励和灵活可编程的智能合约是区块链技术最具代表性的创新点。其中数据层、网络层和共识层是构建区块链应用的必要因素，否则将不能称为真正意义上的区块链。而激励层、合约层和应用层则不是每个区块链应用的必要因素，有部分的区块链应用并不完整地包含着这三层结构。</p><hr><h1 id="参考文献"><a href="#参考文献" class="headerlink" title="参考文献"></a>参考文献</h1><br/><blockquote><p><a href="https://www.kepuchina.cn/tech/info/201910/t20191031_1142466.shtml" target="_blank" rel="noopener">[0] 科普中国：分布化账本到底是什么？</a></p><p><a href="https://bitcoin.org/files/bitcoin-paper/bitcoin_zh_cn.pdf" target="_blank" rel="noopener">[1] 比特币白皮书：《比特币：一种点对点电子货币系统》</a></p><p><a href="https://max.book118.com/html/2018/0110/148162413.shtm" target="_blank" rel="noopener">[1.1] 《区块链：技术驱动金融》</a></p><p><a href="https://www.jianshu.com/p/b71c6e7cfb1c" target="_blank" rel="noopener">[2] 区块链的数学层面认知</a></p><p><a href="https://zhuanlan.zhihu.com/p/35649160" target="_blank" rel="noopener">[3] 知乎：区块链中的密码学与安全技术</a></p><p><a href="https://www.jianshu.com/p/4a201dca9b05" target="_blank" rel="noopener">[4] 区块链与P2P网络</a></p><p><a href="https://cloud.tencent.com/developer/article/1170525" target="_blank" rel="noopener">[5] 腾讯云：区块链技术入门，都涉及哪些编程语言？</a></p><p><a href="https://zhuanlan.zhihu.com/p/34385708://cloud.tencent.com/developer/article/1170525" target="_blank" rel="noopener">[6] 香港大学-李迪一：《理解区块链的结构及其设计原理》</a></p><p><a href="https://www.chainnews.com/articles/667226575871.htm" target="_blank" rel="noopener">[7] 区块链的六大特性</a></p><p><a href="https://www.jianshu.com/p/7827ee0f8fae" target="_blank" rel="noopener">[8] 区块链种类</a></p><p><a href="https://ictjournal.itri.org.tw/Content/Messagess/contents.aspx?&MmmID=654304432061644411&MSID=744257557510131250" target="_blank" rel="noopener">[9] 工研院资通所：区块链简介与技术探讨</a></p><p><a href="https://www.jianshu.com/p/9ce110a4e7db" target="_blank" rel="noopener">[10] 区块链共识机制</a></p><p><a href="https://www.jianshu.com/p/be4db6f918ed" target="_blank" rel="noopener">[11] 中国首个区块链标准《区块链参考架构》</a></p></blockquote>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;区块链是什么&quot;&gt;&lt;a href=&quot;#区块链是什么&quot; class=&quot;headerlink&quot; title=&quot;区块链是什么&quot;&gt;&lt;/a&gt;区块链是什么&lt;/h1&gt;&lt;br/&gt;
+
+&lt;p&gt;“&lt;strong&gt;区块链&lt;/strong&gt;”一词起源于中本聪发明的一种点对点电子货币系统中&lt;sup&gt;&lt;a href=&quot;https://bitcoin.org/files/bitcoin-paper/bitcoin_zh_cn.pdf&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;[1]&lt;/a&gt;&lt;/sup&gt;，这电子货币系统称为&lt;strong&gt;比特币&lt;/strong&gt;。作为比特币的底层技术，本质上是一个去中心化的数据库。是指通过去中心化和去信任的方式集体维护一个可靠数据库的技术方案。&lt;/p&gt;
+&lt;p&gt;从科技层面来看，区块链是一门涉及数学、密码学、互联网和计算机编程等很多科学技术综合交叉学问。&lt;/p&gt;
+&lt;p&gt;从应用视角来看，区块链是一种新兴技术，它是一个分布式的共享账本和数据库；这门技术从特点上分析，具有去中心化、不可篡改、全程留痕、可以追溯、集体维护、公开透明等特点。&lt;/p&gt;
+&lt;p&gt;从计算机技术应用模式的视角来看，它具备分布式数据存储、点对点传输、共识机制、加密算法等技术模式。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="区块链" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/"/>
+    
+      <category term="数字货币" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/"/>
+    
+      <category term="区块链技术" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E5%8C%BA%E5%9D%97%E9%93%BE%E6%8A%80%E6%9C%AF/"/>
+    
+      <category term="比特币" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/%E6%AF%94%E7%89%B9%E5%B8%81/"/>
+    
+      <category term="解密引擎" scheme="https://www.chengwf.com/categories/%E8%A7%A3%E5%AF%86%E5%BC%95%E6%93%8E/"/>
+    
+    
+      <category term="区块链" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE/"/>
+    
+      <category term="解密引擎" scheme="https://www.chengwf.com/tags/%E8%A7%A3%E5%AF%86%E5%BC%95%E6%93%8E/"/>
+    
+      <category term="比特币" scheme="https://www.chengwf.com/tags/%E6%AF%94%E7%89%B9%E5%B8%81/"/>
+    
+      <category term="共识机制" scheme="https://www.chengwf.com/tags/%E5%85%B1%E8%AF%86%E6%9C%BA%E5%88%B6/"/>
     
   </entry>
   
@@ -371,15 +371,15 @@
       <category term="数字银行" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E5%8C%BA%E5%9D%97%E9%93%BE%E9%87%91%E8%9E%8D/%E6%95%B0%E5%AD%97%E9%93%B6%E8%A1%8C/"/>
     
     
-      <category term="区块链" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE/"/>
-    
       <category term="区块链看点" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE%E7%9C%8B%E7%82%B9/"/>
     
-      <category term="DCEP" scheme="https://www.chengwf.com/tags/DCEP/"/>
+      <category term="区块链" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE/"/>
     
       <category term="数字经济" scheme="https://www.chengwf.com/tags/%E6%95%B0%E5%AD%97%E7%BB%8F%E6%B5%8E/"/>
     
       <category term="区块链金融" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE%E9%87%91%E8%9E%8D/"/>
+    
+      <category term="DCEP" scheme="https://www.chengwf.com/tags/DCEP/"/>
     
       <category term="数字银行" scheme="https://www.chengwf.com/tags/%E6%95%B0%E5%AD%97%E9%93%B6%E8%A1%8C/"/>
     
@@ -409,20 +409,20 @@
     
       <category term="数字经济" scheme="https://www.chengwf.com/categories/%E6%95%B0%E5%AD%97%E7%BB%8F%E6%B5%8E/"/>
     
-      <category term="比特币" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/%E6%AF%94%E7%89%B9%E5%B8%81/"/>
-    
       <category term="数字货币" scheme="https://www.chengwf.com/categories/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/"/>
+    
+      <category term="比特币" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/%E6%AF%94%E7%89%B9%E5%B8%81/"/>
     
     
       <category term="区块链看点" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE%E7%9C%8B%E7%82%B9/"/>
-    
-      <category term="巴菲特" scheme="https://www.chengwf.com/tags/%E5%B7%B4%E8%8F%B2%E7%89%B9/"/>
     
       <category term="新冠状病毒" scheme="https://www.chengwf.com/tags/%E6%96%B0%E5%86%A0%E7%8A%B6%E7%97%85%E6%AF%92/"/>
     
       <category term="COVID-19" scheme="https://www.chengwf.com/tags/COVID-19/"/>
     
       <category term="加密货币" scheme="https://www.chengwf.com/tags/%E5%8A%A0%E5%AF%86%E8%B4%A7%E5%B8%81/"/>
+    
+      <category term="巴菲特" scheme="https://www.chengwf.com/tags/%E5%B7%B4%E8%8F%B2%E7%89%B9/"/>
     
   </entry>
   
@@ -596,28 +596,28 @@
     
       <category term="区块链" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/"/>
     
-      <category term="新冠状病毒" scheme="https://www.chengwf.com/categories/%E6%96%B0%E5%86%A0%E7%8A%B6%E7%97%85%E6%AF%92/"/>
-    
       <category term="区块链金融" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E5%8C%BA%E5%9D%97%E9%93%BE%E9%87%91%E8%9E%8D/"/>
     
-      <category term="数字经济" scheme="https://www.chengwf.com/categories/%E6%95%B0%E5%AD%97%E7%BB%8F%E6%B5%8E/"/>
+      <category term="新冠状病毒" scheme="https://www.chengwf.com/categories/%E6%96%B0%E5%86%A0%E7%8A%B6%E7%97%85%E6%AF%92/"/>
     
       <category term="区块链应用" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E5%8C%BA%E5%9D%97%E9%93%BE%E5%BA%94%E7%94%A8/"/>
     
+      <category term="数字经济" scheme="https://www.chengwf.com/categories/%E6%95%B0%E5%AD%97%E7%BB%8F%E6%B5%8E/"/>
     
-      <category term="区块链" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE/"/>
     
       <category term="区块链看点" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE%E7%9C%8B%E7%82%B9/"/>
+    
+      <category term="区块链" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE/"/>
     
       <category term="新冠状病毒" scheme="https://www.chengwf.com/tags/%E6%96%B0%E5%86%A0%E7%8A%B6%E7%97%85%E6%AF%92/"/>
     
       <category term="COVID-19" scheme="https://www.chengwf.com/tags/COVID-19/"/>
     
-      <category term="区块链应用" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE%E5%BA%94%E7%94%A8/"/>
-    
       <category term="数字经济" scheme="https://www.chengwf.com/tags/%E6%95%B0%E5%AD%97%E7%BB%8F%E6%B5%8E/"/>
     
       <category term="区块链金融" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE%E9%87%91%E8%9E%8D/"/>
+    
+      <category term="区块链应用" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE%E5%BA%94%E7%94%A8/"/>
     
   </entry>
   
@@ -672,9 +672,9 @@
     </summary>
     
     
-      <category term="数字经济" scheme="https://www.chengwf.com/categories/%E6%95%B0%E5%AD%97%E7%BB%8F%E6%B5%8E/"/>
-    
       <category term="哈佛商业评论" scheme="https://www.chengwf.com/categories/%E5%93%88%E4%BD%9B%E5%95%86%E4%B8%9A%E8%AF%84%E8%AE%BA/"/>
+    
+      <category term="数字经济" scheme="https://www.chengwf.com/categories/%E6%95%B0%E5%AD%97%E7%BB%8F%E6%B5%8E/"/>
     
       <category term="数字经济" scheme="https://www.chengwf.com/categories/%E6%95%B0%E5%AD%97%E7%BB%8F%E6%B5%8E/%E6%95%B0%E5%AD%97%E7%BB%8F%E6%B5%8E/"/>
     
@@ -714,9 +714,9 @@
     
       <category term="区块链" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE/"/>
     
-      <category term="数字货币" scheme="https://www.chengwf.com/tags/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/"/>
-    
       <category term="区块链应用" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE%E5%BA%94%E7%94%A8/"/>
+    
+      <category term="数字货币" scheme="https://www.chengwf.com/tags/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/"/>
     
       <category term="IPFS" scheme="https://www.chengwf.com/tags/IPFS/"/>
     

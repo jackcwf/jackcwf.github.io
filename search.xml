@@ -88,10 +88,10 @@
         <category>人民币</category>
       </categories>
       <tags>
-        <tag>区块链看点</tag>
         <tag>美元</tag>
         <tag>货币</tag>
         <tag>外汇</tag>
+        <tag>区块链看点</tag>
       </tags>
   </entry>
   <entry>
@@ -119,10 +119,10 @@
         <category>区块链</category>
       </categories>
       <tags>
+        <tag>区块链看点</tag>
         <tag>区块链</tag>
         <tag>数字货币</tag>
         <tag>闪电网络</tag>
-        <tag>区块链看点</tag>
       </tags>
   </entry>
   <entry>
@@ -439,13 +439,13 @@
         <category>数字货币</category>
       </categories>
       <tags>
-        <tag>区块链</tag>
         <tag>区块链看点</tag>
-        <tag>加密货币</tag>
+        <tag>区块链</tag>
         <tag>加密货币交易平台</tag>
         <tag>火币</tag>
         <tag>币安</tag>
         <tag>OKEx</tag>
+        <tag>加密货币</tag>
         <tag>矿池</tag>
       </tags>
   </entry>
@@ -561,8 +561,8 @@
 ]]></content>
       <categories>
         <category>区块链</category>
-        <category>新冠状病毒</category>
         <category>区块链金融</category>
+        <category>新冠状病毒</category>
         <category>数据</category>
         <category>数字经济</category>
         <category>数字银行</category>
@@ -610,8 +610,8 @@
         <category>区块链</category>
       </categories>
       <tags>
-        <tag>区块链</tag>
         <tag>区块链看点</tag>
+        <tag>区块链</tag>
       </tags>
   </entry>
   <entry>
@@ -678,6 +678,24 @@
         <tag>数据</tag>
         <tag>人工智能（AI）</tag>
         <tag>AI芯片</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>一个自我进化的知识解密引擎库</title>
+    <url>/2020/03/inevo/inevo-principle.html</url>
+    <content><![CDATA[<p><strong>一个能自我进化、智能完善的知识引擎库：</strong></p>
+<p><abbr title="Hyper Text Markup Language">IN-EVOLUTIO</abbr>，简称：<abbr title="World Wide Web Consortium">Inevo</abbr></p>
+<hr>
+<p><strong>Inevo是什么</strong></p>
+<blockquote>
+<p> Inevo是Jack.Chan在全球首个提出的信息检索、智能抽取、真实对照的引擎库系统，利用区块链和AI的特性，适应人脑神经网络运算机制和思维体系逻辑，通过建立独立而可供接入编程API的数据库索引中纽神经库，进而为人类智能提供可解析、可检索、可溯源的知识体系还原成果系统。</p>
+</blockquote>
+<a id="more"></a>]]></content>
+      <categories>
+        <category>解密引擎</category>
+      </categories>
+      <tags>
+        <tag>解密引擎</tag>
       </tags>
   </entry>
   <entry>
@@ -1044,8 +1062,8 @@
       <categories>
         <category>区块链</category>
         <category>数字货币</category>
-        <category>比特币</category>
         <category>区块链技术</category>
+        <category>比特币</category>
         <category>解密引擎</category>
       </categories>
       <tags>
@@ -1053,24 +1071,6 @@
         <tag>解密引擎</tag>
         <tag>比特币</tag>
         <tag>共识机制</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>一个自我进化的知识解密引擎库</title>
-    <url>/2020/03/inevo/inevo-principle.html</url>
-    <content><![CDATA[<p><strong>一个能自我进化、智能完善的知识引擎库：</strong></p>
-<p><abbr title="Hyper Text Markup Language">IN-EVOLUTIO</abbr>，简称：<abbr title="World Wide Web Consortium">Inevo</abbr></p>
-<hr>
-<p><strong>Inevo是什么</strong></p>
-<blockquote>
-<p> Inevo是Jack.Chan在全球首个提出的信息检索、智能抽取、真实对照的引擎库系统，利用区块链和AI的特性，适应人脑神经网络运算机制和思维体系逻辑，通过建立独立而可供接入编程API的数据库索引中纽神经库，进而为人类智能提供可解析、可检索、可溯源的知识体系还原成果系统。</p>
-</blockquote>
-<a id="more"></a>]]></content>
-      <categories>
-        <category>解密引擎</category>
-      </categories>
-      <tags>
-        <tag>解密引擎</tag>
       </tags>
   </entry>
   <entry>
@@ -1193,11 +1193,11 @@
         <category>数字银行</category>
       </categories>
       <tags>
-        <tag>区块链</tag>
         <tag>区块链看点</tag>
-        <tag>DCEP</tag>
+        <tag>区块链</tag>
         <tag>数字经济</tag>
         <tag>区块链金融</tag>
+        <tag>DCEP</tag>
         <tag>数字银行</tag>
       </tags>
   </entry>
@@ -1330,15 +1330,15 @@
         <category>新冠状病毒</category>
         <category>数字货币</category>
         <category>数字经济</category>
-        <category>比特币</category>
         <category>数字货币</category>
+        <category>比特币</category>
       </categories>
       <tags>
         <tag>区块链看点</tag>
-        <tag>巴菲特</tag>
         <tag>新冠状病毒</tag>
         <tag>COVID-19</tag>
         <tag>加密货币</tag>
+        <tag>巴菲特</tag>
       </tags>
   </entry>
   <entry>
@@ -1714,19 +1714,19 @@ AI的关键重要性
 ]]></content>
       <categories>
         <category>区块链</category>
-        <category>新冠状病毒</category>
         <category>区块链金融</category>
-        <category>数字经济</category>
+        <category>新冠状病毒</category>
         <category>区块链应用</category>
+        <category>数字经济</category>
       </categories>
       <tags>
-        <tag>区块链</tag>
         <tag>区块链看点</tag>
+        <tag>区块链</tag>
         <tag>新冠状病毒</tag>
         <tag>COVID-19</tag>
-        <tag>区块链应用</tag>
         <tag>数字经济</tag>
         <tag>区块链金融</tag>
+        <tag>区块链应用</tag>
       </tags>
   </entry>
   <entry>
@@ -1877,8 +1877,8 @@ AI的关键重要性
 </blockquote>
 ]]></content>
       <categories>
-        <category>数字经济</category>
         <category>哈佛商业评论</category>
+        <category>数字经济</category>
         <category>数字经济</category>
         <category>数字化管理</category>
       </categories>
@@ -1924,8 +1924,8 @@ AI的关键重要性
       </categories>
       <tags>
         <tag>区块链</tag>
-        <tag>数字货币</tag>
         <tag>区块链应用</tag>
+        <tag>数字货币</tag>
         <tag>IPFS</tag>
       </tags>
   </entry>
