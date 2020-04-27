@@ -24,7 +24,7 @@
 <p><strong>C、第三圈层</strong>：发展中国家的货币</p>
 <p>​        比如说巴西的雷亚尔、墨西哥的比索、俄罗斯的卢布、土耳其的里拉等；</p>
 <blockquote>
-<p>为什么人民币没有划分到这3大圈层里面？因为人民币有算非常特殊的原因和关系，而更是跟美元有着非常深层次的一种关系在里面。</p>
+<p>为什么人民币没有划分到这3大圈层里面？因为人民币有着非常特殊的原因和关系，而更是跟美元有着非常深层次的一种关系在里面。</p>
 </blockquote>
 <hr>
 <h1 id="2、美元指数与国际资本或美元资本流动性的关系"><a href="#2、美元指数与国际资本或美元资本流动性的关系" class="headerlink" title="2、美元指数与国际资本或美元资本流动性的关系"></a>2、美元指数与国际资本或美元资本流动性的关系</h1><br/>
@@ -88,10 +88,10 @@
         <category>人民币</category>
       </categories>
       <tags>
+        <tag>区块链看点</tag>
         <tag>美元</tag>
         <tag>货币</tag>
         <tag>外汇</tag>
-        <tag>区块链看点</tag>
       </tags>
   </entry>
   <entry>
@@ -119,10 +119,10 @@
         <category>区块链</category>
       </categories>
       <tags>
-        <tag>区块链看点</tag>
         <tag>区块链</tag>
         <tag>数字货币</tag>
         <tag>闪电网络</tag>
+        <tag>区块链看点</tag>
       </tags>
   </entry>
   <entry>
@@ -439,13 +439,13 @@
         <category>数字货币</category>
       </categories>
       <tags>
-        <tag>区块链看点</tag>
         <tag>区块链</tag>
+        <tag>区块链看点</tag>
+        <tag>加密货币</tag>
         <tag>加密货币交易平台</tag>
         <tag>火币</tag>
         <tag>币安</tag>
         <tag>OKEx</tag>
-        <tag>加密货币</tag>
         <tag>矿池</tag>
       </tags>
   </entry>
@@ -561,10 +561,10 @@
 ]]></content>
       <categories>
         <category>区块链</category>
-        <category>区块链金融</category>
         <category>新冠状病毒</category>
-        <category>数据</category>
+        <category>区块链金融</category>
         <category>数字经济</category>
+        <category>数据</category>
         <category>数字银行</category>
         <category>数字银行</category>
         <category>大数据</category>
@@ -610,8 +610,8 @@
         <category>区块链</category>
       </categories>
       <tags>
-        <tag>区块链看点</tag>
         <tag>区块链</tag>
+        <tag>区块链看点</tag>
       </tags>
   </entry>
   <entry>
@@ -678,24 +678,6 @@
         <tag>数据</tag>
         <tag>人工智能（AI）</tag>
         <tag>AI芯片</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>一个自我进化的知识解密引擎库</title>
-    <url>/2020/03/inevo/inevo-principle.html</url>
-    <content><![CDATA[<p><strong>一个能自我进化、智能完善的知识引擎库：</strong></p>
-<p><abbr title="Hyper Text Markup Language">IN-EVOLUTIO</abbr>，简称：<abbr title="World Wide Web Consortium">Inevo</abbr></p>
-<hr>
-<p><strong>Inevo是什么</strong></p>
-<blockquote>
-<p> Inevo是Jack.Chan在全球首个提出的信息检索、智能抽取、真实对照的引擎库系统，利用区块链和AI的特性，适应人脑神经网络运算机制和思维体系逻辑，通过建立独立而可供接入编程API的数据库索引中纽神经库，进而为人类智能提供可解析、可检索、可溯源的知识体系还原成果系统。</p>
-</blockquote>
-<a id="more"></a>]]></content>
-      <categories>
-        <category>解密引擎</category>
-      </categories>
-      <tags>
-        <tag>解密引擎</tag>
       </tags>
   </entry>
   <entry>
@@ -1062,8 +1044,8 @@
       <categories>
         <category>区块链</category>
         <category>数字货币</category>
-        <category>区块链技术</category>
         <category>比特币</category>
+        <category>区块链技术</category>
         <category>解密引擎</category>
       </categories>
       <tags>
@@ -1071,6 +1053,24 @@
         <tag>解密引擎</tag>
         <tag>比特币</tag>
         <tag>共识机制</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>一个自我进化的知识解密引擎库</title>
+    <url>/2020/03/inevo/inevo-principle.html</url>
+    <content><![CDATA[<p><strong>一个能自我进化、智能完善的知识引擎库：</strong></p>
+<p><abbr title="Hyper Text Markup Language">IN-EVOLUTIO</abbr>，简称：<abbr title="World Wide Web Consortium">Inevo</abbr></p>
+<hr>
+<p><strong>Inevo是什么</strong></p>
+<blockquote>
+<p> Inevo是Jack.Chan在全球首个提出的信息检索、智能抽取、真实对照的引擎库系统，利用区块链和AI的特性，适应人脑神经网络运算机制和思维体系逻辑，通过建立独立而可供接入编程API的数据库索引中纽神经库，进而为人类智能提供可解析、可检索、可溯源的知识体系还原成果系统。</p>
+</blockquote>
+<a id="more"></a>]]></content>
+      <categories>
+        <category>解密引擎</category>
+      </categories>
+      <tags>
+        <tag>解密引擎</tag>
       </tags>
   </entry>
   <entry>
@@ -1184,17 +1184,17 @@
 ]]></content>
       <categories>
         <category>区块链</category>
-        <category>国家主权货币</category>
         <category>区块链金融</category>
-        <category>DCEP</category>
         <category>数字经济</category>
+        <category>国家主权货币</category>
+        <category>数字银行</category>
         <category>DCEP</category>
         <category>数字银行</category>
-        <category>数字银行</category>
+        <category>DCEP</category>
       </categories>
       <tags>
-        <tag>区块链看点</tag>
         <tag>区块链</tag>
+        <tag>区块链看点</tag>
         <tag>数字经济</tag>
         <tag>区块链金融</tag>
         <tag>DCEP</tag>
@@ -1328,17 +1328,17 @@
       <categories>
         <category>区块链</category>
         <category>新冠状病毒</category>
-        <category>数字货币</category>
         <category>数字经济</category>
         <category>数字货币</category>
         <category>比特币</category>
+        <category>数字货币</category>
       </categories>
       <tags>
         <tag>区块链看点</tag>
+        <tag>巴菲特</tag>
         <tag>新冠状病毒</tag>
         <tag>COVID-19</tag>
         <tag>加密货币</tag>
-        <tag>巴菲特</tag>
       </tags>
   </entry>
   <entry>
@@ -1488,8 +1488,8 @@ AI的关键重要性
         <category>DCEP</category>
         <category>新兴资产</category>
         <category>区块链技术</category>
-        <category>数字资产</category>
         <category>加密资产</category>
+        <category>数字资产</category>
       </categories>
       <tags>
         <tag>区块链看点</tag>
@@ -1714,19 +1714,19 @@ AI的关键重要性
 ]]></content>
       <categories>
         <category>区块链</category>
-        <category>区块链金融</category>
         <category>新冠状病毒</category>
-        <category>区块链应用</category>
+        <category>区块链金融</category>
         <category>数字经济</category>
+        <category>区块链应用</category>
       </categories>
       <tags>
-        <tag>区块链看点</tag>
         <tag>区块链</tag>
+        <tag>区块链看点</tag>
         <tag>新冠状病毒</tag>
         <tag>COVID-19</tag>
+        <tag>区块链应用</tag>
         <tag>数字经济</tag>
         <tag>区块链金融</tag>
-        <tag>区块链应用</tag>
       </tags>
   </entry>
   <entry>
@@ -1805,8 +1805,8 @@ AI的关键重要性
 ]]></content>
       <categories>
         <category>区块链</category>
-        <category>数字货币</category>
         <category>数字经济</category>
+        <category>数字货币</category>
         <category>加密经济</category>
         <category>稳定币</category>
       </categories>
@@ -1877,8 +1877,8 @@ AI的关键重要性
 </blockquote>
 ]]></content>
       <categories>
-        <category>哈佛商业评论</category>
         <category>数字经济</category>
+        <category>哈佛商业评论</category>
         <category>数字经济</category>
         <category>数字化管理</category>
       </categories>
@@ -1924,8 +1924,8 @@ AI的关键重要性
       </categories>
       <tags>
         <tag>区块链</tag>
-        <tag>区块链应用</tag>
         <tag>数字货币</tag>
+        <tag>区块链应用</tag>
         <tag>IPFS</tag>
       </tags>
   </entry>
