@@ -6,8 +6,6 @@ Allow: /archives/
 Allow: /2018/
 Allow: /2020/
 
-Disallow: /js/
-Disallow: /css/
 Disallow: /lib/
 
 Sitemap: https://www.chengwf.com/sitemap.xml
