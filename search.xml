@@ -249,8 +249,8 @@
       </tags>
   </entry>
   <entry>
-    <title>DCEP（知识解密引擎库）</title>
-    <url>/2020/04/inevo/dcep-index.html</url>
+    <title>DCEP（中国版数字货币项目）</title>
+    <url>/2020/04/inevo/wiki-dcep-index.html</url>
     <content><![CDATA[<blockquote>
 <p>摘要：中国成为全球首个发行国家超主权数字货币：DCEP，到底DCEP对我们未来有什么影响？</p>
 </blockquote>
@@ -486,7 +486,7 @@
         <category>区块链</category>
         <category>数字货币</category>
         <category>DCEP</category>
-        <category>解密引擎</category>
+        <category>WIKI</category>
         <category>DCEP</category>
       </categories>
       <tags>
@@ -686,9 +686,9 @@
         <category>区块链</category>
         <category>新冠状病毒</category>
         <category>数字经济</category>
-        <category>区块链金融</category>
         <category>数据</category>
         <category>数字银行</category>
+        <category>区块链金融</category>
         <category>数字银行</category>
         <category>大数据</category>
       </categories>
@@ -791,9 +791,9 @@
 ]]></content>
       <categories>
         <category>区块链</category>
+        <category>区块链技术</category>
         <category>人工智能（AI）</category>
         <category>AI芯片</category>
-        <category>区块链技术</category>
       </categories>
       <tags>
         <tag>区块链看点</tag>
@@ -804,26 +804,8 @@
       </tags>
   </entry>
   <entry>
-    <title>一个自我进化的知识解密引擎库</title>
-    <url>/2020/03/inevo/inevo-principle.html</url>
-    <content><![CDATA[<p><strong>一个能自我进化、智能完善的知识引擎库：</strong></p>
-<p><abbr title="Hyper Text Markup Language">IN-EVOLUTIO</abbr>，简称：<abbr title="World Wide Web Consortium">Inevo</abbr></p>
-<hr>
-<p><strong>Inevo是什么</strong></p>
-<blockquote>
-<p> Inevo是Jack.Chan在全球首个提出的信息检索、智能抽取、真实对照的引擎库系统，利用区块链和AI的特性，适应人脑神经网络运算机制和思维体系逻辑，通过建立独立而可供接入编程API的数据库索引中纽神经库，进而为人类智能提供可解析、可检索、可溯源的知识体系还原成果系统。</p>
-</blockquote>
-<a id="more"></a>]]></content>
-      <categories>
-        <category>解密引擎</category>
-      </categories>
-      <tags>
-        <tag>解密引擎</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>区块链（知识解密引擎库）</title>
-    <url>/2020/03/inevo/bc-index.html</url>
+    <title>区块链</title>
+    <url>/2020/03/inevo/wiki-bc-index.html</url>
     <content><![CDATA[<h1 id="区块链是什么"><a href="#区块链是什么" class="headerlink" title="区块链是什么"></a>区块链是什么</h1><br/>
 
 <p>“<strong>区块链</strong>”一词起源于中本聪发明的一种点对点电子货币系统中<sup><a href="https://bitcoin.org/files/bitcoin-paper/bitcoin_zh_cn.pdf" target="_blank" rel="noopener">[1]</a></sup>，这电子货币系统称为<strong>比特币</strong>。作为比特币的底层技术，本质上是一个去中心化的数据库。是指通过去中心化和去信任的方式集体维护一个可靠数据库的技术方案。</p>
@@ -1187,13 +1169,30 @@
         <category>数字货币</category>
         <category>比特币</category>
         <category>区块链技术</category>
-        <category>解密引擎</category>
+        <category>WIKI</category>
       </categories>
       <tags>
         <tag>区块链</tag>
-        <tag>解密引擎</tag>
         <tag>比特币</tag>
         <tag>共识机制</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>基于python数据分析与数据自我进化的WIKI百科引擎</title>
+    <url>/2020/03/inevo/inevo-principle.html</url>
+    <content><![CDATA[<p><strong>一个能自我进化、智能完善的知识引擎库：</strong></p>
+<p><abbr title="Hyper Text Markup Language">IN-EVOLUTIO</abbr>，简称：<abbr title="World Wide Web Consortium">Inevo</abbr></p>
+<hr>
+<p><strong>Inevo是什么</strong></p>
+<blockquote>
+<p> Inevo是Jack.Chan在全球首个提出的信息检索、智能抽取、真实对照的引擎库系统，利用区块链和AI的特性，适应人脑神经网络运算机制和思维体系逻辑，通过建立独立而可供接入编程API的数据库索引中纽神经库，进而为人类智能提供可解析、可检索、可溯源的知识体系还原成果系统。</p>
+</blockquote>
+<a id="more"></a>]]></content>
+      <categories>
+        <category>WIKI</category>
+      </categories>
+      <tags>
+        <tag>WIKI</tag>
       </tags>
   </entry>
   <entry>
@@ -1307,12 +1306,12 @@
 ]]></content>
       <categories>
         <category>区块链</category>
-        <category>数字经济</category>
         <category>国家主权货币</category>
-        <category>区块链金融</category>
+        <category>数字经济</category>
+        <category>DCEP</category>
         <category>DCEP</category>
         <category>数字银行</category>
-        <category>DCEP</category>
+        <category>区块链金融</category>
         <category>数字银行</category>
       </categories>
       <tags>
@@ -1549,10 +1548,10 @@ AI的关键重要性
 </blockquote>
 ]]></content>
       <categories>
-        <category>数据</category>
-        <category>数据资产</category>
         <category>新兴资产</category>
         <category>加密资产</category>
+        <category>数据</category>
+        <category>数据资产</category>
       </categories>
       <tags>
         <tag>区块链看点</tag>
@@ -1610,9 +1609,9 @@ AI的关键重要性
         <category>DCEP</category>
         <category>DCEP</category>
         <category>新兴资产</category>
-        <category>区块链技术</category>
         <category>数字资产</category>
         <category>加密资产</category>
+        <category>区块链技术</category>
       </categories>
       <tags>
         <tag>区块链看点</tag>
@@ -1847,8 +1846,8 @@ AI的关键重要性
         <tag>新冠状病毒</tag>
         <tag>COVID-19</tag>
         <tag>区块链看点</tag>
-        <tag>区块链应用</tag>
         <tag>数字经济</tag>
+        <tag>区块链应用</tag>
         <tag>区块链金融</tag>
       </tags>
   </entry>
