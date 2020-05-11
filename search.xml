@@ -958,8 +958,26 @@
       </tags>
   </entry>
   <entry>
+    <title>基于python数据分析与数据自我进化的WIKI百科引擎</title>
+    <url>/2020/03/inevo/inevo-principle.html</url>
+    <content><![CDATA[<p><strong>一个能自我进化、智能完善的知识引擎库：</strong></p>
+<p><abbr title="Hyper Text Markup Language">IN-EVOLUTIO</abbr>，简称：<abbr title="World Wide Web Consortium">Inevo</abbr></p>
+<hr>
+<p><strong>Inevo是什么</strong></p>
+<blockquote>
+<p> Inevo是Jack.Chan在全球首个提出的信息检索、智能抽取、真实对照的引擎库系统，利用区块链和AI的特性，适应人脑神经网络运算机制和思维体系逻辑，通过建立独立而可供接入编程API的数据库索引中纽神经库，进而为人类智能提供可解析、可检索、可溯源的知识体系还原成果系统。</p>
+</blockquote>
+<a id="more"></a>]]></content>
+      <categories>
+        <category>WIKI</category>
+      </categories>
+      <tags>
+        <tag>WIKI</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>区块链</title>
-    <url>/2020/03/inevo/wiki-bc-index.html</url>
+    <url>/2020/03/inevo/wiki-blockchain-index.html</url>
     <content><![CDATA[<h1 id="区块链是什么"><a href="#区块链是什么" class="headerlink" title="区块链是什么"></a>区块链是什么</h1><br/>
 
 <p>“<strong>区块链</strong>”一词起源于中本聪发明的一种点对点电子货币系统中<sup><a href="https://bitcoin.org/files/bitcoin-paper/bitcoin_zh_cn.pdf" target="_blank" rel="noopener">[1]</a></sup>，这电子货币系统称为<strong>比特币</strong>。作为比特币的底层技术，本质上是一个去中心化的数据库。是指通过去中心化和去信任的方式集体维护一个可靠数据库的技术方案。</p>
@@ -1300,6 +1318,34 @@
 <p><strong>6.应用层</strong></p>
 <p>应用层则封装了区块链的各种应用场景和案例。比如搭建在以太坊上的各类区块链应用就是部署在应用层，所谓可编程货币和可编程金融也将会搭建在应用层。 该模型中，基于时间戳的链式区块结构、分布式节点的共识机制、基于共识机制的经济激励和灵活可编程的智能合约是区块链技术最具代表性的创新点。其中数据层、网络层和共识层是构建区块链应用的必要因素，否则将不能称为真正意义上的区块链。而激励层、合约层和应用层则不是每个区块链应用的必要因素，有部分的区块链应用并不完整地包含着这三层结构。</p>
 <hr>
+<h1 id="区块链的主流融资模式"><a href="#区块链的主流融资模式" class="headerlink" title="区块链的主流融资模式"></a>区块链的主流融资模式</h1><p><br/>目前区块链的主流融资模式有这些：<strong>ICO、IEO、STO</strong>，和<strong>IMO、IFO</strong>。</p>
+<ol>
+<li><h2 id="ICO"><a href="#ICO" class="headerlink" title="ICO"></a>ICO</h2><p>ICO（Initial Coin Offering），指的是首次发行代币，指区块链项目首次向公众发行代币，募集比特币、以太坊等主流加密货币以获得项目运作的经费。2017年以来，初创公司大多选择ICO来规避早期融资中严格的规章制度；启动ICO唯一需要的是，一个带有钱包地址的网站，而且ICO是没有法律界限，没有投资者保护，完全匿名，且缺乏最小可视化产品。</p>
+</li>
+</ol>
+<ol start="2">
+<li><h2 id="IEO"><a href="#IEO" class="headerlink" title="IEO"></a>IEO</h2><p>IEO（Initial Exchange Offerings），首次交易发行，指以交易所为核心发行代币；代币跳过ICO这步，直接上线交易所。</p>
+<p>交易所承载和管理IEO，顾名思义，IEO指的是首次交易所发行。</p>
+<p>通常，当交易所进行代币销售时，代币发行者支付一定上市费及在IEO期间售出代币的百分比。最后，在IEO关闭后，代币会在交易所上市。</p>
+<p>IEO不会像ICO参与者那样把钱发送到智能合约上。相反，参与者必须在发行IEO的交易平台上创建一个账户，然后，参与者用将代币资金存入他们的交易所钱包，并用这些资金购买融资公司发行的代币。</p>
+</li>
+</ol>
+<ol start="3">
+<li><h2 id="STO"><a href="#STO" class="headerlink" title="STO"></a>STO</h2><p>STO（Security Token Offe），是证券通证发行的意思，指的是投资者持有发行的代币可获得股息、投票权和适用于其他类型证券的任何权利。证券通证被归类为有价证券，受所在国家证券法的约束。但也有一些例外，通常，企业在私募法规Regulation D的豁免下注册（注:这仅适用于美国），可免去复杂的法律程序束缚。</p>
+<p>另一个重要的方面是，证券通证发行允许公司创建认可的和不择手段的投资者名单（所谓的白名单和黑名单），这有助于公司遵守KYC要求和犯罪收益的合法化。公开信息有助于高效地解决功能型代币（Utility Tokens）销售中最严重的问题，不仅增加了企业的责任，降低了欺诈的可能性，而且在公司破产时还保护了存款人的权利。</p>
+</li>
+</ol>
+<ol start="4">
+<li><h2 id="IMO"><a href="#IMO" class="headerlink" title="IMO"></a>IMO</h2><p>IMO（Initial Miner Offerings），首次矿机发行，指首次通过售卖硬件/矿机来发行代币。</p>
+<p>IEO的特点是“近水楼台先得月”，没有融资认购的过程，省掉了ICO、空投推广等环节，可以直接在加密货币交易所上市交易。此外，平台币的操作性比较灵活，可以用来抵其它交易对的交易费，还可以用来投票上币等。</p>
+<p>坚强开了一家加密货币交易所S站，他发现IEO有很大的操作空间，于是不久便开始IEO，发行了自己的平台币SB。区坚强规定，SB可以交易，可以抵扣手续费，可以参加社区活动、购买课程；此外，任何想上线S站的新币必须实行投票制，并且仅支持使用SB平台币投票。</p>
+<p>随着S站运营得火热，来S站交易的人多了起来，SB行情跟着水涨船高。</p>
+</li>
+</ol>
+<ol start="5">
+<li><h2 id="IFO"><a href="#IFO" class="headerlink" title="IFO"></a>IFO</h2><p>IFO（Initial Fork Offerings），首次分叉发行，指通过分叉比特币等主流加密货币生成新的代币。以分叉比特币为核心发行代币，存在预挖行为，例如BTG、BCD、SBTC等，它们通过分叉比特币区块链生成新的代币，声称自己能够实现优于比特币的功能。矿工团队在创造分叉的同时，可以在分叉发生的区块中，利用自己的特权，分配一些货币给自己或其他人（直接写成CoinBase交易即可），然后再开放让所有人都可以参与挖矿。</p>
+</li>
+</ol>
 <h1 id="参考文献"><a href="#参考文献" class="headerlink" title="参考文献"></a>参考文献</h1><br/>
 
 <blockquote>
@@ -1329,24 +1375,11 @@
         <tag>区块链</tag>
         <tag>比特币</tag>
         <tag>共识机制</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>基于python数据分析与数据自我进化的WIKI百科引擎</title>
-    <url>/2020/03/inevo/inevo-principle.html</url>
-    <content><![CDATA[<p><strong>一个能自我进化、智能完善的知识引擎库：</strong></p>
-<p><abbr title="Hyper Text Markup Language">IN-EVOLUTIO</abbr>，简称：<abbr title="World Wide Web Consortium">Inevo</abbr></p>
-<hr>
-<p><strong>Inevo是什么</strong></p>
-<blockquote>
-<p> Inevo是Jack.Chan在全球首个提出的信息检索、智能抽取、真实对照的引擎库系统，利用区块链和AI的特性，适应人脑神经网络运算机制和思维体系逻辑，通过建立独立而可供接入编程API的数据库索引中纽神经库，进而为人类智能提供可解析、可检索、可溯源的知识体系还原成果系统。</p>
-</blockquote>
-<a id="more"></a>]]></content>
-      <categories>
-        <category>WIKI</category>
-      </categories>
-      <tags>
-        <tag>WIKI</tag>
+        <tag>中本聪</tag>
+        <tag>分布式</tag>
+        <tag>去中心化</tag>
+        <tag>智能合约</tag>
+        <tag>区块链融资</tag>
       </tags>
   </entry>
   <entry>
