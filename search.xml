@@ -1,6 +1,68 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>区块链新看点周报（2020/5/11）</title>
+    <url>/2020/05/2020-05-11-blockchain-news.html</url>
+    <content><![CDATA[<h1 id="一、本周头条"><a href="#一、本周头条" class="headerlink" title="一、本周头条"></a>一、本周头条</h1><br/>
+
+<p><strong>比特币昨日大跌，全网爆仓 7.58 亿美元</strong></p>
+<p>5 月 8 日，比特币迎来了近两个多月来首次突破 10000 美元大关，伴随着比特币突破 1 万美元大关， “比特币”数次登微博热搜榜。但今天比特币最低跌至 8150 美元，最大跌幅超过 15%。其他主流币也纷纷跳水，基本跌幅都在 10% 以上。据合约帝数据显示：过去 24 小时合约市场全网总计爆仓 7.58 亿美元，爆仓人数 37086 人。</p>
+<p><strong>詹克团领取新执照时被不明身份大汉抢夺营业执照</strong></p>
+<p>5 月 8 日，原比特大陆董事长詹克团在海淀区政务服务中心领取法人为詹克团的北京比特大陆公司的营业执照时，营业执照被大约 60 位不明身份的大汉从工商行政人员手中抢走。据悉，领头者为北京比特大陆公司的前法人刘路遥，此人同时是吴忌寒的高中以及本科同学。詹克团方已经向辖区派出所报警。</p>
+<p>比特大陆发布声明称，北京比特大陆科技有限公司已经与詹克团解除了劳动合同，不在公司担任任何职务，市场监管部门公示登记显示詹克团为我司法定代表人属于登记错误，且严重违反《公司法》的规定。吴忌寒在比特大陆内部微信群怒斥詹克团，称其摧毁了公司的上升势头，毁灭了公司数十亿美金的价值。<a id="more"></a></p>
+<hr>
+<h2 id="二、产业焦点"><a href="#二、产业焦点" class="headerlink" title="二、产业焦点"></a>二、产业焦点</h2><p><br/><strong>韩国 IT 专家：“N 号房”案调查人员难以识别使用加密支付的非法视频访问者</strong></p>
+<p>5 月 6 日消息，韩国 IT 专家声称，“N 号房”案的调查人员可能难以识别使用加密支付通过 Telegram 访问非法视频的用户。 一名参与调查的警官表示，追踪通过国际加密交易所系统进行的付款要比追踪本地加密交易所系统更加困难。韩国执法人员还警告称，当非法资金储存在海外交易所时，有关资金的信息必须通过国际司法援助。此前消息，韩国当局追踪到至少 40 名在“N 号房”案中使用加密货币支付的嫌疑人，对韩国 20 个最大的加密货币交易所进行了突袭检查。</p>
+<p><strong>支付宝公开招聘技术人才：薪资无上限，区块链专利申请数量全球第一</strong></p>
+<p>支付宝官方微博今天挂出一幅招聘海报，公开招聘技术人才。海报除了公布奉上漆远等技术大牛之外，还透露了目前支付宝人员构成，其中技术人员占比已经超过了 63%，也就是说支付宝 5 个人员工中，三个都是程序员。据媒体从支付宝证实，这 63% 的技术人员就是研发人员的占比，属于含金量最高的科技人才占比。</p>
+<p>支付宝还称，支付宝区块链专利申请数量全球第一，支付宝自研数据库 OceanBase 性能打破世界纪录，在支付宝工作“薪资无上限”。</p>
+<p><strong>Libra 协会任命美国财政部前官员为首席执行官</strong></p>
+<p>目前担任汇丰银行首席法律官的 Stuart Levey 已被 Libra 协会任命为首席执行官。Levey 曾在 2004 年 7 月至 2011 年 3 月期间担任美国财政部恐怖主义与金融情报局副局长。此前他也曾在美国司法部工作。</p>
+<p>此外，Libra 项目技术指导委员会（TSC）已任命五名项目维护员，Calibra 研究负责人 Dahlia Malkhi 将成为首席临时维护员，Sam Blackshear 将负责 Move 及 Move 预言机；Avery Ching 将负责共识及网络；Kevin Hurley 将负责准入控制及 Mempool；David Wolinsky 将负责线程控制块（TCB）、构架及加密。同时，Libra 还宣布将启动 Libra 改善建议（LIP）项目，LIP 项目会在 Libra 协会的管理下运行，TSC 拥有做出技术决策的最终权力。</p>
+<p><strong>Zoom 宣布已收购加密聊天工具 Keybase</strong></p>
+<p>在美国上市的视频聊天工具 Zoom 宣布已收购加密聊天工具 Keybase，收购金额未披露。自 2014 年推出以来，Keybase 利用加密和安全专业知识构建了安全的消息传递和文件分享服务。Zoom 表示正在集成 Keybase 团队，以帮助构建可以达到当前 Zoom 可扩展性的端到端的加密能力。据悉，Keybase 曾获得过 Stellar 投资，并于去年在应用中增加集成 Stellar 钱包。</p>
+<p><strong>微众银行发布 2019 年年报，持续在区块链等领域开展技术攻关</strong></p>
+<p>微众银行近日披露 2019 年年报显示，该行全年营收超过 148 亿元，净利润 39.5 亿元，纳税 20 亿元。2019 年，微众银行持续在区块链、人工智能、大数据和云计算等关键核心技术的底层算法研究和应用方面开展技术攻关。据悉，在微众银行 2019 年的全部公开专利申请中，80% 以上来自于“ABCD”四大领域，其中又以人工智能和区块链最具代表性。</p>
+<p>区块链方面，微众银行主导研发的区块链底层技术开源平台 FISCO BCOS 上有上万名社区成员，帮助其合作伙伴在生产环境落地超过数十个应用案例，同时成为国家级区块链服务网络 (BSN) 中首个国产联盟链底层平台。</p>
+<p><strong>京东数科与京东智联云发布云版 BaaS 平台</strong></p>
+<p>日前，京东数科区块链品牌智臻链与京东智联云联合发布云版 BaaS 平台，旨在降低加入业务联盟的门槛，为小微企业或信息化能力薄弱的企业提供简洁灵活的接入方式，帮助其快速建链、组链、用链，以及拓展区块链联盟生态，加速新基建下区块链与产业应用的结合。</p>
+<hr>
+<h2 id="三、政策进展"><a href="#三、政策进展" class="headerlink" title="三、政策进展"></a>三、政策进展</h2><p><br/><strong>疑似建行 DCEP 数字钱包内测界面流出</strong></p>
+<p>5 月 8 日，社群流传截图显示，疑似中国建设银行正在内测 DCEP 数字钱包。目前，中国农业银行、中国银行均已进行内测。</p>
+<p><strong>外媒：委内瑞拉的 2 万多家商店和企业将在 6 月 1 日开始接受加密货币</strong></p>
+<p>据 Cointelegraph 5 月 8 日消息，委内瑞拉的 20,000 多家商店和企业将在 6 月 1 日开始接受加密货币。此消息是为推动在饱受通货膨胀困扰的这个国家 / 地区采用加密货币的努力的一部分。</p>
+<hr>
+<h2 id="四、加密社区"><a href="#四、加密社区" class="headerlink" title="四、加密社区"></a>四、加密社区</h2><p><br/><strong>4 月份稳定币市场份额持续高速增长，总发行量接近百亿美元</strong></p>
+<p>比特币价格突破 1 万美元大关，而稳定币增发速度不减。据 DAppTotal.com 稳定币专题页面数据显示：截至 04 月 30 日，稳定币总发行量从 3 月底的 77 亿美元增长至 96 亿美元，继续保持高速增长的势头。其中，USDT 总发行量为 80.2 亿美元，较上月环比增加了 17.7 亿美元，主要为 ERC20-USDT 在大幅增发。</p>
+<p>新兴稳定币种的总发行量为 15.7 亿美元，其中 USDC 总发行量为 7.27 亿美元，占比达到 46.1%，继续保持第一位，远超其他新兴稳定币；PAX 总发行量为 2.54 亿美元，占比 16…2%，排第二位；排名第三位的是 BUSD，总发行量为 1.76 亿美元，占比 11.2%；TUSD 的发行量为 1.37 亿美元，排名第四。整体而言，本月新兴稳定币总量保持平稳，而 USDT 仍保持高速增长，总市场份额从 80.4% 增至 83.6%。</p>
+<p><strong>币安允许加密交易者在其 P2P 平台发布广告</strong></p>
+<p>币安周五宣布，现在允许加密交易者在其 P2P 交易平台上发布广告。币安称，这将为用户提供建立自己的交易的选择，从而促进加密交易的自由。P2P 平台不会因在移动应用上发布广告而向买家或卖家收费。据悉，该平台支持 25 种法定货币的加密交易。</p>
+<p><strong>Loom 因方向转变关闭官方电报群组，社区质疑实为“退出骗局”</strong></p>
+<p>Loom Network 目前已关闭官方电报群组，并发布公告表示该项目的关注点已“由区块链游戏转向了企业，因此决定整合公共频道，团队就可以专注于企业销售、提供支持和进行推广。同时，部分验证人相继推出网络，包括 SNZ、Stake Capital、Stake With Us、Mythos、Axie Infinity、Chorus One、NGC StakeX 在内的节点服务商已停止提供 Loom 网络的验证人服务。</p>
+<p>Web3 基金会员工 Bruno Skvorce 发推称，Loom 疑似已经成为了一个退出骗局。“Telegram 关闭了，Reddit 死掉了，博客一片寂静，核心团队也走了。如果这（项目）还有任何没走完的，我都不会叫他退出骗局。”</p>
+<p><strong>FCoin 社区将发起关于已收回张健所持有平台币处理方式的公投</strong></p>
+<p>5 月 5 日晚，FCoin 官网发布公告称，社区将于 2020 年 5 月 5 日 19:00 发起关于已收回张健所持有平台币处理方式的公投。若此次公投通过，则张健所持有的 11 亿个 FT、0.18 亿个 FM 的分红将用于回购债务 FUSD。此部分 FT 和 FM 所有权归属社区，未来社区有权通过公投决定如何分配或使用。</p>
+<hr>
+<h2 id="五、权威观点"><a href="#五、权威观点" class="headerlink" title="五、权威观点"></a>五、权威观点</h2><p><br/><strong>马云：相信区块链技术正在解决保护知识产权的问题</strong></p>
+<p>5 月 9 日，马云通过直播方式与创业者展开对话。他强调，知识产权必须要用新的方式保护，并称「我相信区块链技术正在解决这个问题，我建议缺乏知识产权（意识）的人应该早日关注」。</p>
+<p><strong>V 神：以太坊或会成为央行数字货币 CBDC 的无许可平台</strong></p>
+<p>以太坊联合创始人 V 神近日在接受采访时表示，以太坊可能成为众多央行数字货币 CBDC 的无许可平台。V 神同时表示，在一个失去对本国货币信任、以太坊可弥补漏洞的世界中，以太坊具有成为全球储备货币的可能性。</p>
+<p>针对 DeFi 应用，V 神表示将代币作为治理工具是一个“错误的想法”，同时在以太坊 2.0 分片中相互通信时，以太坊 DApp 不可避免地会失去一些可组合性。此外，以太坊 2.0 阶段 0 会“在几个月内”推出。</p>
+<p><strong>法官：比特币应受法律保护，但不具备作为货币的法律地位</strong></p>
+<p>5 月 6 日，上海市第一中级人民法院公开宣判一起比特币涉外财产损害赔偿纠纷上诉案，二审认定比特币属于网络虚拟财产，应从法律上予以保护，通过不合法手段取得的比特币应当全部返还或折价赔偿。</p>
+<p>本案主审法官刘江指出，中国人民银行等部委曾发布《关于防范比特币风险的通知》(2013 年)、《关于防范代币发行融资风险的公告》(2017 年) 等文件，并未对比特币作为商品的财产属性予以否认，我国法律、行政法规亦并未禁止比特币的持有。《关于防范比特币风险的通知》中更提到，“从性质上看, 比特币应当是一种特定的虚拟商品”。因此，比特币具备虚拟财产、虚拟商品的属性，应受到法律的保护。但《通知》等文件否定了包括此类“虚拟货币”作为货币的法律地位，比特币等“虚拟货币”不能也不应作为货币在市场上流通使用。</p>
+]]></content>
+      <categories>
+        <category>区块链</category>
+      </categories>
+      <tags>
+        <tag>区块链</tag>
+        <tag>央行数字货币</tag>
+        <tag>比特币</tag>
+        <tag>区块链周报</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>天价学区房被开刀，我们应该重新审视孩子的起跑线该如何配置</title>
     <url>/2020/05/school-district-housing.html</url>
     <content><![CDATA[<h1 id="“赢在学区房，就赢得人生的起跑线”"><a href="#“赢在学区房，就赢得人生的起跑线”" class="headerlink" title="“赢在学区房，就赢得人生的起跑线”"></a>“赢在学区房，就赢得人生的起跑线”</h1><p><br/>新中国近20年来，已经扎根一个观念：为了不让孩子输在“起跑线”上，许多家长早早抓教育，竭尽所能地为孩子提供各种优越条件，而拥有着最优质教育资源的“学区房”作为得到“不公平”差异性教育的通行证，既然被炒得热火朝天。</p>
@@ -148,9 +210,9 @@
       </categories>
       <tags>
         <tag>区块链</tag>
-        <tag>区块链看点</tag>
         <tag>DCEP</tag>
         <tag>数字货币</tag>
+        <tag>区块链看点</tag>
         <tag>Libra</tag>
       </tags>
   </entry>
@@ -204,8 +266,8 @@
       <tags>
         <tag>区块链</tag>
         <tag>央行数字货币</tag>
-        <tag>以太坊</tag>
         <tag>区块链周报</tag>
+        <tag>以太坊</tag>
       </tags>
   </entry>
   <entry>
@@ -397,9 +459,9 @@
       </categories>
       <tags>
         <tag>区块链</tag>
-        <tag>区块链看点</tag>
         <tag>数字货币</tag>
         <tag>闪电网络</tag>
+        <tag>区块链看点</tag>
       </tags>
   </entry>
   <entry>
@@ -711,14 +773,14 @@
       <categories>
         <category>区块链</category>
         <category>数字货币</category>
-        <category>数字货币</category>
         <category>加密货币交易平台</category>
         <category>矿池</category>
+        <category>数字货币</category>
       </categories>
       <tags>
         <tag>区块链</tag>
-        <tag>加密货币</tag>
         <tag>区块链看点</tag>
+        <tag>加密货币</tag>
         <tag>加密货币交易平台</tag>
         <tag>火币</tag>
         <tag>币安</tag>
@@ -839,17 +901,17 @@
       <categories>
         <category>区块链</category>
         <category>新冠状病毒</category>
+        <category>区块链金融</category>
         <category>数字经济</category>
         <category>数据</category>
         <category>数字银行</category>
-        <category>区块链金融</category>
         <category>数字银行</category>
         <category>大数据</category>
       </categories>
       <tags>
+        <tag>区块链看点</tag>
         <tag>新冠状病毒</tag>
         <tag>COVID-19</tag>
-        <tag>区块链看点</tag>
         <tag>数字经济</tag>
         <tag>数字营销</tag>
         <tag>大数据</tag>
@@ -945,9 +1007,9 @@
 ]]></content>
       <categories>
         <category>区块链</category>
-        <category>区块链技术</category>
         <category>人工智能（AI）</category>
         <category>AI芯片</category>
+        <category>区块链技术</category>
       </categories>
       <tags>
         <tag>区块链看点</tag>
@@ -955,24 +1017,6 @@
         <tag>数据</tag>
         <tag>人工智能（AI）</tag>
         <tag>AI芯片</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>基于python数据分析与数据自我进化的WIKI百科引擎</title>
-    <url>/2020/03/inevo/inevo-principle.html</url>
-    <content><![CDATA[<p><strong>一个能自我进化、智能完善的知识引擎库：</strong></p>
-<p><abbr title="Hyper Text Markup Language">IN-EVOLUTIO</abbr>，简称：<abbr title="World Wide Web Consortium">Inevo</abbr></p>
-<hr>
-<p><strong>Inevo是什么</strong></p>
-<blockquote>
-<p> Inevo是Jack.Chan在全球首个提出的信息检索、智能抽取、真实对照的引擎库系统，利用区块链和AI的特性，适应人脑神经网络运算机制和思维体系逻辑，通过建立独立而可供接入编程API的数据库索引中纽神经库，进而为人类智能提供可解析、可检索、可溯源的知识体系还原成果系统。</p>
-</blockquote>
-<a id="more"></a>]]></content>
-      <categories>
-        <category>WIKI</category>
-      </categories>
-      <tags>
-        <tag>WIKI</tag>
       </tags>
   </entry>
   <entry>
@@ -1374,12 +1418,30 @@
       <tags>
         <tag>区块链</tag>
         <tag>比特币</tag>
-        <tag>共识机制</tag>
-        <tag>中本聪</tag>
         <tag>分布式</tag>
         <tag>去中心化</tag>
         <tag>智能合约</tag>
+        <tag>共识机制</tag>
+        <tag>中本聪</tag>
         <tag>区块链融资</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>基于python数据分析与数据自我进化的WIKI百科引擎</title>
+    <url>/2020/03/inevo/inevo-principle.html</url>
+    <content><![CDATA[<p><strong>一个能自我进化、智能完善的知识引擎库：</strong></p>
+<p><abbr title="Hyper Text Markup Language">IN-EVOLUTIO</abbr>，简称：<abbr title="World Wide Web Consortium">Inevo</abbr></p>
+<hr>
+<p><strong>Inevo是什么</strong></p>
+<blockquote>
+<p> Inevo是Jack.Chan在全球首个提出的信息检索、智能抽取、真实对照的引擎库系统，利用区块链和AI的特性，适应人脑神经网络运算机制和思维体系逻辑，通过建立独立而可供接入编程API的数据库索引中纽神经库，进而为人类智能提供可解析、可检索、可溯源的知识体系还原成果系统。</p>
+</blockquote>
+<a id="more"></a>]]></content>
+      <categories>
+        <category>WIKI</category>
+      </categories>
+      <tags>
+        <tag>WIKI</tag>
       </tags>
   </entry>
   <entry>
@@ -1493,18 +1555,18 @@
 ]]></content>
       <categories>
         <category>区块链</category>
+        <category>区块链金融</category>
         <category>国家主权货币</category>
         <category>数字经济</category>
         <category>DCEP</category>
-        <category>DCEP</category>
         <category>数字银行</category>
-        <category>区块链金融</category>
+        <category>DCEP</category>
         <category>数字银行</category>
       </categories>
       <tags>
         <tag>区块链</tag>
-        <tag>区块链看点</tag>
         <tag>DCEP</tag>
+        <tag>区块链看点</tag>
         <tag>数字经济</tag>
         <tag>区块链金融</tag>
         <tag>数字银行</tag>
@@ -1643,11 +1705,11 @@
         <category>数字货币</category>
       </categories>
       <tags>
+        <tag>区块链看点</tag>
         <tag>巴菲特</tag>
         <tag>新冠状病毒</tag>
         <tag>COVID-19</tag>
         <tag>加密货币</tag>
-        <tag>区块链看点</tag>
       </tags>
   </entry>
   <entry>
@@ -1735,10 +1797,10 @@ AI的关键重要性
 </blockquote>
 ]]></content>
       <categories>
-        <category>新兴资产</category>
-        <category>加密资产</category>
         <category>数据</category>
         <category>数据资产</category>
+        <category>新兴资产</category>
+        <category>加密资产</category>
       </categories>
       <tags>
         <tag>区块链看点</tag>
@@ -1796,13 +1858,13 @@ AI的关键重要性
         <category>DCEP</category>
         <category>DCEP</category>
         <category>新兴资产</category>
-        <category>数字资产</category>
-        <category>加密资产</category>
         <category>区块链技术</category>
+        <category>加密资产</category>
+        <category>数字资产</category>
       </categories>
       <tags>
-        <tag>区块链看点</tag>
         <tag>DCEP</tag>
+        <tag>区块链看点</tag>
         <tag>国家主权货币</tag>
         <tag>区块链技术</tag>
         <tag>数字资产</tag>
@@ -1882,9 +1944,9 @@ AI的关键重要性
         <category>数字经济</category>
       </categories>
       <tags>
+        <tag>区块链看点</tag>
         <tag>新冠状病毒</tag>
         <tag>COVID-19</tag>
-        <tag>区块链看点</tag>
         <tag>全球经济</tag>
         <tag>熔断</tag>
       </tags>
@@ -1962,9 +2024,9 @@ AI的关键重要性
         <category>新冠状病毒</category>
       </categories>
       <tags>
+        <tag>区块链看点</tag>
         <tag>新冠状病毒</tag>
         <tag>COVID-19</tag>
-        <tag>区块链看点</tag>
         <tag>量子技术</tag>
         <tag>量子计算</tag>
       </tags>
@@ -2024,17 +2086,17 @@ AI的关键重要性
       <categories>
         <category>区块链</category>
         <category>新冠状病毒</category>
-        <category>数字经济</category>
         <category>区块链金融</category>
+        <category>数字经济</category>
         <category>区块链应用</category>
       </categories>
       <tags>
         <tag>区块链</tag>
+        <tag>区块链看点</tag>
         <tag>新冠状病毒</tag>
         <tag>COVID-19</tag>
-        <tag>区块链看点</tag>
-        <tag>数字经济</tag>
         <tag>区块链应用</tag>
+        <tag>数字经济</tag>
         <tag>区块链金融</tag>
       </tags>
   </entry>

@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.chengwf.com/"/>
-  <updated>2020-05-09T08:48:22.330Z</updated>
+  <updated>2020-05-11T08:33:20.092Z</updated>
   <id>https://www.chengwf.com/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>区块链新看点周报（2020/5/11）</title>
+    <link href="https://www.chengwf.com/2020/05/2020-05-11-blockchain-news.html"/>
+    <id>https://www.chengwf.com/2020/05/2020-05-11-blockchain-news.html</id>
+    <published>2020-05-10T16:00:00.000Z</published>
+    <updated>2020-05-11T08:33:20.092Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="一、本周头条"><a href="#一、本周头条" class="headerlink" title="一、本周头条"></a>一、本周头条</h1><br/><p><strong>比特币昨日大跌，全网爆仓 7.58 亿美元</strong></p><p>5 月 8 日，比特币迎来了近两个多月来首次突破 10000 美元大关，伴随着比特币突破 1 万美元大关， “比特币”数次登微博热搜榜。但今天比特币最低跌至 8150 美元，最大跌幅超过 15%。其他主流币也纷纷跳水，基本跌幅都在 10% 以上。据合约帝数据显示：过去 24 小时合约市场全网总计爆仓 7.58 亿美元，爆仓人数 37086 人。</p><p><strong>詹克团领取新执照时被不明身份大汉抢夺营业执照</strong></p><p>5 月 8 日，原比特大陆董事长詹克团在海淀区政务服务中心领取法人为詹克团的北京比特大陆公司的营业执照时，营业执照被大约 60 位不明身份的大汉从工商行政人员手中抢走。据悉，领头者为北京比特大陆公司的前法人刘路遥，此人同时是吴忌寒的高中以及本科同学。詹克团方已经向辖区派出所报警。</p><p>比特大陆发布声明称，北京比特大陆科技有限公司已经与詹克团解除了劳动合同，不在公司担任任何职务，市场监管部门公示登记显示詹克团为我司法定代表人属于登记错误，且严重违反《公司法》的规定。吴忌寒在比特大陆内部微信群怒斥詹克团，称其摧毁了公司的上升势头，毁灭了公司数十亿美金的价值。<a id="more"></a></p><hr><h2 id="二、产业焦点"><a href="#二、产业焦点" class="headerlink" title="二、产业焦点"></a>二、产业焦点</h2><p><br/><strong>韩国 IT 专家：“N 号房”案调查人员难以识别使用加密支付的非法视频访问者</strong></p><p>5 月 6 日消息，韩国 IT 专家声称，“N 号房”案的调查人员可能难以识别使用加密支付通过 Telegram 访问非法视频的用户。 一名参与调查的警官表示，追踪通过国际加密交易所系统进行的付款要比追踪本地加密交易所系统更加困难。韩国执法人员还警告称，当非法资金储存在海外交易所时，有关资金的信息必须通过国际司法援助。此前消息，韩国当局追踪到至少 40 名在“N 号房”案中使用加密货币支付的嫌疑人，对韩国 20 个最大的加密货币交易所进行了突袭检查。</p><p><strong>支付宝公开招聘技术人才：薪资无上限，区块链专利申请数量全球第一</strong></p><p>支付宝官方微博今天挂出一幅招聘海报，公开招聘技术人才。海报除了公布奉上漆远等技术大牛之外，还透露了目前支付宝人员构成，其中技术人员占比已经超过了 63%，也就是说支付宝 5 个人员工中，三个都是程序员。据媒体从支付宝证实，这 63% 的技术人员就是研发人员的占比，属于含金量最高的科技人才占比。</p><p>支付宝还称，支付宝区块链专利申请数量全球第一，支付宝自研数据库 OceanBase 性能打破世界纪录，在支付宝工作“薪资无上限”。</p><p><strong>Libra 协会任命美国财政部前官员为首席执行官</strong></p><p>目前担任汇丰银行首席法律官的 Stuart Levey 已被 Libra 协会任命为首席执行官。Levey 曾在 2004 年 7 月至 2011 年 3 月期间担任美国财政部恐怖主义与金融情报局副局长。此前他也曾在美国司法部工作。</p><p>此外，Libra 项目技术指导委员会（TSC）已任命五名项目维护员，Calibra 研究负责人 Dahlia Malkhi 将成为首席临时维护员，Sam Blackshear 将负责 Move 及 Move 预言机；Avery Ching 将负责共识及网络；Kevin Hurley 将负责准入控制及 Mempool；David Wolinsky 将负责线程控制块（TCB）、构架及加密。同时，Libra 还宣布将启动 Libra 改善建议（LIP）项目，LIP 项目会在 Libra 协会的管理下运行，TSC 拥有做出技术决策的最终权力。</p><p><strong>Zoom 宣布已收购加密聊天工具 Keybase</strong></p><p>在美国上市的视频聊天工具 Zoom 宣布已收购加密聊天工具 Keybase，收购金额未披露。自 2014 年推出以来，Keybase 利用加密和安全专业知识构建了安全的消息传递和文件分享服务。Zoom 表示正在集成 Keybase 团队，以帮助构建可以达到当前 Zoom 可扩展性的端到端的加密能力。据悉，Keybase 曾获得过 Stellar 投资，并于去年在应用中增加集成 Stellar 钱包。</p><p><strong>微众银行发布 2019 年年报，持续在区块链等领域开展技术攻关</strong></p><p>微众银行近日披露 2019 年年报显示，该行全年营收超过 148 亿元，净利润 39.5 亿元，纳税 20 亿元。2019 年，微众银行持续在区块链、人工智能、大数据和云计算等关键核心技术的底层算法研究和应用方面开展技术攻关。据悉，在微众银行 2019 年的全部公开专利申请中，80% 以上来自于“ABCD”四大领域，其中又以人工智能和区块链最具代表性。</p><p>区块链方面，微众银行主导研发的区块链底层技术开源平台 FISCO BCOS 上有上万名社区成员，帮助其合作伙伴在生产环境落地超过数十个应用案例，同时成为国家级区块链服务网络 (BSN) 中首个国产联盟链底层平台。</p><p><strong>京东数科与京东智联云发布云版 BaaS 平台</strong></p><p>日前，京东数科区块链品牌智臻链与京东智联云联合发布云版 BaaS 平台，旨在降低加入业务联盟的门槛，为小微企业或信息化能力薄弱的企业提供简洁灵活的接入方式，帮助其快速建链、组链、用链，以及拓展区块链联盟生态，加速新基建下区块链与产业应用的结合。</p><hr><h2 id="三、政策进展"><a href="#三、政策进展" class="headerlink" title="三、政策进展"></a>三、政策进展</h2><p><br/><strong>疑似建行 DCEP 数字钱包内测界面流出</strong></p><p>5 月 8 日，社群流传截图显示，疑似中国建设银行正在内测 DCEP 数字钱包。目前，中国农业银行、中国银行均已进行内测。</p><p><strong>外媒：委内瑞拉的 2 万多家商店和企业将在 6 月 1 日开始接受加密货币</strong></p><p>据 Cointelegraph 5 月 8 日消息，委内瑞拉的 20,000 多家商店和企业将在 6 月 1 日开始接受加密货币。此消息是为推动在饱受通货膨胀困扰的这个国家 / 地区采用加密货币的努力的一部分。</p><hr><h2 id="四、加密社区"><a href="#四、加密社区" class="headerlink" title="四、加密社区"></a>四、加密社区</h2><p><br/><strong>4 月份稳定币市场份额持续高速增长，总发行量接近百亿美元</strong></p><p>比特币价格突破 1 万美元大关，而稳定币增发速度不减。据 DAppTotal.com 稳定币专题页面数据显示：截至 04 月 30 日，稳定币总发行量从 3 月底的 77 亿美元增长至 96 亿美元，继续保持高速增长的势头。其中，USDT 总发行量为 80.2 亿美元，较上月环比增加了 17.7 亿美元，主要为 ERC20-USDT 在大幅增发。</p><p>新兴稳定币种的总发行量为 15.7 亿美元，其中 USDC 总发行量为 7.27 亿美元，占比达到 46.1%，继续保持第一位，远超其他新兴稳定币；PAX 总发行量为 2.54 亿美元，占比 16…2%，排第二位；排名第三位的是 BUSD，总发行量为 1.76 亿美元，占比 11.2%；TUSD 的发行量为 1.37 亿美元，排名第四。整体而言，本月新兴稳定币总量保持平稳，而 USDT 仍保持高速增长，总市场份额从 80.4% 增至 83.6%。</p><p><strong>币安允许加密交易者在其 P2P 平台发布广告</strong></p><p>币安周五宣布，现在允许加密交易者在其 P2P 交易平台上发布广告。币安称，这将为用户提供建立自己的交易的选择，从而促进加密交易的自由。P2P 平台不会因在移动应用上发布广告而向买家或卖家收费。据悉，该平台支持 25 种法定货币的加密交易。</p><p><strong>Loom 因方向转变关闭官方电报群组，社区质疑实为“退出骗局”</strong></p><p>Loom Network 目前已关闭官方电报群组，并发布公告表示该项目的关注点已“由区块链游戏转向了企业，因此决定整合公共频道，团队就可以专注于企业销售、提供支持和进行推广。同时，部分验证人相继推出网络，包括 SNZ、Stake Capital、Stake With Us、Mythos、Axie Infinity、Chorus One、NGC StakeX 在内的节点服务商已停止提供 Loom 网络的验证人服务。</p><p>Web3 基金会员工 Bruno Skvorce 发推称，Loom 疑似已经成为了一个退出骗局。“Telegram 关闭了，Reddit 死掉了，博客一片寂静，核心团队也走了。如果这（项目）还有任何没走完的，我都不会叫他退出骗局。”</p><p><strong>FCoin 社区将发起关于已收回张健所持有平台币处理方式的公投</strong></p><p>5 月 5 日晚，FCoin 官网发布公告称，社区将于 2020 年 5 月 5 日 19:00 发起关于已收回张健所持有平台币处理方式的公投。若此次公投通过，则张健所持有的 11 亿个 FT、0.18 亿个 FM 的分红将用于回购债务 FUSD。此部分 FT 和 FM 所有权归属社区，未来社区有权通过公投决定如何分配或使用。</p><hr><h2 id="五、权威观点"><a href="#五、权威观点" class="headerlink" title="五、权威观点"></a>五、权威观点</h2><p><br/><strong>马云：相信区块链技术正在解决保护知识产权的问题</strong></p><p>5 月 9 日，马云通过直播方式与创业者展开对话。他强调，知识产权必须要用新的方式保护，并称「我相信区块链技术正在解决这个问题，我建议缺乏知识产权（意识）的人应该早日关注」。</p><p><strong>V 神：以太坊或会成为央行数字货币 CBDC 的无许可平台</strong></p><p>以太坊联合创始人 V 神近日在接受采访时表示，以太坊可能成为众多央行数字货币 CBDC 的无许可平台。V 神同时表示，在一个失去对本国货币信任、以太坊可弥补漏洞的世界中，以太坊具有成为全球储备货币的可能性。</p><p>针对 DeFi 应用，V 神表示将代币作为治理工具是一个“错误的想法”，同时在以太坊 2.0 分片中相互通信时，以太坊 DApp 不可避免地会失去一些可组合性。此外，以太坊 2.0 阶段 0 会“在几个月内”推出。</p><p><strong>法官：比特币应受法律保护，但不具备作为货币的法律地位</strong></p><p>5 月 6 日，上海市第一中级人民法院公开宣判一起比特币涉外财产损害赔偿纠纷上诉案，二审认定比特币属于网络虚拟财产，应从法律上予以保护，通过不合法手段取得的比特币应当全部返还或折价赔偿。</p><p>本案主审法官刘江指出，中国人民银行等部委曾发布《关于防范比特币风险的通知》(2013 年)、《关于防范代币发行融资风险的公告》(2017 年) 等文件，并未对比特币作为商品的财产属性予以否认，我国法律、行政法规亦并未禁止比特币的持有。《关于防范比特币风险的通知》中更提到，“从性质上看, 比特币应当是一种特定的虚拟商品”。因此，比特币具备虚拟财产、虚拟商品的属性，应受到法律的保护。但《通知》等文件否定了包括此类“虚拟货币”作为货币的法律地位，比特币等“虚拟货币”不能也不应作为货币在市场上流通使用。</p>]]></content>
+    
+    <summary type="html">
+    
+      支付宝公开招聘技术人才：薪资无上限；Zoom 收购加密聊天工具...
+    
+    </summary>
+    
+    
+      <category term="区块链" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/"/>
+    
+    
+      <category term="区块链" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE/"/>
+    
+      <category term="央行数字货币" scheme="https://www.chengwf.com/tags/%E5%A4%AE%E8%A1%8C%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/"/>
+    
+      <category term="比特币" scheme="https://www.chengwf.com/tags/%E6%AF%94%E7%89%B9%E5%B8%81/"/>
+    
+      <category term="区块链周报" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE%E5%91%A8%E6%8A%A5/"/>
+    
+  </entry>
   
   <entry>
     <title>天价学区房被开刀，我们应该重新审视孩子的起跑线该如何配置</title>
@@ -46,7 +75,7 @@
     <link href="https://www.chengwf.com/2020/05/blockchain-dcep-facts.html"/>
     <id>https://www.chengwf.com/2020/05/blockchain-dcep-facts.html</id>
     <published>2020-05-07T16:00:00.000Z</published>
-    <updated>2020-05-08T14:35:12.889Z</updated>
+    <updated>2020-05-08T15:07:44.342Z</updated>
     
     <content type="html"><![CDATA[<p>在有效控制新冠病毒的传播之际，中国政府宣布了有关加密货币和区块链的两项最新发展。</p><p><img src="https://chengwf.com/bbf3b" alt="YKblqO.png"></p><p>区块链技术的采用道路往往漫长且艰辛，但中国似乎是在本土开发和集成区块链技术方面进展最大的国家。</p><p>经过数年的努力，今年4月，中国政府宣布完成两项具有里程碑意义的，涉及区块链和加密货币技术的项目。第一个是项目与中国央行数字货币DCEP有关，据报道，DCEP正在四个地方城市进行测试。</p><p>第二个开发项目是与基于区块链的服务网络（BSN）有关，据悉，该网络目前已全面投入使用。与此同时，中国还启动了一项名为“2035年中国标准”的宏伟计划，这项计划概述了下一代技术的运作方式，包括从电信到人工智能的所有领域。</p><p>下文将盘点中国这两项有关区块链和加密货币的发展的一些事实，其真正的目标是什么，以及为什么它们与区块链和加密货币的核心概念并无太大关系。</p><a id="more"></a><hr><h1 id="事实1：Libra触发了加密货币在中国的采用"><a href="#事实1：Libra触发了加密货币在中国的采用" class="headerlink" title="事实1：Libra触发了加密货币在中国的采用"></a>事实1：Libra触发了加密货币在中国的采用</h1><p><br/>过去4年里，尽管中国普遍对加密货币持负面态度，但中国显然一直在努力接受区块链和加密货币。</p><p>Musheer Ahmed是FinStep Asia的董事总经理，FinStep Asi是一家协助金融科技初创企业的咨询公司。他向Cointelegraph解释说，随着腾讯、华为等当地顶级企业于四年前成立金融区块链合作联盟（FISCO），几年里，区块链网络在中国大陆持续发展，而这项技术也是一系列私有和国有企业的首要重大项目：</p><blockquote><p><strong>“随着区块链在FISCO联盟中的开发和应用，我们可以说它是一个成功的概念验证，中国现在正全面探索BSN。其次，习近平主席也强调了区块链的好处和在全国范围内部署区块链的必要性，BSN的推出只是时间问题。”</strong></p></blockquote><p>Facebook的首席执行官马克·扎克伯格曾强调中国主导地位会带来威胁，随着中国央行数字货币的出现，这种威胁可能会增长。此后不久，也就是在2019年10月，中国国家主席就呼吁该国应该加速采用区块链技术。</p><p>Facebook宣布推出稳定币Libra似乎改变了中国政府对加密货币的立场。“全球有超过23亿人使用非政府发行的数字货币”的这一理念，为数字货币的使用带来了新的前景，也让全球各国政府得以一窥，在不久的将来，金融格局可能会有怎样的发展。</p><p>中国在争取发行本国央行数字货币方面处于领先地位，超过了进展最接近的竞争对手。欧盟、韩国、俄罗斯、瑞典和其他几个国家的中央银行，以及东加勒比央行也对外公布了自己在加密货币方面的研究，但这些国家和地区的央行数字货币仍在立法或试验阶段。这一切证明了，相比纸上谈兵，中国选择了直接采取行动。</p><hr><h1 id="事实2：BSN是中心化的"><a href="#事实2：BSN是中心化的" class="headerlink" title="事实2：BSN是中心化的"></a>事实2：BSN是中心化的</h1><p><br/>基于区块链的服务网络是中国在区块链相关开发方面的最新进展，该服务网络于4月25日正式启动。简而言之，BSN是一个全球基础设施，旨在帮助区块链项目以更低的成本推出对应的APP。该系统还可用于智慧城市运营、数字经济平台，以及数据库管理等方面。</p><p>犇睿资本是一家专注于区块链行业和数字经济的投资与咨询的公司，其创始合伙人褚康告诉Cointelegraph，BSN旨在建立一种新型的全球服务网络，并创建跨区域和跨机构的，基于区块链技术的信息服务。</p><p>根据最新的数据显示，BSN已吸引了2000多名开发者，目前拥有128个公共节点。这一切看上去像是一个典型的去中心化架构，但BSN本身并非如此。</p><p>北京红枣技术科技有限公司的首席执行官何亦凡，他是负责BSN研发工作的成员之一，他在接受Cointelegraph采访时解释说—— 网络结构中的“节点”一词很容易与区块链节点混淆，但BSN公共城市节点，或称之为PCN，与区块链无关。他进一步解释道：</p><blockquote><p><strong>“事实上，每个PCN是在每个部署的云服务数据中心内建立了一个虚拟资源池，并在这个资源池内部署了区块链应用（Dapp）开发、部署和运行的所有软件、系统和网络环境。”</strong></p></blockquote><p>尽管如此，其网络中仍然使用了区块链，至少是部分使用了区块链。何亦凡指出，BSN的主要目标是创建一个类似于互联网的公共基础设施，提供一种基于区块链的“一站式”服务，该服务集成了云资源、底层框架、操作环境、密钥管理、开发SDK和网关API。</p><p><img src="https://chengwf.com/eadb9" alt="YKqPfA.png"></p><p>在与Cointelegraph的谈话中，中国电子商务区块链委员会的理事会成员兼专家顾问Olinga Taeed教授，将BSN提供的服务与旨在刺激市场的具有成本效益的去中心化托管进行了比较。</p><hr><h1 id="事实3：数字人民币是中心化的"><a href="#事实3：数字人民币是中心化的" class="headerlink" title="事实3：数字人民币是中心化的"></a>事实3：数字人民币是中心化的</h1><p><br/>据先前报道，中国人民银行计划将人民币数字化，而不是额外发行一种单独的加密货币。从技术层面来说，数字人民币将由中央银行集中管理，首先发行给地方商业银行，然后再在用户手中流通。在中国，商业银行和国有银行之间的差别很小，中国最大的三家银行都是国有的。</p><p>因此，银行将通过将数字人民币和其他货币之间的兑换，成为数字人民币的唯一发行者和主要流通机构。此外，央行可能会参与设计国家数字货币的功能和钱包，并可能获得相关数据。</p><p>需要建立一个像微信支付一样方便的数字货币支付系统可能意味着区块链的缺失，而后者与NFC和PayPass等技术的结合可能会很困难。根据现有信息，用户将能够用自己的手机无缝传输CBDC，而NFC技术和互联网将被用于支付。当设备联机之后，脱机交易也有机会被保存下来并进行处理。</p><p>数字货币系统可能不会基于区块链来搭建的另一个原因是，区块链技术缺乏可扩展性。2018年8月，中国一家媒体援引了中国人民银行支付部副主任穆长春的话，他表示，区块链平台无法满足零售所需的吞吐量。</p><hr><h1 id="事实4：数字人民币正在进行测试"><a href="#事实4：数字人民币正在进行测试" class="headerlink" title="事实4：数字人民币正在进行测试"></a>事实4：数字人民币正在进行测试</h1><p><br/>今年4月，有关应用数字人民币的截图首次流传到互联网上。有证据表明，这些测试是在深圳、雄安、成都和苏州地区的中国农业银行的白名单客户中进行的。</p><p>有报道称，从2020年4月开始，苏州的公司将使用数字人民币支付补贴，最高覆盖当地工人交通费用的50%。作为雄安智慧城市项目的一部分，麦当劳、星巴克和赛百味等世界知名商家也受邀参与了测试。</p><p>犇睿资本的褚康对Cointelegraph表示，雄安项目的试点推荐名单主要针对餐饮和零售企业。有关数字人民币试点的官方声明将在5月份发布，届时将会有更多信息。</p><hr><h1 id="事实5：数字人民币将增强经济"><a href="#事实5：数字人民币将增强经济" class="headerlink" title="事实5：数字人民币将增强经济"></a>事实5：数字人民币将增强经济</h1><p><br/>在与Cointelegraph的对话中，FinTech Practice和Asia Pacific Blockchain Lab的负责人Paul Sin告知，数字人民币的官方目标是实现普惠金融，特别是用数字人民币来显著扩建中国的金融基础设施，同时提高跨境支付的效率。</p><p>此前曾有消息人士指出，世界上最大的银行，包括中国工商银行、中国银行、中国农业银行，加上中国银行的银联协会，以及中国两家最大的金融科技公司——阿里巴巴和腾讯，将使用加密货币简化其运营，并改善新员工入职流程，使其更加顺畅。</p><p>犇睿资本褚康指出，人民币的国际化和智能手机、移动支付在中国大受欢迎，是中国开发加密货币的主要原因之一。此外，据报道，在2022年北京奥运会期间，数字人民币将用于保障游客的支付便利。</p><hr><h1 id="事实6：减少对美元的依赖"><a href="#事实6：减少对美元的依赖" class="headerlink" title="事实6：减少对美元的依赖"></a>事实6：减少对美元的依赖</h1><p><br/>有分析人士指出，中国正在努力遏制美元在全球市场中的主导地位，这是其国民经济数字化的诸多原因之一。因此，尽管持有超过3万亿美元的外汇储备，中国仍将数字货币视为摆脱美元的一种手段。对此，中国电子商务区块链委员会的Taeed表示：</p><blockquote><p><strong>“中国不希望依赖美元，因为美元传达了一种不同的意识形态和控制，因此中国才会支持那些提高独立货币地位、削弱美元霸权的项目。”</strong></p></blockquote><p>但更多的观点是，推出数字人民币是一种安全措施，因为中国在数字货币领域的胜利可能最终会终结美元的全球储备货币地位。一些分析人士预测，数字人民币将在15年内取代美元在世界市场上的地位。</p><hr><h1 id="事实7：数字人民币不会被大量使用"><a href="#事实7：数字人民币不会被大量使用" class="headerlink" title="事实7：数字人民币不会被大量使用"></a>事实7：数字人民币不会被大量使用</h1><p><br/>犇睿资本褚康告诉Cointelegraph，目前中国落实的数字货币的主要任务是取代纸币，这是中国数字经济发展的第一步。不过，他也表示，中国经济全面转型为数字经济还需要数年时间：</p><blockquote><p><strong>“还有一点需要强调的是，即使中国数字货币试点成功，在一段时间以内，数字人民币在货币总量中的占比可能也会保持在一个较低的水平，传统金融体系不太可能在很短的时间内就被重建。”</strong></p></blockquote><p>在接受Cointelegraph采访时，红枣科技CEO何亦凡称中国的数字人民币“只是一个测试项目”，并补充说它不会对中国经济、世界贸易或金融世界产生任何影响：</p><blockquote><p><strong>“一开始，数字人民币可能只能在个人客户和商家之间使用，甚至不支持企业间的转账。[……]此外，个人用户可能不会觉得使用DCEP与使用支付宝或微信支付有什么区别。”</strong></p></blockquote><p>他还补充说，数字人民币使用范围还取决于三个方面：人民银行发行量、商业银行的利率水平，以及比起使用支付宝和微信支付，人们更愿意使用数字元的意愿。然而，据他表示，数字人民币不太可能像支付宝或微信支付那样的能引起人们的兴趣。他还补充说，“在DCEP被正式用于企业间转账或国际电汇之前，它不会对中国经济产生任何显著的影响。”</p><hr><h1 id="事实8：中国不会利用CBDC来统治世界"><a href="#事实8：中国不会利用CBDC来统治世界" class="headerlink" title="事实8：中国不会利用CBDC来统治世界"></a>事实8：中国不会利用CBDC来统治世界</h1><p><br/>随着数字人民币的落地，中国的目标是在区块链市场，而不是在世界经济中建立主导地位，正如Taeed对Cointelegraph发表置评时所表明的那样：</p><blockquote><p><strong>“中国希望成为区块链之乡，就像美国西海岸是数字IP之地一样，中国相信区块链会比互联网伟大10倍。”</strong></p></blockquote><p>他还补充说，区块链未来的全球市场规模预计将超过100万亿美元，而中国的目标是占据其中70%的份额，这也是中国目前拥有并试图保持的市场份额。中国的点对点支付系统的规模已经超过万事达和Visa等支付系统的总和，因此数字人民币也被认为是第五代支付系统的一部分。</p><hr><h1 id="事实9：中国仍然对加密货币技术持怀疑态度"><a href="#事实9：中国仍然对加密货币技术持怀疑态度" class="headerlink" title="事实9：中国仍然对加密货币技术持怀疑态度"></a><strong>事实9：中国仍然对加密货币技术持怀疑态度</strong></h1><p><br/>鉴于数字人民币是中国唯一合法的加密货币，中国政府不太可能改变对数字货币的总体立场。FinStep Asia的Ahmed这样告诉Cointelegraph：</p><blockquote><p><strong>“我不认为中国政府会改变对买卖数字货币合法的看法。它可能会继续被禁止，特别是如果中国政府希望人民币在没有竞争的情况下被广泛采用。加密货币的跨境属性也是会使其被继续禁止的原因之一，因为这种性质可能会导致资本流出中国大陆，而中国的资本外流是高度受限的。”</strong></p></blockquote><hr><h1 id="展望未来"><a href="#展望未来" class="headerlink" title="展望未来"></a><strong>展望未来</strong></h1><p><br/>虽然文中提到的中国的两个项目仍处于大规模应用的早期阶段，但很明显，现在它们已经成为中国历史上加密货币技术领域的最大发展。一些专家对中国基于区块链的服务网络和CBDC寄予厚望。犇睿资本褚康也与Cointelegraph分享了他对此事的期望：</p><blockquote><p><strong>“我们相信，未来，合法的数字货币将在各种商业生态系统和支付渠道中显示出强大的生命力。”</strong></p></blockquote><p>中国人民银行尚未确认数字人民币的正式发行日期，但中国的新闻媒体初步估计发行日期将在2021年年中，这意味着未来两年对于这些技术的广泛采用可能会起决定性的作用。</p>]]></content>
     
@@ -62,11 +91,11 @@
     
       <category term="区块链" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE/"/>
     
-      <category term="区块链看点" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE%E7%9C%8B%E7%82%B9/"/>
-    
       <category term="DCEP" scheme="https://www.chengwf.com/tags/DCEP/"/>
     
       <category term="数字货币" scheme="https://www.chengwf.com/tags/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/"/>
+    
+      <category term="区块链看点" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE%E7%9C%8B%E7%82%B9/"/>
     
       <category term="Libra" scheme="https://www.chengwf.com/tags/Libra/"/>
     
@@ -95,9 +124,9 @@
     
       <category term="央行数字货币" scheme="https://www.chengwf.com/tags/%E5%A4%AE%E8%A1%8C%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/"/>
     
-      <category term="以太坊" scheme="https://www.chengwf.com/tags/%E4%BB%A5%E5%A4%AA%E5%9D%8A/"/>
-    
       <category term="区块链周报" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE%E5%91%A8%E6%8A%A5/"/>
+    
+      <category term="以太坊" scheme="https://www.chengwf.com/tags/%E4%BB%A5%E5%A4%AA%E5%9D%8A/"/>
     
   </entry>
   
@@ -219,11 +248,11 @@
     
       <category term="区块链" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE/"/>
     
-      <category term="区块链看点" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE%E7%9C%8B%E7%82%B9/"/>
-    
       <category term="数字货币" scheme="https://www.chengwf.com/tags/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/"/>
     
       <category term="闪电网络" scheme="https://www.chengwf.com/tags/%E9%97%AA%E7%94%B5%E7%BD%91%E7%BB%9C/"/>
+    
+      <category term="区块链看点" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE%E7%9C%8B%E7%82%B9/"/>
     
   </entry>
   
@@ -282,18 +311,18 @@
     
       <category term="数字货币" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/"/>
     
-      <category term="数字货币" scheme="https://www.chengwf.com/categories/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/"/>
-    
       <category term="加密货币交易平台" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/%E5%8A%A0%E5%AF%86%E8%B4%A7%E5%B8%81%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0/"/>
     
       <category term="矿池" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/%E7%9F%BF%E6%B1%A0/"/>
     
+      <category term="数字货币" scheme="https://www.chengwf.com/categories/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/"/>
+    
     
       <category term="区块链" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE/"/>
     
-      <category term="加密货币" scheme="https://www.chengwf.com/tags/%E5%8A%A0%E5%AF%86%E8%B4%A7%E5%B8%81/"/>
-    
       <category term="区块链看点" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE%E7%9C%8B%E7%82%B9/"/>
+    
+      <category term="加密货币" scheme="https://www.chengwf.com/tags/%E5%8A%A0%E5%AF%86%E8%B4%A7%E5%B8%81/"/>
     
       <category term="加密货币交易平台" scheme="https://www.chengwf.com/tags/%E5%8A%A0%E5%AF%86%E8%B4%A7%E5%B8%81%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0/"/>
     
@@ -327,24 +356,24 @@
     
       <category term="新冠状病毒" scheme="https://www.chengwf.com/categories/%E6%96%B0%E5%86%A0%E7%8A%B6%E7%97%85%E6%AF%92/"/>
     
+      <category term="区块链金融" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E5%8C%BA%E5%9D%97%E9%93%BE%E9%87%91%E8%9E%8D/"/>
+    
       <category term="数字经济" scheme="https://www.chengwf.com/categories/%E6%95%B0%E5%AD%97%E7%BB%8F%E6%B5%8E/"/>
     
       <category term="数据" scheme="https://www.chengwf.com/categories/%E6%95%B0%E6%8D%AE/"/>
     
       <category term="数字银行" scheme="https://www.chengwf.com/categories/%E6%95%B0%E5%AD%97%E7%BB%8F%E6%B5%8E/%E6%95%B0%E5%AD%97%E9%93%B6%E8%A1%8C/"/>
     
-      <category term="区块链金融" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E5%8C%BA%E5%9D%97%E9%93%BE%E9%87%91%E8%9E%8D/"/>
-    
       <category term="数字银行" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E5%8C%BA%E5%9D%97%E9%93%BE%E9%87%91%E8%9E%8D/%E6%95%B0%E5%AD%97%E9%93%B6%E8%A1%8C/"/>
     
       <category term="大数据" scheme="https://www.chengwf.com/categories/%E6%95%B0%E6%8D%AE/%E5%A4%A7%E6%95%B0%E6%8D%AE/"/>
     
     
+      <category term="区块链看点" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE%E7%9C%8B%E7%82%B9/"/>
+    
       <category term="新冠状病毒" scheme="https://www.chengwf.com/tags/%E6%96%B0%E5%86%A0%E7%8A%B6%E7%97%85%E6%AF%92/"/>
     
       <category term="COVID-19" scheme="https://www.chengwf.com/tags/COVID-19/"/>
-    
-      <category term="区块链看点" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE%E7%9C%8B%E7%82%B9/"/>
     
       <category term="数字经济" scheme="https://www.chengwf.com/tags/%E6%95%B0%E5%AD%97%E7%BB%8F%E6%B5%8E/"/>
     
@@ -397,11 +426,11 @@
     
       <category term="区块链" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/"/>
     
-      <category term="区块链技术" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E5%8C%BA%E5%9D%97%E9%93%BE%E6%8A%80%E6%9C%AF/"/>
-    
       <category term="人工智能（AI）" scheme="https://www.chengwf.com/categories/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%EF%BC%88AI%EF%BC%89/"/>
     
       <category term="AI芯片" scheme="https://www.chengwf.com/categories/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%EF%BC%88AI%EF%BC%89/AI%E8%8A%AF%E7%89%87/"/>
+    
+      <category term="区块链技术" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E5%8C%BA%E5%9D%97%E9%93%BE%E6%8A%80%E6%9C%AF/"/>
     
     
       <category term="区块链看点" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE%E7%9C%8B%E7%82%B9/"/>
@@ -413,35 +442,6 @@
       <category term="人工智能（AI）" scheme="https://www.chengwf.com/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%EF%BC%88AI%EF%BC%89/"/>
     
       <category term="AI芯片" scheme="https://www.chengwf.com/tags/AI%E8%8A%AF%E7%89%87/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>基于python数据分析与数据自我进化的WIKI百科引擎</title>
-    <link href="https://www.chengwf.com/2020/03/inevo/inevo-principle.html"/>
-    <id>https://www.chengwf.com/2020/03/inevo/inevo-principle.html</id>
-    <published>2020-03-19T16:00:00.000Z</published>
-    <updated>2020-05-08T09:16:46.760Z</updated>
-    
-    <content type="html"><![CDATA[<p><strong>一个能自我进化、智能完善的知识引擎库：</strong></p><p><abbr title="Hyper Text Markup Language">IN-EVOLUTIO</abbr>，简称：<abbr title="World Wide Web Consortium">Inevo</abbr></p><hr><p><strong>Inevo是什么</strong></p><blockquote><p> Inevo是Jack.Chan在全球首个提出的信息检索、智能抽取、真实对照的引擎库系统，利用区块链和AI的特性，适应人脑神经网络运算机制和思维体系逻辑，通过建立独立而可供接入编程API的数据库索引中纽神经库，进而为人类智能提供可解析、可检索、可溯源的知识体系还原成果系统。</p></blockquote><a id="more"></a>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;strong&gt;一个能自我进化、智能完善的知识引擎库：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;abbr title=&quot;Hyper Text Markup Language&quot;&gt;IN-EVOLUTIO&lt;/abbr&gt;，简称：&lt;abbr title=&quot;World Wide Web Consortium&quot;&gt;Inevo&lt;/abbr&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;Inevo是什么&lt;/strong&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt; Inevo是Jack.Chan在全球首个提出的信息检索、智能抽取、真实对照的引擎库系统，利用区块链和AI的特性，适应人脑神经网络运算机制和思维体系逻辑，通过建立独立而可供接入编程API的数据库索引中纽神经库，进而为人类智能提供可解析、可检索、可溯源的知识体系还原成果系统。&lt;/p&gt;
-&lt;/blockquote&gt;
-    
-    </summary>
-    
-    
-      <category term="WIKI" scheme="https://www.chengwf.com/categories/WIKI/"/>
-    
-    
-      <category term="WIKI" scheme="https://www.chengwf.com/tags/WIKI/"/>
     
   </entry>
   
@@ -481,17 +481,46 @@
     
       <category term="比特币" scheme="https://www.chengwf.com/tags/%E6%AF%94%E7%89%B9%E5%B8%81/"/>
     
-      <category term="共识机制" scheme="https://www.chengwf.com/tags/%E5%85%B1%E8%AF%86%E6%9C%BA%E5%88%B6/"/>
-    
-      <category term="中本聪" scheme="https://www.chengwf.com/tags/%E4%B8%AD%E6%9C%AC%E8%81%AA/"/>
-    
       <category term="分布式" scheme="https://www.chengwf.com/tags/%E5%88%86%E5%B8%83%E5%BC%8F/"/>
     
       <category term="去中心化" scheme="https://www.chengwf.com/tags/%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%8C%96/"/>
     
       <category term="智能合约" scheme="https://www.chengwf.com/tags/%E6%99%BA%E8%83%BD%E5%90%88%E7%BA%A6/"/>
     
+      <category term="共识机制" scheme="https://www.chengwf.com/tags/%E5%85%B1%E8%AF%86%E6%9C%BA%E5%88%B6/"/>
+    
+      <category term="中本聪" scheme="https://www.chengwf.com/tags/%E4%B8%AD%E6%9C%AC%E8%81%AA/"/>
+    
       <category term="区块链融资" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE%E8%9E%8D%E8%B5%84/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>基于python数据分析与数据自我进化的WIKI百科引擎</title>
+    <link href="https://www.chengwf.com/2020/03/inevo/inevo-principle.html"/>
+    <id>https://www.chengwf.com/2020/03/inevo/inevo-principle.html</id>
+    <published>2020-03-19T16:00:00.000Z</published>
+    <updated>2020-05-08T09:16:46.760Z</updated>
+    
+    <content type="html"><![CDATA[<p><strong>一个能自我进化、智能完善的知识引擎库：</strong></p><p><abbr title="Hyper Text Markup Language">IN-EVOLUTIO</abbr>，简称：<abbr title="World Wide Web Consortium">Inevo</abbr></p><hr><p><strong>Inevo是什么</strong></p><blockquote><p> Inevo是Jack.Chan在全球首个提出的信息检索、智能抽取、真实对照的引擎库系统，利用区块链和AI的特性，适应人脑神经网络运算机制和思维体系逻辑，通过建立独立而可供接入编程API的数据库索引中纽神经库，进而为人类智能提供可解析、可检索、可溯源的知识体系还原成果系统。</p></blockquote><a id="more"></a>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;strong&gt;一个能自我进化、智能完善的知识引擎库：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;abbr title=&quot;Hyper Text Markup Language&quot;&gt;IN-EVOLUTIO&lt;/abbr&gt;，简称：&lt;abbr title=&quot;World Wide Web Consortium&quot;&gt;Inevo&lt;/abbr&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Inevo是什么&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt; Inevo是Jack.Chan在全球首个提出的信息检索、智能抽取、真实对照的引擎库系统，利用区块链和AI的特性，适应人脑神经网络运算机制和思维体系逻辑，通过建立独立而可供接入编程API的数据库索引中纽神经库，进而为人类智能提供可解析、可检索、可溯源的知识体系还原成果系统。&lt;/p&gt;
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+    
+      <category term="WIKI" scheme="https://www.chengwf.com/categories/WIKI/"/>
+    
+    
+      <category term="WIKI" scheme="https://www.chengwf.com/tags/WIKI/"/>
     
   </entry>
   
@@ -513,26 +542,26 @@
     
       <category term="区块链" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/"/>
     
+      <category term="区块链金融" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E5%8C%BA%E5%9D%97%E9%93%BE%E9%87%91%E8%9E%8D/"/>
+    
       <category term="国家主权货币" scheme="https://www.chengwf.com/categories/%E5%9B%BD%E5%AE%B6%E4%B8%BB%E6%9D%83%E8%B4%A7%E5%B8%81/"/>
     
       <category term="数字经济" scheme="https://www.chengwf.com/categories/%E6%95%B0%E5%AD%97%E7%BB%8F%E6%B5%8E/"/>
     
       <category term="DCEP" scheme="https://www.chengwf.com/categories/%E5%9B%BD%E5%AE%B6%E4%B8%BB%E6%9D%83%E8%B4%A7%E5%B8%81/DCEP/"/>
     
-      <category term="DCEP" scheme="https://www.chengwf.com/categories/DCEP/"/>
-    
       <category term="数字银行" scheme="https://www.chengwf.com/categories/%E6%95%B0%E5%AD%97%E7%BB%8F%E6%B5%8E/%E6%95%B0%E5%AD%97%E9%93%B6%E8%A1%8C/"/>
     
-      <category term="区块链金融" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E5%8C%BA%E5%9D%97%E9%93%BE%E9%87%91%E8%9E%8D/"/>
+      <category term="DCEP" scheme="https://www.chengwf.com/categories/DCEP/"/>
     
       <category term="数字银行" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E5%8C%BA%E5%9D%97%E9%93%BE%E9%87%91%E8%9E%8D/%E6%95%B0%E5%AD%97%E9%93%B6%E8%A1%8C/"/>
     
     
       <category term="区块链" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE/"/>
     
-      <category term="区块链看点" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE%E7%9C%8B%E7%82%B9/"/>
-    
       <category term="DCEP" scheme="https://www.chengwf.com/tags/DCEP/"/>
+    
+      <category term="区块链看点" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE%E7%9C%8B%E7%82%B9/"/>
     
       <category term="数字经济" scheme="https://www.chengwf.com/tags/%E6%95%B0%E5%AD%97%E7%BB%8F%E6%B5%8E/"/>
     
@@ -571,6 +600,8 @@
       <category term="数字货币" scheme="https://www.chengwf.com/categories/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/"/>
     
     
+      <category term="区块链看点" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE%E7%9C%8B%E7%82%B9/"/>
+    
       <category term="巴菲特" scheme="https://www.chengwf.com/tags/%E5%B7%B4%E8%8F%B2%E7%89%B9/"/>
     
       <category term="新冠状病毒" scheme="https://www.chengwf.com/tags/%E6%96%B0%E5%86%A0%E7%8A%B6%E7%97%85%E6%AF%92/"/>
@@ -578,8 +609,6 @@
       <category term="COVID-19" scheme="https://www.chengwf.com/tags/COVID-19/"/>
     
       <category term="加密货币" scheme="https://www.chengwf.com/tags/%E5%8A%A0%E5%AF%86%E8%B4%A7%E5%B8%81/"/>
-    
-      <category term="区块链看点" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE%E7%9C%8B%E7%82%B9/"/>
     
   </entry>
   
@@ -599,13 +628,13 @@
     </summary>
     
     
-      <category term="新兴资产" scheme="https://www.chengwf.com/categories/%E6%96%B0%E5%85%B4%E8%B5%84%E4%BA%A7/"/>
-    
-      <category term="加密资产" scheme="https://www.chengwf.com/categories/%E6%96%B0%E5%85%B4%E8%B5%84%E4%BA%A7/%E5%8A%A0%E5%AF%86%E8%B5%84%E4%BA%A7/"/>
-    
       <category term="数据" scheme="https://www.chengwf.com/categories/%E6%95%B0%E6%8D%AE/"/>
     
       <category term="数据资产" scheme="https://www.chengwf.com/categories/%E6%95%B0%E6%8D%AE/%E6%95%B0%E6%8D%AE%E8%B5%84%E4%BA%A7/"/>
+    
+      <category term="新兴资产" scheme="https://www.chengwf.com/categories/%E6%96%B0%E5%85%B4%E8%B5%84%E4%BA%A7/"/>
+    
+      <category term="加密资产" scheme="https://www.chengwf.com/categories/%E6%96%B0%E5%85%B4%E8%B5%84%E4%BA%A7/%E5%8A%A0%E5%AF%86%E8%B5%84%E4%BA%A7/"/>
     
     
       <category term="区块链看点" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE%E7%9C%8B%E7%82%B9/"/>
@@ -646,16 +675,16 @@
     
       <category term="新兴资产" scheme="https://www.chengwf.com/categories/%E6%96%B0%E5%85%B4%E8%B5%84%E4%BA%A7/"/>
     
-      <category term="数字资产" scheme="https://www.chengwf.com/categories/%E6%96%B0%E5%85%B4%E8%B5%84%E4%BA%A7/%E6%95%B0%E5%AD%97%E8%B5%84%E4%BA%A7/"/>
+      <category term="区块链技术" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E5%8C%BA%E5%9D%97%E9%93%BE%E6%8A%80%E6%9C%AF/"/>
     
       <category term="加密资产" scheme="https://www.chengwf.com/categories/%E6%96%B0%E5%85%B4%E8%B5%84%E4%BA%A7/%E5%8A%A0%E5%AF%86%E8%B5%84%E4%BA%A7/"/>
     
-      <category term="区块链技术" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E5%8C%BA%E5%9D%97%E9%93%BE%E6%8A%80%E6%9C%AF/"/>
+      <category term="数字资产" scheme="https://www.chengwf.com/categories/%E6%96%B0%E5%85%B4%E8%B5%84%E4%BA%A7/%E6%95%B0%E5%AD%97%E8%B5%84%E4%BA%A7/"/>
     
-    
-      <category term="区块链看点" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE%E7%9C%8B%E7%82%B9/"/>
     
       <category term="DCEP" scheme="https://www.chengwf.com/tags/DCEP/"/>
+    
+      <category term="区块链看点" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE%E7%9C%8B%E7%82%B9/"/>
     
       <category term="国家主权货币" scheme="https://www.chengwf.com/tags/%E5%9B%BD%E5%AE%B6%E4%B8%BB%E6%9D%83%E8%B4%A7%E5%B8%81/"/>
     
@@ -688,50 +717,15 @@
       <category term="数字经济" scheme="https://www.chengwf.com/categories/%E6%95%B0%E5%AD%97%E7%BB%8F%E6%B5%8E/"/>
     
     
+      <category term="区块链看点" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE%E7%9C%8B%E7%82%B9/"/>
+    
       <category term="新冠状病毒" scheme="https://www.chengwf.com/tags/%E6%96%B0%E5%86%A0%E7%8A%B6%E7%97%85%E6%AF%92/"/>
     
       <category term="COVID-19" scheme="https://www.chengwf.com/tags/COVID-19/"/>
-    
-      <category term="区块链看点" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE%E7%9C%8B%E7%82%B9/"/>
     
       <category term="全球经济" scheme="https://www.chengwf.com/tags/%E5%85%A8%E7%90%83%E7%BB%8F%E6%B5%8E/"/>
     
       <category term="熔断" scheme="https://www.chengwf.com/tags/%E7%86%94%E6%96%AD/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>新冠病毒已突变，号称能破解区块链的量子计算能否击败冠状病毒？</title>
-    <link href="https://www.chengwf.com/2020/03/covid19_quantum_technology.html"/>
-    <id>https://www.chengwf.com/2020/03/covid19_quantum_technology.html</id>
-    <published>2020-03-06T16:00:00.000Z</published>
-    <updated>2020-03-30T09:12:48.765Z</updated>
-    
-    <content type="html"><![CDATA[<p>量子计算还远远不够能马上帮助遏制这种冠状病毒爆发的蔓延。但是，这个新兴的计算领域几乎肯定会帮助科学家和研究人员应对未来的病毒性人类危机。 </p><p>科普一下：（以下对量子计算的简单介绍来源于维基百科）</p><hr><p><strong>什么是量子计算？</strong></p><p>要掌握量子计算或其所利用的物理领域（量子力学）并不容易。但是，这类机器（耗资数百万美元）旨在模拟自然环境。 </p><p>用最简单的术语来说，它们比我们认为经典计算机的指数级功能强大，经典计算机的基本基本单位用1或0s或位表示。量子计算以所谓的量子位或“量子位”的形式实现了量子飞跃。 </p><p>可以这样考虑：如果抛硬币，它将以正面或反面着陆，或者以传统的计算机术语“ 1”和“ 0”着陆。但是，当硬币仍在旋转时，它的状态如何？量子位在这种情况下，不一定是1或0，而是介于两者之间的所有可能性。 </p><p>现在，让我们进一步类比。如果您在现实世界中翻转两枚硬币，那么一枚硬币的正反都不会影响另一枚硬币。但是，量子位可以同时纠缠成多种状态。<a id="more"></a></p><img src="https://s1.ax1x.com/2020/03/28/GkOBsx.png" alt="GkOBsx.png" style="zoom:50%;" /><blockquote><p><strong>吉尔说：“这是’地球不平坦’的时刻之一。” “实际上正在发生一场革命。”</strong></p></blockquote><blockquote><p><strong>量子计算机是什么样子？</strong></p><p>量子计算机芯片的温度要比精巧的制冷设备一部分的圆柱体中的外部空间冷。该系统有2,000多个组件，包括脉冲管冷却器，超导同轴线，混合室和各种回路。它像一个花哨的枝形吊灯。</p></blockquote><hr><p>目前新冠病毒突变了，演化出了2个亚型。</p><p>这项研究对103个新冠病毒全基因组分子(目前为止最大规模)进化了分析，发现病毒株已发生了<strong>149个突变点</strong>，而且多数是近期产生。</p><p>研究还指出，新冠病毒已经演化出<strong>L和S两个亚型</strong>。从占比上来看，L亚型更为普遍达到70%，S亚型占30%。其中，L亚型可能更具侵略性传染力。</p><p>这项研究一时间成为了大家关注的焦点，直冲知乎热榜第三，热度达到了2966万。</p><img src="https://s1.ax1x.com/2020/03/28/GkORWd.png" alt="GkORWd.png" style="zoom:50%;" /><p>这项来自中国科研团队，3月3日发表于《国家科学评论》(National Science Review)。</p><img src="https://s1.ax1x.com/2020/03/28/GkO4yt.png" alt="GkO4yt.png" style="zoom: 33%;" /><p><strong>△</strong>《关于SARS-CoV-2的起源和持续进化》</p><p>那么，这到底是是怎么一回事？是否会让疫情变得更加严重呢？</p><h2 id="病毒演化出2个亚型，L亚型可能传染力更强"><a href="#病毒演化出2个亚型，L亚型可能传染力更强" class="headerlink" title="病毒演化出2个亚型，L亚型可能传染力更强"></a>病毒演化出2个亚型，L亚型可能传染力更强</h2><h2 id="病毒突变有何影响？"><a href="#病毒突变有何影响？" class="headerlink" title="病毒突变有何影响？"></a>病毒突变有何影响？</h2><p>那么，病毒突变了，会不会让疫情变得更加严重呢？</p><p>知乎网友“冷哲”对此做了评论，他认为：</p><blockquote><p>病毒自然突变是不可避免的，现在突变的很少，而且没有重组发生，没有对疫情有影响，疫情也没有变严重，同时目前的突变还不太会影响到现有疫苗的开发工作。</p><p>同时这是个回顾性研究，病毒早就突变了，不是刚突变的。</p><p>虽然病毒自然进化出了传染力和毒性更强的类型，但是在人工干预的情况下这些毒性强的病毒反而优先被控制住了，所以现在传播的更多的是毒性弱的种类。</p></blockquote><p>也有网友认为，这项研究是一个描述性分析，也就是这个<strong>推论完全建立在观察</strong>，而非毒理分析。</p><p>研究的重心在于病毒的起源，比较有用的信息点在于“病毒发生了变异”、“有2个亚型”、“时间和空间上存在差异”。</p><p>至于其他的推论，还需要进一步分析。</p><img src="https://s1.ax1x.com/2020/03/28/GkOqYQ.png" alt="GkOqYQ.png" style="zoom:50%;" /><p>知名健康博主、医学博士“子陵在听歌”也表达了类似的观点，他认为：</p><blockquote><p>需要强调的是，这只是个生物信息学研究，不是实验室研究，结论有主观性。</p><p>这种分析我们应用一些软件如MUSCLE等可以自己完成。</p></blockquote><p><strong>中国农科院提出用量子点标记病毒DNA</strong></p><p>最近来自中国农科院哈尔滨兽医研究所的研究者们提出了一种新的观察方法，可以准确地追踪病毒感染细胞的路径，并用拍摄短片的方式记录下全过程，结果清晰明了。</p><p><img src="https://s1.ax1x.com/2020/03/28/GkOXSs.jpg" alt="GkOXSs.jpg"></p><p><img src="https://s1.ax1x.com/2020/03/28/GkOjln.jpg" alt="GkOjln.jpg"></p><p>他们用一种叫做<strong>量子点</strong>（QD）的发光物质标记了伪狂犬病毒（PRV）的DNA，然后用激光激发量子点让病毒发光，从而记录下了病毒入侵细胞的全过程。</p><p>这篇文章已经发表在一月的<strong>Nano Letters</strong>期刊上。</p><h2 id="对RNA病毒无效"><a href="#对RNA病毒无效" class="headerlink" title="对RNA病毒无效"></a>对RNA病毒无效</h2><img src="https://s1.ax1x.com/2020/03/28/GkX3pd.png" alt="GkX3pd.png" style="zoom:50%;" /><p>量子点过去被广泛用在显示器件上，我们熟知的量子点电视使用的就是这种技术。</p><p>虽然量子点的体积仍然比较大，用量子点标记的方法只能用在像PRV这样较大的病毒中。农科院在实验中用到的PRV基因大小是冠状病毒的六倍。</p><p>而且，这项技术需要量子点上的DNA与病毒DNA配对，这就意味着，单链RNA病毒是无法用这种方法标记的。许多病毒，像冠状病毒和艾滋病病毒，都是RNA病毒。</p><p>所以很遗憾，很激动人心的思路，但这次对于新冠肺炎病毒，还用不上。</p><p>不过虽然这项技术目前还有一定的局限性，但农科院的这篇文章所提出的新方法无疑为我们提供了一种在未来新的科技解决病毒思路。</p>]]></content>
-    
-    <summary type="html">
-    
-      量子计算机芯片的温度要比精巧的制冷设备一部分的圆柱体中的外部空间冷。该系统有2,000多个组件，包括脉冲管冷却器，超导同轴线，混合室和各种回路。它像一个花哨的枝形吊灯。
-    
-    </summary>
-    
-    
-      <category term="量子技术" scheme="https://www.chengwf.com/categories/%E9%87%8F%E5%AD%90%E6%8A%80%E6%9C%AF/"/>
-    
-      <category term="量子技术应用" scheme="https://www.chengwf.com/categories/%E9%87%8F%E5%AD%90%E6%8A%80%E6%9C%AF/%E9%87%8F%E5%AD%90%E6%8A%80%E6%9C%AF%E5%BA%94%E7%94%A8/"/>
-    
-      <category term="新冠状病毒" scheme="https://www.chengwf.com/categories/%E9%87%8F%E5%AD%90%E6%8A%80%E6%9C%AF/%E9%87%8F%E5%AD%90%E6%8A%80%E6%9C%AF%E5%BA%94%E7%94%A8/%E6%96%B0%E5%86%A0%E7%8A%B6%E7%97%85%E6%AF%92/"/>
-    
-    
-      <category term="新冠状病毒" scheme="https://www.chengwf.com/tags/%E6%96%B0%E5%86%A0%E7%8A%B6%E7%97%85%E6%AF%92/"/>
-    
-      <category term="COVID-19" scheme="https://www.chengwf.com/tags/COVID-19/"/>
-    
-      <category term="区块链看点" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE%E7%9C%8B%E7%82%B9/"/>
-    
-      <category term="量子技术" scheme="https://www.chengwf.com/tags/%E9%87%8F%E5%AD%90%E6%8A%80%E6%9C%AF/"/>
-    
-      <category term="量子计算" scheme="https://www.chengwf.com/tags/%E9%87%8F%E5%AD%90%E8%AE%A1%E7%AE%97/"/>
     
   </entry>
   
