@@ -1,6 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>5分钟给你说明白什么是区块链（视频）</title>
+    <url>/2020/05/videos/blockchain_education.html</url>
+    <content><![CDATA[<div id="dplayer0" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer0"),"autoplay":true,"hotkey":true,"preload":"metadata","video":{"url":"https://chengwf.com/sch"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script> 
+
+
+
+<div class="video-container"><iframe src="https://www.youtube.com/embed/CeSF963wJOI" frameborder="0" loading="lazy" allowfullscreen></iframe></div>]]></content>
+      <categories>
+        <category>区块链</category>
+      </categories>
+      <tags>
+        <tag>区块链</tag>
+        <tag>区块链视频</tag>
+        <tag>blockchain_video</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>区块链新看点周报（2020/5/11）</title>
     <url>/2020/05/2020-05-11-blockchain-news.html</url>
     <content><![CDATA[<h1 id="一、本周头条"><a href="#一、本周头条" class="headerlink" title="一、本周头条"></a>一、本周头条</h1><br/>
@@ -58,8 +75,8 @@
       <tags>
         <tag>区块链</tag>
         <tag>央行数字货币</tag>
-        <tag>比特币</tag>
         <tag>区块链周报</tag>
+        <tag>比特币</tag>
       </tags>
   </entry>
   <entry>
@@ -336,8 +353,8 @@
       <tags>
         <tag>区块链</tag>
         <tag>央行数字货币</tag>
-        <tag>区块链周报</tag>
         <tag>DCEP</tag>
+        <tag>区块链周报</tag>
       </tags>
   </entry>
   <entry>
@@ -1020,6 +1037,24 @@
       </tags>
   </entry>
   <entry>
+    <title>基于python数据分析与数据自我进化的WIKI百科引擎</title>
+    <url>/2020/03/inevo/inevo-principle.html</url>
+    <content><![CDATA[<p><strong>一个能自我进化、智能完善的知识引擎库：</strong></p>
+<p><abbr title="Hyper Text Markup Language">IN-EVOLUTIO</abbr>，简称：<abbr title="World Wide Web Consortium">Inevo</abbr></p>
+<hr>
+<p><strong>Inevo是什么</strong></p>
+<blockquote>
+<p> Inevo是Jack.Chan在全球首个提出的信息检索、智能抽取、真实对照的引擎库系统，利用区块链和AI的特性，适应人脑神经网络运算机制和思维体系逻辑，通过建立独立而可供接入编程API的数据库索引中纽神经库，进而为人类智能提供可解析、可检索、可溯源的知识体系还原成果系统。</p>
+</blockquote>
+<a id="more"></a>]]></content>
+      <categories>
+        <category>WIKI</category>
+      </categories>
+      <tags>
+        <tag>WIKI</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>区块链</title>
     <url>/2020/03/inevo/wiki-blockchain-index.html</url>
     <content><![CDATA[<h1 id="区块链是什么"><a href="#区块链是什么" class="headerlink" title="区块链是什么"></a>区块链是什么</h1><br/>
@@ -1236,7 +1271,7 @@
 <td>强中心化</td>
 </tr>
 <tr>
-<td><strong>如初特点</strong></td>
+<td><strong>特点</strong></td>
 <td>信用的自创建</td>
 <td>效率和成本优化</td>
 <td>安全性高、效率高</td>
@@ -1436,24 +1471,6 @@
         <tag>共识机制</tag>
         <tag>中本聪</tag>
         <tag>区块链融资</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>基于python数据分析与数据自我进化的WIKI百科引擎</title>
-    <url>/2020/03/inevo/inevo-principle.html</url>
-    <content><![CDATA[<p><strong>一个能自我进化、智能完善的知识引擎库：</strong></p>
-<p><abbr title="Hyper Text Markup Language">IN-EVOLUTIO</abbr>，简称：<abbr title="World Wide Web Consortium">Inevo</abbr></p>
-<hr>
-<p><strong>Inevo是什么</strong></p>
-<blockquote>
-<p> Inevo是Jack.Chan在全球首个提出的信息检索、智能抽取、真实对照的引擎库系统，利用区块链和AI的特性，适应人脑神经网络运算机制和思维体系逻辑，通过建立独立而可供接入编程API的数据库索引中纽神经库，进而为人类智能提供可解析、可检索、可溯源的知识体系还原成果系统。</p>
-</blockquote>
-<a id="more"></a>]]></content>
-      <categories>
-        <category>WIKI</category>
-      </categories>
-      <tags>
-        <tag>WIKI</tag>
       </tags>
   </entry>
   <entry>
