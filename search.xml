@@ -1604,34 +1604,69 @@
 <p> <strong>InterValue-CEO曹源：区块链4.0生态体系模式先行者</strong> 。</p>
 </blockquote>
 <hr>
+<h1 id="区块链的有趣历史"><a href="#区块链的有趣历史" class="headerlink" title="区块链的有趣历史"></a>区块链的有趣历史</h1><p><br/>尽管区块链是一项新技术，但它已经拥有丰富而有趣的历史。以下是区块链开发中一些最重要和值得注意的事件的简短时间表。 </p>
+<h2 id="2008年"><a href="#2008年" class="headerlink" title="2008年"></a>2008年</h2><ul>
+<li>中本聪（Satoshi Nakamoto）是个人或团体的化名，他出版了“ <a href="https://bitcoin.org/bitcoin.pdf" target="_blank" rel="noopener">比特币：点对点电子现金系统”</a>。<sup><a href="https://bitcoin.org/files/bitcoin-paper/bitcoin_zh_cn.pdf" target="_blank" rel="noopener">[1]</a></sup></li>
+</ul>
+<h2 id="2009年"><a href="#2009年" class="headerlink" title="2009年"></a>2009年</h2><ul>
+<li>首次成功的比特币（BTC）交易发生在计算机科学家Hal Finney和神秘的中本聪之间。</li>
+</ul>
+<h2 id="2010年"><a href="#2010年" class="headerlink" title="2010年"></a>2010年</h2><ul>
+<li>佛罗里达州程序员Laszlo Hanycez完成了有史以来第一次使用比特币的交易-两份Papa John’s披萨。Hanycez转移了10,000个BTC，当时价值约60美元。今天，它的价值为8000万美元。 </li>
+<li>比特币的市值正式超过100万美元。</li>
+</ul>
+<h2 id="2011年"><a href="#2011年" class="headerlink" title="2011年"></a>2011年</h2><ul>
+<li>1 BTC = $ 1USD，给予与美元的加密货币平价。</li>
+<li>电子前沿基金会，维基解密和其他组织开始接受比特币作为捐赠。</li>
+</ul>
+<h2 id="2012年"><a href="#2012年" class="headerlink" title="2012年"></a>2012年</h2><ul>
+<li>在诸如<em>《</em>老婆婆》等热门电视节目中提到了区块链和加密货币，将区块链注入了流行文化。</li>
+<li>早期比特币开发商Vitalik Buterin发行的《比特<em>币杂志》</em>。</li>
+</ul>
+<h2 id="2013年"><a href="#2013年" class="headerlink" title="2013年"></a>2013年</h2><ul>
+<li>BTC市值超过10亿美元。</li>
+<li>比特币首次达到$ 100 / BTC。</li>
+<li>Buterin发表“ <a href="https://github.com/ethereum/wiki/wiki/White-Paper" target="_blank" rel="noopener">以太坊项目</a> ”论文，暗示<a href="https://github.com/ethereum/wiki/wiki/White-Paper" target="_blank" rel="noopener">区块链</a>除比特币外还有其他可能性（例如，智能合约）。</li>
+</ul>
+<h2 id="2014年"><a href="#2014年" class="headerlink" title="2014年"></a>2014年</h2><ul>
+<li>游戏公司Zynga，The D Las Vegas Hotel和Overstock.com都开始接受比特币付款。</li>
+<li>Buterin的以太坊项目通过首次代币发行（ICO）进行众筹，筹集了超过1800万美元的BTC资金，并为区块链开辟了新途径。</li>
+<li>R3由200多家区块链公司组成，旨在发现可以在技术中实施区块链的新方法。</li>
+<li>PayPal宣布整合比特币。</li>
+</ul>
+<h2 id="2015年"><a href="#2015年" class="headerlink" title="2015年"></a>2015年</h2><ul>
+<li>接受BTC的商户数量超过100,000。</li>
+<li>纳斯达克和旧金山区块链公司Chain联手测试该技术以交易私人公司的股份。</li>
+</ul>
+<h2 id="2016年"><a href="#2016年" class="headerlink" title="2016年"></a>2016年</h2><ul>
+<li>科技巨头IBM宣布了基于云的业务解决方案的区块链战略。</li>
+<li>日本政府认识到区块链和加密货币的合法性。</li>
+</ul>
+<h2 id="2017年"><a href="#2017年" class="headerlink" title="2017年"></a>2017年</h2><ul>
+<li>比特币首次达到$ 1,000 / BTC。</li>
+<li>加密货币市值达到1500亿美元。</li>
+<li>摩根大通（JP Morgan）首席执行官杰米·戴蒙（Jamie Dimon）说，他相信区块链是一种未来技术，这使分类账系统获得了华尔街的信任。</li>
+<li>比特币达到历史新高的19,783.21美元/ BTC。</li>
+<li>迪拜宣布其政府将在2020年之前采用区块链技术。</li>
+</ul>
+<h2 id="2018年"><a href="#2018年" class="headerlink" title="2018年"></a>2018年</h2><ul>
+<li>Facebook致力于建立一个区块链组织，并暗示可能创建自己的加密货币。</li>
+<li>IBM开发了一个基于区块链的银行平台，并与Citi和Barclays等大型银行签约。</li>
+</ul>
+<hr>
 <h1 id="区块链的主流融资模式"><a href="#区块链的主流融资模式" class="headerlink" title="区块链的主流融资模式"></a>区块链的主流融资模式</h1><p><br/>目前区块链的主流融资模式有这些：<strong>ICO、IEO、STO</strong>，和<strong>IMO、IFO</strong>。</p>
-<ol>
-<li><h2 id="ICO"><a href="#ICO" class="headerlink" title="ICO"></a>ICO</h2><p>ICO（Initial Coin Offering），指的是首次发行代币，指区块链项目首次向公众发行代币，募集比特币、以太坊等主流加密货币以获得项目运作的经费。2017年以来，初创公司大多选择ICO来规避早期融资中严格的规章制度；启动ICO唯一需要的是，一个带有钱包地址的网站，而且ICO是没有法律界限，没有投资者保护，完全匿名，且缺乏最小可视化产品。</p>
-</li>
-</ol>
-<ol start="2">
-<li><h2 id="IEO"><a href="#IEO" class="headerlink" title="IEO"></a>IEO</h2><p>IEO（Initial Exchange Offerings），首次交易发行，指以交易所为核心发行代币；代币跳过ICO这步，直接上线交易所。</p>
+<h2 id="ICO"><a href="#ICO" class="headerlink" title="ICO"></a>ICO</h2><p><strong>ICO（Initial Coin Offering）</strong>，指的是首次发行代币，指区块链项目首次向公众发行代币，募集比特币、以太坊等主流加密货币以获得项目运作的经费。2017年以来，初创公司大多选择ICO来规避早期融资中严格的规章制度；启动ICO唯一需要的是，一个带有钱包地址的网站，而且ICO是没有法律界限，没有投资者保护，完全匿名，且缺乏最小可视化产品。</p>
+<h2 id="IEO"><a href="#IEO" class="headerlink" title="IEO"></a>IEO</h2><p><strong>IEO（Initial Exchange Offerings）</strong>，首次交易发行，指以交易所为核心发行代币；代币跳过ICO这步，直接上线交易所。</p>
 <p>交易所承载和管理IEO，顾名思义，IEO指的是首次交易所发行。</p>
 <p>通常，当交易所进行代币销售时，代币发行者支付一定上市费及在IEO期间售出代币的百分比。最后，在IEO关闭后，代币会在交易所上市。</p>
 <p>IEO不会像ICO参与者那样把钱发送到智能合约上。相反，参与者必须在发行IEO的交易平台上创建一个账户，然后，参与者用将代币资金存入他们的交易所钱包，并用这些资金购买融资公司发行的代币。</p>
-</li>
-</ol>
-<ol start="3">
-<li><h2 id="STO"><a href="#STO" class="headerlink" title="STO"></a>STO</h2><p>STO（Security Token Offe），是证券通证发行的意思，指的是投资者持有发行的代币可获得股息、投票权和适用于其他类型证券的任何权利。证券通证被归类为有价证券，受所在国家证券法的约束。但也有一些例外，通常，企业在私募法规Regulation D的豁免下注册（注:这仅适用于美国），可免去复杂的法律程序束缚。</p>
+<h2 id="STO"><a href="#STO" class="headerlink" title="STO"></a>STO</h2><p><strong>STO（Security Token Offe）</strong>，是证券通证发行的意思，指的是投资者持有发行的代币可获得股息、投票权和适用于其他类型证券的任何权利。证券通证被归类为有价证券，受所在国家证券法的约束。但也有一些例外，通常，企业在私募法规Regulation D的豁免下注册（注:这仅适用于美国），可免去复杂的法律程序束缚。</p>
 <p>另一个重要的方面是，证券通证发行允许公司创建认可的和不择手段的投资者名单（所谓的白名单和黑名单），这有助于公司遵守KYC要求和犯罪收益的合法化。公开信息有助于高效地解决功能型代币（Utility Tokens）销售中最严重的问题，不仅增加了企业的责任，降低了欺诈的可能性，而且在公司破产时还保护了存款人的权利。</p>
-</li>
-</ol>
-<ol start="4">
-<li><h2 id="IMO"><a href="#IMO" class="headerlink" title="IMO"></a>IMO</h2><p>IMO（Initial Miner Offerings），首次矿机发行，指首次通过售卖硬件/矿机来发行代币。</p>
+<h2 id="IMO"><a href="#IMO" class="headerlink" title="IMO"></a>IMO</h2><p><strong>IMO（Initial Miner Offerings）</strong>，首次矿机发行，指首次通过售卖硬件/矿机来发行代币。</p>
 <p>IEO的特点是“近水楼台先得月”，没有融资认购的过程，省掉了ICO、空投推广等环节，可以直接在加密货币交易所上市交易。此外，平台币的操作性比较灵活，可以用来抵其它交易对的交易费，还可以用来投票上币等。</p>
 <p>坚强开了一家加密货币交易所S站，他发现IEO有很大的操作空间，于是不久便开始IEO，发行了自己的平台币SB。区坚强规定，SB可以交易，可以抵扣手续费，可以参加社区活动、购买课程；此外，任何想上线S站的新币必须实行投票制，并且仅支持使用SB平台币投票。</p>
 <p>随着S站运营得火热，来S站交易的人多了起来，SB行情跟着水涨船高。</p>
-</li>
-</ol>
-<ol start="5">
-<li><h2 id="IFO"><a href="#IFO" class="headerlink" title="IFO"></a>IFO</h2><p>IFO（Initial Fork Offerings），首次分叉发行，指通过分叉比特币等主流加密货币生成新的代币。以分叉比特币为核心发行代币，存在预挖行为，例如BTG、BCD、SBTC等，它们通过分叉比特币区块链生成新的代币，声称自己能够实现优于比特币的功能。矿工团队在创造分叉的同时，可以在分叉发生的区块中，利用自己的特权，分配一些货币给自己或其他人（直接写成CoinBase交易即可），然后再开放让所有人都可以参与挖矿。</p>
-</li>
-</ol>
+<h2 id="IFO"><a href="#IFO" class="headerlink" title="IFO"></a>IFO</h2><p><strong>IFO（Initial Fork Offerings）</strong>，首次分叉发行，指通过分叉比特币等主流加密货币生成新的代币。以分叉比特币为核心发行代币，存在预挖行为，例如BTG、BCD、SBTC等，它们通过分叉比特币区块链生成新的代币，声称自己能够实现优于比特币的功能。矿工团队在创造分叉的同时，可以在分叉发生的区块中，利用自己的特权，分配一些货币给自己或其他人（直接写成CoinBase交易即可），然后再开放让所有人都可以参与挖矿。</p>
 <h1 id="参考文献"><a href="#参考文献" class="headerlink" title="参考文献"></a>参考文献</h1><br/>
 
 <blockquote>
