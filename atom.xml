@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.chengwf.com/"/>
-  <updated>2020-05-26T08:47:54.718Z</updated>
+  <updated>2020-05-26T08:45:15.053Z</updated>
   <id>https://www.chengwf.com/</id>
   
   <author>
@@ -15,6 +15,39 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>区块链新看点周报（2020/5/25）:“两会”上的区块链:多为落地提案；阿里巴巴发布财报，将区块链等作为数字经济体根基</title>
+    <link href="https://www.chengwf.com/2020/05/2020-05-25-blockchain-news.html"/>
+    <id>https://www.chengwf.com/2020/05/2020-05-25-blockchain-news.html</id>
+    <published>2020-05-24T16:00:00.000Z</published>
+    <updated>2020-05-26T08:45:15.053Z</updated>
+    
+    <content type="html"><![CDATA[<p>区块链新看点周报栏目从产业、数字货币、权威观点、监管和技术等方面，为您总结了本周区块链领域发生的头条事件，让您更快速了解行业最新动态。<a id="more"></a></p><h2 id="一、本周头条"><a href="#一、本周头条" class="headerlink" title="一、本周头条"></a>一、本周头条</h2><p><br/><strong>“两会”上的区块链</strong></p><p>全国政协十三届三次会议、十三届全国人大三次会议分别于 5 月 21 日、5 月 22 日在北京召开。全国政协委员们的很多提案中都涉及到了区块链。笔者发现，目前提到最多的是关于区块链技术在实际生活的应用问题。</p><p>全国政协委员王晶建议借助区块链等技术建设“食品安全云”平台，追溯食品安全；全国政协委员、中国联通研究院院长张云勇提出利用区块链技术，一个点多份复制，起到对恶意差评者的源头震慑；全国政协委员、中国工程院院士、湖南商学院校长陈晓红建议，引入区块链技术进行电池溯源，建立动力蓄电池强制回收利用制度；全国政协委员安阿玥提出，应当推进区块链、人工智能等新技术在药品监管中的应用等。</p><p>此外，全国政协委员、陕西省高级人民法院副院长巩富文在《大力推动区块链技术创新发展》提案中指出，严格禁止数字代币（同“虚拟货币”），防范化解金融风险。</p><p><img src="https://chengwf.com/683c7" alt="区块新看点：“两会”上的区块链：多为落地提案；阿里巴巴发布财报，将区块链等作为数字经济体根基"></p><p><strong>中本聪被“出现”</strong></p><p>5 月 20 日深夜，Whale Alert 发布消息称：很可能属于中本聪钱包内的比特币发生了移动。根据比特币链上信息，一个区块高度为 3654 区块中的 50 个比特币，从地址 17XiVVooLcdCUCMf9s4t4jTExacxwFS5uh 转移到了新的地址，而该区块是在 2009 年 2 月 10 日就被挖出。Coin Metrics 联合创始人 Nic Carter 之后发推表示，经研究表明中本聪开采了一组特定的区块，而这不是其中一个，区块 3654 不是 Patoshi 模式。</p><hr><h2 id="二、-产业焦点"><a href="#二、-产业焦点" class="headerlink" title="二、 产业焦点"></a>二、 产业焦点</h2><p><br/><strong>阿里巴巴 GMV 突破 1 万亿美元，以云计算、人工智能、区块链等技术为数字经济体根基</strong></p><p>5 月 22 日，阿里巴巴集团发布 2020 财年全年及第四季度业绩，阿里巴巴数字经济体的消费型商业业务 GMV 突破 1 万亿美元，数字经济跨越新的里程碑。阿里巴巴数字经济体全球年度活跃消费者 9.6 亿人，阿里 AI 调用量超 1 万亿次 / 日，阿里云年收入破 400 亿元，最新估值 770 亿美元。</p><p>阿里巴巴平台商业效率的倍数跃升的背后是对技术和创新的大力投入。从阿里云展示的阿里巴巴科技树可以看到，阿里巴巴以云计算、人工智能、芯片、AIoT、自动驾驶、区块链、量子计算为根基，支撑起了庞大的阿里巴巴数字经济体。</p><p><strong>比特大陆香港公司控股新公司，葛越晟任法定代表人</strong></p><p>5 月 23 日，天眼查信息显示，北京比特大陆香港控股公司 Bitmain Technologies Limited 新增对外投资公司北京硅基远航科技有限公司，该公司由葛越晟担任法定代表人、经理及执行董事，刘路遥担任监事。公司成立于 2020 年 5 月 20 日，由 Bitmain Technologies Limited 100% 控股。</p><p><strong>嘉楠 Q1 财报：净营收 6830 万元，净亏损收窄至 3990 万元</strong></p><p>5 月 22 日，嘉楠科技（CAN）公布了今年第一季度未经审计的财务报表。财报显示，在截至 2020 年 3 月 31 日的前三个月中，该公司总净营收 6830 万元人民币，同比 2019 年 Q1 增长了 44.6%。公司毛利润总额达 240 万元人民币，同比增长 417.0%，毛利率由 2019 年同期的 1.0％增长至 2020 年的 3.5％。一季度净亏损从 2019 年同期的 6790 万元人民币收窄至 3990 万元人民币（560 万美元）。非美国通用会计准则调整后的净亏损为 3820 万元人民币（540 万美元），而 2019 年同期为 6390 万元人民币。第一季度，嘉楠销售的总算力从 2019 年 Q1 的 70 万 Thash/s 增长到今年同期的 90 万 Thash/s，增幅达 18.4%。嘉楠于一季度继续加大研发投入，2020 年第一季度的研发费用 4180 万元，同比 2019 年一季度增长了 33.5%，在今年一季度总净营收的占比为 61.2％。</p><hr><h2 id="三、权威观点"><a href="#三、权威观点" class="headerlink" title="三、权威观点"></a>三、权威观点</h2><p><br/><strong>香港金管局人士：香港市场有限，推数字货币未必合适</strong></p><p>5 月 20 日，香港金融管理局金融学院辖下负责研究工作的香港货币及金融研究中心发表题为“香港银行业金融科技采用和创新”的首份应用金融研究报告。在记者会回答媒体提问时，金管局有关人士表示，香港在零售层面已经有电子钱包、传统的电子支付工具等满足市民大众需求。至于金管局和泰国央行是否在零售层面推出数字货币，我认为香港市场较为有限，未必合适，反而是在跨境汇款方面，可以通过和泰国央行合作推出电子货币，让商业机构更加便利。</p><p>至于转数快，它本身是一个科技便民措施，对香港而言，港币和人民币的使用最为普遍，因此转数快包含这两种货币。其他货币如美金、欧元，在香港市面上使用率较少，短期来看我认为没有扩展必要，但是未来会留意其他货币在不同场景中的应用。</p><p><strong>Visa CEO：对重返 Facebook 的 Libra 项目持开放态度</strong></p><p>支付巨头 Visa 表示，对数字货币的进军还没有结束，尽管仍与加密货币保持距离，但对重返 Facebook 的 Libra 项目持开放态度。Visa 首席执行官 Alfred F. Kelly 表示，“此前我们受到针对天秤座的相关监管的惊吓，但我们仍然对 Libra 未来打算以及如何将其添加到支付生态系统中非常感兴趣。”据悉，2019 年秋天，Visa 与其他一些金融支付合作伙伴一起退出了 Libra 项目。</p><hr><h2 id="四、加密社区"><a href="#四、加密社区" class="headerlink" title="四、加密社区"></a>四、加密社区</h2><p><br/><strong>投资者就 EOS ICO 对 Block.one 提起集体诉讼</strong></p><p>EOS ICO 的投资者已在美国纽约南区地方法院对 Block.one 提起了集体诉讼。其首席执行官 Brendan Blumer、首席技术官 Daniel Larimer、密码学家和前 Block.One 合伙人 Ian Grigg 以及前顾问 Brock Pierce 均被列为被告。原告声称，Block.one 向投资者提供了有关 EOS 的虚假和误导性信息，目的是通过所谓的未经注册的证券销售筹集数十亿美元。据悉，几个月前，在其 ICO 被调查后，Block.one 向美国证券交易委员会（SEC）支付了 2400 万美元的罚款并达成和解。</p><p><img src="https://chengwf.com/ea88e" alt="区块新看点：“两会”上的区块链：多为落地提案；阿里巴巴发布财报，将区块链等作为数字经济体根基"></p><p><strong>Kleiman 团队声称澳本聪已拥有加密“Satoshi”文件密钥</strong></p><p>Ira Kleiman 的法律团队声称澳本聪已经有能力打开该案核心的加密文件，该文件据信包含超过 82 万比特币的私人密钥。根据 5 月 21 日提交的法庭文件，Kleiman 团队声称赖特“有能力打开加密文件，但不会，因为它将包含合作关系及其比特币持有的证据”。 Kleiman 方面称，价值 160 万美元的比特币 (BTC) 是从提供给法庭的地址中支出的，以此作为澳本聪有权使用比特币的证据。还有澳本聪公开威胁要搞垮比特币市场的行为，这些都需要使用大量比特币。文件中写道：“澳本聪一直在从事伪证、伪造证据、误导性文件和妨碍的行为。”</p><p><strong>以太坊 2.0 技术规范发布 0.12.0 版重要更新</strong></p><p>5 月 20 日，以太坊 2.0 的技术规范发布<a href="https://github.com/ethereum/eth2.0-specs/releases/tag/v0.12.0" target="_blank" rel="noopener"> 0.12.0 版本</a>，变更记录称，该版本引入了重大的变化，将 BLS 签名算法规范，更新为使用标准化组织“互联网工程任务组”（IETF）推出的 BLS 草案 2，并结合了 hash-to-curve 草案 7 算法。除此之外，还有部分调整是用于处理网络规范中的边缘情况，并重构了奖励和惩罚的机制以增强测试。该文档最后提到，尽管其中一些是重大变更，但更改的范围仍在缩小，并且计划从现在开始仅引入对安全至关重要的变更。</p><p><strong>FCoin 旗下合约交易所：将重启交易平台并恢复正常商业运营</strong></p><p>据 FCoin 官方公告，FMex（FCoin 旗下合约交易所）《关于社区重启交易平台的公投》结果出炉，社区投票通过使用张健交接的主板数字货币（官网已公示地址）对交易平台进行重启并恢复正常商业运营。</p><p>根据公投结果，社区将使用张健交接的主板数字货币对交易平台进行重启，并恢复正常商业运营；根据规划将首先恢复 FMex 相关业务，其他已关闭业务后续将逐步恢复。张健交接的数字货币将全部用于交易平台的运营，即：技术服务成本、人员成本、市场运营费用等。该数字货币使用情况的财报将定期公示，下一步将推进建立社区监督机制，对资金使用明细进行审查监督。</p><p><strong>安全公司提醒：发现 ETH 新型假充值的新攻击手法</strong></p><p>5 月 22 日，慢雾安全团队首发了 ETH 新型假充值攻击 revert 的手法，慢雾安全团队持续进行深入地研究，发现了利用 Out of gas 的攻击手法。慢雾安全团队建议：如没有把握成功修复可先临时暂停来自合约地址的充值请求。</p><hr><h2 id="五、政策进展"><a href="#五、政策进展" class="headerlink" title="五、政策进展"></a>五、政策进展</h2><p><br/><strong>四川金融办下文，要求企业退出虚拟货币挖矿</strong></p><p>4 月 29 日四川省金融工作领导小组办公室下发《关于引导企业有序退出虚拟货币“挖矿”活动的通知》。5 月中旬，该通知已经下达到各市县，也都出台了相应的文件。目前这一通知正在各县市落地中。此前四川边缘贫困地区的地方政府，试图利用挖矿产业，消纳弃水弃电，对抗疫情带来的经济衰退。这一通知将阻碍地方政府对“挖矿”产业的支持。目前，各部委对于虚拟货币“挖矿”活动的政策导向高度一致，引导退出的工作要求并未改变。前期省上已两次下发通知，要求相关市（州）积极引导辖内企业有序退出“挖矿”活动。</p><p><strong>法国央行已完成数字欧元的首次测试</strong></p><p>法国央行法兰西银行宣布已于 5 月 14 日完成数字欧元的首次测试，法国兴业银行也参与了此次测试。在测试中，法兰西银行使用内部开发的区块链技术来创建代表欧元的数字证券。</p><p><strong>国际货币金融机构官方论坛宣布成立数字货币研究所</strong></p><p>国际货币金融机构官方论坛 (OMFIF) 宣布成立数字货币研究所，旨在弥合数字货币与传统银行之间的鸿沟，并将重点放在批发和零售市场中的支付工具以及央行数字货币（CBDC）上。OMFIF 的金融技术研究主管 Bhavin Patel 表示，“我们相信未来几年，包括欧元区在内的许多司法管辖区，将会有更多的央行数字货币项目。”</p>]]></content>
+    
+    <summary type="html">
+    
+      区块链新看点周报栏目从产业、数字货币、权威观点、监管和技术等方面，为您总结了本周区块链领域发生的头条事件，让您更快速了解行业最新动态。
+    
+    </summary>
+    
+    
+      <category term="区块链" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/"/>
+    
+    
+      <category term="区块链" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE/"/>
+    
+      <category term="比特币" scheme="https://www.chengwf.com/tags/%E6%AF%94%E7%89%B9%E5%B8%81/"/>
+    
+      <category term="区块链周报" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE%E5%91%A8%E6%8A%A5/"/>
+    
+      <category term="两会上的区块链" scheme="https://www.chengwf.com/tags/%E4%B8%A4%E4%BC%9A%E4%B8%8A%E7%9A%84%E5%8C%BA%E5%9D%97%E9%93%BE/"/>
+    
+      <category term="中本聪" scheme="https://www.chengwf.com/tags/%E4%B8%AD%E6%9C%AC%E8%81%AA/"/>
+    
+      <category term="以太坊2.0" scheme="https://www.chengwf.com/tags/%E4%BB%A5%E5%A4%AA%E5%9D%8A2-0/"/>
+    
+  </entry>
   
   <entry>
     <title>区块链与能源互联网的碰撞</title>
@@ -44,39 +77,6 @@
       <category term="区块链产业创新" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE%E4%BA%A7%E4%B8%9A%E5%88%9B%E6%96%B0/"/>
     
       <category term="区块链与能源互联网" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE%E4%B8%8E%E8%83%BD%E6%BA%90%E4%BA%92%E8%81%94%E7%BD%91/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>区块链新看点周报（2020/5/25）:“两会”上的区块链:多为落地提案；阿里巴巴发布财报，将区块链等作为数字经济体根基</title>
-    <link href="https://www.chengwf.com/2020/05/2020-05-25-blockchain-news.html"/>
-    <id>https://www.chengwf.com/2020/05/2020-05-25-blockchain-news.html</id>
-    <published>2020-05-24T16:00:00.000Z</published>
-    <updated>2020-05-26T08:45:15.053Z</updated>
-    
-    <content type="html"><![CDATA[<p>区块链新看点周报栏目从产业、数字货币、权威观点、监管和技术等方面，为您总结了本周区块链领域发生的头条事件，让您更快速了解行业最新动态。<a id="more"></a></p><h2 id="一、本周头条"><a href="#一、本周头条" class="headerlink" title="一、本周头条"></a>一、本周头条</h2><p><br/><strong>“两会”上的区块链</strong></p><p>全国政协十三届三次会议、十三届全国人大三次会议分别于 5 月 21 日、5 月 22 日在北京召开。全国政协委员们的很多提案中都涉及到了区块链。笔者发现，目前提到最多的是关于区块链技术在实际生活的应用问题。</p><p>全国政协委员王晶建议借助区块链等技术建设“食品安全云”平台，追溯食品安全；全国政协委员、中国联通研究院院长张云勇提出利用区块链技术，一个点多份复制，起到对恶意差评者的源头震慑；全国政协委员、中国工程院院士、湖南商学院校长陈晓红建议，引入区块链技术进行电池溯源，建立动力蓄电池强制回收利用制度；全国政协委员安阿玥提出，应当推进区块链、人工智能等新技术在药品监管中的应用等。</p><p>此外，全国政协委员、陕西省高级人民法院副院长巩富文在《大力推动区块链技术创新发展》提案中指出，严格禁止数字代币（同“虚拟货币”），防范化解金融风险。</p><p><img src="https://chengwf.com/683c7" alt="区块新看点：“两会”上的区块链：多为落地提案；阿里巴巴发布财报，将区块链等作为数字经济体根基"></p><p><strong>中本聪被“出现”</strong></p><p>5 月 20 日深夜，Whale Alert 发布消息称：很可能属于中本聪钱包内的比特币发生了移动。根据比特币链上信息，一个区块高度为 3654 区块中的 50 个比特币，从地址 17XiVVooLcdCUCMf9s4t4jTExacxwFS5uh 转移到了新的地址，而该区块是在 2009 年 2 月 10 日就被挖出。Coin Metrics 联合创始人 Nic Carter 之后发推表示，经研究表明中本聪开采了一组特定的区块，而这不是其中一个，区块 3654 不是 Patoshi 模式。</p><hr><h2 id="二、-产业焦点"><a href="#二、-产业焦点" class="headerlink" title="二、 产业焦点"></a>二、 产业焦点</h2><p><br/><strong>阿里巴巴 GMV 突破 1 万亿美元，以云计算、人工智能、区块链等技术为数字经济体根基</strong></p><p>5 月 22 日，阿里巴巴集团发布 2020 财年全年及第四季度业绩，阿里巴巴数字经济体的消费型商业业务 GMV 突破 1 万亿美元，数字经济跨越新的里程碑。阿里巴巴数字经济体全球年度活跃消费者 9.6 亿人，阿里 AI 调用量超 1 万亿次 / 日，阿里云年收入破 400 亿元，最新估值 770 亿美元。</p><p>阿里巴巴平台商业效率的倍数跃升的背后是对技术和创新的大力投入。从阿里云展示的阿里巴巴科技树可以看到，阿里巴巴以云计算、人工智能、芯片、AIoT、自动驾驶、区块链、量子计算为根基，支撑起了庞大的阿里巴巴数字经济体。</p><p><strong>比特大陆香港公司控股新公司，葛越晟任法定代表人</strong></p><p>5 月 23 日，天眼查信息显示，北京比特大陆香港控股公司 Bitmain Technologies Limited 新增对外投资公司北京硅基远航科技有限公司，该公司由葛越晟担任法定代表人、经理及执行董事，刘路遥担任监事。公司成立于 2020 年 5 月 20 日，由 Bitmain Technologies Limited 100% 控股。</p><p><strong>嘉楠 Q1 财报：净营收 6830 万元，净亏损收窄至 3990 万元</strong></p><p>5 月 22 日，嘉楠科技（CAN）公布了今年第一季度未经审计的财务报表。财报显示，在截至 2020 年 3 月 31 日的前三个月中，该公司总净营收 6830 万元人民币，同比 2019 年 Q1 增长了 44.6%。公司毛利润总额达 240 万元人民币，同比增长 417.0%，毛利率由 2019 年同期的 1.0％增长至 2020 年的 3.5％。一季度净亏损从 2019 年同期的 6790 万元人民币收窄至 3990 万元人民币（560 万美元）。非美国通用会计准则调整后的净亏损为 3820 万元人民币（540 万美元），而 2019 年同期为 6390 万元人民币。第一季度，嘉楠销售的总算力从 2019 年 Q1 的 70 万 Thash/s 增长到今年同期的 90 万 Thash/s，增幅达 18.4%。嘉楠于一季度继续加大研发投入，2020 年第一季度的研发费用 4180 万元，同比 2019 年一季度增长了 33.5%，在今年一季度总净营收的占比为 61.2％。</p><hr><h2 id="三、权威观点"><a href="#三、权威观点" class="headerlink" title="三、权威观点"></a>三、权威观点</h2><p><br/><strong>香港金管局人士：香港市场有限，推数字货币未必合适</strong></p><p>5 月 20 日，香港金融管理局金融学院辖下负责研究工作的香港货币及金融研究中心发表题为“香港银行业金融科技采用和创新”的首份应用金融研究报告。在记者会回答媒体提问时，金管局有关人士表示，香港在零售层面已经有电子钱包、传统的电子支付工具等满足市民大众需求。至于金管局和泰国央行是否在零售层面推出数字货币，我认为香港市场较为有限，未必合适，反而是在跨境汇款方面，可以通过和泰国央行合作推出电子货币，让商业机构更加便利。</p><p>至于转数快，它本身是一个科技便民措施，对香港而言，港币和人民币的使用最为普遍，因此转数快包含这两种货币。其他货币如美金、欧元，在香港市面上使用率较少，短期来看我认为没有扩展必要，但是未来会留意其他货币在不同场景中的应用。</p><p><strong>Visa CEO：对重返 Facebook 的 Libra 项目持开放态度</strong></p><p>支付巨头 Visa 表示，对数字货币的进军还没有结束，尽管仍与加密货币保持距离，但对重返 Facebook 的 Libra 项目持开放态度。Visa 首席执行官 Alfred F. Kelly 表示，“此前我们受到针对天秤座的相关监管的惊吓，但我们仍然对 Libra 未来打算以及如何将其添加到支付生态系统中非常感兴趣。”据悉，2019 年秋天，Visa 与其他一些金融支付合作伙伴一起退出了 Libra 项目。</p><hr><h2 id="四、加密社区"><a href="#四、加密社区" class="headerlink" title="四、加密社区"></a>四、加密社区</h2><p><br/><strong>投资者就 EOS ICO 对 Block.one 提起集体诉讼</strong></p><p>EOS ICO 的投资者已在美国纽约南区地方法院对 Block.one 提起了集体诉讼。其首席执行官 Brendan Blumer、首席技术官 Daniel Larimer、密码学家和前 Block.One 合伙人 Ian Grigg 以及前顾问 Brock Pierce 均被列为被告。原告声称，Block.one 向投资者提供了有关 EOS 的虚假和误导性信息，目的是通过所谓的未经注册的证券销售筹集数十亿美元。据悉，几个月前，在其 ICO 被调查后，Block.one 向美国证券交易委员会（SEC）支付了 2400 万美元的罚款并达成和解。</p><p><img src="https://chengwf.com/ea88e" alt="区块新看点：“两会”上的区块链：多为落地提案；阿里巴巴发布财报，将区块链等作为数字经济体根基"></p><p><strong>Kleiman 团队声称澳本聪已拥有加密“Satoshi”文件密钥</strong></p><p>Ira Kleiman 的法律团队声称澳本聪已经有能力打开该案核心的加密文件，该文件据信包含超过 82 万比特币的私人密钥。根据 5 月 21 日提交的法庭文件，Kleiman 团队声称赖特“有能力打开加密文件，但不会，因为它将包含合作关系及其比特币持有的证据”。 Kleiman 方面称，价值 160 万美元的比特币 (BTC) 是从提供给法庭的地址中支出的，以此作为澳本聪有权使用比特币的证据。还有澳本聪公开威胁要搞垮比特币市场的行为，这些都需要使用大量比特币。文件中写道：“澳本聪一直在从事伪证、伪造证据、误导性文件和妨碍的行为。”</p><p><strong>以太坊 2.0 技术规范发布 0.12.0 版重要更新</strong></p><p>5 月 20 日，以太坊 2.0 的技术规范发布<a href="https://github.com/ethereum/eth2.0-specs/releases/tag/v0.12.0" target="_blank" rel="noopener"> 0.12.0 版本</a>，变更记录称，该版本引入了重大的变化，将 BLS 签名算法规范，更新为使用标准化组织“互联网工程任务组”（IETF）推出的 BLS 草案 2，并结合了 hash-to-curve 草案 7 算法。除此之外，还有部分调整是用于处理网络规范中的边缘情况，并重构了奖励和惩罚的机制以增强测试。该文档最后提到，尽管其中一些是重大变更，但更改的范围仍在缩小，并且计划从现在开始仅引入对安全至关重要的变更。</p><p><strong>FCoin 旗下合约交易所：将重启交易平台并恢复正常商业运营</strong></p><p>据 FCoin 官方公告，FMex（FCoin 旗下合约交易所）《关于社区重启交易平台的公投》结果出炉，社区投票通过使用张健交接的主板数字货币（官网已公示地址）对交易平台进行重启并恢复正常商业运营。</p><p>根据公投结果，社区将使用张健交接的主板数字货币对交易平台进行重启，并恢复正常商业运营；根据规划将首先恢复 FMex 相关业务，其他已关闭业务后续将逐步恢复。张健交接的数字货币将全部用于交易平台的运营，即：技术服务成本、人员成本、市场运营费用等。该数字货币使用情况的财报将定期公示，下一步将推进建立社区监督机制，对资金使用明细进行审查监督。</p><p><strong>安全公司提醒：发现 ETH 新型假充值的新攻击手法</strong></p><p>5 月 22 日，慢雾安全团队首发了 ETH 新型假充值攻击 revert 的手法，慢雾安全团队持续进行深入地研究，发现了利用 Out of gas 的攻击手法。慢雾安全团队建议：如没有把握成功修复可先临时暂停来自合约地址的充值请求。</p><hr><h2 id="五、政策进展"><a href="#五、政策进展" class="headerlink" title="五、政策进展"></a>五、政策进展</h2><p><br/><strong>四川金融办下文，要求企业退出虚拟货币挖矿</strong></p><p>4 月 29 日四川省金融工作领导小组办公室下发《关于引导企业有序退出虚拟货币“挖矿”活动的通知》。5 月中旬，该通知已经下达到各市县，也都出台了相应的文件。目前这一通知正在各县市落地中。此前四川边缘贫困地区的地方政府，试图利用挖矿产业，消纳弃水弃电，对抗疫情带来的经济衰退。这一通知将阻碍地方政府对“挖矿”产业的支持。目前，各部委对于虚拟货币“挖矿”活动的政策导向高度一致，引导退出的工作要求并未改变。前期省上已两次下发通知，要求相关市（州）积极引导辖内企业有序退出“挖矿”活动。</p><p><strong>法国央行已完成数字欧元的首次测试</strong></p><p>法国央行法兰西银行宣布已于 5 月 14 日完成数字欧元的首次测试，法国兴业银行也参与了此次测试。在测试中，法兰西银行使用内部开发的区块链技术来创建代表欧元的数字证券。</p><p><strong>国际货币金融机构官方论坛宣布成立数字货币研究所</strong></p><p>国际货币金融机构官方论坛 (OMFIF) 宣布成立数字货币研究所，旨在弥合数字货币与传统银行之间的鸿沟，并将重点放在批发和零售市场中的支付工具以及央行数字货币（CBDC）上。OMFIF 的金融技术研究主管 Bhavin Patel 表示，“我们相信未来几年，包括欧元区在内的许多司法管辖区，将会有更多的央行数字货币项目。”</p>]]></content>
-    
-    <summary type="html">
-    
-      区块链新看点周报栏目从产业、数字货币、权威观点、监管和技术等方面，为您总结了本周区块链领域发生的头条事件，让您更快速了解行业最新动态。
-    
-    </summary>
-    
-    
-      <category term="区块链" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/"/>
-    
-    
-      <category term="区块链" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE/"/>
-    
-      <category term="区块链周报" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE%E5%91%A8%E6%8A%A5/"/>
-    
-      <category term="比特币" scheme="https://www.chengwf.com/tags/%E6%AF%94%E7%89%B9%E5%B8%81/"/>
-    
-      <category term="中本聪" scheme="https://www.chengwf.com/tags/%E4%B8%AD%E6%9C%AC%E8%81%AA/"/>
-    
-      <category term="两会上的区块链" scheme="https://www.chengwf.com/tags/%E4%B8%A4%E4%BC%9A%E4%B8%8A%E7%9A%84%E5%8C%BA%E5%9D%97%E9%93%BE/"/>
-    
-      <category term="以太坊2.0" scheme="https://www.chengwf.com/tags/%E4%BB%A5%E5%A4%AA%E5%9D%8A2-0/"/>
     
   </entry>
   
@@ -131,9 +131,9 @@
     
       <category term="人工智能（AI）" scheme="https://www.chengwf.com/categories/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%EF%BC%88AI%EF%BC%89/"/>
     
-      <category term="AI应用" scheme="https://www.chengwf.com/categories/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%EF%BC%88AI%EF%BC%89/AI%E5%BA%94%E7%94%A8/"/>
-    
       <category term="数字经济" scheme="https://www.chengwf.com/categories/%E6%95%B0%E5%AD%97%E7%BB%8F%E6%B5%8E/"/>
+    
+      <category term="AI应用" scheme="https://www.chengwf.com/categories/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%EF%BC%88AI%EF%BC%89/AI%E5%BA%94%E7%94%A8/"/>
     
       <category term="数字经济" scheme="https://www.chengwf.com/categories/%E6%95%B0%E5%AD%97%E7%BB%8F%E6%B5%8E/%E6%95%B0%E5%AD%97%E7%BB%8F%E6%B5%8E/"/>
     
@@ -142,6 +142,8 @@
     
       <category term="区块链" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE/"/>
     
+      <category term="区块链看点" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE%E7%9C%8B%E7%82%B9/"/>
+    
       <category term="绿地" scheme="https://www.chengwf.com/tags/%E7%BB%BF%E5%9C%B0/"/>
     
       <category term="绿地陈军" scheme="https://www.chengwf.com/tags/%E7%BB%BF%E5%9C%B0%E9%99%88%E5%86%9B/"/>
@@ -149,8 +151,6 @@
       <category term="张雨婷" scheme="https://www.chengwf.com/tags/%E5%BC%A0%E9%9B%A8%E5%A9%B7/"/>
     
       <category term="史睿生" scheme="https://www.chengwf.com/tags/%E5%8F%B2%E7%9D%BF%E7%94%9F/"/>
-    
-      <category term="区块链看点" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE%E7%9C%8B%E7%82%B9/"/>
     
   </entry>
   
@@ -204,9 +204,9 @@
     
       <category term="央行数字货币" scheme="https://www.chengwf.com/tags/%E5%A4%AE%E8%A1%8C%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/"/>
     
-      <category term="区块链周报" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE%E5%91%A8%E6%8A%A5/"/>
-    
       <category term="比特币" scheme="https://www.chengwf.com/tags/%E6%AF%94%E7%89%B9%E5%B8%81/"/>
+    
+      <category term="区块链周报" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE%E5%91%A8%E6%8A%A5/"/>
     
   </entry>
   
@@ -289,9 +289,9 @@
     
       <category term="央行数字货币" scheme="https://www.chengwf.com/tags/%E5%A4%AE%E8%A1%8C%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/"/>
     
-      <category term="以太坊" scheme="https://www.chengwf.com/tags/%E4%BB%A5%E5%A4%AA%E5%9D%8A/"/>
-    
       <category term="区块链周报" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE%E5%91%A8%E6%8A%A5/"/>
+    
+      <category term="以太坊" scheme="https://www.chengwf.com/tags/%E4%BB%A5%E5%A4%AA%E5%9D%8A/"/>
     
   </entry>
   
@@ -422,11 +422,11 @@
   </entry>
   
   <entry>
-    <title>DCEP（中国版数字货币项目）</title>
+    <title>DCEP是什么？（WIKI百科）</title>
     <link href="https://www.chengwf.com/2020/04/inevo/wiki-dcep-index.html"/>
     <id>https://www.chengwf.com/2020/04/inevo/wiki-dcep-index.html</id>
     <published>2020-04-15T16:00:00.000Z</published>
-    <updated>2020-05-08T09:16:42.890Z</updated>
+    <updated>2020-05-28T09:11:27.460Z</updated>
     
     <content type="html"><![CDATA[<blockquote><p>摘要：中国成为全球首个发行国家超主权数字货币：DCEP，到底DCEP对我们未来有什么影响？</p></blockquote><h1 id="数字货币行业发展历程"><a href="#数字货币行业发展历程" class="headerlink" title="数字货币行业发展历程"></a>数字货币行业发展历程</h1><br/><p>伴随着技术的发展，自原始部落狩猎和采集时期至今，货币已历经了 6 个阶段： <sup><a href="https://chengwf.com/ecd80" target="_blank" rel="noopener">[0]</a></sup></p><p>（1） <strong>物物交换及一般等价物阶段</strong>：物物交换是货币的第一个历程，由于运输成本大、成交效率低等原 因，贝壳等不易大量获取的物品逐渐抽离作为一般等价物进行交易，形成货币的原始形态； </p><p>（2） <strong>贵金属阶段</strong>：随着人类冶金技术的提升，货币形态自然而然向价值稳定的贵金属转换，这一历程 在人类历史中占据了相当长的时期，受限于金属的质地不均、分割损耗等问题，在此基础上逐渐 衍生出了由国家统一铸造和管理，以国家信誉为背书的金属铸币；</p><p>（3） <strong>纸币阶段</strong>：随着造纸术、印刷术的发展，易于携带的纸币迅速取代金属货币，并逐渐形成中心化 现代金融体系，使得货币政策的实施成为可能； </p><p>（4） <strong>电子货币阶段</strong>：随着电子技术、移动互联网的发展，货币逐渐向虚拟化过度，一方面信用卡、借 记卡快速发展，另一方面，移动支付也在生活中愈发普及，但其中心化的本质并未改变，只是传 播媒介发生变化；</p><p>（5） <strong>数字货币阶段</strong>：近年来，纸币滥发导致通货膨胀加剧、第三方支付频频爆出安全危机、再加上区 块链技术的逐渐成熟，比特币、以太坊、瑞波币等去中心化的数字货币应运而生，但是由于其币 值波动大、监管等因素影响，目前只在小范围进行流通，更趋向于投资工具而非支付手段。针对 此现状，各界纷纷布局中心化体系下的数字货币，如 Facebook 发布 Libra 白皮书，各国央行也 在加速研发中心化数字货币。</p><img src="https://s1.ax1x.com/2020/04/16/JkhADx.png" alt="JkhADx.png" style="zoom: 33%;" /><hr><a id="more"></a><h1 id="DCEP是什么"><a href="#DCEP是什么" class="headerlink" title="DCEP是什么"></a>DCEP是什么</h1><br/><p><strong>DCEP</strong> 本质上就是一种数字支付工具。<strong>DCEP</strong> 全称是 Digital Currency Electronic Payment，DC 指的是数字货币，EP 指的电子支付，即数字货币和电子支付工具。其功能属性与纸钞完全一样，只不过是数字化形态。</p><blockquote><p>国际货币基金组织IMF 把央行数字货币称作CBDC，英文是“Central Bank Digital Currency”, 实际上描述的是同一个概念。本文中使用的CBDC 就是指通常性的央行数字货币（无国家限制），如果使用（DC/EP）则特指中国即将推出的央行数字货币。</p></blockquote><p><strong>DCEP</strong>实质上是中国央行法定的数字货币。</p><p><strong>DCEP</strong> 的定位是纸钞的替代品，也就是数字版的纸钞。既然 DCEP 是纸钞的替代品，那么纸钞所涉及的支付场景，原则 DCEP 也能够实现。比如 DCEP 可以在无网的状态下完成交易。</p><img src="https://s1.ax1x.com/2020/04/16/JkOOKO.png" alt="JkOOKO.png" style="zoom:50%;" /><blockquote><p>的确如此，但从以上图可以看出商业银行的非现金支付和第三方互联网支付，走的是商业银行存款货币结算，属于M1和M2级别的数字化不具有M0级别法律效力，更不可能取代M0。</p></blockquote><blockquote><p>央行数字货币研究所：DC/EP参考了《金融分布式账本技术安全规范》<sup><a href="https://chengwf.com/414cf" target="_blank" rel="noopener">[4]</a></sup>有关要求。 </p></blockquote><hr><h1 id="DCEP的基础信息"><a href="#DCEP的基础信息" class="headerlink" title="DCEP的基础信息"></a>DCEP的基础信息</h1><br/><p>可以明确的是，央行数字货币（CBDC）不会有物理形式的实体，但它会像现金一样充分地接触到国家的每个居民和组织，包括潜在的海外个人和企业。同时央行数字货币可以让点对点支付中（比如个人之间、个人和企业之间、企业和企业之间）任意金额的支付都变得更加容易（现金需要面对面才可以实现）。</p><p>通常央行数字货币可以分为“账户版”（Account Based）和“Token 版”(Token Based)两个版本。账户版转账时需要对应金融机构的账户体系，而Token 版只要有数字钱包即可。支付结算司副司长穆长春在讲话中提到，央行的法定数字货币是M0 的替代。M0 指流通中的现金。因此中国央行数字货币是Token 版，而不是账户版。</p><p><strong>1.账户版CBDC</strong>，账户版CBDC 简单来说和现在的商业银行帐户体系非常接近，但在CBDC 的设计体系中，二者的主要区别就是央行数字货币要求账户开在央行而不是商业银行。具体流程为：支付者需要登录央行的帐户——申请付款给收款方在央行的帐户——央行的总账本记结算和交易信息——完成交易。</p><p>这也是穆长春提到的被央行否定掉的单层架构。因为帐户版CBDC 会增加商业银行的融资成本，同时央行信用优于商业银行，也会导致金融脱媒、风险过度集中等多种问题。</p><p><strong>2.Token 版CBDC</strong>，Token 版CBDC 其实就是在转账流程中比现金交易多了一些步骤，但是也带来了不用交易双方特地见面的便利性。和物理现金相比，央行数字货币CBDC 对交易双方的鉴别真伪会复杂和困难一些，因此交易中往往需要引入外部的认证机制来验证真伪，也导致了交易可能无法像现金一样实现100%的匿名性。匿名的程度取决于数字钱包注册信息的披露情况。</p><p><strong>Token 版CBDC 的验证和结算分为中心化和去中心化两种方案</strong>，这取决于采用何种技术。去中心化结算通常会用分布式账本技术DLT（distributed ledger technology）。因为效率、可扩展性和交易完结度等要求，分布式账本技术会在央行参与管理的联盟链（permissioned chain）上来对CBDC 进行验证和结算管理。</p><p>但是分布式账本技术不是唯一的方案，有很多中心化的结算技术被证明在效率上也非常有优势。中心化系统可以高效地验证Token 上对应的序列号，同时为了避免双花问题，Token 每转换一次数字钱包就重新分配一个序列号。</p><hr><h1 id="DCEP的特征"><a href="#DCEP的特征" class="headerlink" title="DCEP的特征"></a>DCEP的特征</h1><br/><p>DCEP 的特征主要体现在两大方面，一个是金融上的特征，一个是技术上的特征。专利上主要阐述了技术上的特征，关于金融上的特征，主要源自穆长春先生在公开课中的报道。</p><h2 id="关于金融上的特征"><a href="#关于金融上的特征" class="headerlink" title="关于金融上的特征"></a>关于金融上的特征</h2><ul><li><strong>替代 M0</strong>——首先 DCEP 是对 M0 的替代，也就是对现金的替代，之所以只对 M0 替代，是因为 M1、M2 已经实现了数字化，如果把 M0 也数字化后，那么央妈对资金的监管就比较完整了。另外，之所以从现金入手，一部分原因也是因为现金只是承担了货币的功能，所以对社会的影响并不会非常大。</li><li><strong>双层运营模式</strong>——是指上面一层是人行对商业银行，下面一层是商业银行或者商业机构对老百姓。也就是说，商业银行向人行交付 100% 的准备金，然后人行给与商业银行等额的 DCEP，接下来用户通过现金或者存款等向商业银行兑换 DCEP。如果人行直接面向老百姓，理论上也是可以的，这样的话，人行就需要面对全中国所有的消费者，他就需要设计一个既满足用户体验又满足高性能要求的系统，显然人行是不擅长做这个的，所以最好的方式由市场经济来决定，也就是说将面向用户的那一端交给商业银行或者机构来做，充分发挥市场竞争。</li></ul><h2 id="关于技术上的特征"><a href="#关于技术上的特征" class="headerlink" title="关于技术上的特征"></a>关于技术上的特征</h2><p>这一块是指 DCEP 在设计上所需要满足的几个特征，这几个特征与 BTC 等基于区块链的虚拟货币概念比较相似。当然，与其说和 BTC 等虚拟货币的概念比较相似，不如说满足那几个基本特征的才算是数字货币。</p><ul><li><strong>安全性</strong>——这个要求防止商务中任意一方更改或者非法使用数字货币，这个更多的是体现在对 DCEP 使用的监管上，甚至于说可以终止某次非法的交易。</li><li><strong>不可重复花费性</strong>——这个是指数字货币只能使用一次，重复花费容易被检查出来。之所以提这个，是因为一旦现金被数字化后，那么数据的复制就是难免了，比如有个用户用面额是 100 的 DCEP 买了一张电影票，但是又复制了这么一份相同的 DCEP 去进行消费，那么就是对同一份数字货币进行重复花费，所以对于数字货币来说这个是基本特性。对于 BTC 来说，是通过 UTXO 来实现防止双花，而对于 Ethereum、libra 来说则是通过交易的 seq 来防止双花。对于 DCEP 来说，则是采用类似 UTXO 的方式，至于这里的 UTXO 与 BTC 的 UTXO 的区别，会在下一篇文章中介绍。而现金则由于难以伪造的特性，在物理上可以保证只此一份。</li><li><strong>可控匿名性</strong>——这个意思是说，即使商业银行和商户相互勾结，也不能跟踪 DCEP 的使用，换句话说就是除了 DCEP 的发行方（人行）外，其他的结构都无法追踪用户的购买行为。终于可以摆脱部分隐私泄露的问题了。</li><li><strong>不可伪造性</strong>——比较好理解，除了发行方以外，不能伪造假的数字货币。对于现金来说，是通过物理上的防伪手段来保证。对于 DCEP 来说，做法比较简单，就是只有经过央行的私钥签名的才是真的 DCEP。岔开说下，之前 Google 暴出量子计算的新闻，币圈各种自嗨，觉得 BTC 会被破解，量子计算真出来了，他的攻击目标就算不是核武器，怎么也得是央行这种级别，币圈真的是太把自己当回事了。</li><li><strong>公平性</strong>——支付过程是公平的，保证交易双方的交易过程要么都成功，要么都失败，更贴切的应该是满足交易原子性。</li><li><strong>兼容性</strong> 这个表示 DCEP 的发行和流通环节，要尽可能的参照现金的发行与流通。</li></ul><hr><h1 id="DCEP发行的必要性"><a href="#DCEP发行的必要性" class="headerlink" title="DCEP发行的必要性"></a>DCEP发行的必要性</h1><br/><blockquote><p>国际货币基金组织（IMF）总裁，克里斯蒂娜 • 拉加德在新加坡金融科技节作了重大发言，提出《变革之风： 发行数字货币的理由》，她说：“这种货币可以实现公共政策目标，包括（i）普惠金融，和（ii）安全性和消费者保护；以及提供私人部门无法提供的服务：（iii）支付隐私保护。”<sup><a href="https://chengwf.com/1ad8c" target="_blank" rel="noopener">[1]</a></sup></p></blockquote><ul><li>保护中国的货币主权和法币地位。央行副行长范一飞还曾谈到，由于具有央行背书的信用优势，（发行央行数字货币）有利于抑制公众对私有加密数字货币的需求，巩固我国货币主权。</li><li>现在的纸钞、硬币成本较高。现有纸钞和硬币有如下问题：（1）发行、印制、回笼和贮藏等环节成本较高，流通体系层级多；（2）携带不便；（3）易被伪造、匿名不可控，存在被用于洗钱等违法犯罪活动的风险。实现法定货币数字化的“必要性与日俱增”。</li><li>为负利率创造空间。在一个利率可以有效穿破零利率空间的银行体系中，央行可以实施明显低于零的负利率政策以应对通缩型衰退；中央银行发行数字货币，在央行需要时可以将数字货币利率设为负值，从而便于制定相关货币政策刺激经济发展。</li><li>顺应数字经济浪潮，数字经济的发展需要数字金融，更需要法定数字货币。加快推进法定数字货币研发，对于助推数字经济发展、引起社会生产、生活方式的巨大变革意义重大。</li></ul><hr><h1 id="DCEP如何运营"><a href="#DCEP如何运营" class="headerlink" title="DCEP如何运营"></a>DCEP如何运营</h1><br/><p>采用双层运营的模式：即人民银行对商业银行，商业银行或者商业机构对老百姓。双层运营下DCEP的发行、交易和回笼如下：<sup><a href="https://chengwf.com/cb8fa" target="_blank" rel="noopener">[2]</a></sup></p><ul><li>DCEP采用“央行-商业银行”这一传统双层运营框架。</li><li>DCEP发行模仿了法币的发行流程，沿用扩表和非扩表两种模式。</li><li>DCEP为交易媒介的金融同业业务和实体交易支付，在记账方法和现金及超额准备金为媒介的交易行为差不多，然而在具体的实现流程上有较大差异。</li></ul><hr><h1 id="DCEP实现细节"><a href="#DCEP实现细节" class="headerlink" title="DCEP实现细节"></a>DCEP实现细节</h1><br/><p>这里的实现细节主要针对上述的特性来展开讲解。<sup><a href="https://chengwf.com/ee306" target="_blank" rel="noopener">[3]</a></sup></p><h2 id="货币模型"><a href="#货币模型" class="headerlink" title="货币模型"></a>货币模型</h2><p>基于对当前各个专利的研究，大致能确定 DCEP 是一种类似 UTXO 结构的货币模型。DCEP 的发行模式有三种方式（这里为了简单我们称央行的发行的数字货币为 D 币）1. 按照最小面额产生，比如说央行发行总量为 100 元，并且最小面额是 1 分，那么央行将发行 10000 个面额为 1 分的 D 币；2. 根据用户具体提款金额来生产，例如某个用户通过转账得到了 12.34 元的 D 币，那么央行相当于发行了一个面额的 12.34 的 D 币；3. 按照流通中实际货币面额产生，这个是最贴近当前实际现金的，例如央行发行面额为 100、50、20、10、5、1 元等的 D 币，那么后续流通过程中都是以这些面额的 D 币进行流通。关于 UTXO 结构，这块与 BTC 有很大不同，UTXO 表示未花费的交易，BTC 中通过这个未花费的交易来表示你拥有的余额。比如说 Alice 转给 Bob 一个 BTC，对于 Bob 来说如果没有花掉这个 BTC 的话，那么 Bob 就拥有了一个金额为 1 BTC 的 UTXO，就像现金一样 Bob 拿到了纸钞，只要不花掉，那么就是你的钱。Bob 如何证明他的确拥有这个 UTXO 呢？简单地说，谁拥有解开 UTXO 的锁的钥匙，这个 UTXO 就是谁的，至于有哪些锁，如何开锁，大家可以查询下 P2PKH，P2SH 等信息，我们也会在接下来的文章中详细介绍。在 DCEP 中，是通过登记中心来完成 UTXO 的功能，至于如何做的会在下面仔细介绍。</p><h2 id="系统核心要素"><a href="#系统核心要素" class="headerlink" title="系统核心要素"></a>系统核心要素</h2><p>央行的 DCEP 系统主义功能就是对法定数字货币的资金转移，它由中央银行与各商业银行一起联合运营。总的来说 DCEP 的核心要素有：一种币，两类库，三个中心。</p><ul><li><strong>一种币</strong> ：这里的一种币就是指央行发行的法定数字货币，也就是说系统中只能转移央行发行的这个法定数字货币，正如前面说的，只有央行私钥签名的才是法定数字货币，因此我们的电子钱包等都会内置央行的公钥，用来验证改数字货币是否为央行发行的。</li><li><strong>两类库</strong> ：两类库是发行库和商业银行库，这两个库是数据库。比如说，根据数字货币发行总量，央行根据上面说的方式用它的私钥签名生成对应总量的数字货币，此时这些数字货币是存放在央行的发行库中。如果某个商业银行需要提取一定量的数字货币，那么系统就会将对应的数字货币发送到该商业银行的商业银行库中，即数字货币从发行库到银行库的转移。需要注意的是，用户想商业银行提取数字货币，是数字货币从银行库进入到电子钱包的过程，属于流通环节。</li><li><strong>三个中心</strong> ：三个中心一共两种类型，一个是登记中心，另外一个是认证中心。</li></ul><p>登记中心主要负责管理数字货币的整个生命周期，包括印制、转移、销毁、回笼等过程。他主要有两张表，一个为数字货币权属登记表，另外一张为交易流水表。这个权属登记表的作用是记录某面额的数字货币是属于谁的（如下图所示），每当数字货币发生了转移，在央行的登记中心都会对对应的数字货币的属性进行更改，通过这个表可以实现确权查询。这里的重点是，登记中心确定用户到底有多少钱。</p><p> <img src="https://s1.ax1x.com/2020/04/16/JASEUe.png" alt="JASEUe.png"></p><p>认证中心分为两类，一个是 CA 认证，一个 IBC 认证。CA 认证主要用于相对来说比较高级的机构，而 IBC 认证则是用于个人的。这里引入认证中心的原因是，当用户或者机构发起一笔 DCEP 的转账时，需要通过自己的私钥进行签名，也就是说这笔转账的合法性是通过签名来保证的。在一般意义中的 BTC、Ethereum 或者 Libra 中，私钥是用户自己创建，由自己保管，并且用户的地址是由私钥对应的公钥通过一系列运算（Hash，checksum）等得到的，这种方式的优点是资产账户和私钥是天然绑定的，你拥有了私钥也就拥有了其对应的资产。但是在 DCEP 中，由于存在监管这个特性，资产归属和私钥是分开的，也就是说央行会在用户注册了一个 DCEP 钱包后，会通过认证中心给钱包用户分配一个私钥，这个私钥用来证明是这个用户，至于这个用户是否拥有数字货币，是在登记中心来确定的。所以这里的重点是，用户私钥是央行生成的。另外，这里简单介绍下 IBC 认证，IBC（Identity-Based Cryptograph）是基于身份标识的密码系统，还是基于非对称的秘钥体系，他与 CA 认证的最大区别就是不需要证书，而是通过用户标识例如手机号码、邮箱等作为公钥，由 IBC 认证中心根据用户标志生成对应的私钥，由于用户标志本身就是一个公钥，通过用户标志就能确认身份有效性了，从而就不用再依赖证书和证书管理系统了。当然，此时央行的公钥还有用户的私钥、证书数据就相当的重要了，需要将该数据存储在 SE 区域。</p><p>通过对一种币，两类库，三个中心的介绍，大致可以了解 DCEP 的一些顶层设计原则，接下来会结合具体的场景，来实际将顶层设计的逻辑走一遍。</p><hr><h1 id="DCEP采用什么样的技术路线"><a href="#DCEP采用什么样的技术路线" class="headerlink" title="DCEP采用什么样的技术路线"></a><strong>DCEP采用什么样的技术路线</strong></h1><br/><blockquote><p>中国人民银行数字货币研究所所长穆长春在演讲中透露，中国人民银行数字货币研究小组最开始研究央行数字货币的时候，做过一个完全采用区块链架构的原型，但基于现有技术，无法达到零售级别的高并发要求。所以，最终央行层面保持技术中性，不预设技术路线，也不依赖某一种技术。。</p></blockquote><p><strong>DCEP</strong> 采用<strong>混合架构</strong>，<strong>不会预设技术路线</strong>。也就是说，只要商业机构能够满足央行对于DCEP 的技术规范以及用户体验等的要求，采取任何区块链或传统技术都可以。</p><p>穆长春表示，目前央行在技术路线选择上处于“赛马”、市场竞争优选的状态。几家指定运营机构采取不同的技术路线做数字货币的研发，谁的路线好，谁最终会被老百姓接受、被市场接受，谁将最终跑赢比赛。</p><p>中国人民银行前行长周小川也撰文表示，央行最重要的工作之一是帮助建立竞争性环境，使得最优的技术顺利凸显和发展，通过竞争选优来实现更好的技术应用。竞争是一个动态的过程，因为技术进步速度很快，因此会出现一种技术在某一阶段占有较大的市场份额，但还会有另一项新技术出来，形成一浪接着一浪地往前推进的情形。</p><p>不设技术路线，意味着只要央行的DCEP技术铺设成熟，商业银行就可以很快与之对接，这将大大缩短DCEP推出的时间，在全球抢占领先权。</p><hr><h1 id="DCEP几大好处"><a href="#DCEP几大好处" class="headerlink" title="DCEP几大好处"></a><strong>DCEP几大好处</strong></h1><br/><ol><li>法偿性。具有公众持有的央行数字货币依然是中央银行负责，由中央银行进行信用担保。</li><li>可追溯</li><li>主权信用</li><li>双离线支付</li><li>定向流通</li></ol><hr><h1 id="DCEP与微信-支付宝对比"><a href="#DCEP与微信-支付宝对比" class="headerlink" title="DCEP与微信/支付宝对比"></a><strong>DCEP与微信/支付宝对比</strong></h1><br/><p>扎克伯格在 Libra 的听证会上，特意提到了支付宝与微信支付，从某种意义上理解，Libra 的发布，是要与支付宝、微信支付竞争。</p><p>那 DCEP 的推出，会对支付宝与微信支付产生什么影响呢？</p><p>简单来说，DCEP 是数字化的人民币现金，由央行结算，且具有法偿性，DCEP 支付是第一层的直接支付手段。</p><p>而支付宝、微信支付是一种第三方支付手段，由商业银行存储货币结算，存在极小概率的破产风险，没有法律上的法偿性，因此可以有用户不支持支付宝或微信支付。DCEP 也可实现比支付宝、微信支付安全程度与额度更高的离线支付。</p><p>区块律动 BlockBeats 想用一种区块链式的语言来描述，DCEP 是第一层的底层架构，支付宝与微信支付将成为第二层的应用。</p><table><thead><tr><th>项目</th><th>DCEP</th><th>微信/支付宝</th></tr></thead><tbody><tr><td><strong>法律效力</strong></td><td>必须接受DCEP支付，等同于人民币纸钞</td><td>部分商户不支持支付宝或微信支付</td></tr><tr><td><strong>离线支付</strong></td><td>可以</td><td>小额</td></tr><tr><td><strong>结算模式</strong></td><td>央行结算</td><td>商业银行存货币结算</td></tr><tr><td><strong>安全性</strong></td><td>纸钞水平</td><td>低于纸钞水平</td></tr><tr><td><strong>破产保护</strong></td><td>央行法偿性</td><td>商业银行存在破产风险</td></tr><tr><td><strong>风险识别</strong></td><td>大数据识别</td><td>大数据识别</td></tr><tr><td><strong>隐私保护</strong></td><td>一定程度匿名</td><td>一定程度匿名</td></tr><tr><td><strong>额度</strong></td><td>依实名程度分约</td><td>支付系统内部分级</td></tr><tr><td><strong>手续费</strong></td><td>未知</td><td>提现手续费</td></tr></tbody></table><hr><h1 id="认识DCEP，对于币圈层面的四大误区"><a href="#认识DCEP，对于币圈层面的四大误区" class="headerlink" title="认识DCEP，对于币圈层面的四大误区"></a><strong>认识DCEP，对于币圈层面的四大误区</strong></h1><br/><ul><li><p><strong>误区一：DCEP是和BTC是属性相似</strong></p><p>BTC是基于区块链的一种记账奖励，具有点对点的交易能力，按照严格的货币属性，BTC甚至算不上货币。货币须有便于流通、便于存储、相对稳定的基本属性。BTC流通效率低下，密码难记不易存储，更重要的是波动性太大，谁希望自己手持的货币今天买辆汽车，过几天就只能买辆摩托车了？</p><p>从BTC的基本属性来看，BTC被称为“加密代币”更为合适。BTC诞生10年，有太多人期望推行BTC作为货币进行日常支付，比如有机构开发出BTC的ATM机，有机构签约商家使用BTC支付。但都属于实验性质，并无成功。</p><p>而央行数字货币DCEP设计就是作为货币使用的，其支持双离线、国家法定认可等特点还是BTC无法比拟的。其币值和人民币1：1兑换，波动性很小，按照目前的技术路线，具有每秒30万TPS的交易处理能力，足够应付日常交易，并且储存在数字货币运营商提供的钱包中，用户使用便捷性和微信支付、支付宝接近，依据多种身份信息来确权，资产不会轻易丢失，甚至比纸币更容易存储。</p></li></ul><ul><li><p><strong>误区二：DCEP和BTC可以相互兑换</strong></p><p>DCEP出来后，就能开通DCEP兑换BTC的通道吗？相反，非但不会开启，反而更容易监管。</p><p>央行目前的态度是不支持法币兑换BTC的，因为具有洗钱、资金外流等风险。因此央行必然自己不会，也不允许数字货币的运营商如银行、支付公司开通DCEP兑换BTC的通道。</p><p>并且，根据DCEP的设计，其具有穿透式监管的能力。据互链脉搏研究央行数字货币的相关专利设计，其对非法、违规行为的交易监管更为便捷。DCEP的运营商的钱包服务端上部署每个监管方与运营机构约定的账户限制规则。某个监管方如果发现目标账户涉嫌在经济活动中违法或违规，则可以通过向钱包服务端发送账户限制指令的方式，调用运营机构预先同意的账户限制规则，并指定目标账户，使得钱包服务端可以立即依据调用的账户限制规则来对目标账户进行限制操作。</p><p>换句话说一旦察觉有人用DCEP兑换BTC，可以立刻对相关账户进行限制权限、冻结等操作。</p></li></ul><ul><li><p><strong>误区三：可以合法地炒币了</strong></p><p>理论上，DCEP确实可以炒，但只能当炒外汇那样操作。</p></li></ul><ul><li><p><strong>误区四：DCEP基于区块链</strong></p><p>种种证据显示，央行数字货币并不是基于区块链。</p><p>央行数字货币的信用来源于国家的信用，只要保障了安全、隐私等，便不需要区块链赋予每一笔交易的确认。</p><p>今年2月，中国人民银行数字货币研究所区块链课题组课题组成员穆长春、狄刚、吕远、钱友才、卿苏德联合发文《央行数字货币研究所谈区块链技术的发展与管理》。文章指出，区块链以大量冗余数据的同步存储和共同计算为代价，牺牲了系统处理效能和客户的部分隐私，尚不适合传统零售支付等高并发场景。文章还表示，区块链的去中心化特性与中央银行的集中管理要求存在冲突。中央银行提供的支付服务不能离开集中式账户安排，需建立在中心化系统之上，这和区块链的去中心化特性相冲突。因此，目前不建议基于区块链改造传统支付系统。</p><p>但DCEP也借鉴应用了区块链部分组成技术，例如，利用智能合约实现资金的定向流通，利用非对称加密认证身份。其中，比特币区块链中的非对称加密与“传统”的数字身份认证类似，或将被用于DCEP的大量场景，例如，由用户钱包的安全模块生成公、私钥对，两者一一对应，公钥可公开，私钥不公开，私钥可用于对消息签名，公钥可用于验证私钥签名后的信息，以此确认私钥所有者的身份。</p><p>央行数字货币进入试点阶段，说明问世已不远矣。和币圈没关系，但会促进中国数字经济的发展，区块链应用落地的发展。</p></li></ul><hr><h1 id="农行、中行相继传出DCEP内测数字钱包"><a href="#农行、中行相继传出DCEP内测数字钱包" class="headerlink" title="农行、中行相继传出DCEP内测数字钱包"></a><strong>农行、中行相继传出DCEP内测数字钱包</strong></h1><br/><p>2020年4月14日晚，一张DCEP的个人钱包APP截图在网上盛传，该截图显示，兑换数字货币的付款账户选择为农业银行；农业银行或已开始对央行数字货币DCEP进行内部测试。</p><img src="https://s1.ax1x.com/2020/04/16/JAlzj0.jpg" alt="JAlzj0.jpg" style="zoom:50%;" /><center><font color="acacac" size=2>上图为农业银行对央行数字货币DCEP内部测试界面</font></center><img src="https://s1.ax1x.com/2020/04/16/JA1nu6.jpg" alt="JA1nu6.jpg" style="zoom:50%;" /><center><font color="acacac" size=2>上图为中国银行对央行数字货币DCEP内部测试界面</font></center><h1 id="参考文献"><a href="#参考文献" class="headerlink" title="参考文献"></a>参考文献</h1><br/><blockquote><p><a href="https://chengwf.com/ecd80" target="_blank" rel="noopener">[0] 东兴证券：中国法定数字货币（DCEP）产业研究尝试研究报告</a></p><p><a href="https://chengwf.com/1ad8c" target="_blank" rel="noopener">[1] IMF总裁 克里斯蒂娜 • 拉加德 变《革之风：发行新型数字货币的理由》</a></p><p><a href="https://chengwf.com/cb8fa" target="_blank" rel="noopener">[2] 广发证券关于DCEP的运行机制</a></p><p><a href="https://chengwf.com/ee306" target="_blank" rel="noopener">[3] 对央行数字货币(DCEP)的技术研究报告</a></p><p><a href="https://chengwf.com/414cf" target="_blank" rel="noopener">[4] 中华人民共和国金融行业标准《金融分布式账本技术安全规范》</a></p></blockquote>]]></content>
     
@@ -485,9 +485,9 @@
     
       <category term="区块链" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE/"/>
     
-      <category term="区块链看点" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE%E7%9C%8B%E7%82%B9/"/>
-    
       <category term="加密货币" scheme="https://www.chengwf.com/tags/%E5%8A%A0%E5%AF%86%E8%B4%A7%E5%B8%81/"/>
+    
+      <category term="区块链看点" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE%E7%9C%8B%E7%82%B9/"/>
     
       <category term="加密货币交易平台" scheme="https://www.chengwf.com/tags/%E5%8A%A0%E5%AF%86%E8%B4%A7%E5%B8%81%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0/"/>
     
@@ -523,9 +523,9 @@
     
       <category term="区块链金融" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E5%8C%BA%E5%9D%97%E9%93%BE%E9%87%91%E8%9E%8D/"/>
     
-      <category term="数据" scheme="https://www.chengwf.com/categories/%E6%95%B0%E6%8D%AE/"/>
-    
       <category term="数字经济" scheme="https://www.chengwf.com/categories/%E6%95%B0%E5%AD%97%E7%BB%8F%E6%B5%8E/"/>
+    
+      <category term="数据" scheme="https://www.chengwf.com/categories/%E6%95%B0%E6%8D%AE/"/>
     
       <category term="数字银行" scheme="https://www.chengwf.com/categories/%E6%95%B0%E5%AD%97%E7%BB%8F%E6%B5%8E/%E6%95%B0%E5%AD%97%E9%93%B6%E8%A1%8C/"/>
     
@@ -534,11 +534,11 @@
       <category term="大数据" scheme="https://www.chengwf.com/categories/%E6%95%B0%E6%8D%AE/%E5%A4%A7%E6%95%B0%E6%8D%AE/"/>
     
     
-      <category term="区块链看点" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE%E7%9C%8B%E7%82%B9/"/>
-    
       <category term="新冠状病毒" scheme="https://www.chengwf.com/tags/%E6%96%B0%E5%86%A0%E7%8A%B6%E7%97%85%E6%AF%92/"/>
     
       <category term="COVID-19" scheme="https://www.chengwf.com/tags/COVID-19/"/>
+    
+      <category term="区块链看点" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE%E7%9C%8B%E7%82%B9/"/>
     
       <category term="数字经济" scheme="https://www.chengwf.com/tags/%E6%95%B0%E5%AD%97%E7%BB%8F%E6%B5%8E/"/>
     
@@ -664,9 +664,9 @@
     
       <category term="数字货币" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/"/>
     
-      <category term="比特币" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/%E6%AF%94%E7%89%B9%E5%B8%81/"/>
-    
       <category term="区块链技术" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E5%8C%BA%E5%9D%97%E9%93%BE%E6%8A%80%E6%9C%AF/"/>
+    
+      <category term="比特币" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/%E6%AF%94%E7%89%B9%E5%B8%81/"/>
     
       <category term="WIKI" scheme="https://www.chengwf.com/categories/WIKI/"/>
     
@@ -675,6 +675,8 @@
     
       <category term="比特币" scheme="https://www.chengwf.com/tags/%E6%AF%94%E7%89%B9%E5%B8%81/"/>
     
+      <category term="中本聪" scheme="https://www.chengwf.com/tags/%E4%B8%AD%E6%9C%AC%E8%81%AA/"/>
+    
       <category term="分布式" scheme="https://www.chengwf.com/tags/%E5%88%86%E5%B8%83%E5%BC%8F/"/>
     
       <category term="去中心化" scheme="https://www.chengwf.com/tags/%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%8C%96/"/>
@@ -682,8 +684,6 @@
       <category term="智能合约" scheme="https://www.chengwf.com/tags/%E6%99%BA%E8%83%BD%E5%90%88%E7%BA%A6/"/>
     
       <category term="共识机制" scheme="https://www.chengwf.com/tags/%E5%85%B1%E8%AF%86%E6%9C%BA%E5%88%B6/"/>
-    
-      <category term="中本聪" scheme="https://www.chengwf.com/tags/%E4%B8%AD%E6%9C%AC%E8%81%AA/"/>
     
       <category term="区块链融资" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE%E8%9E%8D%E8%B5%84/"/>
     
