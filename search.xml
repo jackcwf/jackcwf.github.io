@@ -1,6 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>加密货币实时行情中心</title>
+    <url>/2020/06/cryptocurrencies.html</url>
+    <content><![CDATA[<iframe src="https://chengwf.com/43f78?theme=darkTheme" width="100%" height="1000px" frameborder="0" allowtransparency="true" marginwidth="0" marginheight="0"></iframe><div class="poweredBy" style="font-family: Arial, Helvetica, sans-serif;">技术支持 <a href="https://chengwf.com/28d77?utm_source=WMT&amp;utm_medium=referral&amp;utm_campaign=TOP_CRYPTOCURRENCIES&amp;utm_content=Footer%20Link" target="_blank" rel="nofollow" boundblank="">Investing.com</a></div>
+
+]]></content>
+      <categories>
+        <category>行情</category>
+      </categories>
+      <tags>
+        <tag>以太坊</tag>
+        <tag>比特币</tag>
+        <tag>ETH</tag>
+        <tag>行情中心</tag>
+        <tag>BTC</tag>
+        <tag>BCH</tag>
+        <tag>EOS</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>新兴技术十年辉煌回顾，后十年有哪些黑科技会改变我们的世界？</title>
     <url>/2020/06/ten-years-technology-2010to2019.html</url>
     <content><![CDATA[<p>我们见证了全世界新兴技术辉煌的10年！</p>
@@ -272,17 +291,17 @@
       <categories>
         <category>区块链</category>
         <category>数字货币</category>
-        <category>比特币</category>
         <category>以太坊</category>
+        <category>比特币</category>
       </categories>
       <tags>
         <tag>区块链</tag>
         <tag>以太坊</tag>
         <tag>比特币</tag>
         <tag>区块链看点</tag>
+        <tag>彭博社</tag>
         <tag>XRP</tag>
         <tag>比特币现金</tag>
-        <tag>彭博社</tag>
       </tags>
   </entry>
   <entry>
@@ -447,8 +466,8 @@
       </categories>
       <tags>
         <tag>区块链</tag>
-        <tag>中本聪</tag>
         <tag>比特币</tag>
+        <tag>中本聪</tag>
         <tag>分布式</tag>
         <tag>去中心化</tag>
         <tag>智能合约</tag>
@@ -510,8 +529,8 @@
       <categories>
         <category>区块链</category>
         <category>数字货币</category>
-        <category>比特币</category>
         <category>以太坊</category>
+        <category>比特币</category>
       </categories>
       <tags>
         <tag>区块链</tag>
@@ -579,7 +598,7 @@
     <title>Exploring Bitcoin and blockchain technology(探秘比特币与区块链技术)（视频）</title>
     <url>/2020/06/videos/blockchain_DLT.html</url>
     <content><![CDATA[<p>有人认为这不过是炒作；其他人则将此视作一种革命性技术，可以彻底改变我们交易几乎一切有价值之物的方式。 那么这种所谓分布式账本技术(DLT)到底是什么？它怎样运作？谁能从中受益？在这个的视频中，我们将为您区分事实与虚构，帮您看清炒作的烟幕。 …</p>
-<div id="dplayer1" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer1"),"autoplay":true,"hotkey":true,"preload":"metadata","video":{"url":"https://chengwf.com/473ac"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script> 
+<div id="dplayer0" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer0"),"autoplay":true,"hotkey":true,"preload":"metadata","video":{"url":"https://chengwf.com/473ac"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script> 
 
 
 
@@ -618,8 +637,8 @@
         <tag>比特币</tag>
         <tag>区块链技术</tag>
         <tag>区块链视频</tag>
-        <tag>blockchain_video</tag>
         <tag>DLT</tag>
+        <tag>blockchain_video</tag>
       </tags>
   </entry>
   <entry>
@@ -692,8 +711,8 @@
       <tags>
         <tag>区块链</tag>
         <tag>区块链周报</tag>
-        <tag>中本聪</tag>
         <tag>比特币</tag>
+        <tag>中本聪</tag>
         <tag>Hodlers</tag>
       </tags>
   </entry>
@@ -886,7 +905,7 @@
   <entry>
     <title>区块链和DCEP，终结美元霸权两大杀手锏（视频）</title>
     <url>/2020/05/videos/china_dcep.html</url>
-    <content><![CDATA[<div id="dplayer2" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer2"),"autoplay":true,"hotkey":true,"preload":"metadata","video":{"url":"https://chengwf.com/1l8"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script> 
+    <content><![CDATA[<div id="dplayer1" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer1"),"autoplay":true,"hotkey":true,"preload":"metadata","video":{"url":"https://chengwf.com/1l8"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script> 
 
 
 
@@ -954,9 +973,9 @@
       <tags>
         <tag>区块链</tag>
         <tag>区块链周报</tag>
-        <tag>两会上的区块链</tag>
-        <tag>中本聪</tag>
         <tag>比特币</tag>
+        <tag>中本聪</tag>
+        <tag>两会上的区块链</tag>
         <tag>以太坊2.0</tag>
       </tags>
   </entry>
@@ -1084,7 +1103,7 @@
 <p>Facebook于上週公佈密码货币Libra细节，这款以建立一套去中心化、低门槛无国界支付为宗旨的创新金融服务，能否得到主流市场的认可，是其实现伟大金融愿景的关键。</p>
 </blockquote>
 <p>Facebook CEO的Mark Zuckerberg公布了筹备已久的区块链金融产品：密码货币Libra和Calibra数位钱包（Digital Wallet），一脚踏入区块链与金融科技的领域。</p>
-<div id="dplayer3" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer3"),"autoplay":true,"hotkey":true,"preload":"metadata","video":{"url":"https://chengwf.com/5dg"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script> 
+<div id="dplayer2" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer2"),"autoplay":true,"hotkey":true,"preload":"metadata","video":{"url":"https://chengwf.com/5dg"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script> 
 
 <h1 id="Libra是什么？"><a href="#Libra是什么？" class="headerlink" title="Libra是什么？"></a>Libra是什么？</h1><p><strong>Libra的使命是建立一套简单的、无国界的货币，和为数十亿人服务的金融基础设施。</strong></p>
 <p>Libra白皮书开宗明义的目的和理想，就是运用区块链技术来打造无国界、去中心化、低波动的加密虚拟货币（Cryptocurrency），来降低全球货币兑换转帐、支付交易的门槛，实现普惠的互联网金融创新。</p>
@@ -1265,11 +1284,11 @@
       </categories>
       <tags>
         <tag>区块链</tag>
-        <tag>区块链看点</tag>
         <tag>绿地</tag>
         <tag>绿地陈军</tag>
         <tag>张雨婷</tag>
         <tag>史睿生</tag>
+        <tag>区块链看点</tag>
       </tags>
   </entry>
   <entry>
@@ -1277,7 +1296,7 @@
     <url>/2020/05/videos/blockchain_education.html</url>
     <content><![CDATA[<p>Some people think this is just hype; others see it as a revolutionary technology that can completely change the way we trade almost everything of value. So what is this so-called distributed ledger technology (DLT)? How does it work? Who can benefit from it? In this video, we will distinguish between fact and fiction, and help you see the smoke screen of hype. … </p>
 <p>有人认为这不过是炒作；其他人则将此视作一种革命性技术，可以彻底改变我们交易几乎一切有价值之物的方式。 那么这种所谓分布式账本技术(DLT)到底是什么？它怎样运作？谁能从中受益？在这个的视频中，我们将为您区分事实与虚构，帮您看清炒作的烟幕。 …</p>
-<div id="dplayer0" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer0"),"autoplay":true,"hotkey":true,"preload":"metadata","video":{"url":"https://chengwf.com/sch"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script> 
+<div id="dplayer3" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer3"),"autoplay":true,"hotkey":true,"preload":"metadata","video":{"url":"https://chengwf.com/sch"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script> 
 
 
 
@@ -1502,8 +1521,8 @@
       <tags>
         <tag>区块链</tag>
         <tag>DCEP</tag>
-        <tag>数字货币</tag>
         <tag>区块链看点</tag>
+        <tag>数字货币</tag>
         <tag>Libra</tag>
       </tags>
   </entry>
@@ -1750,9 +1769,9 @@
       </categories>
       <tags>
         <tag>区块链</tag>
+        <tag>区块链看点</tag>
         <tag>数字货币</tag>
         <tag>闪电网络</tag>
-        <tag>区块链看点</tag>
       </tags>
   </entry>
   <entry>
@@ -2773,8 +2792,8 @@
       </categories>
       <tags>
         <tag>区块链</tag>
-        <tag>中本聪</tag>
         <tag>比特币</tag>
+        <tag>中本聪</tag>
         <tag>分布式</tag>
         <tag>去中心化</tag>
         <tag>智能合约</tag>
@@ -2893,8 +2912,8 @@
 ]]></content>
       <categories>
         <category>区块链</category>
-        <category>国家主权货币</category>
         <category>数字经济</category>
+        <category>国家主权货币</category>
         <category>区块链金融</category>
         <category>DCEP</category>
         <category>数字银行</category>
@@ -3425,17 +3444,17 @@ AI的关键重要性
         <category>区块链</category>
         <category>新冠状病毒</category>
         <category>数字经济</category>
-        <category>区块链应用</category>
         <category>区块链金融</category>
+        <category>区块链应用</category>
       </categories>
       <tags>
         <tag>区块链</tag>
         <tag>区块链看点</tag>
         <tag>新冠状病毒</tag>
         <tag>COVID-19</tag>
-        <tag>区块链应用</tag>
         <tag>数字经济</tag>
         <tag>区块链金融</tag>
+        <tag>区块链应用</tag>
       </tags>
   </entry>
   <entry>
@@ -3587,8 +3606,8 @@ AI的关键重要性
 ]]></content>
       <categories>
         <category>数字经济</category>
-        <category>哈佛商业评论</category>
         <category>数字经济</category>
+        <category>哈佛商业评论</category>
         <category>数字化管理</category>
       </categories>
       <tags>
