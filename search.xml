@@ -1,8 +1,143 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>白话解读即将到来Ethereum 2.0，以太坊区块链的革命性升级</title>
+    <url>/2020/06/Ethereum2.0.html</url>
+    <content><![CDATA[<blockquote>
+<p>有没有可能创建一条区块链，让每个节点都只需处理部分，而无需处理全部交易呢？这样一来，每个节点都只需处理网路中很少一部分交易，从而降低通信成本——那就是以太坊2.0 。以太坊即将迎来一场非常重要的大型升级，如果成功实现的话，将为这个世界创造巨大价值。本文源自于Grant Hummer的《ETH2 for Dummies》，由区块新看点专栏作者、以太坊爱好者（程伟）作编译、撰写及整理。</p>
+</blockquote>
+<p>现在以太坊1.0 处理速度很慢；整个网路每秒仅能处理15 笔交易，而且，通过这些交易进行任何复杂的操作都会带来极其高昂的成本。<a id="more"></a></p>
+<p>相比之下，Visa （总部位于美国的支付服务提供商）每秒能处理上千笔交易。</p>
+<p><img src="https://chengwf.com/54f9e" alt="NPmnMj.jpg"></p>
+<h3 id="一、ETH1-0-的不足"><a href="#一、ETH1-0-的不足" class="headerlink" title="一、ETH1.0 的不足"></a><strong>一、ETH1.0 的不足</strong></h3><p><br/>以太坊的效率为何如此低下？使用成本为何如此高昂呢？</p>
+<p>一言以蔽之，去中心化在创造巨大价值的同时也会带来极高的成本（至少现在是如此）。实现去中心化的成本之所以如此之高，是因为与如今大多数区块链一样，以太坊上的每个节点（即，连接至以太坊网路的计算机，例如，运行以太坊软件的笔记本电脑）都必须各自执行记载到区块中的每一个计算，以确保所有参与者都遵守规则。这个过程要耗费能源和运算资源。</p>
+<p>此外还有时间上的耗费。以太坊节点遍布世界各地—— 毕竟这是一个给参与者提供激励的公开网路—— 不同节点之间存在较高的网路通信延迟，计算能力也各不同。以太坊网路必须能够容忍比较长的网路延迟（即出块时间不能缩得太短），以便网速较慢的节点能够与网路保持同步，并参与去中心化投票机制。</p>
+<p>就当前架构下的以太坊网路而言，如果要其在很短时间内处理过多数据，笔记本电脑和个人服务器等消费级硬体就无法与网路保持同步，只有大型数据中心才能在这个网路中充当节点之用。这就会极大地降低以太坊的去中心化程度，因为数据中心节点很容易就能形成垄断，进而控制整个网路，或是对网路进行审查。实际上，一些区块链网路（如EOS）现在就面临着这样的问题。</p>
+<p>对于公有链来说，维持足够的去中心化水平是非常重要的。如果没有去中心化，那么使用区块链就没多大意义，因为中心化的区块链很容易就能审查人们的交易，而且相比一般的分布式数据库来说，使用效率还要低得多。如果你对区块链了解不深的话，不妨跟我一起回忆一下，在中本聪通过比特币开创新型去中心化治理模式之前，任何一个系统都不可能实现免信任型治理——其中，所有参与者都有权控制决策，但是没有人掌握全部（或多数）控制权。Vitalik （以太坊的创建者）在回应关于去中心化和性能之间的权衡问题时，打了一个非常有名的比喻：</p>
+<blockquote>
+<p>“<strong>任何人都可以创建出一个类似于「垃圾集中处理场」的高TPS 系统</strong>。”</p>
+</blockquote>
+<p>有没有可能创建一条区块链，让每个节点都只需处理部分，而无需处理全部交易呢？这样一来，每个节点都只需处理网路中很少一部分交易，从而降低通信成本。那就是以太坊2.0 。</p>
+<h3 id="二、ETH2-0-简介"><a href="#二、ETH2-0-简介" class="headerlink" title="二、ETH2.0 简介"></a><strong>二、ETH2.0 简介</strong></h3><p><br/>以太坊2.0就是新一代以太坊，我们甚至不该称之为以太坊。以太坊2.0是一个完全不同的项目，在区块链的架构上采用了全新的思路。以太坊2.0的目标是提高以太坊的可扩展性、安全性和可编程性。不同于以太坊1.0只能达到15 TPS的吞吐量，<strong>以太坊2.0每秒可处理上千至上万笔交易（甚至更多）</strong>，同时不用降低其去中心化程度。实际上，以太坊2.0想引入一种经济安全性更强的共识机制，叫作<strong>权益证明（PoS</strong>），而不是沿用比特币和以太坊1.0所用的工作量证明（PoW）。</p>
+<p>在传统的PoW区块链（如比特币）中，一些个人和机构会充当矿工的角色，利用价格高昂的硬体来解决数学难题，从而铸造新的比特币，并处理交易。矿工通过维护网路安全性来获得增发的比特币和交易费。相比之下，在（以太坊2.0等）PoS区块链中：</p>
+<p><strong><em>验证者通过锁定以太币来为网路提供安全性，从而铸造新的以太币，并处理交易*</em></strong>。*</p>
+<p>那么实际上，验证者提供的安全性取决于网路本身的价值。如果有验证者作恶（例如，投票通过恶意交易），其锁定的以太币就会被罚没。罚没机制会激励验证者遵守协议规则。</p>
+<p>PoS之所以具有较高的安全性，一个很大的原因是PoW系统容易遭受<strong>「蹲点（spawn camping）」攻击</strong>。如果作恶者所掌握的挖矿硬体足以攻击比特币等PoW区块链，比特币便无力阻止后续攻击，因为网路会不断发生重组/分叉，然后又会被同一帮挖矿硬体攻击，如此无休止地循环下去。相比之下，以太坊2.0抵御蹲点攻击的能力要强得多——以太坊2.0可以分叉并罚没攻击者的押金。这就好比摧毁了攻击者的比特币矿场。</p>
+<p>此外，以太坊2.0 能让开发者创建自己的交易处理方法，即，执行环境，以便其在以太坊网路内使用其它区块链的规则。用极度简化的说法来说明「执行环境」就是：</p>
+<p><strong><em>以太坊2.0可以让人们使用比特币、ZCash、以太坊1.0 的交易规则，以及其它想得到的规则集合，其规模比目前以太坊1.0所能达到的规模高出了几个数量级，均由同一组缴纳了押金的验证者保护其安全性。\</em></strong></p>
+<p>以太坊2.0通过分片实现了这一点：在以太坊2.0中，每一条分片链都有各自专属的出块者和验证者，而且这些分片链彼此之间联系紧密，可以互相通信，因此形成了一个大型分片链网路。因此，以太坊2.0的验证者无需处理整个网路内的所有交易，只需处理并验证某条分片链上的交易。通过这一创新技术，使用消费级硬体的人也能够参与以太坊2.0网路，为其做出贡献。</p>
+<p>要注意的是，在以太坊2.0 中，每条分片链都具备相同的安全性。要想破坏某条分片链的话，必须破坏整个系统。这一安全性模型相比Cosmos 等平台提供了更高的安全保障。在Cosmos 等平台的模型下，每条链都独善其身，导致整个网路分片化，且容易遭受攻击。因此，若想攻击以太坊2.0 ，攻击者必须购买并质押价值数十亿美元的以太币（如果以太币的价格上涨，质押金的美元价值也会随之上涨）。</p>
+<p>下图显示了传统区块链网路的形态—— 一条由数据区块组成的「链」。不了解什么是区块头（block header）和交易列表（transaction list）也没关系，下图仅作说明之用：</p>
+<p><img src="https://chengwf.com/35841" alt="NPmKLn.jpg"></p>
+<p>下图显示了以太坊2.0 的形态，区别在于不只有2 条分片链，而是有64 条分片链，均由信标链进行协调。再强调一遍，先不要考虑技术细节：</p>
+<p><img src="https://chengwf.com/f2182" alt="NPmuss.jpg"></p>
+<h3 id="三、ETH2-0-开发团队"><a href="#三、ETH2-0-开发团队" class="headerlink" title="三、ETH2.0 开发团队"></a><strong>三、ETH2.0 开发团队</strong></h3><p><br/>以太坊2.0 由9 个不同的工程团队构建。这些团队均由以太坊基金会拨款资助，且获得了以太坊社区的支持。这些团队正在开发户端 —— 客户端就类似于Chrom e和Firefox 浏览器，只不过不是用来访问网站的，而是用来访问并参与以太坊网路的。客户端多样性是以太坊的核心原则——如果有一个或两个客户端遭到破坏或是存在漏洞，整个网路不会因此而崩溃。每个客户端都各有针对性的用例，但是它们都能完全参与到该网路中。例如，一个客户端针对智能手机进行了优化，而另一个客户端是专为企业构建的。工程团队正在根据一个由高级研究人员（多数都是电机系博士及同等层次的人才）所创建的规范来开发客户端。</p>
+<p>此外，很多研究工作都是在一个叫作<strong>ethresear.ch</strong>的网站上以开源的方式进行的，全世界任何一个人都可以将自己的技术想法、建议或批评发布到这个网站上。经过数年的迭代之后，以太坊2.0的规范才达到了当前的状态——研究人员有好几次认为自己已经创建了一个合理的设计，但是之后会发现一些缺陷，必须要重新设计部分或整个系统才行。在整个区块链领域，以太坊2.0研究团队是经验最丰富且最有才华的协议设计团队，这并非夸大其词。</p>
+<p>下面是参与开发以太坊2.0 的团队名单（排名不分先后）：</p>
+<h4 id="ChainSafe-Systems"><a href="#ChainSafe-Systems" class="headerlink" title="ChainSafe Systems"></a>ChainSafe Systems</h4><ul>
+<li>是一家位于安大略省多伦多的公司，员工人数达30 人以上，其中有5 位开发者从事以太坊2.0 客户端的开发工作。</li>
+<li>开发人员在多伦多举办的以太坊开发者聚会上面基</li>
+<li>用JavaScript 语言开发着一个名为Lodestar 的客户端</li>
+</ul>
+<h4 id="PegaSys"><a href="#PegaSys" class="headerlink" title="PegaSys"></a>PegaSys</h4><ul>
+<li>以太坊生态系统中最大的公司ConsenSys 旗下的一个50 人团队，其成员分布于世界各地</li>
+<li>搭建了一个名为Pantheon 的企业友好型以太坊1.0 客户端</li>
+<li>有一个主攻以太坊2.0 规范的研究团队</li>
+<li>开发着一个名为Artemis 的Java 客户端，针对企业使用进行了优化</li>
+</ul>
+<h4 id="Harmony"><a href="#Harmony" class="headerlink" title="Harmony"></a>Harmony</h4><ul>
+<li>位于俄罗斯的4 人团队</li>
+<li>开发着一个Java 以太坊客户端</li>
+<li>尚无很多公开信息</li>
+<li>有可能与PegaSys/Artemis 进行整合</li>
+</ul>
+<h4 id="Parity-Technologies"><a href="#Parity-Technologies" class="headerlink" title="Parity Technologies"></a>Parity Technologies</h4><ul>
+<li>位于柏林的公司，有一个超过60 人的大型远端办公团队（并非所有人都在从事以太坊2.0 的相关工作）</li>
+<li>从以太坊基金会获得了500 万美元的资金，来开发名为Substrate Shasper 的以太坊2.0 客户端</li>
+<li>也在开发支持互操作性的区块链项目Polkadot 。该项目被认为是以太坊的劲敌。</li>
+<li>开发并维护着第二流行的以太坊1.0 客户端，同样叫作Parity 。</li>
+</ul>
+<h4 id="Prysmatic-Labs"><a href="#Prysmatic-Labs" class="headerlink" title="Prysmatic Labs"></a>Prysmatic Labs</h4><ul>
+<li>一个6 人团队，其成员分散于美国境内</li>
+<li>会在部落格上主动发布更新，可以通过其博客来了解并跟进以太坊2.0 的进展</li>
+<li>搭建了一个名为Prysm 的客户端，与以太坊1.0 的Geth 类似，都是为了满足主流应用的多样场景</li>
+</ul>
+<h4 id="Sigma-Prime"><a href="#Sigma-Prime" class="headerlink" title="Sigma Prime"></a>Sigma Prime</h4><ul>
+<li>位于澳大利亚雪梨的4 人团队</li>
+<li>聚集了拥有很强学术/软体开发背景的网路安全专家</li>
+<li>搭建了一个名为Lighthouse 的客户端，适应主要的使用场景</li>
+</ul>
+<h4 id="Status"><a href="#Status" class="headerlink" title="Status"></a>Status</h4><ul>
+<li>一个8 人团队，成员分散于欧洲各地</li>
+<li>致力于打造名为Nimbus 的轻客户端，即，可在智能手机等「轻」 环境下运行</li>
+</ul>
+<h4 id="Trinity"><a href="#Trinity" class="headerlink" title="Trinity"></a>Trinity</h4><ul>
+<li>与以太坊基金会签约的一个4 人团队</li>
+<li>搭建了一个轻客户端，充当更高级实现的原型</li>
+</ul>
+<h4 id="Nethermind"><a href="#Nethermind" class="headerlink" title="Nethermind"></a>Nethermind</h4><ul>
+<li>位于伦敦和波兰的7 人团队</li>
+<li>在.NET 上搭建了一个Windows 客户端</li>
+</ul>
+<h3 id="四、分阶段交付的ETH2-0"><a href="#四、分阶段交付的ETH2-0" class="headerlink" title="四、分阶段交付的ETH2.0"></a><strong>四、分阶段交付的ETH2.0</strong></h3><p><br/>以太坊2.0 的发布被分为多个阶段，但其中最重要的是前面三个阶段。这几个阶段错开推出以太坊2.0 的各种组件，一方面是因为需要很长时间才能开发完成，另一方面是因为采用循序渐进的方式会降低技术风险。对于这样一个价值数十亿美元的密码学货币网路来说，「快速行动、打破常规」 的理念并不适用。</p>
+<p>不同于可以快速修复问题的中心化科技公司，密码学货币网路如果存在严重的客户端漏洞，将造成遗患久远的巨大破坏，因为该网路的参与者都要手动更新到新的客户端版本。在最糟糕的情况下（例如，攻击者成功发动双花攻击），必须回滚多个交易，才能保障网路的安全性。这会造成极大的声誉影响，就像2016 年的The DAO 被黑事件那样，一部分以太坊开发者和用户分叉出了另一条名为Ethereum Classic 的链。</p>
+<p>Phase 0可能在2020年第二季度末或第三季度初交付。<strong>该阶段会引入信标链，将其作为整个以太坊2.0网路的「命令和控制」中心。</strong>信标链会将验证者组织到一起，并将他们分配到不同的分片链上处理交易；一段时间之后，所有验证者都会被重新「洗牌」并随机分配到另一条分片链上。</p>
+<p>「重新洗牌」是以太坊2.0安全性的关键部分，如果没有这一设定的话，就有可能会出现一小部分验证者受贿或干涉以太坊2.0运行的情况。信标链会验证各分片链所生成的区块的有效性，以便以太币、代币和数据在各分片链之间交换。用20世纪70年代加利福尼亚人的语气来说：信标链就是一条可以管理其他区块链的区块链。（译者注：这个“maaaaaan”应该就是拖长音的“man”，增强语气的意思，作者想搞一个小幽默吧。）</p>
+<p>如果说信标链是「命令和控制」中心，那么验证者就属于实操人员。验证者是PoS 网路上的参与者，负责处理该网路上的交易并对其进行排序，并将这些交易转发给其他参与者。验证者会因此获得交易费和增发代币（通膨）作为回报。验证者在密码学货币网路中发挥了最重要的作用，而以太坊2.0 正试图解决的一大核心挑战是，如何通过设计激励机制来让验证者遵守协议并作出有利于网路的行动。信标链还将负责「罚没」 作恶验证者的押金。</p>
+<p>以太坊2.0 的Phase 1 预计于2021 年交付，将推出分片链，但是无法处理或结构化分片链上的数据。数据会以原始形式存在于分片链上（即，「数据Blob」），主要是为了确保分片链彼此之间以及与信标链之间能够进行良好通信。分片链无法对数据进行任何计算。乍听起来，Phase 1 像是一个功能有限的优化测试网，但这一说法并不完全正确。新的DApp 和现有DApp 可以利用该数据存储来增强其可扩展性。例如，一个去中心化的Twitter DApp 可以将数据存储在分片链上，并将大量计算工作放到链下完成、利用以太坊1.0 来提供高水平的安全保障。在Phase 1 期间，以太坊1.0 依然会正常运行，以太坊1.0 与以太坊2.0 这两条链将并行。</p>
+<p>在2019 年12 月末，Vitalik 提议加快将以太坊1.0 转移到信标链的进程，以便以太坊实现PoS 的优点，并加快其与以太坊2.0 的整合进程。最开始的时候，以太坊1.0 将成为一条特殊的分片链（而非执行环境），但它最终将在Phase 2 转变成执行环境。目前尚未提议具体的时间线，但是这一过程似乎会在Phase 1 发生。</p>
+<p>Phase 2 预计于2021 或2022 年上线，将实现以太坊2.0 的真正愿景。届时，分片链就能处理交易，而以太坊2.0 网路上就能搭建真正的商业应用。在Phase 2，分片链上将引入智能合约，以及运行这些智能合约的执行环境。正如上文所述，执行环境能让开发者任意创建规则集，以此规定交易的处理方式。这就意味着，协议开发者将能创建出执行环境，来模拟比特币、Zcash、以太坊1.0 的规则，或是以几乎任何可以想像得到的方法来计算区块链交易。就像以太坊1.0 通过抽象化比特币的方式在区块链上实现智能合约那样，以太坊2.0 将通过抽像以太坊1.0 来重新定义区块链计算的本质。</p>
+<p>关于以太坊2.0 的一些组成部分，依然存在一些研究问题还未得到最终解决。例如，如何以去中心化的方式提供并存储数据（以免少部分数据提供商垄断整个网路），跨分片交易如何运作，以及执行环境治理等问题。然而，关于这些方面的研究依然在迅速推进中。</p>
+<p><strong>下面再重申一下以太坊2.0 的三个阶段</strong>：</p>
+<h4 id="Phase-1"><a href="#Phase-1" class="headerlink" title="Phase 1"></a>Phase 1</h4><ul>
+<li>估计于2020 年第二季度末/第三季度初交付</li>
+<li>发布信标链并在信标链上实行PoS 验证</li>
+<li>以太坊1.0 将继续正常运行</li>
+</ul>
+<h4 id="Phase-2"><a href="#Phase-2" class="headerlink" title="Phase 2"></a>Phase 2</h4><ul>
+<li>预计将于2021 年交付</li>
+<li>发布分片链并允许数据存储在这些分片链上，但是不在分片链上处理交易</li>
+<li>以太坊1.0 可能会继续正常运行，也可能会作为特殊的分片链整合进以太坊2.0</li>
+</ul>
+<h4 id="Phase-3"><a href="#Phase-3" class="headerlink" title="Phase 3"></a>Phase 3</h4><ul>
+<li>预计将于2021 年末/ 2022 年初交付</li>
+<li>允许在分片链上处理交易</li>
+<li>在一段时间之后，以太坊1.0 将作为执行环境过渡到以太坊2.0 上。</li>
+</ul>
+<p>以太坊将在Phase 2 之后继续发展，但是之后的发展蓝图尚不清晰……</p>
+<p>从我的角度来看，以太坊的未来一片光明。没有哪个智能合约区块链像以太坊这样拥有这么多研究人员、开发人员、用户和项目，现在正是加入以太坊的良机。以太坊即将迎来一场非常重要的大型升级，如果成功实现的话，将为这个世界创造巨大价值。</p>
+<p>特别感谢来自ConsenSys R&amp;D 的Robert Drost 、来自Prysmatic Labs 的Terence Tsao 、James Fickel 和Carrie Krabes 对本文的帮助。</p>
+<hr>
+<p><a href="https://www.zhihu.com/club/1255823155094331392" target="_blank" rel="noopener"><img src="https://s1.ax1x.com/2020/06/15/NCobWj.jpg" alt="NCobWj.jpg"></a></p>
+<blockquote>
+<p>欢迎进入讨论币圈最新动态：<a href="https://www.zhihu.com/club/1255823155094331392" target="_blank" rel="noopener">区块新看点-圈子（数字科技圈）</a></p>
+</blockquote>
+<blockquote>
+<p>订阅“区块新看点”微信公众号：BlockChan888，私信获取更多精彩课件</p>
+</blockquote>
+<iframe src="https://cn.widgets.investing.com/crypto-currency-rates?theme=darkTheme&pairs=997650,1010776" width="100%" height="100%" frameborder="0" allowtransparency="true" marginwidth="0" marginheight="0"></iframe><div class="poweredBy" style="font-family: Arial, Helvetica, sans-serif;">技术支持 <a href="https://cn.investing.com?utm_source=WMT&amp;utm_medium=referral&amp;utm_campaign=CRYPTO_CURRENCY_RATES&amp;utm_content=Footer%20Link" target="_blank" rel="nofollow" boundblank="">Investing.com</a></div>
+
+]]></content>
+      <categories>
+        <category>区块链</category>
+        <category>WIKI</category>
+        <category>数字货币</category>
+        <category>以太坊</category>
+      </categories>
+      <tags>
+        <tag>区块链</tag>
+        <tag>以太坊</tag>
+        <tag>以太坊2.0</tag>
+        <tag>区块链看点</tag>
+        <tag>ETH</tag>
+        <tag>Ethereum</tag>
+        <tag>V神</tag>
+        <tag>Vitalik</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>V神：我们期望币圈更像股市，但美股却变得更加像加密货币</title>
-    <url>/2020/06/Vitalik%20_Buterin_usstock_Cryptocurrency.html</url>
+    <url>/2020/06/Vitalik_Buterin_usstock_Cryptocurrency.html</url>
     <content><![CDATA[<iframe src="https://cn.widgets.investing.com/crypto-currency-rates?theme=darkTheme&pairs=997650,1010776" width="100%" height="100%" frameborder="0" allowtransparency="true" marginwidth="0" marginheight="0"></iframe><div class="poweredBy" style="font-family: Arial, Helvetica, sans-serif;">技术支持 <a href="https://cn.investing.com?utm_source=WMT&amp;utm_medium=referral&amp;utm_campaign=CRYPTO_CURRENCY_RATES&amp;utm_content=Footer%20Link" target="_blank" rel="nofollow" boundblank="">Investing.com</a></div>
 
 <hr>
@@ -159,8 +294,8 @@
         <category>行情</category>
       </categories>
       <tags>
-        <tag>以太坊</tag>
         <tag>比特币</tag>
+        <tag>以太坊</tag>
         <tag>ETH</tag>
         <tag>行情中心</tag>
         <tag>BTC</tag>
@@ -445,8 +580,8 @@
       </categories>
       <tags>
         <tag>区块链</tag>
-        <tag>以太坊</tag>
         <tag>比特币</tag>
+        <tag>以太坊</tag>
         <tag>区块链看点</tag>
         <tag>彭博社</tag>
         <tag>XRP</tag>
@@ -608,9 +743,9 @@
 ]]></content>
       <categories>
         <category>区块链</category>
+        <category>WIKI</category>
         <category>数字货币</category>
         <category>比特币</category>
-        <category>WIKI</category>
         <category>区块链技术</category>
       </categories>
       <tags>
@@ -685,11 +820,58 @@
       </categories>
       <tags>
         <tag>区块链</tag>
-        <tag>以太坊</tag>
         <tag>比特币</tag>
+        <tag>以太坊</tag>
         <tag>区块链看点</tag>
         <tag>ETH</tag>
         <tag>区块链市场</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Exploring Bitcoin and blockchain technology(探秘比特币与区块链技术)（视频）</title>
+    <url>/2020/06/videos/blockchain_DLT.html</url>
+    <content><![CDATA[<p>有人认为这不过是炒作；其他人则将此视作一种革命性技术，可以彻底改变我们交易几乎一切有价值之物的方式。 那么这种所谓分布式账本技术(DLT)到底是什么？它怎样运作？谁能从中受益？在这个的视频中，我们将为您区分事实与虚构，帮您看清炒作的烟幕。 …</p>
+<div id="dplayer0" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer0"),"autoplay":true,"hotkey":true,"preload":"metadata","video":{"url":"https://chengwf.com/473ac"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script> 
+
+
+
+<p>Some people think this is just hype; others see it as a revolutionary technology that can completely change the way we trade almost everything of value. So what is this so-called distributed ledger technology (DLT)? How does it work? Who can benefit from it? In this video, we will distinguish between fact and fiction, and help you see the smoke screen of hype. … </p>
+<div class="video-container"><iframe src="https://www.youtube.com/embed/UpCUcIlBoK8" frameborder="0" loading="lazy" allowfullscreen></iframe></div>
+
+
+
+
+
+<h1 id="Distributed-Ledger-Technology-DLT"><a href="#Distributed-Ledger-Technology-DLT" class="headerlink" title="Distributed Ledger Technology (DLT)"></a>Distributed Ledger Technology (DLT)</h1><p>DLT 有一個更耳熟能詳的名字，叫做區塊鏈。簡單來說，根據 Wikipedia 上的定義 [1]，區塊鏈（Blockchain）就是一種 Distributed Ledger 的資料結構（Data Structure）：</p>
+<blockquote>
+<p>a Blockchain is only one type of data structure considered to be a distributed ledger.</p>
+</blockquote>
+<p>也就是說，DLT 可以延用 Blockchain 資料結構設計，也可以根據應用的不同，設計全新的資料結構；無論是採用 Blockchain 資料結構，或是設計新的資料結構，目標都是提供一個分散式資料儲存系統（distributed data storage）。一個 DLT Platform 除了要具備一個安全可信任的 distributed data storage，還具備以下 2 個元素：</p>
+<ul>
+<li>A peer-to-peer network</li>
+<li>Consensus algorithms</li>
+</ul>
+<p>在 distributed data storage 網路上的電腦裝置，稱之為節點。由於 distributed data storage 需要考慮備援與錯誤修正的問題，因此會將一筆資料同步備援在多個節點上，這樣的技術就稱為 replication。當某一個節點上的該筆資料毀損時，扮演該筆資料備援角色的節點，就能協助該節點，回覆毀損的資料，這樣的技術就稱為 redundancy。</p>
+<p>技術上，DLT 就是一個為 distributed data storage 提供 replication/redundancy 功能的通訊協定（Protocol）。這樣的 replication/redundancy 機制，就稱為 fault tolerance（容錯機制）。</p>
+<h2 id="Transactions"><a href="#Transactions" class="headerlink" title="Transactions"></a>Transactions</h2><p>DLT 與傳統資料庫系統，除了上述的差別外，另一個重要的區別是：交易。DLT 儲存的是交易（Transaction）；而傳統資料庫儲存，則是儲存「資料」（Data）。</p>
+<p>交易與資料的一個區別是，交易需要被「驗證」（validation）；而資料卻是可以直接地，儲存進資料庫裡即可。交易會包含所要儲存的資料，因此，可以說交易是資料的「封裝」。</p>
+<p>在軟體設計的領域裡，封裝有「打包」的意思；也就是說，這像是在寄掛號信，我先將文件（資料）放進信封打包好，再將郵件「提交」到郵局，最後由收件人簽收無誤後取出文件，再將文件歸檔（儲存）。</p>
+<p>在一個 DLT Platoform 裡，交易的驗證過程，需要決定該筆交易的接受者與簽收方式，這就開始涉及 Broadcast 與 Consensus 技術了。最終，這筆交易會被節點儲存，而儲存交易的地方就稱為 Block（區塊）；這些區塊將不只一個，而是一個 chain of blocks 的結構，這些串接在一起的 blocks 就稱為 blockchain。</p>
+<h2 id="Byzantine-Fault-Tolerance（拜占庭容錯算法）"><a href="#Byzantine-Fault-Tolerance（拜占庭容錯算法）" class="headerlink" title="Byzantine Fault Tolerance（拜占庭容錯算法）"></a>Byzantine Fault Tolerance（拜占庭容錯算法）</h2><p>DLT 是一個比 Blockchain 更整體的研究主題，例如知名的 Hyperledger 就是一個 DLT 平台。Fault tolerance 與 transactions 則是 DLT 的核心骨幹。像是 PBFT（Practical Byzantine Fault Tolerance ）就是一個知名的 fault tolerance 演算法，並且被 Hyperledger Fabric v0.6 所採用。</p>
+<p>SBFT（Simplified Byzantine Fault Tolerance）也是一種 fault toerance 演算法，由 Hyperledger Fabric v1.0 實作；SBFT 演算法延續自 PBFT，目標是擴充 PBFT 以支援更大規模（large scale）的 p2p 網路。</p>
+<p>拜占庭容錯算法，目前經常被稱為共識算法（consensus algorithms）；雖然二者是不同的技術，不過現在似乎也不會這麼嚴謹地區分了。</p>
+<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><p>[1] <a href="https://en.wikipedia.org/wiki/Distributed_ledger" target="_blank" rel="noopener">https://en.wikipedia.org/wiki/Distributed_ledger</a></p>
+]]></content>
+      <categories>
+        <category>区块链</category>
+      </categories>
+      <tags>
+        <tag>区块链</tag>
+        <tag>比特币</tag>
+        <tag>区块链技术</tag>
+        <tag>区块链视频</tag>
+        <tag>DLT</tag>
+        <tag>blockchain_video</tag>
       </tags>
   </entry>
   <entry>
@@ -743,53 +925,6 @@
         <tag>blockchain_Industrial_innovation</tag>
         <tag>区块链产业创新</tag>
         <tag>区块链与汽车产业</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Exploring Bitcoin and blockchain technology(探秘比特币与区块链技术)（视频）</title>
-    <url>/2020/06/videos/blockchain_DLT.html</url>
-    <content><![CDATA[<p>有人认为这不过是炒作；其他人则将此视作一种革命性技术，可以彻底改变我们交易几乎一切有价值之物的方式。 那么这种所谓分布式账本技术(DLT)到底是什么？它怎样运作？谁能从中受益？在这个的视频中，我们将为您区分事实与虚构，帮您看清炒作的烟幕。 …</p>
-<div id="dplayer0" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer0"),"autoplay":true,"hotkey":true,"preload":"metadata","video":{"url":"https://chengwf.com/473ac"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script> 
-
-
-
-<p>Some people think this is just hype; others see it as a revolutionary technology that can completely change the way we trade almost everything of value. So what is this so-called distributed ledger technology (DLT)? How does it work? Who can benefit from it? In this video, we will distinguish between fact and fiction, and help you see the smoke screen of hype. … </p>
-<div class="video-container"><iframe src="https://www.youtube.com/embed/UpCUcIlBoK8" frameborder="0" loading="lazy" allowfullscreen></iframe></div>
-
-
-
-
-
-<h1 id="Distributed-Ledger-Technology-DLT"><a href="#Distributed-Ledger-Technology-DLT" class="headerlink" title="Distributed Ledger Technology (DLT)"></a>Distributed Ledger Technology (DLT)</h1><p>DLT 有一個更耳熟能詳的名字，叫做區塊鏈。簡單來說，根據 Wikipedia 上的定義 [1]，區塊鏈（Blockchain）就是一種 Distributed Ledger 的資料結構（Data Structure）：</p>
-<blockquote>
-<p>a Blockchain is only one type of data structure considered to be a distributed ledger.</p>
-</blockquote>
-<p>也就是說，DLT 可以延用 Blockchain 資料結構設計，也可以根據應用的不同，設計全新的資料結構；無論是採用 Blockchain 資料結構，或是設計新的資料結構，目標都是提供一個分散式資料儲存系統（distributed data storage）。一個 DLT Platform 除了要具備一個安全可信任的 distributed data storage，還具備以下 2 個元素：</p>
-<ul>
-<li>A peer-to-peer network</li>
-<li>Consensus algorithms</li>
-</ul>
-<p>在 distributed data storage 網路上的電腦裝置，稱之為節點。由於 distributed data storage 需要考慮備援與錯誤修正的問題，因此會將一筆資料同步備援在多個節點上，這樣的技術就稱為 replication。當某一個節點上的該筆資料毀損時，扮演該筆資料備援角色的節點，就能協助該節點，回覆毀損的資料，這樣的技術就稱為 redundancy。</p>
-<p>技術上，DLT 就是一個為 distributed data storage 提供 replication/redundancy 功能的通訊協定（Protocol）。這樣的 replication/redundancy 機制，就稱為 fault tolerance（容錯機制）。</p>
-<h2 id="Transactions"><a href="#Transactions" class="headerlink" title="Transactions"></a>Transactions</h2><p>DLT 與傳統資料庫系統，除了上述的差別外，另一個重要的區別是：交易。DLT 儲存的是交易（Transaction）；而傳統資料庫儲存，則是儲存「資料」（Data）。</p>
-<p>交易與資料的一個區別是，交易需要被「驗證」（validation）；而資料卻是可以直接地，儲存進資料庫裡即可。交易會包含所要儲存的資料，因此，可以說交易是資料的「封裝」。</p>
-<p>在軟體設計的領域裡，封裝有「打包」的意思；也就是說，這像是在寄掛號信，我先將文件（資料）放進信封打包好，再將郵件「提交」到郵局，最後由收件人簽收無誤後取出文件，再將文件歸檔（儲存）。</p>
-<p>在一個 DLT Platoform 裡，交易的驗證過程，需要決定該筆交易的接受者與簽收方式，這就開始涉及 Broadcast 與 Consensus 技術了。最終，這筆交易會被節點儲存，而儲存交易的地方就稱為 Block（區塊）；這些區塊將不只一個，而是一個 chain of blocks 的結構，這些串接在一起的 blocks 就稱為 blockchain。</p>
-<h2 id="Byzantine-Fault-Tolerance（拜占庭容錯算法）"><a href="#Byzantine-Fault-Tolerance（拜占庭容錯算法）" class="headerlink" title="Byzantine Fault Tolerance（拜占庭容錯算法）"></a>Byzantine Fault Tolerance（拜占庭容錯算法）</h2><p>DLT 是一個比 Blockchain 更整體的研究主題，例如知名的 Hyperledger 就是一個 DLT 平台。Fault tolerance 與 transactions 則是 DLT 的核心骨幹。像是 PBFT（Practical Byzantine Fault Tolerance ）就是一個知名的 fault tolerance 演算法，並且被 Hyperledger Fabric v0.6 所採用。</p>
-<p>SBFT（Simplified Byzantine Fault Tolerance）也是一種 fault toerance 演算法，由 Hyperledger Fabric v1.0 實作；SBFT 演算法延續自 PBFT，目標是擴充 PBFT 以支援更大規模（large scale）的 p2p 網路。</p>
-<p>拜占庭容錯算法，目前經常被稱為共識算法（consensus algorithms）；雖然二者是不同的技術，不過現在似乎也不會這麼嚴謹地區分了。</p>
-<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><p>[1] <a href="https://en.wikipedia.org/wiki/Distributed_ledger" target="_blank" rel="noopener">https://en.wikipedia.org/wiki/Distributed_ledger</a></p>
-]]></content>
-      <categories>
-        <category>区块链</category>
-      </categories>
-      <tags>
-        <tag>区块链</tag>
-        <tag>比特币</tag>
-        <tag>区块链技术</tag>
-        <tag>区块链视频</tag>
-        <tag>DLT</tag>
-        <tag>blockchain_video</tag>
       </tags>
   </entry>
   <entry>
@@ -1254,7 +1389,7 @@
 <p>Facebook于上週公佈密码货币Libra细节，这款以建立一套去中心化、低门槛无国界支付为宗旨的创新金融服务，能否得到主流市场的认可，是其实现伟大金融愿景的关键。</p>
 </blockquote>
 <p>Facebook CEO的Mark Zuckerberg公布了筹备已久的区块链金融产品：密码货币Libra和Calibra数位钱包（Digital Wallet），一脚踏入区块链与金融科技的领域。</p>
-<div id="dplayer2" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer2"),"autoplay":true,"hotkey":true,"preload":"metadata","video":{"url":"https://chengwf.com/5dg"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script> 
+<div id="dplayer3" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer3"),"autoplay":true,"hotkey":true,"preload":"metadata","video":{"url":"https://chengwf.com/5dg"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script> 
 
 <h1 id="Libra是什么？"><a href="#Libra是什么？" class="headerlink" title="Libra是什么？"></a>Libra是什么？</h1><p><strong>Libra的使命是建立一套简单的、无国界的货币，和为数十亿人服务的金融基础设施。</strong></p>
 <p>Libra白皮书开宗明义的目的和理想，就是运用区块链技术来打造无国界、去中心化、低波动的加密虚拟货币（Cryptocurrency），来降低全球货币兑换转帐、支付交易的门槛，实现普惠的互联网金融创新。</p>
@@ -1447,7 +1582,7 @@
     <url>/2020/05/videos/blockchain_education.html</url>
     <content><![CDATA[<p>Some people think this is just hype; others see it as a revolutionary technology that can completely change the way we trade almost everything of value. So what is this so-called distributed ledger technology (DLT)? How does it work? Who can benefit from it? In this video, we will distinguish between fact and fiction, and help you see the smoke screen of hype. … </p>
 <p>有人认为这不过是炒作；其他人则将此视作一种革命性技术，可以彻底改变我们交易几乎一切有价值之物的方式。 那么这种所谓分布式账本技术(DLT)到底是什么？它怎样运作？谁能从中受益？在这个的视频中，我们将为您区分事实与虚构，帮您看清炒作的烟幕。 …</p>
-<div id="dplayer3" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer3"),"autoplay":true,"hotkey":true,"preload":"metadata","video":{"url":"https://chengwf.com/sch"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script> 
+<div id="dplayer2" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer2"),"autoplay":true,"hotkey":true,"preload":"metadata","video":{"url":"https://chengwf.com/sch"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script> 
 
 
 
@@ -1727,8 +1862,8 @@
       <tags>
         <tag>区块链</tag>
         <tag>央行数字货币</tag>
-        <tag>以太坊</tag>
         <tag>区块链周报</tag>
+        <tag>以太坊</tag>
       </tags>
   </entry>
   <entry>
@@ -1797,8 +1932,8 @@
       <tags>
         <tag>区块链</tag>
         <tag>央行数字货币</tag>
-        <tag>区块链周报</tag>
         <tag>DCEP</tag>
+        <tag>区块链周报</tag>
       </tags>
   </entry>
   <entry>
@@ -2161,8 +2296,8 @@
 ]]></content>
       <categories>
         <category>区块链</category>
-        <category>数字货币</category>
         <category>WIKI</category>
+        <category>数字货币</category>
         <category>DCEP</category>
         <category>DCEP</category>
       </categories>
@@ -2235,8 +2370,8 @@
         <category>区块链</category>
         <category>数字货币</category>
         <category>加密货币交易平台</category>
-        <category>矿池</category>
         <category>数字货币</category>
+        <category>矿池</category>
       </categories>
       <tags>
         <tag>区块链</tag>
@@ -2475,9 +2610,9 @@
       <tags>
         <tag>区块链看点</tag>
         <tag>区块链技术</tag>
-        <tag>数据</tag>
         <tag>人工智能（AI）</tag>
         <tag>AI芯片</tag>
+        <tag>数据</tag>
       </tags>
   </entry>
   <entry>
@@ -2936,9 +3071,9 @@
 ]]></content>
       <categories>
         <category>区块链</category>
+        <category>WIKI</category>
         <category>数字货币</category>
         <category>比特币</category>
-        <category>WIKI</category>
         <category>区块链技术</category>
       </categories>
       <tags>
@@ -3064,11 +3199,11 @@
       <categories>
         <category>区块链</category>
         <category>数字经济</category>
-        <category>国家主权货币</category>
         <category>区块链金融</category>
+        <category>国家主权货币</category>
+        <category>DCEP</category>
         <category>DCEP</category>
         <category>数字银行</category>
-        <category>DCEP</category>
         <category>数字银行</category>
       </categories>
       <tags>
@@ -3206,8 +3341,8 @@
 ]]></content>
       <categories>
         <category>区块链</category>
-        <category>新冠状病毒</category>
         <category>数字货币</category>
+        <category>新冠状病毒</category>
         <category>数字经济</category>
         <category>比特币</category>
         <category>数字货币</category>
@@ -3367,8 +3502,8 @@ AI的关键重要性
         <category>DCEP</category>
         <category>区块链技术</category>
         <category>新兴资产</category>
-        <category>加密资产</category>
         <category>数字资产</category>
+        <category>加密资产</category>
       </categories>
       <tags>
         <tag>DCEP</tag>
@@ -3757,8 +3892,8 @@ AI的关键重要性
 ]]></content>
       <categories>
         <category>数字经济</category>
-        <category>数字经济</category>
         <category>哈佛商业评论</category>
+        <category>数字经济</category>
         <category>数字化管理</category>
       </categories>
       <tags>

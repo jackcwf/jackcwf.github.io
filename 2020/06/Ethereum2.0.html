@@ -1,0 +1,1548 @@
+<!DOCTYPE html>
+
+
+
+  
+
+
+<html class="theme-next pisces use-motion" lang="zh-Hans">
+<head>
+  <meta charset="UTF-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+<meta name="theme-color" content="#222">
+
+
+
+
+
+
+
+
+
+<meta http-equiv="Cache-Control" content="no-transform" />
+<meta http-equiv="Cache-Control" content="no-siteapp" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  <link href="/lib/fancybox/source/jquery.fancybox.css?v=2.1.5" rel="stylesheet" type="text/css" />
+
+
+
+
+
+
+
+<link href="/lib/font-awesome/css/font-awesome.min.css?v=4.6.2" rel="stylesheet" type="text/css" />
+
+<link href="/css/main.css?v=5.1.4" rel="stylesheet" type="text/css" />
+
+
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon-next.png?v=5.1.4">
+
+
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32-next.png?v=5.1.4">
+
+
+  <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16-next.png?v=5.1.4">
+
+
+  <link rel="mask-icon" href="/images/logo.svg?v=5.1.4" color="#222">
+
+
+
+
+
+  <meta name="keywords" content="区块链,以太坊,以太坊2.0,区块链看点,ETH,Ethereum,V神,Vitalik," />
+
+
+
+
+  
+
+
+  <link rel="alternate" href="/atom.xml" title="区块新看点" type="application/atom+xml" />
+
+
+
+
+
+
+<meta name="description" content="以太坊2.0就是新一代以太坊，我们甚至不该称之为以太坊。以太坊2.0是一个完全不同的项目，在区块链的架构上采用了全新的思路。">
+<meta property="og:type" content="article">
+<meta property="og:title" content="白话解读即将到来Ethereum 2.0，以太坊区块链的革命性升级">
+<meta property="og:url" content="https://www.chengwf.com/2020/06/Ethereum2.0.html">
+<meta property="og:site_name" content="区块新看点">
+<meta property="og:description" content="以太坊2.0就是新一代以太坊，我们甚至不该称之为以太坊。以太坊2.0是一个完全不同的项目，在区块链的架构上采用了全新的思路。">
+<meta property="og:image" content="https://chengwf.com/54f9e">
+<meta property="og:image" content="https://chengwf.com/35841">
+<meta property="og:image" content="https://chengwf.com/f2182">
+<meta property="og:image" content="https://s1.ax1x.com/2020/06/15/NCobWj.jpg">
+<meta property="article:published_time" content="2020-06-14T16:00:00.000Z">
+<meta property="article:modified_time" content="2020-06-15T14:44:21.249Z">
+<meta property="article:author" content="Block.Chan(程伟)">
+<meta property="article:tag" content="区块链">
+<meta property="article:tag" content="以太坊">
+<meta property="article:tag" content="以太坊2.0">
+<meta property="article:tag" content="区块链看点">
+<meta property="article:tag" content="ETH">
+<meta property="article:tag" content="Ethereum">
+<meta property="article:tag" content="V神">
+<meta property="article:tag" content="Vitalik">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="https://chengwf.com/54f9e">
+
+
+
+<script type="text/javascript" id="hexo.configurations">
+  var NexT = window.NexT || {};
+  var CONFIG = {
+    root: '/',
+    scheme: 'Pisces',
+    version: '5.1.4',
+    sidebar: {"position":"left","display":"post","offset":12,"b2t":false,"scrollpercent":false,"onmobile":false},
+    fancybox: true,
+    tabs: true,
+    motion: {"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}},
+    duoshuo: {
+      userId: '0',
+      author: '博主'
+    },
+    algolia: {
+      applicationID: '',
+      apiKey: '',
+      indexName: '',
+      hits: {"per_page":10},
+      labels: {"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}
+    }
+  };
+</script>
+
+
+
+  <link rel="canonical" href="https://www.chengwf.com/2020/06/Ethereum2.0.html"/>
+
+
+
+
+
+  <title>白话解读即将到来Ethereum 2.0，以太坊区块链的革命性升级 | 区块新看点</title>
+  
+
+
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+          m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-161769700-1', 'auto');
+  ga('send', 'pageview');
+</script>
+
+
+  <script type="text/javascript">
+    var _hmt = _hmt || [];
+    (function() {
+      var hm = document.createElement("script");
+      hm.src = "https://hm.baidu.com/hm.js?16b17e705b07f8c375f222faa41a469c";
+      var s = document.getElementsByTagName("script")[0];
+      s.parentNode.insertBefore(hm, s);
+    })();
+  </script>
+
+
+
+
+<meta name="generator" content="Hexo 4.2.0"></head>
+
+<body itemscope itemtype="http://schema.org/WebPage" lang="zh-Hans">
+
+  
+  
+    
+  
+
+  <div class="container sidebar-position-left page-post-detail">
+    <div class="headband"></div>
+
+    <header id="header" class="header" itemscope itemtype="http://schema.org/WPHeader">
+      <div class="header-inner"><div class="site-brand-wrapper">
+  <div class="site-meta ">
+    
+
+    <div class="custom-logo-site-title">
+      <a href="/"  class="brand" rel="start">
+        <span class="logo-line-before"><i></i></span>
+        <span class="site-title">区块新看点</span>
+        <span class="logo-line-after"><i></i></span>
+      </a>
+    </div>
+      
+        <h1 class="site-subtitle" itemprop="description">区块链衍生科技领域的资深分析博客</h1>
+      
+  </div>
+
+  <div class="site-nav-toggle">
+    <button>
+      <span class="btn-bar"></span>
+      <span class="btn-bar"></span>
+      <span class="btn-bar"></span>
+    </button>
+  </div>
+</div>
+
+<nav class="site-nav">
+  
+
+  
+    <ul id="menu" class="menu">
+      
+        
+        <li class="menu-item menu-item-home">
+          <a href="/" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-home"></i> <br />
+            
+            首页
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-区块链看点">
+          <a href="/tags/%E5%8C%BA%E5%9D%97%E9%93%BE%E7%9C%8B%E7%82%B9" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-bitcoin"></i> <br />
+            
+            区块链看点
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-加密市场行情">
+          <a href="https://chengwf.com/srv" target="_blank" rel="section noopener">
+            
+              <i class="menu-item-icon fa fa-fw fa-delicious"></i> <br />
+            
+            加密市场行情
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-区块链周报">
+          <a href="/tags/%E5%8C%BA%E5%9D%97%E9%93%BE%E5%91%A8%E6%8A%A5/" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-globe"></i> <br />
+            
+            区块链周报
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-数字经济">
+          <a href="/categories/%E6%95%B0%E5%AD%97%E7%BB%8F%E6%B5%8E" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-balance-scale"></i> <br />
+            
+            数字经济
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-区块链产业创新">
+          <a href="/tags/blockchain-Industrial-innovation/" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-anchor"></i> <br />
+            
+            区块链产业创新
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-区块链wiki">
+          <a href="/categories/WIKI/" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-cubes"></i> <br />
+            
+            区块链WIKI
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-视频专区">
+          <a href="/tags/blockchain-video/" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-adn"></i> <br />
+            
+            视频专区
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-tags">
+          <a href="/tags/" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-tags"></i> <br />
+            
+            标签
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-categories">
+          <a href="/categories/" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-sitemap"></i> <br />
+            
+            分类
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-archives">
+          <a href="/archives/" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-folder-open"></i> <br />
+            
+            归档
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-关于本站">
+          <a href="/about/index.html" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-address-card"></i> <br />
+            
+            关于本站
+          </a>
+        </li>
+      
+
+      
+        <li class="menu-item menu-item-search">
+          
+            <a href="javascript:;" class="popup-trigger">
+          
+            
+              <i class="menu-item-icon fa fa-search fa-fw"></i> <br />
+            
+            搜索
+          </a>
+        </li>
+      
+    </ul>
+  
+
+  
+    <div class="site-search">
+      
+  <div class="popup search-popup local-search-popup">
+  <div class="local-search-header clearfix">
+    <span class="search-icon">
+      <i class="fa fa-search"></i>
+    </span>
+    <span class="popup-btn-close">
+      <i class="fa fa-times-circle"></i>
+    </span>
+    <div class="local-search-input-wrapper">
+      <input autocomplete="off"
+             placeholder="搜索..." spellcheck="false"
+             type="text" id="local-search-input">
+    </div>
+  </div>
+  <div id="local-search-result"></div>
+</div>
+
+
+
+    </div>
+  
+</nav>
+
+
+
+ </div>
+    </header>
+
+    <main id="main" class="main">
+      <div class="main-inner">
+        <div class="content-wrap">
+          <div id="content" class="content">
+            
+
+  <div id="posts" class="posts-expand">
+    
+
+  
+
+  
+  
+  
+
+  <article class="post post-type-normal" itemscope itemtype="http://schema.org/Article">
+  
+  
+  
+  <div class="post-block">
+    <link itemprop="mainEntityOfPage" href="https://www.chengwf.com/2020/06/Ethereum2.0.html">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="name" content="Block.Chan(程伟)">
+      <meta itemprop="description" content="">
+      <meta itemprop="image" content="/images/avatar.gif">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="区块新看点">
+    </span>
+
+    
+      <header class="post-header">
+
+        
+        
+          <h2 class="post-title" itemprop="name headline">白话解读即将到来Ethereum 2.0，以太坊区块链的革命性升级</h2>
+        
+
+        <div class="post-meta">
+          <span class="post-time">
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-calendar-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">发表于</span>
+              
+              <time title="创建于" itemprop="dateCreated datePublished" datetime="2020-06-15T00:00:00+08:00">
+                2020-06-15
+              </time>
+            
+
+            
+
+            
+          </span>
+
+          
+            <span class="post-category" >
+            
+              <span class="post-meta-divider">|</span>
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-folder-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">分类于</span>
+              
+              
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/" itemprop="url" rel="index">
+                    <span itemprop="name">区块链</span>
+                  </a>
+                </span>
+
+                
+                
+                  ， 
+                
+              
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/WIKI/" itemprop="url" rel="index">
+                    <span itemprop="name">WIKI</span>
+                  </a>
+                </span>
+
+                
+                
+                  ， 
+                
+              
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/" itemprop="url" rel="index">
+                    <span itemprop="name">数字货币</span>
+                  </a>
+                </span>
+
+                
+                
+                  ， 
+                
+              
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/%E4%BB%A5%E5%A4%AA%E5%9D%8A/" itemprop="url" rel="index">
+                    <span itemprop="name">以太坊</span>
+                  </a>
+                </span>
+
+                
+                
+              
+            </span>
+          
+
+          
+            
+          
+
+          
+          
+
+          
+
+          
+
+          
+              <div class="post-description">
+                  以太坊2.0就是新一代以太坊，我们甚至不该称之为以太坊。以太坊2.0是一个完全不同的项目，在区块链的架构上采用了全新的思路。
+              </div>
+          
+
+        </div>
+      </header>
+    
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+      
+
+      
+        <blockquote>
+<p>有没有可能创建一条区块链，让每个节点都只需处理部分，而无需处理全部交易呢？这样一来，每个节点都只需处理网路中很少一部分交易，从而降低通信成本——那就是以太坊2.0 。以太坊即将迎来一场非常重要的大型升级，如果成功实现的话，将为这个世界创造巨大价值。本文源自于Grant Hummer的《ETH2 for Dummies》，由区块新看点专栏作者、以太坊爱好者（程伟）作编译、撰写及整理。</p>
+</blockquote>
+<p>现在以太坊1.0 处理速度很慢；整个网路每秒仅能处理15 笔交易，而且，通过这些交易进行任何复杂的操作都会带来极其高昂的成本。<a id="more"></a></p>
+<p>相比之下，Visa （总部位于美国的支付服务提供商）每秒能处理上千笔交易。</p>
+<p><img src="https://chengwf.com/54f9e" alt="NPmnMj.jpg"></p>
+<h3 id="一、ETH1-0-的不足"><a href="#一、ETH1-0-的不足" class="headerlink" title="一、ETH1.0 的不足"></a><strong>一、ETH1.0 的不足</strong></h3><p><br/>以太坊的效率为何如此低下？使用成本为何如此高昂呢？</p>
+<p>一言以蔽之，去中心化在创造巨大价值的同时也会带来极高的成本（至少现在是如此）。实现去中心化的成本之所以如此之高，是因为与如今大多数区块链一样，以太坊上的每个节点（即，连接至以太坊网路的计算机，例如，运行以太坊软件的笔记本电脑）都必须各自执行记载到区块中的每一个计算，以确保所有参与者都遵守规则。这个过程要耗费能源和运算资源。</p>
+<p>此外还有时间上的耗费。以太坊节点遍布世界各地—— 毕竟这是一个给参与者提供激励的公开网路—— 不同节点之间存在较高的网路通信延迟，计算能力也各不同。以太坊网路必须能够容忍比较长的网路延迟（即出块时间不能缩得太短），以便网速较慢的节点能够与网路保持同步，并参与去中心化投票机制。</p>
+<p>就当前架构下的以太坊网路而言，如果要其在很短时间内处理过多数据，笔记本电脑和个人服务器等消费级硬体就无法与网路保持同步，只有大型数据中心才能在这个网路中充当节点之用。这就会极大地降低以太坊的去中心化程度，因为数据中心节点很容易就能形成垄断，进而控制整个网路，或是对网路进行审查。实际上，一些区块链网路（如EOS）现在就面临着这样的问题。</p>
+<p>对于公有链来说，维持足够的去中心化水平是非常重要的。如果没有去中心化，那么使用区块链就没多大意义，因为中心化的区块链很容易就能审查人们的交易，而且相比一般的分布式数据库来说，使用效率还要低得多。如果你对区块链了解不深的话，不妨跟我一起回忆一下，在中本聪通过比特币开创新型去中心化治理模式之前，任何一个系统都不可能实现免信任型治理——其中，所有参与者都有权控制决策，但是没有人掌握全部（或多数）控制权。Vitalik （以太坊的创建者）在回应关于去中心化和性能之间的权衡问题时，打了一个非常有名的比喻：</p>
+<blockquote>
+<p>“<strong>任何人都可以创建出一个类似于「垃圾集中处理场」的高TPS 系统</strong>。”</p>
+</blockquote>
+<p>有没有可能创建一条区块链，让每个节点都只需处理部分，而无需处理全部交易呢？这样一来，每个节点都只需处理网路中很少一部分交易，从而降低通信成本。那就是以太坊2.0 。</p>
+<h3 id="二、ETH2-0-简介"><a href="#二、ETH2-0-简介" class="headerlink" title="二、ETH2.0 简介"></a><strong>二、ETH2.0 简介</strong></h3><p><br/>以太坊2.0就是新一代以太坊，我们甚至不该称之为以太坊。以太坊2.0是一个完全不同的项目，在区块链的架构上采用了全新的思路。以太坊2.0的目标是提高以太坊的可扩展性、安全性和可编程性。不同于以太坊1.0只能达到15 TPS的吞吐量，<strong>以太坊2.0每秒可处理上千至上万笔交易（甚至更多）</strong>，同时不用降低其去中心化程度。实际上，以太坊2.0想引入一种经济安全性更强的共识机制，叫作<strong>权益证明（PoS</strong>），而不是沿用比特币和以太坊1.0所用的工作量证明（PoW）。</p>
+<p>在传统的PoW区块链（如比特币）中，一些个人和机构会充当矿工的角色，利用价格高昂的硬体来解决数学难题，从而铸造新的比特币，并处理交易。矿工通过维护网路安全性来获得增发的比特币和交易费。相比之下，在（以太坊2.0等）PoS区块链中：</p>
+<p><strong><em>验证者通过锁定以太币来为网路提供安全性，从而铸造新的以太币，并处理交易*</em></strong>。*</p>
+<p>那么实际上，验证者提供的安全性取决于网路本身的价值。如果有验证者作恶（例如，投票通过恶意交易），其锁定的以太币就会被罚没。罚没机制会激励验证者遵守协议规则。</p>
+<p>PoS之所以具有较高的安全性，一个很大的原因是PoW系统容易遭受<strong>「蹲点（spawn camping）」攻击</strong>。如果作恶者所掌握的挖矿硬体足以攻击比特币等PoW区块链，比特币便无力阻止后续攻击，因为网路会不断发生重组/分叉，然后又会被同一帮挖矿硬体攻击，如此无休止地循环下去。相比之下，以太坊2.0抵御蹲点攻击的能力要强得多——以太坊2.0可以分叉并罚没攻击者的押金。这就好比摧毁了攻击者的比特币矿场。</p>
+<p>此外，以太坊2.0 能让开发者创建自己的交易处理方法，即，执行环境，以便其在以太坊网路内使用其它区块链的规则。用极度简化的说法来说明「执行环境」就是：</p>
+<p><strong><em>以太坊2.0可以让人们使用比特币、ZCash、以太坊1.0 的交易规则，以及其它想得到的规则集合，其规模比目前以太坊1.0所能达到的规模高出了几个数量级，均由同一组缴纳了押金的验证者保护其安全性。\</em></strong></p>
+<p>以太坊2.0通过分片实现了这一点：在以太坊2.0中，每一条分片链都有各自专属的出块者和验证者，而且这些分片链彼此之间联系紧密，可以互相通信，因此形成了一个大型分片链网路。因此，以太坊2.0的验证者无需处理整个网路内的所有交易，只需处理并验证某条分片链上的交易。通过这一创新技术，使用消费级硬体的人也能够参与以太坊2.0网路，为其做出贡献。</p>
+<p>要注意的是，在以太坊2.0 中，每条分片链都具备相同的安全性。要想破坏某条分片链的话，必须破坏整个系统。这一安全性模型相比Cosmos 等平台提供了更高的安全保障。在Cosmos 等平台的模型下，每条链都独善其身，导致整个网路分片化，且容易遭受攻击。因此，若想攻击以太坊2.0 ，攻击者必须购买并质押价值数十亿美元的以太币（如果以太币的价格上涨，质押金的美元价值也会随之上涨）。</p>
+<p>下图显示了传统区块链网路的形态—— 一条由数据区块组成的「链」。不了解什么是区块头（block header）和交易列表（transaction list）也没关系，下图仅作说明之用：</p>
+<p><img src="https://chengwf.com/35841" alt="NPmKLn.jpg"></p>
+<p>下图显示了以太坊2.0 的形态，区别在于不只有2 条分片链，而是有64 条分片链，均由信标链进行协调。再强调一遍，先不要考虑技术细节：</p>
+<p><img src="https://chengwf.com/f2182" alt="NPmuss.jpg"></p>
+<h3 id="三、ETH2-0-开发团队"><a href="#三、ETH2-0-开发团队" class="headerlink" title="三、ETH2.0 开发团队"></a><strong>三、ETH2.0 开发团队</strong></h3><p><br/>以太坊2.0 由9 个不同的工程团队构建。这些团队均由以太坊基金会拨款资助，且获得了以太坊社区的支持。这些团队正在开发户端 —— 客户端就类似于Chrom e和Firefox 浏览器，只不过不是用来访问网站的，而是用来访问并参与以太坊网路的。客户端多样性是以太坊的核心原则——如果有一个或两个客户端遭到破坏或是存在漏洞，整个网路不会因此而崩溃。每个客户端都各有针对性的用例，但是它们都能完全参与到该网路中。例如，一个客户端针对智能手机进行了优化，而另一个客户端是专为企业构建的。工程团队正在根据一个由高级研究人员（多数都是电机系博士及同等层次的人才）所创建的规范来开发客户端。</p>
+<p>此外，很多研究工作都是在一个叫作<strong>ethresear.ch</strong>的网站上以开源的方式进行的，全世界任何一个人都可以将自己的技术想法、建议或批评发布到这个网站上。经过数年的迭代之后，以太坊2.0的规范才达到了当前的状态——研究人员有好几次认为自己已经创建了一个合理的设计，但是之后会发现一些缺陷，必须要重新设计部分或整个系统才行。在整个区块链领域，以太坊2.0研究团队是经验最丰富且最有才华的协议设计团队，这并非夸大其词。</p>
+<p>下面是参与开发以太坊2.0 的团队名单（排名不分先后）：</p>
+<h4 id="ChainSafe-Systems"><a href="#ChainSafe-Systems" class="headerlink" title="ChainSafe Systems"></a>ChainSafe Systems</h4><ul>
+<li>是一家位于安大略省多伦多的公司，员工人数达30 人以上，其中有5 位开发者从事以太坊2.0 客户端的开发工作。</li>
+<li>开发人员在多伦多举办的以太坊开发者聚会上面基</li>
+<li>用JavaScript 语言开发着一个名为Lodestar 的客户端</li>
+</ul>
+<h4 id="PegaSys"><a href="#PegaSys" class="headerlink" title="PegaSys"></a>PegaSys</h4><ul>
+<li>以太坊生态系统中最大的公司ConsenSys 旗下的一个50 人团队，其成员分布于世界各地</li>
+<li>搭建了一个名为Pantheon 的企业友好型以太坊1.0 客户端</li>
+<li>有一个主攻以太坊2.0 规范的研究团队</li>
+<li>开发着一个名为Artemis 的Java 客户端，针对企业使用进行了优化</li>
+</ul>
+<h4 id="Harmony"><a href="#Harmony" class="headerlink" title="Harmony"></a>Harmony</h4><ul>
+<li>位于俄罗斯的4 人团队</li>
+<li>开发着一个Java 以太坊客户端</li>
+<li>尚无很多公开信息</li>
+<li>有可能与PegaSys/Artemis 进行整合</li>
+</ul>
+<h4 id="Parity-Technologies"><a href="#Parity-Technologies" class="headerlink" title="Parity Technologies"></a>Parity Technologies</h4><ul>
+<li>位于柏林的公司，有一个超过60 人的大型远端办公团队（并非所有人都在从事以太坊2.0 的相关工作）</li>
+<li>从以太坊基金会获得了500 万美元的资金，来开发名为Substrate Shasper 的以太坊2.0 客户端</li>
+<li>也在开发支持互操作性的区块链项目Polkadot 。该项目被认为是以太坊的劲敌。</li>
+<li>开发并维护着第二流行的以太坊1.0 客户端，同样叫作Parity 。</li>
+</ul>
+<h4 id="Prysmatic-Labs"><a href="#Prysmatic-Labs" class="headerlink" title="Prysmatic Labs"></a>Prysmatic Labs</h4><ul>
+<li>一个6 人团队，其成员分散于美国境内</li>
+<li>会在部落格上主动发布更新，可以通过其博客来了解并跟进以太坊2.0 的进展</li>
+<li>搭建了一个名为Prysm 的客户端，与以太坊1.0 的Geth 类似，都是为了满足主流应用的多样场景</li>
+</ul>
+<h4 id="Sigma-Prime"><a href="#Sigma-Prime" class="headerlink" title="Sigma Prime"></a>Sigma Prime</h4><ul>
+<li>位于澳大利亚雪梨的4 人团队</li>
+<li>聚集了拥有很强学术/软体开发背景的网路安全专家</li>
+<li>搭建了一个名为Lighthouse 的客户端，适应主要的使用场景</li>
+</ul>
+<h4 id="Status"><a href="#Status" class="headerlink" title="Status"></a>Status</h4><ul>
+<li>一个8 人团队，成员分散于欧洲各地</li>
+<li>致力于打造名为Nimbus 的轻客户端，即，可在智能手机等「轻」 环境下运行</li>
+</ul>
+<h4 id="Trinity"><a href="#Trinity" class="headerlink" title="Trinity"></a>Trinity</h4><ul>
+<li>与以太坊基金会签约的一个4 人团队</li>
+<li>搭建了一个轻客户端，充当更高级实现的原型</li>
+</ul>
+<h4 id="Nethermind"><a href="#Nethermind" class="headerlink" title="Nethermind"></a>Nethermind</h4><ul>
+<li>位于伦敦和波兰的7 人团队</li>
+<li>在.NET 上搭建了一个Windows 客户端</li>
+</ul>
+<h3 id="四、分阶段交付的ETH2-0"><a href="#四、分阶段交付的ETH2-0" class="headerlink" title="四、分阶段交付的ETH2.0"></a><strong>四、分阶段交付的ETH2.0</strong></h3><p><br/>以太坊2.0 的发布被分为多个阶段，但其中最重要的是前面三个阶段。这几个阶段错开推出以太坊2.0 的各种组件，一方面是因为需要很长时间才能开发完成，另一方面是因为采用循序渐进的方式会降低技术风险。对于这样一个价值数十亿美元的密码学货币网路来说，「快速行动、打破常规」 的理念并不适用。</p>
+<p>不同于可以快速修复问题的中心化科技公司，密码学货币网路如果存在严重的客户端漏洞，将造成遗患久远的巨大破坏，因为该网路的参与者都要手动更新到新的客户端版本。在最糟糕的情况下（例如，攻击者成功发动双花攻击），必须回滚多个交易，才能保障网路的安全性。这会造成极大的声誉影响，就像2016 年的The DAO 被黑事件那样，一部分以太坊开发者和用户分叉出了另一条名为Ethereum Classic 的链。</p>
+<p>Phase 0可能在2020年第二季度末或第三季度初交付。<strong>该阶段会引入信标链，将其作为整个以太坊2.0网路的「命令和控制」中心。</strong>信标链会将验证者组织到一起，并将他们分配到不同的分片链上处理交易；一段时间之后，所有验证者都会被重新「洗牌」并随机分配到另一条分片链上。</p>
+<p>「重新洗牌」是以太坊2.0安全性的关键部分，如果没有这一设定的话，就有可能会出现一小部分验证者受贿或干涉以太坊2.0运行的情况。信标链会验证各分片链所生成的区块的有效性，以便以太币、代币和数据在各分片链之间交换。用20世纪70年代加利福尼亚人的语气来说：信标链就是一条可以管理其他区块链的区块链。（译者注：这个“maaaaaan”应该就是拖长音的“man”，增强语气的意思，作者想搞一个小幽默吧。）</p>
+<p>如果说信标链是「命令和控制」中心，那么验证者就属于实操人员。验证者是PoS 网路上的参与者，负责处理该网路上的交易并对其进行排序，并将这些交易转发给其他参与者。验证者会因此获得交易费和增发代币（通膨）作为回报。验证者在密码学货币网路中发挥了最重要的作用，而以太坊2.0 正试图解决的一大核心挑战是，如何通过设计激励机制来让验证者遵守协议并作出有利于网路的行动。信标链还将负责「罚没」 作恶验证者的押金。</p>
+<p>以太坊2.0 的Phase 1 预计于2021 年交付，将推出分片链，但是无法处理或结构化分片链上的数据。数据会以原始形式存在于分片链上（即，「数据Blob」），主要是为了确保分片链彼此之间以及与信标链之间能够进行良好通信。分片链无法对数据进行任何计算。乍听起来，Phase 1 像是一个功能有限的优化测试网，但这一说法并不完全正确。新的DApp 和现有DApp 可以利用该数据存储来增强其可扩展性。例如，一个去中心化的Twitter DApp 可以将数据存储在分片链上，并将大量计算工作放到链下完成、利用以太坊1.0 来提供高水平的安全保障。在Phase 1 期间，以太坊1.0 依然会正常运行，以太坊1.0 与以太坊2.0 这两条链将并行。</p>
+<p>在2019 年12 月末，Vitalik 提议加快将以太坊1.0 转移到信标链的进程，以便以太坊实现PoS 的优点，并加快其与以太坊2.0 的整合进程。最开始的时候，以太坊1.0 将成为一条特殊的分片链（而非执行环境），但它最终将在Phase 2 转变成执行环境。目前尚未提议具体的时间线，但是这一过程似乎会在Phase 1 发生。</p>
+<p>Phase 2 预计于2021 或2022 年上线，将实现以太坊2.0 的真正愿景。届时，分片链就能处理交易，而以太坊2.0 网路上就能搭建真正的商业应用。在Phase 2，分片链上将引入智能合约，以及运行这些智能合约的执行环境。正如上文所述，执行环境能让开发者任意创建规则集，以此规定交易的处理方式。这就意味着，协议开发者将能创建出执行环境，来模拟比特币、Zcash、以太坊1.0 的规则，或是以几乎任何可以想像得到的方法来计算区块链交易。就像以太坊1.0 通过抽象化比特币的方式在区块链上实现智能合约那样，以太坊2.0 将通过抽像以太坊1.0 来重新定义区块链计算的本质。</p>
+<p>关于以太坊2.0 的一些组成部分，依然存在一些研究问题还未得到最终解决。例如，如何以去中心化的方式提供并存储数据（以免少部分数据提供商垄断整个网路），跨分片交易如何运作，以及执行环境治理等问题。然而，关于这些方面的研究依然在迅速推进中。</p>
+<p><strong>下面再重申一下以太坊2.0 的三个阶段</strong>：</p>
+<h4 id="Phase-1"><a href="#Phase-1" class="headerlink" title="Phase 1"></a>Phase 1</h4><ul>
+<li>估计于2020 年第二季度末/第三季度初交付</li>
+<li>发布信标链并在信标链上实行PoS 验证</li>
+<li>以太坊1.0 将继续正常运行</li>
+</ul>
+<h4 id="Phase-2"><a href="#Phase-2" class="headerlink" title="Phase 2"></a>Phase 2</h4><ul>
+<li>预计将于2021 年交付</li>
+<li>发布分片链并允许数据存储在这些分片链上，但是不在分片链上处理交易</li>
+<li>以太坊1.0 可能会继续正常运行，也可能会作为特殊的分片链整合进以太坊2.0</li>
+</ul>
+<h4 id="Phase-3"><a href="#Phase-3" class="headerlink" title="Phase 3"></a>Phase 3</h4><ul>
+<li>预计将于2021 年末/ 2022 年初交付</li>
+<li>允许在分片链上处理交易</li>
+<li>在一段时间之后，以太坊1.0 将作为执行环境过渡到以太坊2.0 上。</li>
+</ul>
+<p>以太坊将在Phase 2 之后继续发展，但是之后的发展蓝图尚不清晰……</p>
+<p>从我的角度来看，以太坊的未来一片光明。没有哪个智能合约区块链像以太坊这样拥有这么多研究人员、开发人员、用户和项目，现在正是加入以太坊的良机。以太坊即将迎来一场非常重要的大型升级，如果成功实现的话，将为这个世界创造巨大价值。</p>
+<p>特别感谢来自ConsenSys R&amp;D 的Robert Drost 、来自Prysmatic Labs 的Terence Tsao 、James Fickel 和Carrie Krabes 对本文的帮助。</p>
+<hr>
+<p><a href="https://www.zhihu.com/club/1255823155094331392" target="_blank" rel="noopener"><img src="https://s1.ax1x.com/2020/06/15/NCobWj.jpg" alt="NCobWj.jpg"></a></p>
+<blockquote>
+<p>欢迎进入讨论币圈最新动态：<a href="https://www.zhihu.com/club/1255823155094331392" target="_blank" rel="noopener">区块新看点-圈子（数字科技圈）</a></p>
+</blockquote>
+<blockquote>
+<p>订阅“区块新看点”微信公众号：BlockChan888，私信获取更多精彩课件</p>
+</blockquote>
+<iframe src="https://cn.widgets.investing.com/crypto-currency-rates?theme=darkTheme&pairs=997650,1010776" width="100%" height="100%" frameborder="0" allowtransparency="true" marginwidth="0" marginheight="0"></iframe><div class="poweredBy" style="font-family: Arial, Helvetica, sans-serif;">技术支持 <a href="https://cn.investing.com?utm_source=WMT&amp;utm_medium=referral&amp;utm_campaign=CRYPTO_CURRENCY_RATES&amp;utm_content=Footer%20Link" target="_blank" rel="nofollow" boundblank="">Investing.com</a></div>
+
+
+      
+    </div>
+    
+    
+    
+
+    
+      <div>
+        <div id="wechat_subscriber" style="display: block; padding: 10px 0; margin: 20px auto; width: 100%; text-align: center">
+    <img id="wechat_subscriber_qcode" src="/images/wechat-qcode.jpg" alt="Block.Chan(程伟) wechat" style="width: 200px; max-width: 100%;"/>
+    <div>欢迎关注区块新看点</div>
+</div>
+
+      </div>
+    
+
+    
+
+    
+      <div>
+        <ul class="post-copyright">
+  <li class="post-copyright-author">
+    <strong>本文作者：</strong>
+    Block.Chan(程伟)
+  </li>
+  <li class="post-copyright-link">
+    <strong>本文链接：</strong>
+    <a href="https://www.chengwf.com/2020/06/Ethereum2.0.html" title="白话解读即将到来Ethereum 2.0，以太坊区块链的革命性升级">https://www.chengwf.com/2020/06/Ethereum2.0.html</a>
+  </li>
+  <li class="post-copyright-license">
+    <strong>版权声明： </strong>
+    本博客所有文章除特别声明外，均采用 <a href="https://chengwf.com/4ih" rel="external nofollow" target="_blank">CC BY-NC-SA 3.0</a> 许可协议。转载请注明出处！
+  </li>
+</ul>
+
+      </div>
+    
+
+    <footer class="post-footer">
+      
+        <div class="post-tags">
+          
+            <a href="/tags/%E5%8C%BA%E5%9D%97%E9%93%BE/" rel="tag"># 区块链</a>
+          
+            <a href="/tags/%E4%BB%A5%E5%A4%AA%E5%9D%8A/" rel="tag"># 以太坊</a>
+          
+            <a href="/tags/%E4%BB%A5%E5%A4%AA%E5%9D%8A2-0/" rel="tag"># 以太坊2.0</a>
+          
+            <a href="/tags/%E5%8C%BA%E5%9D%97%E9%93%BE%E7%9C%8B%E7%82%B9/" rel="tag"># 区块链看点</a>
+          
+            <a href="/tags/ETH/" rel="tag"># ETH</a>
+          
+            <a href="/tags/Ethereum/" rel="tag"># Ethereum</a>
+          
+            <a href="/tags/V%E7%A5%9E/" rel="tag"># V神</a>
+          
+            <a href="/tags/Vitalik/" rel="tag"># Vitalik</a>
+          
+        </div>
+      
+
+      
+      
+        <div class="post-widgets">
+        
+
+        
+
+        
+          
+          <div id="needsharebutton-postbottom">
+            <span class="btn">
+              <i class="fa fa-share-alt" aria-hidden="true"></i>
+            </span>
+          </div>
+        
+        </div>
+      
+      
+
+      
+        <div class="post-nav">
+          <div class="post-nav-next post-nav-item">
+            
+              <a href="/2020/06/Vitalik_Buterin_usstock_Cryptocurrency.html" rel="next" title="V神：我们期望币圈更像股市，但美股却变得更加像加密货币">
+                <i class="fa fa-chevron-left"></i> V神：我们期望币圈更像股市，但美股却变得更加像加密货币
+              </a>
+            
+          </div>
+
+          <span class="post-nav-divider"></span>
+
+          <div class="post-nav-prev post-nav-item">
+            
+          </div>
+        </div>
+      
+
+      
+      
+    </footer>
+  </div>
+  
+  
+  
+  </article>
+
+
+
+    <div class="post-spread">
+      
+    </div>
+  </div>
+
+
+          </div>
+          
+
+
+          
+
+  
+
+
+
+        </div>
+        
+          
+  
+  <div class="sidebar-toggle">
+    <div class="sidebar-toggle-line-wrap">
+      <span class="sidebar-toggle-line sidebar-toggle-line-first"></span>
+      <span class="sidebar-toggle-line sidebar-toggle-line-middle"></span>
+      <span class="sidebar-toggle-line sidebar-toggle-line-last"></span>
+    </div>
+  </div>
+
+  <aside id="sidebar" class="sidebar">
+    
+    <div class="sidebar-inner">
+
+      
+
+      
+        <ul class="sidebar-nav motion-element">
+          <li class="sidebar-nav-toc sidebar-nav-active" data-target="post-toc-wrap">
+            文章目录
+          </li>
+          <li class="sidebar-nav-overview" data-target="site-overview-wrap">
+            站点概览
+          </li>
+        </ul>
+      
+
+      <section class="site-overview-wrap sidebar-panel">
+        <div class="site-overview">
+          <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            
+              <img class="site-author-image" itemprop="image"
+                src="/images/avatar.gif"
+                alt="Block.Chan(程伟)" />
+            
+              <p class="site-author-name" itemprop="name">Block.Chan(程伟)</p>
+              <p class="site-description motion-element" itemprop="description"></p>
+          </div>
+
+          <nav class="site-state motion-element">
+
+            
+              <div class="site-state-item site-state-posts">
+              
+                <a href="/archives/%7C%7C%20folder-open">
+              
+                  <span class="site-state-item-count">47</span>
+                  <span class="site-state-item-name">日志</span>
+                </a>
+              </div>
+            
+
+            
+              
+              
+              <div class="site-state-item site-state-categories">
+                <a href="/categories/index.html">
+                  <span class="site-state-item-count">45</span>
+                  <span class="site-state-item-name">分类</span>
+                </a>
+              </div>
+            
+
+            
+              
+              
+              <div class="site-state-item site-state-tags">
+                <a href="/tags/index.html">
+                  <span class="site-state-item-count">105</span>
+                  <span class="site-state-item-name">标签</span>
+                </a>
+              </div>
+            
+
+          </nav>
+
+          
+            <div class="feed-link motion-element">
+              <a href="/atom.xml" rel="alternate">
+                <i class="fa fa-rss"></i>
+                RSS
+              </a>
+            </div>
+          
+
+          
+            <div class="links-of-author motion-element">
+                
+                  <span class="links-of-author-item">
+                    <a href="https://chengwf.com/d9718" target="_blank" title="金色财经">
+                      
+                        <i class="fa fa-fw fa-twitter"></i>金色财经</a>
+                  </span>
+                
+                  <span class="links-of-author-item">
+                    <a href="https://chengwf.com/jez" target="_blank" title="腾讯新闻">
+                      
+                        <i class="fa fa-fw fa-envelope"></i>腾讯新闻</a>
+                  </span>
+                
+                  <span class="links-of-author-item">
+                    <a href="https://chengwf.com/a37a9" target="_blank" title="今日头条">
+                      
+                        <i class="fa fa-fw fa-youtube"></i>今日头条</a>
+                  </span>
+                
+                  <span class="links-of-author-item">
+                    <a href="https://chengwf.com/ca63f" target="_blank" title="百家号">
+                      
+                        <i class="fa fa-fw fa-facebook"></i>百家号</a>
+                  </span>
+                
+                  <span class="links-of-author-item">
+                    <a href="https://chengwf.com/45944" target="_blank" title="知乎专栏">
+                      
+                        <i class="fa fa-fw fa-vk"></i>知乎专栏</a>
+                  </span>
+                
+                  <span class="links-of-author-item">
+                    <a href="https://chengwf.com/1fbd9" target="_blank" title="大鱼号">
+                      
+                        <i class="fa fa-fw fa-stack-overflow"></i>大鱼号</a>
+                  </span>
+                
+                  <span class="links-of-author-item">
+                    <a href="https://chengwf.com/maa" target="_blank" title="新浪微博">
+                      
+                        <i class="fa fa-fw fa-instagram"></i>新浪微博</a>
+                  </span>
+                
+                  <span class="links-of-author-item">
+                    <a href="https://chengwf.com/b1b79" target="_blank" title="链闻">
+                      
+                        <i class="fa fa-fw fa-skype"></i>链闻</a>
+                  </span>
+                
+                  <span class="links-of-author-item">
+                    <a href="https://chengwf.com/4895c" target="_blank" title="星球日报">
+                      
+                        <i class="fa fa-fw fa-certificate"></i>星球日报</a>
+                  </span>
+                
+                  <span class="links-of-author-item">
+                    <a href="https://chengwf.com/9ad6e" target="_blank" title="陀螺财经">
+                      
+                        <i class="fa fa-fw fa-black-tie"></i>陀螺财经</a>
+                  </span>
+                
+                  <span class="links-of-author-item">
+                    <a href="https://chengwf.com/wq5" target="_blank" title="火星财经">
+                      
+                        <i class="fa fa-fw fa-check-circle"></i>火星财经</a>
+                  </span>
+                
+                  <span class="links-of-author-item">
+                    <a href="https://chengwf.com/fc9cc" target="_blank" title="区块链网">
+                      
+                        <i class="fa fa-fw fa-cc-diners-club"></i>区块链网</a>
+                  </span>
+                
+                  <span class="links-of-author-item">
+                    <a href="https://chengwf.com/df98c" target="_blank" title="facebook">
+                      
+                        <i class="fa fa-fw fa-facebook-square"></i>facebook</a>
+                  </span>
+                
+                  <span class="links-of-author-item">
+                    <a href="https://chengwf.com/24a99" target="_blank" title="youTube">
+                      
+                        <i class="fa fa-fw fa-youtube-square"></i>youTube</a>
+                  </span>
+                
+            </div>
+          
+
+          
+          
+
+          
+          
+
+          
+
+        </div>
+      </section>
+
+      
+      <!--noindex-->
+        <section class="post-toc-wrap motion-element sidebar-panel sidebar-panel-active">
+          <div class="post-toc">
+
+            
+              
+            
+
+            
+              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-3"><a class="nav-link" href="#一、ETH1-0-的不足"><span class="nav-number">1.</span> <span class="nav-text">一、ETH1.0 的不足</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#二、ETH2-0-简介"><span class="nav-number">2.</span> <span class="nav-text">二、ETH2.0 简介</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#三、ETH2-0-开发团队"><span class="nav-number">3.</span> <span class="nav-text">三、ETH2.0 开发团队</span></a><ol class="nav-child"><li class="nav-item nav-level-4"><a class="nav-link" href="#ChainSafe-Systems"><span class="nav-number">3.1.</span> <span class="nav-text">ChainSafe Systems</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#PegaSys"><span class="nav-number">3.2.</span> <span class="nav-text">PegaSys</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#Harmony"><span class="nav-number">3.3.</span> <span class="nav-text">Harmony</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#Parity-Technologies"><span class="nav-number">3.4.</span> <span class="nav-text">Parity Technologies</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#Prysmatic-Labs"><span class="nav-number">3.5.</span> <span class="nav-text">Prysmatic Labs</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#Sigma-Prime"><span class="nav-number">3.6.</span> <span class="nav-text">Sigma Prime</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#Status"><span class="nav-number">3.7.</span> <span class="nav-text">Status</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#Trinity"><span class="nav-number">3.8.</span> <span class="nav-text">Trinity</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#Nethermind"><span class="nav-number">3.9.</span> <span class="nav-text">Nethermind</span></a></li></ol></li><li class="nav-item nav-level-3"><a class="nav-link" href="#四、分阶段交付的ETH2-0"><span class="nav-number">4.</span> <span class="nav-text">四、分阶段交付的ETH2.0</span></a><ol class="nav-child"><li class="nav-item nav-level-4"><a class="nav-link" href="#Phase-1"><span class="nav-number">4.1.</span> <span class="nav-text">Phase 1</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#Phase-2"><span class="nav-number">4.2.</span> <span class="nav-text">Phase 2</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#Phase-3"><span class="nav-number">4.3.</span> <span class="nav-text">Phase 3</span></a></li></ol></li></ol></div>
+            
+
+          </div>
+        </section>
+      <!--/noindex-->
+      
+
+      
+
+    </div>
+  </aside>
+
+
+        
+      </div>
+    </main>
+
+    <footer id="footer" class="footer">
+      <div class="footer-inner">
+        <div class="copyright">&copy; <span itemprop="copyrightYear">2020</span>
+  <span class="with-love">
+    <i class="fa fa-user"></i>
+  </span>
+  <span class="author" itemprop="copyrightHolder">Block.Chan(程伟)</span>
+
+  
+</div>
+
+<!-- start webpushr tracking code --> 
+<script>(function(w,d, s, id) {if(typeof(w.webpushr)!=='undefined') return;w.webpushr=w.webpushr||function(){(w.webpushr.q=w.webpushr.q||[]).push(arguments)};var js, fjs = d.getElementsByTagName(s)[0];js = d.createElement(s); js.id = id;js.src = "https://cdn.webpushr.com/app.min.js";
+fjs.parentNode.appendChild(js);}(window,document, 'script', 'webpushr-jssdk'));
+webpushr('init','BNl1cbjP2-wUqLnc3vrdjhMw4zJrREyhUG00EG4fRxkF2wWAFvFjw4eQQb0GTYLJpRUDKNdaS3s_zX8DWTw6YB8');</script>
+<!-- end webpushr tracking code -->
+
+
+  <div class="powered-by">由 <a class="theme-link" target="_blank" href="https://www.chengwf.com">区块新看点技术团队</a> 强力驱动</div>
+
+
+
+  <span class="post-meta-divider">|</span>
+
+
+
+  <div class="theme-info">主题 &mdash; <a class="theme-link" target="_blank" href="http://beian.miit.gov.cn/">备案号：粤ICP备16072212号.Pisces</a> v5.1.4</div>
+
+
+
+
+        
+
+
+
+
+
+
+
+        
+      </div>
+    </footer>
+
+    
+      <div class="back-to-top">
+        <i class="fa fa-arrow-up"></i>
+        
+      </div>
+    
+
+    
+
+  </div>
+<!-- start webpushr tracking code --> 
+<script>(function(w,d, s, id) {if(typeof(w.webpushr)!=='undefined') return;w.webpushr=w.webpushr||function(){(w.webpushr.q=w.webpushr.q||[]).push(arguments)};var js, fjs = d.getElementsByTagName(s)[0];js = d.createElement(s); js.id = id;js.src = "https://cdn.webpushr.com/app.min.js";
+fjs.parentNode.appendChild(js);}(window,document, 'script', 'webpushr-jssdk'));
+webpushr('init','BNl1cbjP2-wUqLnc3vrdjhMw4zJrREyhUG00EG4fRxkF2wWAFvFjw4eQQb0GTYLJpRUDKNdaS3s_zX8DWTw6YB8');</script>
+<!-- end webpushr tracking code -->
+  
+
+<script type="text/javascript">
+  if (Object.prototype.toString.call(window.Promise) !== '[object Function]') {
+    window.Promise = null;
+  }
+</script>
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    <script type="text/javascript" src="/lib/jquery/index.js?v=2.1.3"></script>
+  
+
+  
+  
+    <script type="text/javascript" src="/lib/fastclick/lib/fastclick.min.js?v=1.0.6"></script>
+  
+
+  
+  
+    <script type="text/javascript" src="/lib/jquery_lazyload/jquery.lazyload.js?v=1.9.7"></script>
+  
+
+  
+  
+    <script type="text/javascript" src="/lib/velocity/velocity.min.js?v=1.2.1"></script>
+  
+
+  
+  
+    <script type="text/javascript" src="/lib/velocity/velocity.ui.min.js?v=1.2.1"></script>
+  
+
+  
+  
+    <script type="text/javascript" src="/lib/fancybox/source/jquery.fancybox.pack.js?v=2.1.5"></script>
+  
+
+
+  
+
+
+  <script type="text/javascript" src="/js/src/utils.js?v=5.1.4"></script>
+
+  <script type="text/javascript" src="/js/src/motion.js?v=5.1.4"></script>
+
+
+
+  
+  
+
+
+  <script type="text/javascript" src="/js/src/affix.js?v=5.1.4"></script>
+
+  <script type="text/javascript" src="/js/src/schemes/pisces.js?v=5.1.4"></script>
+
+
+
+  
+  <script type="text/javascript" src="/js/src/scrollspy.js?v=5.1.4"></script>
+<script type="text/javascript" src="/js/src/post-details.js?v=5.1.4"></script>
+
+
+
+  
+
+
+  <script type="text/javascript" src="/js/src/bootstrap.js?v=5.1.4"></script>
+
+
+
+  
+
+
+  
+
+
+
+
+	
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  <script type="text/javascript">
+    // Popup Window;
+    var isfetched = false;
+    var isXml = true;
+    // Search DB path;
+    var search_path = "search.xml";
+    if (search_path.length === 0) {
+      search_path = "search.xml";
+    } else if (/json$/i.test(search_path)) {
+      isXml = false;
+    }
+    var path = "/" + search_path;
+    // monitor main search box;
+
+    var onPopupClose = function (e) {
+      $('.popup').hide();
+      $('#local-search-input').val('');
+      $('.search-result-list').remove();
+      $('#no-result').remove();
+      $(".local-search-pop-overlay").remove();
+      $('body').css('overflow', '');
+    }
+
+    function proceedsearch() {
+      $("body")
+        .append('<div class="search-popup-overlay local-search-pop-overlay"></div>')
+        .css('overflow', 'hidden');
+      $('.search-popup-overlay').click(onPopupClose);
+      $('.popup').toggle();
+      var $localSearchInput = $('#local-search-input');
+      $localSearchInput.attr("autocapitalize", "none");
+      $localSearchInput.attr("autocorrect", "off");
+      $localSearchInput.focus();
+    }
+
+    // search function;
+    var searchFunc = function(path, search_id, content_id) {
+      'use strict';
+
+      // start loading animation
+      $("body")
+        .append('<div class="search-popup-overlay local-search-pop-overlay">' +
+          '<div id="search-loading-icon">' +
+          '<i class="fa fa-spinner fa-pulse fa-5x fa-fw"></i>' +
+          '</div>' +
+          '</div>')
+        .css('overflow', 'hidden');
+      $("#search-loading-icon").css('margin', '20% auto 0 auto').css('text-align', 'center');
+
+      $.ajax({
+        url: path,
+        dataType: isXml ? "xml" : "json",
+        async: true,
+        success: function(res) {
+          // get the contents from search data
+          isfetched = true;
+          $('.popup').detach().appendTo('.header-inner');
+          var datas = isXml ? $("entry", res).map(function() {
+            return {
+              title: $("title", this).text(),
+              content: $("content",this).text(),
+              url: $("url" , this).text()
+            };
+          }).get() : res;
+          var input = document.getElementById(search_id);
+          var resultContent = document.getElementById(content_id);
+          var inputEventFunction = function() {
+            var searchText = input.value.trim().toLowerCase();
+            var keywords = searchText.split(/[\s\-]+/);
+            if (keywords.length > 1) {
+              keywords.push(searchText);
+            }
+            var resultItems = [];
+            if (searchText.length > 0) {
+              // perform local searching
+              datas.forEach(function(data) {
+                var isMatch = false;
+                var hitCount = 0;
+                var searchTextCount = 0;
+                var title = data.title.trim();
+                var titleInLowerCase = title.toLowerCase();
+                var content = data.content.trim().replace(/<[^>]+>/g,"");
+                var contentInLowerCase = content.toLowerCase();
+                var articleUrl = decodeURIComponent(data.url);
+                var indexOfTitle = [];
+                var indexOfContent = [];
+                // only match articles with not empty titles
+                if(title != '') {
+                  keywords.forEach(function(keyword) {
+                    function getIndexByWord(word, text, caseSensitive) {
+                      var wordLen = word.length;
+                      if (wordLen === 0) {
+                        return [];
+                      }
+                      var startPosition = 0, position = [], index = [];
+                      if (!caseSensitive) {
+                        text = text.toLowerCase();
+                        word = word.toLowerCase();
+                      }
+                      while ((position = text.indexOf(word, startPosition)) > -1) {
+                        index.push({position: position, word: word});
+                        startPosition = position + wordLen;
+                      }
+                      return index;
+                    }
+
+                    indexOfTitle = indexOfTitle.concat(getIndexByWord(keyword, titleInLowerCase, false));
+                    indexOfContent = indexOfContent.concat(getIndexByWord(keyword, contentInLowerCase, false));
+                  });
+                  if (indexOfTitle.length > 0 || indexOfContent.length > 0) {
+                    isMatch = true;
+                    hitCount = indexOfTitle.length + indexOfContent.length;
+                  }
+                }
+
+                // show search results
+
+                if (isMatch) {
+                  // sort index by position of keyword
+
+                  [indexOfTitle, indexOfContent].forEach(function (index) {
+                    index.sort(function (itemLeft, itemRight) {
+                      if (itemRight.position !== itemLeft.position) {
+                        return itemRight.position - itemLeft.position;
+                      } else {
+                        return itemLeft.word.length - itemRight.word.length;
+                      }
+                    });
+                  });
+
+                  // merge hits into slices
+
+                  function mergeIntoSlice(text, start, end, index) {
+                    var item = index[index.length - 1];
+                    var position = item.position;
+                    var word = item.word;
+                    var hits = [];
+                    var searchTextCountInSlice = 0;
+                    while (position + word.length <= end && index.length != 0) {
+                      if (word === searchText) {
+                        searchTextCountInSlice++;
+                      }
+                      hits.push({position: position, length: word.length});
+                      var wordEnd = position + word.length;
+
+                      // move to next position of hit
+
+                      index.pop();
+                      while (index.length != 0) {
+                        item = index[index.length - 1];
+                        position = item.position;
+                        word = item.word;
+                        if (wordEnd > position) {
+                          index.pop();
+                        } else {
+                          break;
+                        }
+                      }
+                    }
+                    searchTextCount += searchTextCountInSlice;
+                    return {
+                      hits: hits,
+                      start: start,
+                      end: end,
+                      searchTextCount: searchTextCountInSlice
+                    };
+                  }
+
+                  var slicesOfTitle = [];
+                  if (indexOfTitle.length != 0) {
+                    slicesOfTitle.push(mergeIntoSlice(title, 0, title.length, indexOfTitle));
+                  }
+
+                  var slicesOfContent = [];
+                  while (indexOfContent.length != 0) {
+                    var item = indexOfContent[indexOfContent.length - 1];
+                    var position = item.position;
+                    var word = item.word;
+                    // cut out 100 characters
+                    var start = position - 20;
+                    var end = position + 80;
+                    if(start < 0){
+                      start = 0;
+                    }
+                    if (end < position + word.length) {
+                      end = position + word.length;
+                    }
+                    if(end > content.length){
+                      end = content.length;
+                    }
+                    slicesOfContent.push(mergeIntoSlice(content, start, end, indexOfContent));
+                  }
+
+                  // sort slices in content by search text's count and hits' count
+
+                  slicesOfContent.sort(function (sliceLeft, sliceRight) {
+                    if (sliceLeft.searchTextCount !== sliceRight.searchTextCount) {
+                      return sliceRight.searchTextCount - sliceLeft.searchTextCount;
+                    } else if (sliceLeft.hits.length !== sliceRight.hits.length) {
+                      return sliceRight.hits.length - sliceLeft.hits.length;
+                    } else {
+                      return sliceLeft.start - sliceRight.start;
+                    }
+                  });
+
+                  // select top N slices in content
+
+                  var upperBound = parseInt('1');
+                  if (upperBound >= 0) {
+                    slicesOfContent = slicesOfContent.slice(0, upperBound);
+                  }
+
+                  // highlight title and content
+
+                  function highlightKeyword(text, slice) {
+                    var result = '';
+                    var prevEnd = slice.start;
+                    slice.hits.forEach(function (hit) {
+                      result += text.substring(prevEnd, hit.position);
+                      var end = hit.position + hit.length;
+                      result += '<b class="search-keyword">' + text.substring(hit.position, end) + '</b>';
+                      prevEnd = end;
+                    });
+                    result += text.substring(prevEnd, slice.end);
+                    return result;
+                  }
+
+                  var resultItem = '';
+
+                  if (slicesOfTitle.length != 0) {
+                    resultItem += "<li><a href='" + articleUrl + "' class='search-result-title'>" + highlightKeyword(title, slicesOfTitle[0]) + "</a>";
+                  } else {
+                    resultItem += "<li><a href='" + articleUrl + "' class='search-result-title'>" + title + "</a>";
+                  }
+
+                  slicesOfContent.forEach(function (slice) {
+                    resultItem += "<a href='" + articleUrl + "'>" +
+                      "<p class=\"search-result\">" + highlightKeyword(content, slice) +
+                      "...</p>" + "</a>";
+                  });
+
+                  resultItem += "</li>";
+                  resultItems.push({
+                    item: resultItem,
+                    searchTextCount: searchTextCount,
+                    hitCount: hitCount,
+                    id: resultItems.length
+                  });
+                }
+              })
+            };
+            if (keywords.length === 1 && keywords[0] === "") {
+              resultContent.innerHTML = '<div id="no-result"><i class="fa fa-search fa-5x" /></div>'
+            } else if (resultItems.length === 0) {
+              resultContent.innerHTML = '<div id="no-result"><i class="fa fa-frown-o fa-5x" /></div>'
+            } else {
+              resultItems.sort(function (resultLeft, resultRight) {
+                if (resultLeft.searchTextCount !== resultRight.searchTextCount) {
+                  return resultRight.searchTextCount - resultLeft.searchTextCount;
+                } else if (resultLeft.hitCount !== resultRight.hitCount) {
+                  return resultRight.hitCount - resultLeft.hitCount;
+                } else {
+                  return resultRight.id - resultLeft.id;
+                }
+              });
+              var searchResultList = '<ul class=\"search-result-list\">';
+              resultItems.forEach(function (result) {
+                searchResultList += result.item;
+              })
+              searchResultList += "</ul>";
+              resultContent.innerHTML = searchResultList;
+            }
+          }
+
+          if ('auto' === 'auto') {
+            input.addEventListener('input', inputEventFunction);
+          } else {
+            $('.search-icon').click(inputEventFunction);
+            input.addEventListener('keypress', function (event) {
+              if (event.keyCode === 13) {
+                inputEventFunction();
+              }
+            });
+          }
+
+          // remove loading animation
+          $(".local-search-pop-overlay").remove();
+          $('body').css('overflow', '');
+
+          proceedsearch();
+        }
+      });
+    }
+
+    // handle and trigger popup window;
+    $('.popup-trigger').click(function(e) {
+      e.stopPropagation();
+      if (isfetched === false) {
+        searchFunc(path, 'local-search-input', 'local-search-result');
+      } else {
+        proceedsearch();
+      };
+    });
+
+    $('.popup-btn-close').click(onPopupClose);
+    $('.popup').click(function(e){
+      e.stopPropagation();
+    });
+    $(document).on('keyup', function (event) {
+      var shouldDismissSearchPopup = event.which === 27 &&
+        $('.search-popup').is(':visible');
+      if (shouldDismissSearchPopup) {
+        onPopupClose();
+      }
+    });
+  </script>
+
+
+
+
+
+  
+
+  
+
+  
+<script>
+(function(){
+    var bp = document.createElement('script');
+    var curProtocol = window.location.protocol.split(':')[0];
+    if (curProtocol === 'https') {
+        bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';        
+    }
+    else {
+        bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+    }
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(bp, s);
+})();
+</script>
+
+
+  
+  
+  
+  <link rel="stylesheet" href="/lib/needsharebutton/needsharebutton.css">
+
+  
+  
+  <script src="/lib/needsharebutton/needsharebutton.js"></script>
+
+  <script>
+    
+      pbOptions = {};
+      
+          pbOptions.iconStyle = "box";
+      
+          pbOptions.boxForm = "horizontal";
+      
+          pbOptions.position = "bottomCenter";
+      
+          pbOptions.networks = "Weibo,Wechat,Douban,QQZone,Twitter,Facebook";
+      
+      new needShareButton('#needsharebutton-postbottom', pbOptions);
+    
+    
+  </script>
+
+  
+
+  
+
+  
+
+  
+
+<script>(function(w,d, s, id) {w.webpushr=w.webpushr||function(){(w.webpushr.q=w.webpushr.q||[]).push(arguments)};var js, fjs = d.getElementsByTagName(s)[0];js = d.createElement(s); js.id = id;js.src = 'https://cdn.webpushr.com/app.min.js';fjs.parentNode.appendChild(js);}(window,document, 'script', 'webpushr-jssdk'));webpushr('init','BNl1cbjP2-wUqLnc3vrdjhMw4zJrREyhUG00EG4fRxkF2wWAFvFjw4eQQb0GTYLJpRUDKNdaS3s_zX8DWTw6YB8');</script></body>
+</html>
