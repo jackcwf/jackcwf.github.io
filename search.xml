@@ -1,6 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>比特币BTC的十年逆袭之路（动态可视化数据图表）</title>
+    <url>/2020/06/videos/bitcoin_ten_dany_data.html</url>
+    <content><![CDATA[<div id="dplayer2" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer2"),"autoplay":true,"hotkey":true,"preload":"metadata","video":{"url":"https://vdept.bdstatic.com/5a375542627a6d613670483877417847/5378313275646855/64c9f17155a218e1e05e7c2803787dcdf9c2ca4df4a9f5574762d8331815f1338d3820b8298ed009022d8a8475473787e6fd096cd023fb7c6cd855fc0b7dcef9.mp4?auth_key=1592851688-0-0-f191b239305e0222a85d6b819f67ea45"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script> 
+]]></content>
+      <categories>
+        <category>区块链</category>
+        <category>数字货币</category>
+        <category>比特币</category>
+      </categories>
+      <tags>
+        <tag>比特币</tag>
+        <tag>比特币价格</tag>
+        <tag>区块链视频</tag>
+        <tag>blockchain_video</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>比特币vs以太坊，从2013到2020（动态可视化数据图表）</title>
+    <url>/2020/06/videos/bitcoin_vs_Ethereum.html</url>
+    <content><![CDATA[<div id="dplayer3" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer3"),"autoplay":true,"hotkey":true,"preload":"metadata","video":{"url":"https://vdn3.vzuu.com/LD/ce604174-a98f-11ea-a76e-b2be648d665c.mp4?disable_local_cache=1&bu=http-com&expiration=1592848939&auth_key=1592848939-0-0-80a4e7fcc590ec052c7be80a02a6ee90&f=mp4&v=tx"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script> 
+
+
+]]></content>
+      <categories>
+        <category>区块链</category>
+        <category>数字货币</category>
+        <category>以太坊</category>
+        <category>比特币</category>
+      </categories>
+      <tags>
+        <tag>比特币</tag>
+        <tag>以太坊</tag>
+        <tag>比特币价格</tag>
+        <tag>区块链视频</tag>
+        <tag>blockchain_video</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>比特币正悄然进入牛市新阶段的前4大信号</title>
     <url>/2020/06/top5-signs-bitcoin-bull-market.html</url>
     <content><![CDATA[<p>自比特币减半以来，比特币（BTC）的价格已经横盘了好几个星期了。这非常让人想起2017年初比特币第二次达到$ 1,180时，引发灾难性的抛售，导致排名靠前的加密货币一天之内下跌近40％。  </p>
@@ -1813,13 +1851,11 @@
   <entry>
     <title>5分钟给你说明白什么是区块链（视频）</title>
     <url>/2020/05/videos/blockchain_education.html</url>
-    <content><![CDATA[<p>Some people think this is just hype; others see it as a revolutionary technology that can completely change the way we trade almost everything of value. So what is this so-called distributed ledger technology (DLT)? How does it work? Who can benefit from it? In this video, we will distinguish between fact and fiction, and help you see the smoke screen of hype. … </p>
-<p>有人认为这不过是炒作；其他人则将此视作一种革命性技术，可以彻底改变我们交易几乎一切有价值之物的方式。 那么这种所谓分布式账本技术(DLT)到底是什么？它怎样运作？谁能从中受益？在这个的视频中，我们将为您区分事实与虚构，帮您看清炒作的烟幕。 …</p>
-<div id="dplayer2" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer2"),"autoplay":true,"hotkey":true,"preload":"metadata","video":{"url":"https://chengwf.com/sch"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script> 
+    <content><![CDATA[<div id="dplayer1" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer1"),"autoplay":true,"hotkey":true,"preload":"metadata","video":{"url":"https://vdn2.vzuu.com/SD/04520378-9ad9-11ea-a676-d2489c713817.mp4?disable_local_cache=1&bu=http-com&expiration=1592849218&auth_key=1592849218-0-0-71c28c810b6b6707ace5882e03a2b227&f=mp4&v=bsy"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script> 
 
 
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/UpCUcIlBoK8" frameborder="0" loading="lazy" allowfullscreen></iframe></div>]]></content>
+<div class="video-container"><iframe src="https://www.youtube.com/embed/CeSF963wJOI" frameborder="0" loading="lazy" allowfullscreen></iframe></div>]]></content>
       <categories>
         <category>区块链</category>
       </categories>
@@ -2867,15 +2903,20 @@
       </tags>
   </entry>
   <entry>
-    <title>区块链</title>
+    <title>什么是区块链？什么是区块链技术？区块链能做什么？</title>
     <url>/2020/03/wiki-blockchain-index.html</url>
-    <content><![CDATA[<h1 id="区块链是什么"><a href="#区块链是什么" class="headerlink" title="区块链是什么"></a>区块链是什么</h1><br/>
+    <content><![CDATA[<p>区块链是一项不可否认的独创性发明，是由<strong>中本聪</strong>（Satoshi Nakamoto）所熟知的一个人或一群人的创意。但是从那以后，它演变成更大的东西，每个人都在问的主要问题是：什么是区块链？</p>
+<h1 id="区块链是什么"><a href="#区块链是什么" class="headerlink" title="区块链是什么"></a>区块链是什么</h1><br/>
 
 <p>“<strong>区块链</strong>”一词起源于中本聪发明的一种点对点电子货币系统中<sup><a href="https://bitcoin.org/files/bitcoin-paper/bitcoin_zh_cn.pdf" target="_blank" rel="noopener">[1]</a></sup>，这电子货币系统称为<strong>比特币</strong>。作为比特币的底层技术，本质上是一个去中心化的数据库。是指通过去中心化和去信任的方式集体维护一个可靠数据库的技术方案。</p>
 <p>从科技层面来看，区块链是一门涉及数学、密码学、互联网和计算机编程等很多科学技术综合交叉学问。</p>
 <p>从应用视角来看，区块链是一种新兴技术，它是一个分布式的共享账本和数据库；这门技术从特点上分析，具有去中心化、不可篡改、全程留痕、可以追溯、集体维护、公开透明等特点。</p>
 <p>从计算机技术应用模式的视角来看，它具备分布式数据存储、点对点传输、共识机制、加密算法等技术模式。</p>
 <a id="more"></a>
+
+<div id="dplayer0" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer0"),"autoplay":true,"hotkey":true,"preload":"metadata","video":{"url":"https://chengwf.com/473ac"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script> 
+
+<div class="video-container"><iframe src="https://www.youtube.com/embed/UpCUcIlBoK8" frameborder="0" loading="lazy" allowfullscreen></iframe></div>
 
 <hr>
 <h1 id="区块链广义解释"><a href="#区块链广义解释" class="headerlink" title="区块链广义解释"></a>区块链广义解释</h1><br/>
@@ -3284,6 +3325,14 @@
 <p>坚强开了一家加密货币交易所S站，他发现IEO有很大的操作空间，于是不久便开始IEO，发行了自己的平台币SB。区坚强规定，SB可以交易，可以抵扣手续费，可以参加社区活动、购买课程；此外，任何想上线S站的新币必须实行投票制，并且仅支持使用SB平台币投票。</p>
 <p>随着S站运营得火热，来S站交易的人多了起来，SB行情跟着水涨船高。</p>
 <h2 id="IFO"><a href="#IFO" class="headerlink" title="IFO"></a>IFO</h2><p><strong>IFO（Initial Fork Offerings）</strong>，首次分叉发行，指通过分叉比特币等主流加密货币生成新的代币。以分叉比特币为核心发行代币，存在预挖行为，例如BTG、BCD、SBTC等，它们通过分叉比特币区块链生成新的代币，声称自己能够实现优于比特币的功能。矿工团队在创造分叉的同时，可以在分叉发生的区块中，利用自己的特权，分配一些货币给自己或其他人（直接写成CoinBase交易即可），然后再开放让所有人都可以参与挖矿。</p>
+<h2 id="百科词条简要总结"><a href="#百科词条简要总结" class="headerlink" title="百科词条简要总结"></a>百科词条简要总结</h2><h3 id="1）☑问：什么是区块链？"><a href="#1）☑问：什么是区块链？" class="headerlink" title="1）☑问：什么是区块链？"></a>1）☑问：什么是区块链？</h3><p>答：区块链是由计算机集群分发和管理的不可变时间戳系列数据记录。</p>
+<h3 id="2）☑问：谁控制区块链？"><a href="#2）☑问：谁控制区块链？" class="headerlink" title="2）☑问：谁控制区块链？"></a>2）☑问：谁控制区块链？</h3><p>答：开放的区块链网络没有中央权限-这是民主化系统的定义。由于它是一个共享且不变的分类帐，因此其中的信息对任何人和所有人都是开放的。</p>
+<h3 id="3）☑问：区块链技术的三大支柱是什么？"><a href="#3）☑问：区块链技术的三大支柱是什么？" class="headerlink" title="3）☑问：区块链技术的三大支柱是什么？"></a>3）☑问：区块链技术的三大支柱是什么？</h3><ol>
+<li>分权化</li>
+<li>透明度</li>
+<li>不变性</li>
+</ol>
+<h3 id="4）☑问：区块链的作用是什么？"><a href="#4）☑问：区块链的作用是什么？" class="headerlink" title="4）☑问：区块链的作用是什么？"></a>4）☑问：区块链的作用是什么？</h3><p>答：最初，用于比特币和其他加密货币的区块链现已在金融，房地产和医疗等多个行业中找到用例。</p>
 <h1 id="参考文献"><a href="#参考文献" class="headerlink" title="参考文献"></a>参考文献</h1><br/>
 
 <blockquote>
@@ -3313,6 +3362,7 @@
         <tag>区块链</tag>
         <tag>比特币</tag>
         <tag>中本聪</tag>
+        <tag>区块链技术</tag>
         <tag>分布式</tag>
         <tag>去中心化</tag>
         <tag>智能合约</tag>
