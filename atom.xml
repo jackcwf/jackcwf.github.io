@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.chengwf.com/"/>
-  <updated>2020-07-02T21:41:47.129Z</updated>
+  <updated>2020-07-04T08:24:12.742Z</updated>
   <id>https://www.chengwf.com/</id>
   
   <author>
@@ -15,6 +15,37 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>将区块链技术应用到电池供应链</title>
+    <link href="https://www.chengwf.com/2020/07/Industrial_innovation/blockchain-to-battery-supply-chains.html"/>
+    <id>https://www.chengwf.com/2020/07/Industrial_innovation/blockchain-to-battery-supply-chains.html</id>
+    <published>2020-07-03T16:00:00.000Z</published>
+    <updated>2020-07-04T08:24:12.742Z</updated>
+    
+    <content type="html"><![CDATA[<p>在过去的几年中，电池供应链中的市场刚需和社会责任已成为一个越来越重要的民生和商业焦点，并且随着对智能型手机，新能源电动汽车和再生替代能源的需求不断增长，它将仍然是一个世界型共同的关键主题。</p><p><img src="https://s1.ax1x.com/2020/07/04/NxslAs.jpg" alt="NxslAs.jpg"></p><center><font color="acacac" size=2>在刚果进行钴提取，原料在这手工洗涤</font></center><p>从处理器或最终用户的角度来看，要了解整个供应链并知道进入电池供应链的物料来自何处或去向何处，是非常困难的，即使不是不可能的。几乎无法确定上述产品的采购，加工和制造对其环境，人道主义和社会足迹的影响。</p><p>全面了解供应链是了解这些影响并能够遵守法规和利益相关者标准的关键。随着诸如区块链之类的新兴技术在某些应用中实现商业实施，可以改变供应链中材料来源的必要可见性。</p><p><img src="https://chengwf.com/e1133" alt="NxsM7j.jpg"></p><h1 id="区块链技术用途"><a href="#区块链技术用途" class="headerlink" title="区块链技术用途"></a>区块链技术用途</h1><p><br/>随着我们从最初对区块链的大肆宣传进入实际实施阶段，我们看到了用例的真正好处。这些用例之一是在供应链中。在整个端到端交易生命周期中进行资产管理是一个挑战。各种各样的参与者都参与了实际的供应链，所有人都有自己的记录，这往往会造成效率低下和安全问题。通过应用区块链技术，所有记录都可以存储在单一的事实来源中，从而减少了错误，降低了腐败风险并简化了业务流程。减少了对中介的需求，进一步降低了风险并降低了交易成本。</p><p>供应链的可追溯性已成为投资者和利益相关者对负责任采购的期望的焦点。行业参与者现在面临着拥抱数字化转型或被甩在后面的任务。</p><h1 id="产品出处"><a href="#产品出处" class="headerlink" title="产品出处"></a>产品出处</h1><p><br/>可以说，使用区块链开采矿产资源的最大成功案例之一是在钻石行业中使用称为Tracr的系统。戴比尔斯（De Beers）是钻石行业的最大参与者（直到1980年代，它一直控制着市场），因此将Tracr确立为独立实体。</p><p><img src="https://s1.ax1x.com/2020/07/04/NxsmjS.jpg" alt="NxsmjS.jpg"></p><center><font color="acacac" size=2>太阳能矿场基地</font></center><p>一旦开采出钻石，便会创建一个数字版本，并从矿场的原始钻石追溯到最终客户。伦敦哈顿街一家珠宝店里的一颗钻石在区块链上拥有自己的数字版本，其全过程从曾经价值低得多的粗糙，未经切割的宝石到圆形明亮的宝石-成品。</p><p>钻石当然相对容易追踪，因为毛坯钻石通常只会产生两颗经过切割的精制钻石。电池中使用的金属与钻石相比，其状态变化更频繁，并且交易量也更大。但是，逻辑保持不变。</p><h1 id="相互依赖的文件"><a href="#相互依赖的文件" class="headerlink" title="相互依赖的文件"></a>相互依赖的文件</h1><p><br/>每个人都可以使用公共区块链，并且常常引起对数据安全性和隐私的担忧。通过安全的单向哈希的概念来解决这一挑战。每个文档都会生成自己的唯一标识（哈希值），该标识具有价值，并且可以公开获取。哈希对于外部人类查看者几乎没有价值，但是拥有原始文档的审核员可以验证哈希是真实的。哈希的目的是允许对私人文档进行公开验证。</p><p>电池材料供应链中的文档流很复杂，因为许多文档都依赖于链中其他文档的正确完成。区块链是管理如此复杂的文档流的理想环境，因为文档之间的所有关系也可以公开验证。如果文档丢失，不完整或损坏，则立即知道该文档，并且无法完成以下步骤。</p><p>在国家，仓库，港口和加工商之间运送物料会产生大量相互依赖的文件。与文档进行手动交互意味着永远存在错误或损坏的风险。如果每个交易都立即存储在区块链上，那么错误立即可见，并且篡改文件几乎变得不可能。</p><p><img src="https://s1.ax1x.com/2020/07/04/NxsKBQ.jpg" alt="NxsKBQ.jpg"></p><center><font color="acacac" size=2>上图为：钴供应链模型。资源来源：SAFE</font></center><h1 id="合规，审计，规则"><a href="#合规，审计，规则" class="headerlink" title="合规，审计，规则"></a>合规，审计，规则</h1><p><br/>通过将区块链技术应用于供应链，可以使任何需要对任何给定供应链中的流程和文档具有可见性的利益相关者，都可以立即，标准化和不间断地访问任何材料生命周期的真相。这减少了确保合规性所需的开销，并减轻了公开不充分的风险。</p><p>区块链通过设计实现合规性，这意味着任何监管机构和客户都可以在遵守必要标准的情况下继续开展日常业务。</p><h1 id="溢出利益"><a href="#溢出利益" class="headerlink" title="溢出利益"></a>溢出利益</h1><p><br/>原材料生产商和制造商在供应链上彼此相距很远，而且常常根本不知道它们在同一条链中。启用区块链的供应链为所有链接可见的行动和参与者打开了一个窗口。新的关系，甚至伙伴关系的机会成为可能。</p><p>数字化转型是一段旅程。公司需要做的就是在业务的正确部分开始这一旅程。通过在供应链中应用区块链，它可以数字化基础物理业务，这是该行业的核心。凭借其业务的数字化足迹，公司已准备好利用其他可用的技术进步。物联网，GPS和其他新兴技术有可能进一步提高效率，流程优化和透明度。</p><h1 id="透明目标"><a href="#透明目标" class="headerlink" title="透明目标"></a>透明目标</h1><p><br/>归根结底，透明度等于信任，这是将区块链引入电池材料供应链的最重要和核心功能。就其本身而言，这足以投资于区块链解决方案。金属供应链行业正在使用严重过时的技术，并且需要区块链提供的那种数字中断。</p><p><strong>关于作者：</strong></p><p>区块新看点-程伟（Block.Chan），拥有10年金融科技项目的解决方案孵化和运营经验。5年区块链领域在数字资产交易平台、电子数字钱包、区块链联盟链和公有链框架下Dapp孵化运营的实操盘经验。Block.Chan致力于运用新兴技术在新商业、数字经济时代通过智能自动化解决方案来实现创新产品赋能产业升级的目标为己目标。</p><p><strong>声明：</strong>本文为区块新看点-程伟（Block.Chan）原创产业解决方案，欢迎各界人士交流学习，转载请备注来源于“区块新看点”版权所有，谢谢！</p>]]></content>
+    
+    <summary type="html">
+    
+      全面了解供应链是了解这些影响并能够遵守法规和利益相关者标准的关键。随着诸如区块链之类的新兴技术在某些应用中实现商业实施，可以改变供应链中材料来源的必要可见性。
+    
+    </summary>
+    
+    
+      <category term="区块链" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/"/>
+    
+      <category term="区块链产业创新" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E5%8C%BA%E5%9D%97%E9%93%BE%E4%BA%A7%E4%B8%9A%E5%88%9B%E6%96%B0/"/>
+    
+    
+      <category term="区块链" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE/"/>
+    
+      <category term="blockchain_Industrial_innovation" scheme="https://www.chengwf.com/tags/blockchain-Industrial-innovation/"/>
+    
+      <category term="区块链产业创新" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE%E4%BA%A7%E4%B8%9A%E5%88%9B%E6%96%B0/"/>
+    
+      <category term="区块链与电池" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE%E4%B8%8E%E7%94%B5%E6%B1%A0/"/>
+    
+  </entry>
   
   <entry>
     <title>比特币如在2021年迎来上涨行情，这5大关键因素或是开启红牛行情的钥匙</title>
@@ -43,11 +74,11 @@
     
       <category term="比特币价格" scheme="https://www.chengwf.com/tags/%E6%AF%94%E7%89%B9%E5%B8%81%E4%BB%B7%E6%A0%BC/"/>
     
+      <category term="区块新看点" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E6%96%B0%E7%9C%8B%E7%82%B9/"/>
+    
       <category term="加密货币" scheme="https://www.chengwf.com/tags/%E5%8A%A0%E5%AF%86%E8%B4%A7%E5%B8%81/"/>
     
       <category term="BTC" scheme="https://www.chengwf.com/tags/BTC/"/>
-    
-      <category term="区块新看点" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E6%96%B0%E7%9C%8B%E7%82%B9/"/>
     
       <category term="哈希率" scheme="https://www.chengwf.com/tags/%E5%93%88%E5%B8%8C%E7%8E%87/"/>
     
@@ -128,7 +159,7 @@
     <published>2020-06-23T16:00:00.000Z</published>
     <updated>2020-06-23T23:29:19.880Z</updated>
     
-    <content type="html"><![CDATA[<div id="dplayer3" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer3"),"autoplay":true,"hotkey":true,"preload":"metadata","video":{"url":"https://chengwf.com/7aee0"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script> ]]></content>
+    <content type="html"><![CDATA[<div id="dplayer1" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer1"),"autoplay":true,"hotkey":true,"preload":"metadata","video":{"url":"https://chengwf.com/7aee0"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script> ]]></content>
     
     <summary type="html">
     
@@ -174,9 +205,9 @@
     
       <category term="区块链" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/"/>
     
-      <category term="WIKI" scheme="https://www.chengwf.com/categories/WIKI/"/>
-    
       <category term="数字货币" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/"/>
+    
+      <category term="WIKI" scheme="https://www.chengwf.com/categories/WIKI/"/>
     
       <category term="以太坊" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/%E4%BB%A5%E5%A4%AA%E5%9D%8A/"/>
     
@@ -212,7 +243,7 @@
     <published>2020-06-21T16:00:00.000Z</published>
     <updated>2020-06-22T17:05:13.547Z</updated>
     
-    <content type="html"><![CDATA[<div id="dplayer1" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer1"),"autoplay":true,"hotkey":true,"preload":"metadata","video":{"url":"https://vdept.bdstatic.com/5a375542627a6d613670483877417847/5378313275646855/64c9f17155a218e1e05e7c2803787dcdf9c2ca4df4a9f5574762d8331815f1338d3820b8298ed009022d8a8475473787e6fd096cd023fb7c6cd855fc0b7dcef9.mp4?auth_key=1592851688-0-0-f191b239305e0222a85d6b819f67ea45"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script> ]]></content>
+    <content type="html"><![CDATA[<div id="dplayer2" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer2"),"autoplay":true,"hotkey":true,"preload":"metadata","video":{"url":"https://vdept.bdstatic.com/5a375542627a6d613670483877417847/5378313275646855/64c9f17155a218e1e05e7c2803787dcdf9c2ca4df4a9f5574762d8331815f1338d3820b8298ed009022d8a8475473787e6fd096cd023fb7c6cd855fc0b7dcef9.mp4?auth_key=1592851688-0-0-f191b239305e0222a85d6b819f67ea45"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script> ]]></content>
     
     <summary type="html">
     
@@ -245,7 +276,7 @@
     <published>2020-06-21T16:00:00.000Z</published>
     <updated>2020-06-22T17:03:29.385Z</updated>
     
-    <content type="html"><![CDATA[<div id="dplayer2" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer2"),"autoplay":true,"hotkey":true,"preload":"metadata","video":{"url":"https://vdn3.vzuu.com/LD/ce604174-a98f-11ea-a76e-b2be648d665c.mp4?disable_local_cache=1&bu=http-com&expiration=1592848939&auth_key=1592848939-0-0-80a4e7fcc590ec052c7be80a02a6ee90&f=mp4&v=tx"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script> ]]></content>
+    <content type="html"><![CDATA[<div id="dplayer3" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer3"),"autoplay":true,"hotkey":true,"preload":"metadata","video":{"url":"https://vdn3.vzuu.com/LD/ce604174-a98f-11ea-a76e-b2be648d665c.mp4?disable_local_cache=1&bu=http-com&expiration=1592848939&auth_key=1592848939-0-0-80a4e7fcc590ec052c7be80a02a6ee90&f=mp4&v=tx"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script> ]]></content>
     
     <summary type="html">
     
@@ -258,9 +289,9 @@
     
       <category term="数字货币" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/"/>
     
-      <category term="以太坊" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/%E4%BB%A5%E5%A4%AA%E5%9D%8A/"/>
-    
       <category term="比特币" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/%E6%AF%94%E7%89%B9%E5%B8%81/"/>
+    
+      <category term="以太坊" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/%E4%BB%A5%E5%A4%AA%E5%9D%8A/"/>
     
     
       <category term="以太坊" scheme="https://www.chengwf.com/tags/%E4%BB%A5%E5%A4%AA%E5%9D%8A/"/>
@@ -302,9 +333,9 @@
     
       <category term="比特币" scheme="https://www.chengwf.com/tags/%E6%AF%94%E7%89%B9%E5%B8%81/"/>
     
-      <category term="区块链看点" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE%E7%9C%8B%E7%82%B9/"/>
-    
       <category term="比特币价格" scheme="https://www.chengwf.com/tags/%E6%AF%94%E7%89%B9%E5%B8%81%E4%BB%B7%E6%A0%BC/"/>
+    
+      <category term="区块链看点" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE%E7%9C%8B%E7%82%B9/"/>
     
       <category term="加密市场" scheme="https://www.chengwf.com/tags/%E5%8A%A0%E5%AF%86%E5%B8%82%E5%9C%BA/"/>
     
@@ -341,15 +372,15 @@
     
       <category term="区块链" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE/"/>
     
-      <category term="数字货币" scheme="https://www.chengwf.com/tags/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/"/>
-    
-      <category term="区块链看点" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE%E7%9C%8B%E7%82%B9/"/>
-    
-      <category term="加密货币" scheme="https://www.chengwf.com/tags/%E5%8A%A0%E5%AF%86%E8%B4%A7%E5%B8%81/"/>
-    
       <category term="去中心化金融" scheme="https://www.chengwf.com/tags/%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%8C%96%E9%87%91%E8%9E%8D/"/>
     
       <category term="DeFi" scheme="https://www.chengwf.com/tags/DeFi/"/>
+    
+      <category term="区块链看点" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE%E7%9C%8B%E7%82%B9/"/>
+    
+      <category term="数字货币" scheme="https://www.chengwf.com/tags/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/"/>
+    
+      <category term="加密货币" scheme="https://www.chengwf.com/tags/%E5%8A%A0%E5%AF%86%E8%B4%A7%E5%B8%81/"/>
     
   </entry>
   
@@ -371,9 +402,9 @@
     
       <category term="区块链" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/"/>
     
-      <category term="WIKI" scheme="https://www.chengwf.com/categories/WIKI/"/>
-    
       <category term="数字货币" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/"/>
+    
+      <category term="WIKI" scheme="https://www.chengwf.com/categories/WIKI/"/>
     
       <category term="以太坊" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/%E4%BB%A5%E5%A4%AA%E5%9D%8A/"/>
     
@@ -418,9 +449,9 @@
     
       <category term="数字货币" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/"/>
     
-      <category term="数字经济" scheme="https://www.chengwf.com/categories/%E6%95%B0%E5%AD%97%E7%BB%8F%E6%B5%8E/"/>
-    
       <category term="以太坊" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/%E4%BB%A5%E5%A4%AA%E5%9D%8A/"/>
+    
+      <category term="数字经济" scheme="https://www.chengwf.com/categories/%E6%95%B0%E5%AD%97%E7%BB%8F%E6%B5%8E/"/>
     
       <category term="数字经济" scheme="https://www.chengwf.com/categories/%E6%95%B0%E5%AD%97%E7%BB%8F%E6%B5%8E/%E6%95%B0%E5%AD%97%E7%BB%8F%E6%B5%8E/"/>
     
@@ -495,9 +526,9 @@
     
       <category term="ETH" scheme="https://www.chengwf.com/tags/ETH/"/>
     
-      <category term="行情中心" scheme="https://www.chengwf.com/tags/%E8%A1%8C%E6%83%85%E4%B8%AD%E5%BF%83/"/>
-    
       <category term="BTC" scheme="https://www.chengwf.com/tags/BTC/"/>
+    
+      <category term="行情中心" scheme="https://www.chengwf.com/tags/%E8%A1%8C%E6%83%85%E4%B8%AD%E5%BF%83/"/>
     
       <category term="BCH" scheme="https://www.chengwf.com/tags/BCH/"/>
     
@@ -603,9 +634,9 @@
     
       <category term="数字货币" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/"/>
     
-      <category term="以太坊" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/%E4%BB%A5%E5%A4%AA%E5%9D%8A/"/>
-    
       <category term="比特币" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/%E6%AF%94%E7%89%B9%E5%B8%81/"/>
+    
+      <category term="以太坊" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/%E4%BB%A5%E5%A4%AA%E5%9D%8A/"/>
     
     
       <category term="区块链" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE/"/>
@@ -642,11 +673,11 @@
     
       <category term="区块链" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/"/>
     
-      <category term="WIKI" scheme="https://www.chengwf.com/categories/WIKI/"/>
-    
       <category term="数字货币" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/"/>
     
       <category term="比特币" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/%E6%AF%94%E7%89%B9%E5%B8%81/"/>
+    
+      <category term="WIKI" scheme="https://www.chengwf.com/categories/WIKI/"/>
     
       <category term="区块链技术" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E5%8C%BA%E5%9D%97%E9%93%BE%E6%8A%80%E6%9C%AF/"/>
     
@@ -689,9 +720,9 @@
     
       <category term="数字货币" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/"/>
     
-      <category term="以太坊" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/%E4%BB%A5%E5%A4%AA%E5%9D%8A/"/>
-    
       <category term="比特币" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/%E6%AF%94%E7%89%B9%E5%B8%81/"/>
+    
+      <category term="以太坊" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/%E4%BB%A5%E5%A4%AA%E5%9D%8A/"/>
     
     
       <category term="区块链" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE/"/>
@@ -736,39 +767,6 @@
       <category term="区块链产业创新" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE%E4%BA%A7%E4%B8%9A%E5%88%9B%E6%96%B0/"/>
     
       <category term="区块链与汽车产业" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE%E4%B8%8E%E6%B1%BD%E8%BD%A6%E4%BA%A7%E4%B8%9A/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Exploring Bitcoin and blockchain technology(探秘比特币与区块链技术)（视频）</title>
-    <link href="https://www.chengwf.com/2020/06/videos/blockchain_DLT.html"/>
-    <id>https://www.chengwf.com/2020/06/videos/blockchain_DLT.html</id>
-    <published>2020-06-01T16:00:00.000Z</published>
-    <updated>2020-06-02T09:03:34.270Z</updated>
-    
-    <content type="html"><![CDATA[<p>有人认为这不过是炒作；其他人则将此视作一种革命性技术，可以彻底改变我们交易几乎一切有价值之物的方式。 那么这种所谓分布式账本技术(DLT)到底是什么？它怎样运作？谁能从中受益？在这个的视频中，我们将为您区分事实与虚构，帮您看清炒作的烟幕。 …</p><div id="dplayer5" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer5"),"autoplay":true,"hotkey":true,"preload":"metadata","video":{"url":"https://chengwf.com/473ac"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script> <p>Some people think this is just hype; others see it as a revolutionary technology that can completely change the way we trade almost everything of value. So what is this so-called distributed ledger technology (DLT)? How does it work? Who can benefit from it? In this video, we will distinguish between fact and fiction, and help you see the smoke screen of hype. … </p><div class="video-container"><iframe src="https://www.youtube.com/embed/UpCUcIlBoK8" frameborder="0" loading="lazy" allowfullscreen></iframe></div><h1 id="Distributed-Ledger-Technology-DLT"><a href="#Distributed-Ledger-Technology-DLT" class="headerlink" title="Distributed Ledger Technology (DLT)"></a>Distributed Ledger Technology (DLT)</h1><p>DLT 有一個更耳熟能詳的名字，叫做區塊鏈。簡單來說，根據 Wikipedia 上的定義 [1]，區塊鏈（Blockchain）就是一種 Distributed Ledger 的資料結構（Data Structure）：</p><blockquote><p>a Blockchain is only one type of data structure considered to be a distributed ledger.</p></blockquote><p>也就是說，DLT 可以延用 Blockchain 資料結構設計，也可以根據應用的不同，設計全新的資料結構；無論是採用 Blockchain 資料結構，或是設計新的資料結構，目標都是提供一個分散式資料儲存系統（distributed data storage）。一個 DLT Platform 除了要具備一個安全可信任的 distributed data storage，還具備以下 2 個元素：</p><ul><li>A peer-to-peer network</li><li>Consensus algorithms</li></ul><p>在 distributed data storage 網路上的電腦裝置，稱之為節點。由於 distributed data storage 需要考慮備援與錯誤修正的問題，因此會將一筆資料同步備援在多個節點上，這樣的技術就稱為 replication。當某一個節點上的該筆資料毀損時，扮演該筆資料備援角色的節點，就能協助該節點，回覆毀損的資料，這樣的技術就稱為 redundancy。</p><p>技術上，DLT 就是一個為 distributed data storage 提供 replication/redundancy 功能的通訊協定（Protocol）。這樣的 replication/redundancy 機制，就稱為 fault tolerance（容錯機制）。</p><h2 id="Transactions"><a href="#Transactions" class="headerlink" title="Transactions"></a>Transactions</h2><p>DLT 與傳統資料庫系統，除了上述的差別外，另一個重要的區別是：交易。DLT 儲存的是交易（Transaction）；而傳統資料庫儲存，則是儲存「資料」（Data）。</p><p>交易與資料的一個區別是，交易需要被「驗證」（validation）；而資料卻是可以直接地，儲存進資料庫裡即可。交易會包含所要儲存的資料，因此，可以說交易是資料的「封裝」。</p><p>在軟體設計的領域裡，封裝有「打包」的意思；也就是說，這像是在寄掛號信，我先將文件（資料）放進信封打包好，再將郵件「提交」到郵局，最後由收件人簽收無誤後取出文件，再將文件歸檔（儲存）。</p><p>在一個 DLT Platoform 裡，交易的驗證過程，需要決定該筆交易的接受者與簽收方式，這就開始涉及 Broadcast 與 Consensus 技術了。最終，這筆交易會被節點儲存，而儲存交易的地方就稱為 Block（區塊）；這些區塊將不只一個，而是一個 chain of blocks 的結構，這些串接在一起的 blocks 就稱為 blockchain。</p><h2 id="Byzantine-Fault-Tolerance（拜占庭容錯算法）"><a href="#Byzantine-Fault-Tolerance（拜占庭容錯算法）" class="headerlink" title="Byzantine Fault Tolerance（拜占庭容錯算法）"></a>Byzantine Fault Tolerance（拜占庭容錯算法）</h2><p>DLT 是一個比 Blockchain 更整體的研究主題，例如知名的 Hyperledger 就是一個 DLT 平台。Fault tolerance 與 transactions 則是 DLT 的核心骨幹。像是 PBFT（Practical Byzantine Fault Tolerance ）就是一個知名的 fault tolerance 演算法，並且被 Hyperledger Fabric v0.6 所採用。</p><p>SBFT（Simplified Byzantine Fault Tolerance）也是一種 fault toerance 演算法，由 Hyperledger Fabric v1.0 實作；SBFT 演算法延續自 PBFT，目標是擴充 PBFT 以支援更大規模（large scale）的 p2p 網路。</p><p>拜占庭容錯算法，目前經常被稱為共識算法（consensus algorithms）；雖然二者是不同的技術，不過現在似乎也不會這麼嚴謹地區分了。</p><h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><p>[1] <a href="https://en.wikipedia.org/wiki/Distributed_ledger" target="_blank" rel="noopener">https://en.wikipedia.org/wiki/Distributed_ledger</a></p>]]></content>
-    
-    <summary type="html">
-    
-      （视频视点分析）有人认为这不过是炒作；其他人则将此视作一种革命性技术，可以彻底改变我们交易几乎一切有价值之物的方式。
-    
-    </summary>
-    
-    
-      <category term="区块链" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/"/>
-    
-    
-      <category term="区块链" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE/"/>
-    
-      <category term="比特币" scheme="https://www.chengwf.com/tags/%E6%AF%94%E7%89%B9%E5%B8%81/"/>
-    
-      <category term="区块链技术" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE%E6%8A%80%E6%9C%AF/"/>
-    
-      <category term="区块链视频" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE%E8%A7%86%E9%A2%91/"/>
-    
-      <category term="blockchain_video" scheme="https://www.chengwf.com/tags/blockchain-video/"/>
-    
-      <category term="DLT" scheme="https://www.chengwf.com/tags/DLT/"/>
     
   </entry>
   

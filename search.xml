@@ -1,6 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>将区块链技术应用到电池供应链</title>
+    <url>/2020/07/Industrial_innovation/blockchain-to-battery-supply-chains.html</url>
+    <content><![CDATA[<p>在过去的几年中，电池供应链中的市场刚需和社会责任已成为一个越来越重要的民生和商业焦点，并且随着对智能型手机，新能源电动汽车和再生替代能源的需求不断增长，它将仍然是一个世界型共同的关键主题。</p>
+<p><img src="https://s1.ax1x.com/2020/07/04/NxslAs.jpg" alt="NxslAs.jpg"></p>
+<center><font color="acacac" size=2>在刚果进行钴提取，原料在这手工洗涤</font></center>
+
+<p>从处理器或最终用户的角度来看，要了解整个供应链并知道进入电池供应链的物料来自何处或去向何处，是非常困难的，即使不是不可能的。几乎无法确定上述产品的采购，加工和制造对其环境，人道主义和社会足迹的影响。</p>
+<p>全面了解供应链是了解这些影响并能够遵守法规和利益相关者标准的关键。随着诸如区块链之类的新兴技术在某些应用中实现商业实施，可以改变供应链中材料来源的必要可见性。</p>
+<p><img src="https://chengwf.com/e1133" alt="NxsM7j.jpg"></p>
+<h1 id="区块链技术用途"><a href="#区块链技术用途" class="headerlink" title="区块链技术用途"></a>区块链技术用途</h1><p><br/>随着我们从最初对区块链的大肆宣传进入实际实施阶段，我们看到了用例的真正好处。这些用例之一是在供应链中。在整个端到端交易生命周期中进行资产管理是一个挑战。各种各样的参与者都参与了实际的供应链，所有人都有自己的记录，这往往会造成效率低下和安全问题。通过应用区块链技术，所有记录都可以存储在单一的事实来源中，从而减少了错误，降低了腐败风险并简化了业务流程。减少了对中介的需求，进一步降低了风险并降低了交易成本。</p>
+<p>供应链的可追溯性已成为投资者和利益相关者对负责任采购的期望的焦点。行业参与者现在面临着拥抱数字化转型或被甩在后面的任务。</p>
+<h1 id="产品出处"><a href="#产品出处" class="headerlink" title="产品出处"></a>产品出处</h1><p><br/>可以说，使用区块链开采矿产资源的最大成功案例之一是在钻石行业中使用称为Tracr的系统。戴比尔斯（De Beers）是钻石行业的最大参与者（直到1980年代，它一直控制着市场），因此将Tracr确立为独立实体。</p>
+<p><img src="https://s1.ax1x.com/2020/07/04/NxsmjS.jpg" alt="NxsmjS.jpg"></p>
+<center><font color="acacac" size=2>太阳能矿场基地</font></center>
+
+<p>一旦开采出钻石，便会创建一个数字版本，并从矿场的原始钻石追溯到最终客户。伦敦哈顿街一家珠宝店里的一颗钻石在区块链上拥有自己的数字版本，其全过程从曾经价值低得多的粗糙，未经切割的宝石到圆形明亮的宝石-成品。</p>
+<p>钻石当然相对容易追踪，因为毛坯钻石通常只会产生两颗经过切割的精制钻石。电池中使用的金属与钻石相比，其状态变化更频繁，并且交易量也更大。但是，逻辑保持不变。</p>
+<h1 id="相互依赖的文件"><a href="#相互依赖的文件" class="headerlink" title="相互依赖的文件"></a>相互依赖的文件</h1><p><br/>每个人都可以使用公共区块链，并且常常引起对数据安全性和隐私的担忧。通过安全的单向哈希的概念来解决这一挑战。每个文档都会生成自己的唯一标识（哈希值），该标识具有价值，并且可以公开获取。哈希对于外部人类查看者几乎没有价值，但是拥有原始文档的审核员可以验证哈希是真实的。哈希的目的是允许对私人文档进行公开验证。</p>
+<p>电池材料供应链中的文档流很复杂，因为许多文档都依赖于链中其他文档的正确完成。区块链是管理如此复杂的文档流的理想环境，因为文档之间的所有关系也可以公开验证。如果文档丢失，不完整或损坏，则立即知道该文档，并且无法完成以下步骤。</p>
+<p>在国家，仓库，港口和加工商之间运送物料会产生大量相互依赖的文件。与文档进行手动交互意味着永远存在错误或损坏的风险。如果每个交易都立即存储在区块链上，那么错误立即可见，并且篡改文件几乎变得不可能。</p>
+<p><img src="https://s1.ax1x.com/2020/07/04/NxsKBQ.jpg" alt="NxsKBQ.jpg"></p>
+<center><font color="acacac" size=2>上图为：钴供应链模型。资源来源：SAFE</font></center>
+
+<h1 id="合规，审计，规则"><a href="#合规，审计，规则" class="headerlink" title="合规，审计，规则"></a>合规，审计，规则</h1><p><br/>通过将区块链技术应用于供应链，可以使任何需要对任何给定供应链中的流程和文档具有可见性的利益相关者，都可以立即，标准化和不间断地访问任何材料生命周期的真相。这减少了确保合规性所需的开销，并减轻了公开不充分的风险。</p>
+<p>区块链通过设计实现合规性，这意味着任何监管机构和客户都可以在遵守必要标准的情况下继续开展日常业务。</p>
+<h1 id="溢出利益"><a href="#溢出利益" class="headerlink" title="溢出利益"></a>溢出利益</h1><p><br/>原材料生产商和制造商在供应链上彼此相距很远，而且常常根本不知道它们在同一条链中。启用区块链的供应链为所有链接可见的行动和参与者打开了一个窗口。新的关系，甚至伙伴关系的机会成为可能。</p>
+<p>数字化转型是一段旅程。公司需要做的就是在业务的正确部分开始这一旅程。通过在供应链中应用区块链，它可以数字化基础物理业务，这是该行业的核心。凭借其业务的数字化足迹，公司已准备好利用其他可用的技术进步。物联网，GPS和其他新兴技术有可能进一步提高效率，流程优化和透明度。</p>
+<h1 id="透明目标"><a href="#透明目标" class="headerlink" title="透明目标"></a>透明目标</h1><p><br/>归根结底，透明度等于信任，这是将区块链引入电池材料供应链的最重要和核心功能。就其本身而言，这足以投资于区块链解决方案。金属供应链行业正在使用严重过时的技术，并且需要区块链提供的那种数字中断。</p>
+<p><strong>关于作者：</strong></p>
+<p>区块新看点-程伟（Block.Chan），拥有10年金融科技项目的解决方案孵化和运营经验。5年区块链领域在数字资产交易平台、电子数字钱包、区块链联盟链和公有链框架下Dapp孵化运营的实操盘经验。Block.Chan致力于运用新兴技术在新商业、数字经济时代通过智能自动化解决方案来实现创新产品赋能产业升级的目标为己目标。</p>
+<p><strong>声明：</strong>本文为区块新看点-程伟（Block.Chan）原创产业解决方案，欢迎各界人士交流学习，转载请备注来源于“区块新看点”版权所有，谢谢！</p>
+]]></content>
+      <categories>
+        <category>区块链</category>
+        <category>区块链产业创新</category>
+      </categories>
+      <tags>
+        <tag>区块链</tag>
+        <tag>blockchain_Industrial_innovation</tag>
+        <tag>区块链产业创新</tag>
+        <tag>区块链与电池</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>比特币如在2021年迎来上涨行情，这5大关键因素或是开启红牛行情的钥匙</title>
     <url>/2020/07/bitcoin-price-2021-five-fundamental-factors.html</url>
     <content><![CDATA[<p><img src="https://chengwf.com/5b5dd" alt="NLqCzd.jpg"></p>
@@ -94,9 +138,9 @@
       <tags>
         <tag>比特币</tag>
         <tag>比特币价格</tag>
+        <tag>区块新看点</tag>
         <tag>加密货币</tag>
         <tag>BTC</tag>
-        <tag>区块新看点</tag>
         <tag>哈希率</tag>
         <tag>拜占庭将军</tag>
       </tags>
@@ -361,7 +405,7 @@
   <entry>
     <title>去中心化金融（DeFi）是什么，及如何正确投资？</title>
     <url>/2020/06/videos/DeFi_what_and_invest.html</url>
-    <content><![CDATA[<div id="dplayer3" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer3"),"autoplay":true,"hotkey":true,"preload":"metadata","video":{"url":"https://chengwf.com/7aee0"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script> 
+    <content><![CDATA[<div id="dplayer1" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer1"),"autoplay":true,"hotkey":true,"preload":"metadata","video":{"url":"https://chengwf.com/7aee0"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script> 
 
 
 ]]></content>
@@ -497,8 +541,8 @@
 ]]></content>
       <categories>
         <category>区块链</category>
-        <category>WIKI</category>
         <category>数字货币</category>
+        <category>WIKI</category>
         <category>以太坊</category>
         <category>区块链技术</category>
         <category>DeFi</category>
@@ -518,7 +562,7 @@
   <entry>
     <title>比特币BTC的十年逆袭之路（动态可视化数据图表）</title>
     <url>/2020/06/videos/bitcoin_ten_dany_data.html</url>
-    <content><![CDATA[<div id="dplayer1" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer1"),"autoplay":true,"hotkey":true,"preload":"metadata","video":{"url":"https://vdept.bdstatic.com/5a375542627a6d613670483877417847/5378313275646855/64c9f17155a218e1e05e7c2803787dcdf9c2ca4df4a9f5574762d8331815f1338d3820b8298ed009022d8a8475473787e6fd096cd023fb7c6cd855fc0b7dcef9.mp4?auth_key=1592851688-0-0-f191b239305e0222a85d6b819f67ea45"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script> 
+    <content><![CDATA[<div id="dplayer2" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer2"),"autoplay":true,"hotkey":true,"preload":"metadata","video":{"url":"https://vdept.bdstatic.com/5a375542627a6d613670483877417847/5378313275646855/64c9f17155a218e1e05e7c2803787dcdf9c2ca4df4a9f5574762d8331815f1338d3820b8298ed009022d8a8475473787e6fd096cd023fb7c6cd855fc0b7dcef9.mp4?auth_key=1592851688-0-0-f191b239305e0222a85d6b819f67ea45"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script> 
 ]]></content>
       <categories>
         <category>区块链</category>
@@ -535,15 +579,15 @@
   <entry>
     <title>比特币vs以太坊，从2013到2020（动态可视化数据图表）</title>
     <url>/2020/06/videos/bitcoin_vs_Ethereum.html</url>
-    <content><![CDATA[<div id="dplayer2" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer2"),"autoplay":true,"hotkey":true,"preload":"metadata","video":{"url":"https://vdn3.vzuu.com/LD/ce604174-a98f-11ea-a76e-b2be648d665c.mp4?disable_local_cache=1&bu=http-com&expiration=1592848939&auth_key=1592848939-0-0-80a4e7fcc590ec052c7be80a02a6ee90&f=mp4&v=tx"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script> 
+    <content><![CDATA[<div id="dplayer3" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer3"),"autoplay":true,"hotkey":true,"preload":"metadata","video":{"url":"https://vdn3.vzuu.com/LD/ce604174-a98f-11ea-a76e-b2be648d665c.mp4?disable_local_cache=1&bu=http-com&expiration=1592848939&auth_key=1592848939-0-0-80a4e7fcc590ec052c7be80a02a6ee90&f=mp4&v=tx"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script> 
 
 
 ]]></content>
       <categories>
         <category>区块链</category>
         <category>数字货币</category>
-        <category>以太坊</category>
         <category>比特币</category>
+        <category>以太坊</category>
       </categories>
       <tags>
         <tag>以太坊</tag>
@@ -639,8 +683,8 @@
       <tags>
         <tag>区块链周报</tag>
         <tag>比特币</tag>
-        <tag>区块链看点</tag>
         <tag>比特币价格</tag>
+        <tag>区块链看点</tag>
         <tag>加密市场</tag>
         <tag>市场分析</tag>
       </tags>
@@ -770,11 +814,11 @@
       </categories>
       <tags>
         <tag>区块链</tag>
-        <tag>数字货币</tag>
-        <tag>区块链看点</tag>
-        <tag>加密货币</tag>
         <tag>去中心化金融</tag>
         <tag>DeFi</tag>
+        <tag>区块链看点</tag>
+        <tag>数字货币</tag>
+        <tag>加密货币</tag>
       </tags>
   </entry>
   <entry>
@@ -905,8 +949,8 @@
 ]]></content>
       <categories>
         <category>区块链</category>
-        <category>WIKI</category>
         <category>数字货币</category>
+        <category>WIKI</category>
         <category>以太坊</category>
       </categories>
       <tags>
@@ -984,8 +1028,8 @@
       <categories>
         <category>区块链</category>
         <category>数字货币</category>
-        <category>数字经济</category>
         <category>以太坊</category>
+        <category>数字经济</category>
         <category>数字经济</category>
         <category>美国股市</category>
       </categories>
@@ -1083,8 +1127,8 @@
         <tag>以太坊</tag>
         <tag>比特币</tag>
         <tag>ETH</tag>
-        <tag>行情中心</tag>
         <tag>BTC</tag>
+        <tag>行情中心</tag>
         <tag>BCH</tag>
         <tag>EOS</tag>
       </tags>
@@ -1361,8 +1405,8 @@
       <categories>
         <category>区块链</category>
         <category>数字货币</category>
-        <category>以太坊</category>
         <category>比特币</category>
+        <category>以太坊</category>
       </categories>
       <tags>
         <tag>区块链</tag>
@@ -1529,9 +1573,9 @@
 ]]></content>
       <categories>
         <category>区块链</category>
-        <category>WIKI</category>
         <category>数字货币</category>
         <category>比特币</category>
+        <category>WIKI</category>
         <category>区块链技术</category>
       </categories>
       <tags>
@@ -1601,8 +1645,8 @@
       <categories>
         <category>区块链</category>
         <category>数字货币</category>
-        <category>以太坊</category>
         <category>比特币</category>
+        <category>以太坊</category>
       </categories>
       <tags>
         <tag>区块链</tag>
@@ -1977,7 +2021,7 @@
   <entry>
     <title>区块链和DCEP，终结美元霸权两大杀手锏（视频）</title>
     <url>/2020/05/videos/china_dcep.html</url>
-    <content><![CDATA[<div id="dplayer4" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer4"),"autoplay":true,"hotkey":true,"preload":"metadata","video":{"url":"https://chengwf.com/1l8"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script> 
+    <content><![CDATA[<div id="dplayer6" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer6"),"autoplay":true,"hotkey":true,"preload":"metadata","video":{"url":"https://chengwf.com/1l8"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script> 
 
 
 
@@ -2175,7 +2219,7 @@
 <p>Facebook于上週公佈密码货币Libra细节，这款以建立一套去中心化、低门槛无国界支付为宗旨的创新金融服务，能否得到主流市场的认可，是其实现伟大金融愿景的关键。</p>
 </blockquote>
 <p>Facebook CEO的Mark Zuckerberg公布了筹备已久的区块链金融产品：密码货币Libra和Calibra数位钱包（Digital Wallet），一脚踏入区块链与金融科技的领域。</p>
-<div id="dplayer6" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer6"),"autoplay":true,"hotkey":true,"preload":"metadata","video":{"url":"https://chengwf.com/5dg"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script> 
+<div id="dplayer7" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer7"),"autoplay":true,"hotkey":true,"preload":"metadata","video":{"url":"https://chengwf.com/5dg"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script> 
 
 <h1 id="Libra是什么？"><a href="#Libra是什么？" class="headerlink" title="Libra是什么？"></a>Libra是什么？</h1><p><strong>Libra的使命是建立一套简单的、无国界的货币，和为数十亿人服务的金融基础设施。</strong></p>
 <p>Libra白皮书开宗明义的目的和理想，就是运用区块链技术来打造无国界、去中心化、低波动的加密虚拟货币（Cryptocurrency），来降低全球货币兑换转帐、支付交易的门槛，实现普惠的互联网金融创新。</p>
@@ -2356,17 +2400,17 @@
       </categories>
       <tags>
         <tag>区块链</tag>
-        <tag>区块链看点</tag>
         <tag>绿地</tag>
         <tag>绿地陈军</tag>
         <tag>张雨婷</tag>
         <tag>史睿生</tag>
+        <tag>区块链看点</tag>
       </tags>
   </entry>
   <entry>
     <title>5分钟给你说明白什么是区块链（视频）</title>
     <url>/2020/05/videos/blockchain_education.html</url>
-    <content><![CDATA[<div id="dplayer3" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer3"),"autoplay":true,"hotkey":true,"preload":"metadata","video":{"url":"https://vdn2.vzuu.com/SD/04520378-9ad9-11ea-a676-d2489c713817.mp4?disable_local_cache=1&bu=http-com&expiration=1592849218&auth_key=1592849218-0-0-71c28c810b6b6707ace5882e03a2b227&f=mp4&v=bsy"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script> 
+    <content><![CDATA[<div id="dplayer4" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer4"),"autoplay":true,"hotkey":true,"preload":"metadata","video":{"url":"https://vdn2.vzuu.com/SD/04520378-9ad9-11ea-a676-d2489c713817.mp4?disable_local_cache=1&bu=http-com&expiration=1592849218&auth_key=1592849218-0-0-71c28c810b6b6707ace5882e03a2b227&f=mp4&v=bsy"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script> 
 
 
 
@@ -2591,8 +2635,8 @@
       <tags>
         <tag>区块链</tag>
         <tag>DCEP</tag>
-        <tag>数字货币</tag>
         <tag>区块链看点</tag>
+        <tag>数字货币</tag>
         <tag>Libra</tag>
       </tags>
   </entry>
@@ -2646,8 +2690,8 @@
       <tags>
         <tag>区块链</tag>
         <tag>央行数字货币</tag>
-        <tag>以太坊</tag>
         <tag>区块链周报</tag>
+        <tag>以太坊</tag>
       </tags>
   </entry>
   <entry>
@@ -2716,8 +2760,8 @@
       <tags>
         <tag>区块链</tag>
         <tag>央行数字货币</tag>
-        <tag>区块链周报</tag>
         <tag>DCEP</tag>
+        <tag>区块链周报</tag>
       </tags>
   </entry>
   <entry>
@@ -2839,9 +2883,9 @@
       </categories>
       <tags>
         <tag>区块链</tag>
+        <tag>区块链看点</tag>
         <tag>数字货币</tag>
         <tag>闪电网络</tag>
-        <tag>区块链看点</tag>
       </tags>
   </entry>
   <entry>
@@ -3080,8 +3124,8 @@
 ]]></content>
       <categories>
         <category>区块链</category>
-        <category>WIKI</category>
         <category>数字货币</category>
+        <category>WIKI</category>
         <category>DCEP</category>
         <category>DCEP</category>
       </categories>
@@ -3154,8 +3198,8 @@
         <category>区块链</category>
         <category>数字货币</category>
         <category>加密货币交易平台</category>
-        <category>矿池</category>
         <category>数字货币</category>
+        <category>矿池</category>
       </categories>
       <tags>
         <tag>区块链</tag>
@@ -3868,9 +3912,9 @@
 ]]></content>
       <categories>
         <category>区块链</category>
-        <category>WIKI</category>
         <category>数字货币</category>
         <category>比特币</category>
+        <category>WIKI</category>
         <category>区块链技术</category>
       </categories>
       <tags>
@@ -4139,10 +4183,10 @@
 ]]></content>
       <categories>
         <category>区块链</category>
-        <category>新冠状病毒</category>
         <category>数字货币</category>
-        <category>数字经济</category>
         <category>比特币</category>
+        <category>新冠状病毒</category>
+        <category>数字经济</category>
         <category>数字货币</category>
       </categories>
       <tags>
@@ -4528,8 +4572,8 @@ AI的关键重要性
         <category>区块链</category>
         <category>新冠状病毒</category>
         <category>区块链金融</category>
-        <category>数字经济</category>
         <category>区块链应用</category>
+        <category>数字经济</category>
       </categories>
       <tags>
         <tag>区块链</tag>
