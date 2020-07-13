@@ -1,6 +1,150 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>什么是 Comp？深入挖掘以太坊 DeFi 的最新趋势</title>
+    <url>/2020/07/wiki-Ethereum-DeFi-Compound.html</url>
+    <content><![CDATA[<p>今年早些时候，基于以太坊的化合物终于跟随了其他去中心化金融协议的脚步，发布了复合治理Token：COMP。2020年2月26日发布的发布会上的发布内容如下：<a id="more"></a></p>
+<blockquote>
+<p><strong>“ COMP增强了社区治理的能力，而它不是筹款工具或投资机会。在权力下放过程完成之前，COMP将不会对公众开放。”</strong></p>
+</blockquote>
+<p>如以上消息所示，该加密货币在发布时是私有的：该令牌由风险投资基金，DeFi空间中的大型参与者以及协议Compound Labs的运营商持有。但是在6月15日，COMP的机构持有人（如PolyChain Capital，Dharma，Argent，Dragonfly Capital等）一致同意公开加密货币。</p>
+<p>自推出以来，COMP取得了快速的增长。该资产的市值目前为7.4亿美元，高于DeFi的子公司MakerDAO的管理令牌Maker（MKR）的市值。但是，业内很少有人确切知道COMP的功能以及如何获得它。</p>
+<p><img src="https://chengwf.com/f7218" alt="UJyEng.jpg"></p>
+<blockquote>
+<p>科普：<a href="https://www.chengwf.com/2020/06/wiki-DeFi-index.html">区块新看点科普 | 什么是去中心化金融（DeFi）？</a></p>
+</blockquote>
+<hr>
+<h1 id="一、什么是COMP？"><a href="#一、什么是COMP？" class="headerlink" title="一、什么是COMP？"></a><strong>一、什么是COMP？</strong></h1><p><br/>简单地说，COMP 是一个治理令牌，允许影响基础复合协议的运作方式。正如复合实验室所解释的：</p>
+<blockquote>
+<p><strong>“我们很荣幸能够引入治理系统[…]允许您对复合型进行建议、辩论和实施更改，而无需依赖或要求我们的团队。”</strong></p>
+</blockquote>
+<p>这是从之前建立的系统转变，该系统看到复合实验室公司主要选择他们想采取的协议方向。这并不是说这是错误的方法——复合实验室成功地建立了数千个用户群和数亿美元的经济机器。</p>
+<p>不过，COMP的引入，通过允许用户控制的智能合约改变复合体，进一步分散了DeFi中最大的参与者之一。如果要坚持权力下放，这是必须采取的一个步骤。</p>
+<hr>
+<h1 id="二、COMP-是具有特殊属性的-“标准-“-ERC-20-资产"><a href="#二、COMP-是具有特殊属性的-“标准-“-ERC-20-资产" class="headerlink" title="二、COMP 是具有特殊属性的 “标准 “ ERC-20 资产"></a><strong>二、COMP 是具有特殊属性的 “标准 “ ERC-20 资产</strong></h1><p><br/>您可以将他们的投票权委托给自己选择的以太坊地址-无论是 DeFi 初创公司、风险投资基金，还是加密货币领域的杰出用户。与民主政体一样，其理念是，用户可以选择委派他们认为代表自己观点最好的候选人。</p>
+<blockquote>
+<p><strong>重要的是，将 COMP 委派到地址并不意味着转移这些硬币。授权允许一个人保留对自己的硬币的保管权，同时仍然促进他们对协议方向的看法。</strong></p>
+</blockquote>
+<p>已收到占 COMP 供应量 1% 以上的委派的地址可以建议治理行动此最低要求可防止网络中几乎没有经济利害关系的地址提出非理性或危险操作。</p>
+<p>治理操作不是建议，而是一些可执行代码，一旦获得多数，就会集成到复合中。</p>
+<p><img src="https://s1.ax1x.com/2020/07/13/UJyVBQ.jpg" alt="UJyVBQ.jpg"></p>
+<p>在他们提出初步建议后，由COMP持有人在三天期间对行动进行表决。如果该提案获得至少40万张选票（在总共1000万张潜在选票中，在分配所有COMP后会有），并且这些票中的多数是”赞成”的，则行动将在两天的时间锁定中排队，然后被激活。</p>
+<p>时间锁允许协议的用户为该更改做好准备，如值得注意的是，治理模型本身可以更改。但这需要一个实体提出并通过一个治理行动，改变该模式。</p>
+<p>这就提出了一个紧迫的问题，一个人可以提出什么治理行动？任何真正的东西，只要它可以编码。</p>
+<p>复合列表增加了对加密货币的支持，改变了市场利率的计算器方式，并更改资产的抵押品因子，作为三个可以完成的主要操作。</p>
+<br/>
+
+<p>下面是已经提出并投票表决的一些事情的列表：</p>
+<ul>
+<li><strong>添加对系绳的 USDT 的支持</strong></li>
+<li><strong>公开 Comp</strong></li>
+<li><strong>更新 DAI 的利率模型以更好地支持贷款人</strong></li>
+</ul>
+<br/>
+
+<p>到目前为止，这九项提案几乎一致通过，表明COMP最大的持有者之间存在和谐的关系。</p>
+<p>话又说回来，最终，并不是所有事情都会获得通过——特别是如果一项行动以消极的方式有利于大多数投票权。</p>
+<p>除了上面的布局之外，COMP 没有太大的效用。虽然曾有讨论允许COMP持有人从复合物的市场活动（即股息）中获益，但这只是一个新生的想法，尤其是当大多数以太坊代币尚未分发时。</p>
+<hr>
+<h1 id="三、如何获得以太坊代币？"><a href="#三、如何获得以太坊代币？" class="headerlink" title="三、如何获得以太坊代币？"></a><strong>三、如何获得以太坊代币？</strong></h1><br/>
+
+<p>对于 DeFi 的零售用户，目前可以通过两种方式之一获得 COMP：</p>
+<p><strong>1、首先：通过交换其他加密货币。</strong>与大多数其他公共数字资产一样，人们可以通过在加密空间中交换”储备资产”来购买COMP。</p>
+<p>截至本文撰写时，COMP 可以在Uniswap和其他分散的交易所中交易 ETH。除了以交易者为重点的期货市场，FTX还支持以美元和泰特的 USDT 稳定金买卖 COMP。还有许多其他支持加密货币的交易所，在此链接中列出，并且每周都会有更多平台添加资产。</p>
+<p><strong>2、其次：使用化合物。</strong></p>
+<p>就目前情况，任何使用或借用来自化合物的 ETH、DAI、USDC、USDT、BAT、REP、WBTC 和 ZRX 市场加密货币的人将能够申请一定数量的 COMP，总计为 2，880/天。</p>
+<p>可以申领的金额取决于用户交互相对于复合市场产生的利息。分配给每个市场的金额取决于它相对于整个复合生态系统的利息。</p>
+<p>COMP 在供应商（放款人）和借款人之间平均分配。</p>
+<br/>
+
+<p>不过，这种分布方法并不完美。复合实验室团队正在研究四种解决方案，以规范化 COMP 的分布，如下所示：</p>
+<ul>
+<li><strong>降低杠杆率可以借用资产</strong></li>
+<li><strong>更新利率模型</strong></li>
+<li><strong>更新分布公式</strong></li>
+<li><strong>降低 COMP 的分发速度</strong></li>
+</ul>
+<br/>
+
+<p>四年后，分配计划预计将结束，因为COMP将大部分下放。</p>
+<p>其他更罕见且相对难以获得的方式赚取加密货币包括加入复合团队或成为复合实验室的股东。最终也可能向治理过程的参与者分发少量 COMP。</p>
+<hr>
+<h1 id="四、“yield-farming”简要说明"><a href="#四、“yield-farming”简要说明" class="headerlink" title="四、“yield farming”简要说明"></a><strong>四、“yield farming”简要说明</strong></h1><br/>
+
+<p>COMP之所以如此受欢迎，是因为所谓的”yield farming”。</p>
+<p><img src="https://s1.ax1x.com/2020/07/13/UJyZ7j.jpg" alt="UJyZ7j.jpg"></p>
+<center><font color="acacac" size=2>yield farming</font></center>
+
+<blockquote>
+<p><em>DeFi的“yield farming”（可中译“收益耕种”）是加密货币领域最新的令人振奋的模因投资者。收益耕种是利用DeFi协议和产品来产生高回报率的行为，在某些情况下，当考虑“现金返还”奖金和激励措施时，年收益率可达到100％以上。</em></p>
+</blockquote>
+<p>为了允许每天向以太坊用户发行 2，880 个相对昂贵的加密货币，Co 综合公司创建了一个系统，旨在诱导用户改变他们使用协议以最大化 COMP 的体验。</p>
+<p>“Yield 农业”可以采取许多不同的形式，但有两种主要方式精明的 DeFi 用户正在利用 COMP 的公开发布来增加其回报：</p>
+<br/>
+
+<ul>
+<li><strong>利用您的加密货币：</strong>只要借入加密货币的成本低于一个人可以通过将加密货币存入复合货币并申请 COMP 赚取，就可以有效地利用其持有。这是通过将加密货币存入复合货币，使用存款作为贷款抵押品，将借出的加密货币兑换为另一种资产，将交换的贷款存入，然后重复进行。Instadapp 是一个 DeFi 智能账户系统，具有自动化流程，允许人们最多四次使用令牌。然而，这个过程的使用在很大程度上被归入大型加密货币持有者，因为利用链上的资产可能会花费数十美元的天然气费用，并且需要用户有巨大的风险偏好。</li>
+</ul>
+<br/>
+
+<ul>
+<li><strong>提供流动性：</strong>这种收益农业热潮的一个关键方面是将加密货币分散交换到加密货币。用户最大化其COMP索赔的常见方式如下：将 USDC/DAI 存入化合物，提取 USDT，将借出的 USDT 兑换为 USDC，并重复此过程，直到您不想或不能再采用任何杠杆。复合目前不允许分散交换代币，但用户可以向流行的分散市场（如Curve.fi）提供流动性，以便从进行交易中赚取费用。上周，Curve.fi的市场/池的年化回报率超过100%。</li>
+</ul>
+<br/>
+
+<p>虽然许多人相对容易地耕种他们的田地，但产量农业存在风险。</p>
+<br/>
+
+<p><em>与以太坊友好型加密基金多科因资本合作的投资者TontonS）最近确定了农民面临的五大风险。这些风险威胁到用户资金的”一部分或全部”。</em></p>
+<ul>
+<li><strong>贷款协议中的智能合约漏洞（在这种情况下，大部分是复合的）</strong></li>
+<li><strong>您用来生产服务器场的加密货币中的智能合约漏洞</strong></li>
+<li><strong>随着加密货币市场的移动，清算承担太多杠杆</strong></li>
+<li><strong>协议经济设计失败</strong></li>
+<li><strong>用户错误</strong></li>
+</ul>
+<br/>
+
+<p>前区块链研究公司梅萨里（Messari）的高管、著名的加密货币市场评论员王乔（Qiao Wang）也指出，2008年，复合市场有可能像抵押贷款支持证券一样崩溃。</p>
+<blockquote>
+<p>Qiao Wang补充称，<strong>人们利用DeFi可以赚取的高收益是”由那些在集中交易所不断亏损的贫穷散户补贴的”。</strong></p>
+</blockquote>
+<br/>
+
+<p>令人担心的是，通过创建一个系统，吸引相对不稳定的资产持有人承担极端数量的杠杆，一个小的清算事件或一个错误可能会产生级联效应，消灭大部分或全部系统。</p>
+<p>此外，如上所述，复合实验室希望提出行动，使COMP的分布更加稳定和公平。如果这些风险和行动发挥作用，产量农业热潮可能会放缓。</p>
+<hr>
+<h1 id="五、其他-DeFi-协议将仿效跟进"><a href="#五、其他-DeFi-协议将仿效跟进" class="headerlink" title="五、其他 DeFi 协议将仿效跟进"></a><strong>五、其他 DeFi 协议将仿效跟进</strong></h1><br/>
+
+<p>自 2017/2018 年泡沫以来，COMP 的公开发布一直是加密货币市场最大的增长事件之一。</p>
+<p>根据公司数据，COMP的推出本身就使DeFi生态系统在一周内增长了50%，DeFiPulse.com。在推出一周后，加密货币的价值接近10亿美元，如前所述，它成为一些最根深蒂固的阿尔特币之一。</p>
+<p>其他协议很可能也会效仿。</p>
+<br/>
+
+<p><strong>结语：COMP 的推出，即使价格从这里崩溃，表明推出具有适当激励结构的治理令牌可以增加 DeFi 的采用，同时创造经济价值。</strong></p>
+<p><img src="https://chengwf.com/0c512" alt="UJgi1x.jpg"></p>
+<p>声明：编者在撰写本文时，未购买任何数字货币资产。本文为区块新看点-程伟，原创所著，请转载时注明来源于“区块新看点”！</p>
+<p><img src="https://chengwf.com/ese" alt="UJcKyT.jpg"></p>
+<p><img src="https://chengwf.com/358db" alt="UJculV.jpg"></p>
+]]></content>
+      <categories>
+        <category>区块链</category>
+        <category>数字货币</category>
+        <category>以太坊</category>
+        <category>WIKI</category>
+        <category>DeFi</category>
+        <category>DeFi</category>
+      </categories>
+      <tags>
+        <tag>区块链</tag>
+        <tag>以太坊</tag>
+        <tag>去中心化金融</tag>
+        <tag>DeFi</tag>
+        <tag>Compound</tag>
+        <tag>智能合约</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>区块链技术下，数字化模式如何重塑陷入困境的音乐产业</title>
     <url>/2020/07/Industrial_innovation/blockchain-music-industry.html</url>
     <content><![CDATA[<p><img src="https://chengwf.com/dbab6" alt="UePjqx.jpg"></p>
@@ -102,8 +246,8 @@
         <tag>区块链</tag>
         <tag>区块链技术</tag>
         <tag>区块链应用</tag>
-        <tag>blockchain_Industrial_innovation</tag>
         <tag>智能合约</tag>
+        <tag>blockchain_Industrial_innovation</tag>
         <tag>区块链产业创新</tag>
       </tags>
   </entry>
@@ -244,9 +388,9 @@
       </categories>
       <tags>
         <tag>比特币</tag>
-        <tag>比特币价格</tag>
         <tag>区块新看点</tag>
         <tag>加密货币</tag>
+        <tag>比特币价格</tag>
         <tag>BTC</tag>
         <tag>哈希率</tag>
         <tag>拜占庭将军</tag>
@@ -649,10 +793,10 @@
       <categories>
         <category>区块链</category>
         <category>数字货币</category>
-        <category>WIKI</category>
         <category>以太坊</category>
-        <category>区块链技术</category>
+        <category>WIKI</category>
         <category>DeFi</category>
+        <category>区块链技术</category>
       </categories>
       <tags>
         <tag>区块链</tag>
@@ -660,9 +804,9 @@
         <tag>比特币</tag>
         <tag>数字货币</tag>
         <tag>区块链技术</tag>
+        <tag>智能合约</tag>
         <tag>分布式</tag>
         <tag>去中心化</tag>
-        <tag>智能合约</tag>
         <tag>金融</tag>
       </tags>
   </entry>
@@ -790,8 +934,8 @@
       <tags>
         <tag>区块链周报</tag>
         <tag>比特币</tag>
-        <tag>比特币价格</tag>
         <tag>区块链看点</tag>
+        <tag>比特币价格</tag>
         <tag>加密市场</tag>
         <tag>市场分析</tag>
       </tags>
@@ -923,8 +1067,8 @@
         <tag>区块链</tag>
         <tag>去中心化金融</tag>
         <tag>DeFi</tag>
-        <tag>区块链看点</tag>
         <tag>数字货币</tag>
+        <tag>区块链看点</tag>
         <tag>加密货币</tag>
       </tags>
   </entry>
@@ -1057,14 +1201,14 @@
       <categories>
         <category>区块链</category>
         <category>数字货币</category>
-        <category>WIKI</category>
         <category>以太坊</category>
+        <category>WIKI</category>
       </categories>
       <tags>
         <tag>区块链</tag>
         <tag>以太坊</tag>
-        <tag>以太坊2.0</tag>
         <tag>区块链看点</tag>
+        <tag>以太坊2.0</tag>
         <tag>以太坊2.0升级</tag>
         <tag>ETH</tag>
         <tag>Ethereum</tag>
@@ -1689,9 +1833,9 @@
         <tag>区块链</tag>
         <tag>比特币</tag>
         <tag>中本聪</tag>
+        <tag>智能合约</tag>
         <tag>分布式</tag>
         <tag>去中心化</tag>
-        <tag>智能合约</tag>
         <tag>共识机制</tag>
         <tag>比特币的价值</tag>
       </tags>
@@ -1821,7 +1965,7 @@
     <title>Exploring Bitcoin and blockchain technology(探秘比特币与区块链技术)（视频）</title>
     <url>/2020/06/videos/blockchain_DLT.html</url>
     <content><![CDATA[<p>有人认为这不过是炒作；其他人则将此视作一种革命性技术，可以彻底改变我们交易几乎一切有价值之物的方式。 那么这种所谓分布式账本技术(DLT)到底是什么？它怎样运作？谁能从中受益？在这个的视频中，我们将为您区分事实与虚构，帮您看清炒作的烟幕。 …</p>
-<div id="dplayer5" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer5"),"autoplay":true,"hotkey":true,"preload":"metadata","video":{"url":"https://chengwf.com/473ac"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script> 
+<div id="dplayer4" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer4"),"autoplay":true,"hotkey":true,"preload":"metadata","video":{"url":"https://chengwf.com/473ac"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script> 
 
 
 
@@ -2198,8 +2342,8 @@
         <tag>区块链周报</tag>
         <tag>比特币</tag>
         <tag>中本聪</tag>
-        <tag>两会上的区块链</tag>
         <tag>以太坊2.0</tag>
+        <tag>两会上的区块链</tag>
       </tags>
   </entry>
   <entry>
@@ -2507,17 +2651,17 @@
       </categories>
       <tags>
         <tag>区块链</tag>
+        <tag>区块链看点</tag>
         <tag>绿地</tag>
         <tag>绿地陈军</tag>
         <tag>张雨婷</tag>
         <tag>史睿生</tag>
-        <tag>区块链看点</tag>
       </tags>
   </entry>
   <entry>
     <title>5分钟给你说明白什么是区块链（视频）</title>
     <url>/2020/05/videos/blockchain_education.html</url>
-    <content><![CDATA[<div id="dplayer4" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer4"),"autoplay":true,"hotkey":true,"preload":"metadata","video":{"url":"https://vdn2.vzuu.com/SD/04520378-9ad9-11ea-a676-d2489c713817.mp4?disable_local_cache=1&bu=http-com&expiration=1592849218&auth_key=1592849218-0-0-71c28c810b6b6707ace5882e03a2b227&f=mp4&v=bsy"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script> 
+    <content><![CDATA[<div id="dplayer5" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer5"),"autoplay":true,"hotkey":true,"preload":"metadata","video":{"url":"https://vdn2.vzuu.com/SD/04520378-9ad9-11ea-a676-d2489c713817.mp4?disable_local_cache=1&bu=http-com&expiration=1592849218&auth_key=1592849218-0-0-71c28c810b6b6707ace5882e03a2b227&f=mp4&v=bsy"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script> 
 
 
 
@@ -2742,8 +2886,8 @@
       <tags>
         <tag>区块链</tag>
         <tag>DCEP</tag>
-        <tag>区块链看点</tag>
         <tag>数字货币</tag>
+        <tag>区块链看点</tag>
         <tag>Libra</tag>
       </tags>
   </entry>
@@ -2797,8 +2941,8 @@
       <tags>
         <tag>区块链</tag>
         <tag>央行数字货币</tag>
-        <tag>区块链周报</tag>
         <tag>以太坊</tag>
+        <tag>区块链周报</tag>
       </tags>
   </entry>
   <entry>
@@ -2867,8 +3011,8 @@
       <tags>
         <tag>区块链</tag>
         <tag>央行数字货币</tag>
-        <tag>DCEP</tag>
         <tag>区块链周报</tag>
+        <tag>DCEP</tag>
       </tags>
   </entry>
   <entry>
@@ -2990,9 +3134,9 @@
       </categories>
       <tags>
         <tag>区块链</tag>
-        <tag>区块链看点</tag>
         <tag>数字货币</tag>
         <tag>闪电网络</tag>
+        <tag>区块链看点</tag>
       </tags>
   </entry>
   <entry>
@@ -3432,8 +3576,8 @@
       <categories>
         <category>区块链</category>
         <category>新冠状病毒</category>
-        <category>区块链金融</category>
         <category>数字经济</category>
+        <category>区块链金融</category>
         <category>数据</category>
         <category>数字银行</category>
         <category>数字银行</category>
@@ -4027,11 +4171,11 @@
       <tags>
         <tag>区块链</tag>
         <tag>比特币</tag>
-        <tag>中本聪</tag>
         <tag>区块链技术</tag>
+        <tag>中本聪</tag>
+        <tag>智能合约</tag>
         <tag>分布式</tag>
         <tag>去中心化</tag>
-        <tag>智能合约</tag>
         <tag>共识机制</tag>
         <tag>区块链融资</tag>
       </tags>
@@ -4147,9 +4291,9 @@
 ]]></content>
       <categories>
         <category>区块链</category>
-        <category>区块链金融</category>
         <category>数字经济</category>
         <category>国家主权货币</category>
+        <category>区块链金融</category>
         <category>DCEP</category>
         <category>数字银行</category>
         <category>DCEP</category>
@@ -4678,18 +4822,18 @@ AI的关键重要性
       <categories>
         <category>区块链</category>
         <category>新冠状病毒</category>
-        <category>区块链金融</category>
-        <category>区块链应用</category>
         <category>数字经济</category>
+        <category>区块链应用</category>
+        <category>区块链金融</category>
       </categories>
       <tags>
         <tag>区块链</tag>
         <tag>区块链看点</tag>
         <tag>新冠状病毒</tag>
         <tag>COVID-19</tag>
+        <tag>区块链应用</tag>
         <tag>数字经济</tag>
         <tag>区块链金融</tag>
-        <tag>区块链应用</tag>
       </tags>
   </entry>
   <entry>
@@ -5325,9 +5469,9 @@ AI的关键重要性
         <tag>区块链</tag>
         <tag>比特币</tag>
         <tag>中本聪</tag>
+        <tag>智能合约</tag>
         <tag>分布式</tag>
         <tag>去中心化</tag>
-        <tag>智能合约</tag>
         <tag>共识机制</tag>
         <tag>比特币的发明</tag>
       </tags>
