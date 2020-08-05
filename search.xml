@@ -1,6 +1,437 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>以太坊五年缔造公链之王，5张图透析以太坊称王之路</title>
+    <url>/2020/08/Ethereum-King-5-history.html</url>
+    <content><![CDATA[<p>五年前的本周，第一个通用区块链在主网上线。以太坊为区块链技术的全新应用生态铺平了开设了一条另类的道路，与比特币最初的电子现金系统愿景脱钩。<a id="more"></a></p>
+<blockquote>
+<p><em>延伸百科科普阅读：</em><a href="https://www.chengwf.com/2020/07/wiki-Ethereum.html"><em>深度解密：什么是以太坊（Ethereum）？</em></a></p>
+</blockquote>
+<p>本文将列出五个图表，以了解以太坊的发展历程</p>
+<br/>
+
+<h1 id="1、不流血的分裂"><a href="#1、不流血的分裂" class="headerlink" title="1、不流血的分裂"></a>1、不流血的分裂</h1><br/>
+
+<p><img src="https://s1.ax1x.com/2020/08/05/arlQvd.png" alt="arlQvd.png"></p>
+<center><font color="acacac" size=2>以太坊价格与协议升级的图表</font></center>
+
+
+
+<p>以太坊启动不到一年，一场重大事件将社区一分为二。</p>
+<p>这两个子社区之间的分歧是如此严重，以至于该行导致了一种新加密货币的创建，该加密货币被称为“以太经典 ”（Ethereum classic），是从原始以太坊代码库中克隆而来的。</p>
+<p>以太坊经典游戏是在2016年7月20日创建的，当时价值6,000万美元的以太坊原生加密货币以太币（ETH）从名为DAO的dapp用户中被盗 。当时，DAO是同类中唯一的Dapp，用户可以汇集资金并投票决定将资金投资于哪个项目。DAO的愿景（在黑客入侵并耗尽其大部分财务之前）是成为一家以投资者为导向的风险投资基金。</p>
+<p>经过数周的讨论，以太坊开发人员达成了共识，他们应该倒计时–逆转DAO骇客交易并恢复用户丢失的ETH。这些更改只能通过全网络升级（也称为 硬分叉）来实现。反对这一改变的人主张保留原始区块链的交易和余额历史的完整性，包括被黑的资金和所有资产。</p>
+<p>因此，在2016年7月20日，当执行恢复用户资金的升级时，以太坊区块链一分为二。社区的一部分保留了DAO黑客的原始交易记录和余额，并且没有升级软件，因此创建了一个并行网络：Ethereum Classic。</p>
+<p>自拆分以来，以太坊网络又艰难地分叉了七次，尽管这些后续升级都没有达到与2016年“ DAO分叉”相同的争议水平。</p>
+<hr>
+<h1 id="2、那只该死的猫"><a href="#2、那只该死的猫" class="headerlink" title="2、那只该死的猫"></a>2、那只该死的猫</h1><br/>
+
+<p><img src="https://s1.ax1x.com/2020/08/05/arl1KA.png" alt="arl1KA.png"></p>
+<center><font color="acacac" size=2>2017年-2018年，以太坊交易量</font></center>
+
+
+
+<p>以太坊上第一个获得真正用户吸引力的dapp是一款名为CryptoKitties（谜恋猫）的收藏品游戏。“数字猫”于2017年11月推出，非常受欢迎，全世界的新闻机构都对其进行了报道，包括《金融邮报》、英国广播公司（BBC）和《纽约时报》。</p>
+<p>在他们最受欢迎的时候，被令牌化的加密猫在以太坊上的交易价格超过20万美元。然而，用户的涌入和来自这个病毒性dapp的大量交易将以太坊区块链阻塞到了前所未有的水平。截至2017年12月，已积压了3万笔交易，这意味着用户必须等待若干天才能确认他们的ETH转账。</p>
+<p><img src="https://s1.ax1x.com/2020/08/05/arlJVP.jpg" alt="arlJVP.jpg"></p>
+<center><font color="acacac" size=2>CryptoKitties（谜恋猫）</font></center>
+
+
+
+<p>CryptoKitties背后的开发者们赶紧通过增加游戏费用来阻止新用户的涌入。CryptoKitties发布后不久，2018年1月10日，以太坊的每日交易费用总额创下历史新高。当天以太坊矿商收取的费用超过450万美元。同月，CryptoKitties的注册用户达到25万。</p>
+<p>在许多方面，CryptoKitties的狂热是一种粗鲁的觉醒，它提醒以太坊开发人员该平台的技术局限性。当一个病毒性的dapp足以压倒以太坊如何成为世界计算机？如果开发人员想认真对待不是成千上百万的dapp用户，他们就需要拿出一个具体的计划来提高吞吐量。</p>
+<hr>
+<h1 id="3、测试极限"><a href="#3、测试极限" class="headerlink" title="3、测试极限"></a>3、测试极限</h1><br/>
+
+<p><img src="https://s1.ax1x.com/2020/08/05/arl8bt.jpg" alt="arl8bt.jpg"></p>
+<center><font color="acacac" size=2>以太坊区块链上，前5大的ICO和DeFi项目</font></center>
+
+
+
+
+<p>自2017年的CryptoKitties热潮以来，对以太坊2.0的需求及其对网络效率和可扩展性的预期收益越来越大。</p>
+<blockquote>
+<p><em>首次代币发行（ICO）是一种为加密货币项目的早期阶段提供众筹资金的方式，其受欢迎程度在2018年达到顶峰。</em></p>
+</blockquote>
+<p>当年共为1000多个项目筹集了78亿美元。根据icobbench的数据，超过80%的ICO依赖以太坊区块链来创建代币并将其发行给投资者。</p>
+<p>2018年的ICO热潮等趋势表明，区块链技术可以通过更多的方式来利用，而不仅仅是点对点电子现金。以太坊，作为世界上第一个通用区块链平台，已经成为dapp开发者聚集的中心，为区块链构建任何和所有类型的用例，无论是游戏还是金融相关。</p>
+<p>因此，尽管平台存在技术限制，但以太坊上的dapp开发人员活动仍在蓬勃发展。在以太坊上主导用户流量和交易量的最新趋势是去中心化金融（DeFi）。目前席卷以太坊的DeFi运动是由dapp组成的，dapp模仿了借贷服务、交易所和衍生品市场等传统金融参与者。截至2020年7月29日，价值36.8亿美元的加密资产被用户锁定在各种DeFi协议中。 </p>
+<hr>
+<h1 id="4、Dapp兴起"><a href="#4、Dapp兴起" class="headerlink" title="4、Dapp兴起"></a>4、Dapp兴起</h1><br/>
+
+<p><img src="https://s1.ax1x.com/2020/08/05/arl3DI.png" alt="arl3DI.png"></p>
+<center><font color="acacac" size=2>目前以太坊平台上Dapps数量分析</font></center>
+
+
+
+<p>以太坊自成立以来的愿景一直是“世界计算机”，在其之上可以自由创建和部署分散应用程序（Dapp）和任何类型的资产。</p>
+<p>为此，以太坊开发者在新兴的区块链领域开创了一种称为“智能合约”的新技术，一种叫做Solidity的新编程语言被发明出来，帮助在以太坊上编写dapp代码。为了确保网络上不同的dapp之间的互操作性，开发了通用框架，如ERC-20和ERC-721令牌标准。</p>
+<p>自2015年以太坊诞生以来，这些创新为其他通用区块链平台的出现开辟了道路。EOS、Stellar、Tezos和Tron是市场份额前15名的四种加密货币，其特点是创建和部署dapp。尽管替代dapp平台的数量在增长，以太坊仍然是最受欢迎的通用区块链，无论是用户数量还是dapp数量，如上图所示。</p>
+<p>然而，以太坊尚未实现其愿景。开发人员确信，目前的区块链基础设施完全不足以应对全球数百万甚至数十亿用户的涌入。这一直是以太坊早期创始人的最大担忧，其中包括维塔利克·巴特林（民间称：V神）。在以太坊大放异彩的五年后，V神和其他人制定了一个名为“ Eth 2.0”的路线图，以使以太坊的开发得以完成。Eth 2.0的第一步有望在今年 或明年2021年初的某个时候推出 。</p>
+<blockquote>
+<p>延伸阅读：<a href="http://www.chengwf.com/2020/08/Ethereum-Highlights-BlockChain-Financial-innovation.html">DeFi的爆炸，以太坊新高光时刻，区块链金融创新的新时代来临</a></p>
+</blockquote>
+<hr>
+<h1 id="5、通往2-0的漫长之路"><a href="#5、通往2-0的漫长之路" class="headerlink" title="5、通往2.0的漫长之路"></a>5、通往2.0的漫长之路</h1><br/>
+
+
+
+<p><img src="https://s1.ax1x.com/2020/08/05/arlMgH.png" alt="arlMgH.png"></p>
+<center><font color="acacac" size=2>以太坊历史节点与计划发行速率分析</font></center>
+
+
+
+<p>以太坊还没有实现它的愿景。</p>
+<p>以太坊2.0的路线图几乎和第一个实现DAPP的原始路线图一样雄心勃勃。虽然这项技术即将推出，但了解以太坊五年历史的一个重要部分在于研究以太坊2.0在其多年规划中经历的多次迭代更新。</p>
+<br/>
+
+<p><strong>2015年：Serenity“宁静”</strong></p>
+<p>最初，2015年的以太坊2.0被认为是该项目的最终开发阶段，并被称为：Serenity“宁静”。Serenity初步预计将在mainnet首次发布16个月后（2016年11月）推出。此次升级将使以太坊从依赖比特币（Bitcoin）继承的计算密集型流程（称为“采矿”）转变为更节能的验证流程。</p>
+<p>为此，开发商创造了一种被称为“困难炸弹”的东西，以缓慢但肯定地鼓励这种从采矿业转型。这枚炸弹于2016年3月14日启动，随着时间的推移，矿工们寻找以太坊区块的难度增加。在过去的五年中，由于开发人员重新制定了以太坊2.0的发布计划，这一计划使区块生产放缓了三次。</p>
+<p>最近的一次难度炸弹延期是在2020年1月2日。这可能是难度炸弹最后一次被推迟，因为一些开发人员初步估计，向以太坊2.0的过渡可能会在今年某个时候正式开始，并在明年晚些时候取代现有的网络。</p>
+<blockquote>
+<p><em>延伸阅读：**<a href="http://localhost:4000/2020/06/Ethereum2.0.html" target="_blank" rel="noopener">区块新看点科普 | 白话解读即将到来Ethereum 2.0，以太坊区块链的革命性升级</a></em></p>
+</blockquote>
+<hr>
+<h1 id="结语："><a href="#结语：" class="headerlink" title="结语："></a>结语：</h1><p>虽然还不清楚以太坊2.0会带来什么样的新技术和区块链实践标准的创新，但回顾一下该网络发展的前五年，确实可以看出一些端倪。在此期间，以太坊经历了网络拆分升级，面临严重的技术瓶颈，推进了加密项目的新融资形式，并正式制定了迁移到以太坊2.0的启动计划。</p>
+<p><img src="https://s1.ax1x.com/2020/07/20/U5nuv9.jpg" alt="U5nuv9.jpg"></p>
+<p><img src="https://chengwf.com/56bf1" alt="arlK8e.jpg"></p>
+<blockquote>
+<p><strong>声明：</strong>编者在撰写本文时，未购买任何数字货币资产。本文为区块新看点-程伟在15年互联网企业从事管理经验中得出的管理技巧和企业改进观点，希望给所有精英人士一点点的分享交流意见和建议，欢迎前来讨论和给更好的论点，谢谢！转载请注明来源于“区块新看点-行业研究”。</p>
+</blockquote>
+<p><strong>区块新看点-精彩科技内容回顾：</strong></p>
+<ul>
+<li><a href="https://www.chengwf.com/2020/07/Nouriel-Roubini-BitCoin.html">大反派回来了！“乌鸦嘴”末日博士称：经济可能会再次衰退，甚至引发大萧条，最佳的避险资产是比特币</a></li>
+<li><a href="https://www.toutiao.com/i6852422789509415436/?group_id=6852422789509415436" target="_blank" rel="noopener">5G革命的新商机：我们如何在数字时代挖掘这轮财富机会？</a></li>
+<li><a href="https://www.toutiao.com/i6845920553283355139/?group_id=6845920553283355139" target="_blank" rel="noopener">下一代5G会为我们带来有什么期望？</a></li>
+<li><a href="https://www.toutiao.com/i6851835708215460359/?group_id=6851835708215460359" target="_blank" rel="noopener">数字经济已进入以太坊（DeFi）金融创新的新纪元</a></li>
+<li><a href="https://www.toutiao.com/i6848883228850422285/?group_id=6848883228850422285" target="_blank" rel="noopener">什么是 Comp？深入挖掘以太坊 DeFi 的最新趋势</a> </li>
+</ul>
+]]></content>
+      <categories>
+        <category>数字经济</category>
+        <category>数字经济</category>
+        <category>以太坊</category>
+      </categories>
+      <tags>
+        <tag>以太坊</tag>
+        <tag>去中心化金融</tag>
+        <tag>DeFi</tag>
+        <tag>区块新看点</tag>
+        <tag>以太坊2.0</tag>
+        <tag>Dapp</tag>
+        <tag>CryptoKitties</tag>
+        <tag>谜恋猫</tag>
+        <tag>数字猫</tag>
+        <tag>ERC-20</tag>
+        <tag>ERC-721</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>DeFi的爆炸，以太坊新高光时刻，区块链金融创新的新时代来临</title>
+    <url>/2020/08/Ethereum-Highlights-BlockChain-Financial-innovation.html</url>
+    <content><![CDATA[<p><strong>区块新看点-加密资产研究师-程伟，调查了2020年以太坊拉力赛背后的主要驱动力。</strong></p>
+<p>本周，以太坊的价格达到了2020年的历史高点，超过320美元（下图1）。是的，这比2017年末ICO繁荣时期的价格要低得多，但仍有一些重要原因。<a id="more"></a></p>
+<p>以太坊从2020年开始，主要受到两方面的影响。以太坊DeFi应用程序的可用性和交易量激增，以太坊2.0即将发布。</p>
+<p><strong>延伸阅读：<a href="http://www.chengwf.com/2020/06/cryptocurrency-redefining-future-of-finance.html">DeFi：不止是加密货币，更是一种重新定义未来金融的新趋势</a></strong></p>
+<p><img src="https://s1.ax1x.com/2020/08/05/arJwBd.jpg" alt="arJwBd.jpg"></p>
+<center><font color="acacac" size=2>图1：以太坊2019年10月至今的走势</font></center>
+
+
+
+<h1 id="1、以太坊有它的杀手级应用"><a href="#1、以太坊有它的杀手级应用" class="headerlink" title="1、以太坊有它的杀手级应用"></a>1、以太坊有它的杀手级应用</h1><br/>
+
+<p>所有操作系统都是通过引入杀手级应用程序来启动的。互联网上有色情、盗版音乐和电影，有助于找到大众接受的道路。移动设备有愤怒的小鸟和社交媒体。</p>
+<p>以太坊是一个操作系统。因此，它一直在等待它的杀手级应用程序的到来，这将把用户数量推上月球，并帮助将这项技术置于区块链运动的前沿。</p>
+<p>有些人会争辩说，这些创新已经以智能合约的形式出现，并具备了启动分散应用程序（dapp）的能力。但也有人认为，这些发展虽然非常有用，但仍为世界上极少数人口所理解和利用。</p>
+<hr>
+<h1 id="2、DeFi杀手级Dapps"><a href="#2、DeFi杀手级Dapps" class="headerlink" title="2、DeFi杀手级Dapps"></a>2、DeFi杀手级Dapps</h1><br/>
+
+<p>以太坊价格上涨的第一个推动力是不断膨胀的以太坊DeFi空间。自2020年5月以来，DeFi协议的总价值增加了近4倍，达到37.5亿美元。排名靠前的DeFi-dapp，如Compound、Maker、Aave、Synthetix和Curve Finance，自2020年6月中旬以来，用户数量都出现了大幅增长。用户似乎很快就开始使用新的协议和金融产品，这些产品带来了可观的收益。</p>
+<blockquote>
+<p><strong>延伸阅读：</strong><a href="https://www.chengwf.com/2020/07/DeFi-Dapp-pop.html"><strong>7月DeFi最受欢迎的Dapp（区块新看点）</strong></a></p>
+</blockquote>
+<br/>
+
+<p><strong>但是他们是使用者还是鲸鱼？</strong></p>
+<p>在Ilya Abugov最近的一篇文章中，DappRadar强调了一个事实，即TVL或Total Value Locked，这是一个在许多方面都存在缺陷的标准度量。事实上，该报告显示，仅30个钱包就占到了供应量的67%和Compound借贷量的75%（下图2）。</p>
+<p>因此，虽然有些人很快就报告了DeFi空间的“用户爆炸”，但考虑鲸鱼用户的活动是至关重要的。</p>
+<p><img src="https://s1.ax1x.com/2020/08/05/arJ0HA.jpg" alt="arJ0HA.jpg"></p>
+<center><font color="acacac" size=2>图2</font></center>
+
+
+
+
+
+<p>目前，他们仍然是这场运动的推动力。但是，只要有钱赚，就会有早期用户和更有经验的用户紧随其后。</p>
+<p>在历史上，人们的注意力转向了金融独立，区块链和DeFi教育材料随处可见。德菲似乎符合条件。毕竟，人们为什么不被这种能力所吸引呢？他们可以拿来之不易的钱，把它转换成像美元一样稳定的硬币，然后通过DeFi平台获得4%以上的利息呢？</p>
+<p>因为正如所有美好事物一样，也有风险和代价要考虑。</p>
+<hr>
+<h1 id="3、以太坊DeFi有一个瓶颈"><a href="#3、以太坊DeFi有一个瓶颈" class="headerlink" title="3、以太坊DeFi有一个瓶颈"></a>3、以太坊DeFi有一个瓶颈</h1><br/>
+
+<p>DeFi空间以如此之快的速度扩张，以至于成为其所在基础设施的牺牲品。简单地说，以太坊网络正在努力跟上它所创造的需求。</p>
+<p>当人们使用以太坊DeFi平台时，他们需要以交易和智能合约的形式发送数据。在大多数情况下，他们还必须利用分散式交易所（DEX）进行代币购买。这些操作都会导致更多的使用，速度变慢，并增加以太坊的成本。</p>
+<p>在过去的一个月里，以太坊区块链网络已经完全饱和。随着网络速度放缓，用户需要支付更高的gas费用或交易费来处理支付和智能合约。</p>
+<p><img src="https://s1.ax1x.com/2020/08/05/arJDAI.jpg" alt="arJDAI.jpg"></p>
+<center><font color="acacac" size=2>图3：2020年前3个季度的钱包活跃量</font></center>
+
+
+
+<hr>
+<h1 id="4、以游戏为代价"><a href="#4、以游戏为代价" class="headerlink" title="4、以游戏为代价"></a>4、以游戏为代价</h1><br/>
+
+<p>一般来说，你希望你的交易保存得越快，你需要付出的gas就越多。这通常不是问题，因为以太坊的平均阻塞时间不到20秒。但随着以太坊上活动的增加，需要存储的事务越来越多，每个块中的空间也就这么大了。</p>
+<p>为了解决这个问题，gas免费增加了。在这方面上，gas作为优先过滤系统。如果你想把100万美元的以太币或是把价值10万美元的BAT锁在MakerDAO钱包里，付10美元的gas费用不是什么大不了的事。</p>
+<p>然而，如果你想为你最喜欢的游戏购买一个价值10美元的角色，或者每月花费20美元订阅游戏，那么10美元的费用是一笔巨大的额外成本。</p>
+<p>DeFi的爆炸是有代价的。过去几个月，以太坊失去了大部分游戏用户，这些用户要么转向运行在另一个区块链上的同一游戏版本，要么完全停止使用dapp。（下图4）</p>
+<p><img src="https://s1.ax1x.com/2020/08/05/arJrNt.jpg" alt="arJrNt.jpg"></p>
+<center><font color="acacac" size=2>图4：以太坊和非以太坊游戏的每日活动</font></center>
+
+<hr>
+<h1 id="5、以太坊2-0的来临"><a href="#5、以太坊2-0的来临" class="headerlink" title="5、以太坊2.0的来临"></a>5、以太坊2.0的来临</h1><br/>
+
+<p>以太坊2.0的到来应该可以解决之前提到的许多问题。在2020年，特别是在第二季度，围绕着这次发射的炒作越来越多。</p>
+<p>以太坊2.0的推出可能是一个直接的价格催化剂，特别是在我们接近2020年底的时候。以太坊开发者，由Afri Schoedon领导者表示：<strong>以太坊2.0的正式测试网发布将于2020年8月4日开始。人们期待已久的消息立即启动了以太坊价格的上升轨道。</strong></p>
+<p>以太坊2.0的第一阶段称为信标链。为了激活或发射它，开发者需要开发测试网来模拟信标链的状况。Schoedon在GitHub上写道，稳定和长期的测试网络对于确保以太坊2.0的无缝发布是必要的。</p>
+<p>因此，当太空中的许多人都在为全面发射而尖叫时，以太坊团队似乎完全致力于成功而顺利的推出——无论时间安排如何。</p>
+<blockquote>
+<p><strong>延伸阅读：</strong><a href="https://www.chengwf.com/2020/07/wiki-Ethereum.html">区块新看点科普 | 白话解读即将到来Ethereum 2.0，以太坊区块链的革命性升级</a></p>
+</blockquote>
+<p><br/><img src="https://chengwf.com/8145b" alt="arJs4P.jpg"></p>
+<p><img src="https://s1.ax1x.com/2020/07/20/U5nuv9.jpg" alt="U5nuv9.jpg"></p>
+<hr>
+<blockquote>
+<p><strong>声明：</strong>编者在撰写本文时，未购买任何数字货币资产。本文为区块新看点-程伟在15年互联网企业从事管理经验中得出的管理技巧和企业改进观点，希望给所有精英人士一点点的分享交流意见和建议，欢迎前来讨论和给更好的论点，谢谢！转载请注明来源于“区块新看点-行业研究”。</p>
+</blockquote>
+<p><strong>区块新看点-精彩科技内容回顾：</strong></p>
+<ul>
+<li><p><a href="https://www.chengwf.com/2020/07/Nouriel-Roubini-BitCoin.html">大反派回来了！“乌鸦嘴”末日博士称：经济可能会再次衰退，甚至引发大萧条，最佳的避险资产是比特币</a></p>
+</li>
+<li><p><a href="https://www.toutiao.com/i6852422789509415436/?group_id=6852422789509415436" target="_blank" rel="noopener">5G革命的新商机：我们如何在数字时代挖掘这轮财富机会？</a></p>
+</li>
+<li><p><a href="https://www.toutiao.com/i6845920553283355139/?group_id=6845920553283355139" target="_blank" rel="noopener">下一代5G会为我们带来有什么期望？</a></p>
+</li>
+<li><p><a href="https://www.toutiao.com/i6851835708215460359/?group_id=6851835708215460359" target="_blank" rel="noopener">数字经济已进入以太坊（DeFi）金融创新的新纪元</a></p>
+</li>
+<li><p><a href="https://www.toutiao.com/i6848883228850422285/?group_id=6848883228850422285" target="_blank" rel="noopener">什么是 Comp？深入挖掘以太坊 DeFi 的最新趋势</a></p>
+</li>
+</ul>
+]]></content>
+      <categories>
+        <category>数字经济</category>
+        <category>数字经济</category>
+        <category>以太坊</category>
+      </categories>
+      <tags>
+        <tag>区块链</tag>
+        <tag>以太坊</tag>
+        <tag>去中心化金融</tag>
+        <tag>DeFi</tag>
+        <tag>区块新看点</tag>
+        <tag>以太坊2.0</tag>
+        <tag>Dapp</tag>
+        <tag>区块链金融创新</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>互联工作者：数字化转型如何塑造行业的未来</title>
+    <url>/2020/08/Data-digitization-industry-transformation.html</url>
+    <content><![CDATA[<p><strong>一、前言：</strong></p>
+<p>数字化转型已颠覆了全球范围内的业务，任何行业都无法避免其强大的影响。<a id="more"></a></p>
+<p>新技术和增强的客户体验是投资数字化转型的公司的主要驱动力，但是优先考虑这一转变的最重要原因是，它将使他们能够利用全新的增长机会。</p>
+<p>但是，随着数字化转型的速度以惊人的速度加快，公司需要快速适应其工作环境以跟上发展的步伐。本文揭示了互联工作者的起源，并探索了跨行业互联设备的潜在应用。</p>
+<p><img src="https://chengwf.com/a5230" alt="aBSMLt.jpg"></p>
+<center><font color="acacac" size=2>Connected Workers</font></center>
+
+<hr>
+<h2 id="二、举例：制造业的数字化转型概述"><a href="#二、举例：制造业的数字化转型概述" class="headerlink" title="二、举例：制造业的数字化转型概述"></a>二、举例：制造业的数字化转型概述</h2><p>数字化转型会企业从根本上改头换面。随着企业对各类创新技术的采用以及对不同资质人才的聘用，新型的数字化工厂正悄然引领制造业的转型，并推动着制造业的中心迈向高度定制化的产品和系统。</p>
+<p>领先的制造型企业正采用一系列的先进技术实现生产乃至整条供应链的数字化。这些技术包括大数据分析解决方案、端至端的实时规划和互联、自控系统、数字孪生等。凭借这些技术，效率得以提升，企业能够批量生产高度定制化的产品。然而，想要完全发挥出数字化的潜力，企业仍需要与主要供应商和大客户实时互联。</p>
+<p>作为在电子商务和电子支付领域内全球公认的数字化领先者，中国在制造业领域内对数字化的应用却仍处于起步阶段。尽管“中国制造2025”战略的颁布为产业变革注入了强心针、突显了战略紧迫性，但只有在企业大胆拥抱数字化的情况下才能取得实质性的进展，并产生深远影响。</p>
+<p><img src="https://s1.ax1x.com/2020/08/04/aBSmzd.png" alt="aBSmzd.png"></p>
+<center><font color="acacac" size=2>数字化转型</font></center>
+
+
+
+<p>在朝着数字化转型的道路上大步前行时，思略特从此次“数字化工厂2020 — 欧洲数字化工厂高管调研”中梳理出的关键发现以及提出的数字化工厂蓝图，将协助企业规避实施中的风险，成功达成既定的目标。</p>
+<hr>
+<h2 id="三、互联工作者的崛起"><a href="#三、互联工作者的崛起" class="headerlink" title="三、互联工作者的崛起"></a>三、互联工作者的崛起</h2><p>智能设备的大量采用引发了远程工作的新潮流。据估计，这种工作安排每年将为全球经济注入4,410亿美元，并在2029年之前节省250万吨二氧化碳，相当于纽约和伦敦之间的1,280趟航班。（下图1所示）</p>
+<p><img src="https://s1.ax1x.com/2020/08/04/aBSGFS.jpg" alt="aBSGFS.jpg"></p>
+<center><font color="acacac" size=2>图1。资料来源：Regus</font></center>
+
+
+
+<p>但是，根据行业的不同，灵活的工作方式或远程工作方式也有所不同。例如，在诸如工程或制造之类的商业服务的背景下，使用数字技术远程执行不同任务的员工被称为互联员工。</p>
+<p>该术语并非千篇一律，因为存在许多不同类型的，具有不同角色的互联工人，例如：（如下图2）</p>
+<p><strong>A）操作员：</strong>为实时响应工作系统提供支持的人</p>
+<p><strong>B）现场工人：</strong>使用移动可访问的图表连接到通信和协作平台的线路，全时段无间断以获取信息和支持</p>
+<p><strong>C）工程师：</strong>实时了解生产和维护的关键性能指标</p>
+<p><strong>D）管理人员：</strong>利用数据创造效益，推动战略创新，加强决策</p>
+<p><img src="https://s1.ax1x.com/2020/08/04/aBS3o8.jpg" alt="aBS3o8.jpg"></p>
+<center><font color="acacac" size=2>图2：互联工作者的性质</font></center>
+
+
+
+<p>但是，无论个人头衔如何，每位互联的工作者在实现数字化转型中都扮演着至关重要的角色。</p>
+<hr>
+<h2 id="四、实时数据，实时收益"><a href="#四、实时数据，实时收益" class="headerlink" title="四、实时数据，实时收益"></a>四、实时数据，实时收益</h2><p>当工作者实时连接到资产时，他们可以做出更好，更明智的决策，最终使总体上成为更有效率的劳动力。结果，行业可以释放出大量利益，例如：（如下图3）</p>
+<p>A）<strong>减少人为错误</strong></p>
+<p>B）<strong>提高生产力</strong></p>
+<p>C）<strong>减少危险事件</strong></p>
+<p>D）<strong>提高工作者的安全</strong></p>
+<p>E）<strong>节省时间和金钱</strong></p>
+<p>F）<strong>7*24：监控资产</strong></p>
+<p><img src="https://s1.ax1x.com/2020/08/04/aBSKsI.jpg" alt="aBSKsI.jpg"></p>
+<center><font color="acacac" size=2>图3：互联工作者的效益</font></center>
+
+
+
+<p>互联工人可以提高行业潜力，而他们用来实现这些好处的工具对于他们的成功至关重要。</p>
+<hr>
+<h2 id="五、互联工作者的技术"><a href="#五、互联工作者的技术" class="headerlink" title="五、互联工作者的技术"></a>五、互联工作者的技术</h2><p>连接的设备具有通过Internet与其他设备和系统连接的能力。联网的工作人员设备市场将在未来两年内快速增长，到2039年将达到43亿美元。石油和天然气，化工生产和建筑等行业在采用联网的工作人员技术方面处于领先地位，其中包括：（图4）</p>
+<p>A）<strong>平台：</strong>使用人工智能和数据来允许工程师创建定制应用程序并远程控制制造过程的硬件或软件</p>
+<p>B）<strong>接口：</strong>3D数字孪生之类的技术可实现对等信息共享。它们还会对周围环境产生沉浸式的反射，否则，工人将无法接触到周围环境，例如风力涡轮机叶片</p>
+<p>C）<strong>智能传感器和物联网设备：</strong>监视资产的传感器可实时更全面地概述工业流程并防止发生危险事件</p>
+<p>D）<strong>云和边缘计算：</strong>使用云可使工作人员彼此通信并更有效地管理共享数据</p>
+<p><img src="https://s1.ax1x.com/2020/08/04/aBSleP.jpg" alt="aBSleP.jpg"></p>
+<center><font color="acacac" size=2>图4</font></center>
+
+
+
+<p>随着时间的流逝，连接的设备变得越来越智能，并扩展了其功能。此外，诸如可穿戴设备之类的设备比以往任何时候都更加谨慎，甚至可以嵌入个人防护设备中以收集数据，同时保持不干扰。</p>
+<hr>
+<h2 id="六、实际应用"><a href="#六、实际应用" class="headerlink" title="六、实际应用"></a>六、实际应用</h2><p>这些设备具有无穷的潜力，能够为数十个行业的不断挑战提供解决方案。</p>
+<p>楼宇维护和管理设施经理可以访问实时信息并与现场维护人员联系，以快速解决问题。建筑人员还可以通过连接的技术访问文档和远程帮助。</p>
+<p>A）<strong>楼宇维护和管理</strong></p>
+<p>任务管理采矿等工业环境中的操作员可以控制远程位置的活动。他们还可以使现场人员与其他位置的专家联系。</p>
+<p><img src="https://s1.ax1x.com/2020/08/04/aBSZJe.jpg" alt="aBSZJe.jpg"></p>
+<p>B）<strong>任务管理</strong></p>
+<p>通讯平台基于云的通讯平台可以为医疗从业人员提供与患者，患者家庭和急救人员联系的工具。</p>
+<p><img src="https://s1.ax1x.com/2020/08/04/aBSeRH.jpg" alt="aBSeRH.jpg"></p>
+<p>C）<strong>通讯平台</strong></p>
+<p>通过利用人工智能，物联网和分析的力量，互联的工人可以继续革新全球的企业和行业。</p>
+<p><img src="https://s1.ax1x.com/2020/08/04/aBSViD.jpg" alt="aBSViD.jpg"></p>
+<hr>
+<h2 id="结语：走向更加互联的未来"><a href="#结语：走向更加互联的未来" class="headerlink" title="结语：走向更加互联的未来"></a>结语：走向更加互联的未来</h2><p>随着公司应对COVID-19的挑战，实施互联的工作者技术和创建数据驱动的工作环境可能很快会变得越来越重要。</p>
+<p>数字化转型不仅对于利用新的增长机会进行规模扩展至关重要，而且对于确定某些企业和行业的未来可能至关重要。</p>
+]]></content>
+      <categories>
+        <category>数字经济</category>
+        <category>数字经济</category>
+        <category>数字化管理</category>
+      </categories>
+      <tags>
+        <tag>区块新看点</tag>
+        <tag>数字化</tag>
+        <tag>大数据</tag>
+        <tag>数字化转型</tag>
+        <tag>互联工作者</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>加密新手必修课：确保持有加密资产持有的10条提示</title>
+    <url>/2020/07/Crypro-Beginner-CryptoAssets-10-Tips.html</url>
+    <content><![CDATA[<h2 id="前言一：加密资产的定义"><a href="#前言一：加密资产的定义" class="headerlink" title="前言一：加密资产的定义"></a>前言一：加密资产的定义</h2><p>自比特币和区块链技术的诞生，催生了一系列加密资产类别的发展。事实上，《区块链革命（BlockChain Revolution）》一书的作者Don Tapscott指出，关于数字资产，你至少要知道七种。包括：<a id="more"></a></p>
+<ul>
+<li><strong>加密货币</strong>（Crypto Currency）</li>
+<li><strong>平台代币</strong>（Platform Tokens）</li>
+<li><strong>实用代币</strong>（Utility Tokens）</li>
+<li><strong>证券代币</strong>（Security Tokens）</li>
+<li><strong>自然资产代币</strong>（Natural Asset Tokens）</li>
+<li><strong>加密收藏品</strong>（Cryptocollectibles）</li>
+<li><strong>加密对法币代币</strong>（Crypto-fiat currencies）</li>
+</ul>
+<blockquote>
+<p><em>引用声明：根据Don Tapscontt和Alex Tapscott共同编著的《Blockchain Revolution》，书中关于数字资产七大种类的定义。</em></p>
+</blockquote>
+<hr>
+<h2 id="前言二"><a href="#前言二" class="headerlink" title="前言二"></a>前言二</h2><p>加密货币行业的初学者通常会担心与之相关的风险。除了价格波动外，用户还经常面临钱包被黑客入侵的风险，造成不可弥补的损失。</p>
+<p>尽管加密货币交易所以及钱包服务提供商提供了增强的安全功能，但不能保证黑客不会发现入侵系统并窃取用户资金的漏洞。但是，还有一些其他手段，用户可能会利用这种手段来保护自己的资金不被窃取或丢失。下面“区块新看点”-区块链科普分享10大绝招教你怎么保护你的加密资产：</p>
+<hr>
+<h2 id="1、选择信誉良好的钱包服务提供商"><a href="#1、选择信誉良好的钱包服务提供商" class="headerlink" title="1、选择信誉良好的钱包服务提供商"></a>1、选择信誉良好的钱包服务提供商</h2><p><br/>安全性始于选择服务提供商。目前，热门的加密货币钱包数量众多，其中很多都是欺诈性的。这就是为什么用户在信任自己的钱到在线服务之前应该非常小心。</p>
+<p><img src="https://chengwf.com/6510e" alt="arDCG9.png"></p>
+<center><font color="acacac" size=2>数字钱包服务提供商</font></center>
+
+<br/>
+
+<p>为了确保在线钱包或加密货币交易所合法，有必要注意其运行时间。诈骗永远不会持续太久，因此，如果提供商的经营时间超过五年，则很可能是可靠且合法的提供商。另外，值得检查其他用户在Internet上的反馈。如今，人们倾向于在线共享他们的经验，因此不难发现他人的观点。</p>
+<p>除此之外，用户还可以检查公司的合规性和可用的注册数据。可靠的公司始终会披露尽可能多的信息，要求用户提供完整的KYC（Know your customer）认证，以证明其可靠性、合法性和唯一性。</p>
+<hr>
+<h2 id="2、使用强密码"><a href="#2、使用强密码" class="headerlink" title="2、使用强密码"></a>2、使用强密码</h2><p><img src="https://s1.ax1x.com/2020/08/05/arBxVU.jpg" alt="arBxVU.jpg"></p>
+<center><font color="acacac" size=2>数字资产密钥设置</font></center>
+
+<br/>
+
+<p>让我们以一所房子为例。当一个人用弱小的挂锁继续锁住自己的房屋/办公室时，这就像邀请小偷进来强迫他们进入房屋一样。因此，为了阻止不速之客，必须始终用强力锁将其锁定。同样，必须使用功能强大的私钥来保护数字货币的持有量。</p>
+<p>攻击者倾向于使用更高级和复杂的私钥破解器来攻击用户的账户，并且这些工具利用词典，常用密码列表以及暴力攻击。因此，如果密码又长又强，它将具有更大的熵，这意味着攻击者将很难破解账户。</p>
+<h2 id="3、启用两因素身份验证（2FA）"><a href="#3、启用两因素身份验证（2FA）" class="headerlink" title="3、启用两因素身份验证（2FA）"></a>3、启用两因素身份验证（2FA）</h2><p><br/><img src="https://s1.ax1x.com/2020/08/05/arDS54.jpg" alt="arDS54.jpg"></p>
+<center><font color="acacac" size=2>2FA示例图</font></center>
+
+<br/>
+
+<p>2FA生成安全的两步验证码以访问设备上的令牌。通过轻松，有效地添加额外的安全层，它可以从攻击者和劫机者中拯救用户的帐户。2FA私钥每30秒更改一次，因此不会给攻击者留下任何迫使其进入加密货币帐户的空间。</p>
+<p>不过，这并不意味着使用两因素身份验证器足以使资产100％安全，因为黑客不断改变策略，因此必须在每个在线帐户上启用2FA（电子邮件，文件存储服务，社交媒体等）链接到一个人的令牌帐户。</p>
+<hr>
+<h2 id="4、禁用加密货币钱包的自动更新"><a href="#4、禁用加密货币钱包的自动更新" class="headerlink" title="4、禁用加密货币钱包的自动更新"></a>4、禁用加密货币钱包的自动更新</h2><p><br/>台式机或移动式加密货币钱包的工作原理与其他任何应用程序一样，因此会不时进行更新，以提供新功能，应对新的网络安全威胁并修复可能的错误，从而使用户体验越来越完美。</p>
+<p><img src="https://s1.ax1x.com/2020/08/05/arD9PJ.jpg" alt="arD9PJ.jpg"></p>
+<center><font color="acacac" size=2>某一数字钱包自动更新示意图</font></center>
+
+<br/>
+
+
+
+<p>当用户不进行更新时，他们的钱包很可能遭到黑客攻击或损坏–因为攻击者会发现网络安全墙非常脆弱且不稳定。</p>
+<p>但是，用户不应在到达后就急着下载并安装最新更新。在某些情况下，这些新版本带有可能会影响钱包软件并使其更加脆弱的错误。此外，黑客可能会将其恶意软件伪装成更新并将其推送到商店中。因此，如果启用了自动更新功能，则用户可以安装可窃取资金而不是实际更新的恶意软件。因此，最好等待3-5天并仅在没有关于新版本的问题或不好的评论时更新钱包。</p>
+<hr>
+<h1 id="5、备份您的数字钱包到可靠的地方"><a href="#5、备份您的数字钱包到可靠的地方" class="headerlink" title="5、备份您的数字钱包到可靠的地方"></a>5、备份您的数字钱包到可靠的地方</h1><p><br/>从您的加密货币钱包中备份数据可以很容易地在丢失，损坏或任何设备故障的情况下检索，还原或访问令牌以及其他敏感信息。</p>
+<p>如果用户的计算机或智能手机被盗或放错了地方，备份副本将使用户可以恢复自己的钱包。但是，用户还需要确保已在可靠的云服务中创建了备份，因为这些数据也可能被盗用和滥用。其中要备份的数据包括：私钥、助记词、钱包地址、钱包用户名等。</p>
+<p><img src="https://s1.ax1x.com/2020/08/05/arBXrV.jpg" alt="arBXrV.jpg"></p>
+<center><font color="acacac" size=2>数字资产钱包备份助记词流程</font></center>
+
+<hr>
+<h2 id="6、使用受信任的安全网络"><a href="#6、使用受信任的安全网络" class="headerlink" title="6、使用受信任的安全网络"></a>6、使用受信任的安全网络</h2><p><br/>用数字货币进行交易时，始终使用WiFi热点等公共互联网连接是不好的。这使钱包暴露给罪犯，因为他们发现很容易闯入帐户并以大量股份为自己服务。使用公共网络使该网络的所有参与者都可以看到钱包，从而可以轻松访问设备。</p>
+<p>使用公共设备访问您的钱包也有同样的问题。即使删除了所有密码，它们也会保留在设备的内存中。因此，具有某些技术技能的人可能会容易地检索和滥用它们。这就是为什么应使用个人互联网和个人计算机/智能电话进行任何类型的交易。</p>
+<p><img src="https://s1.ax1x.com/2020/08/05/arBzaF.jpg" alt="arBzaF.jpg"></p>
+<h2 id="7、应用强加密"><a href="#7、应用强加密" class="headerlink" title="7、应用强加密"></a>7、应用强加密</h2><p>无论使用哪种加密货币钱包，都必须对其进行高度加密，以确保储蓄安全可靠。它越强大，被黑客入侵的机会就越少。</p>
+<p>通过对钱包或整个设备进行加密，用户可以设置私钥或一种防火墙，以防止试图取出任何钱的不良玩家。因此，确保对钱包进行严格而正确的加密将使用户能够安然入睡，而不必担心丢失自己的资金。</p>
+<hr>
+<h2 id="8、永远不要将所有加密货币都放在一个地方"><a href="#8、永远不要将所有加密货币都放在一个地方" class="headerlink" title="8、永远不要将所有加密货币都放在一个地方"></a>8、永远不要将所有加密货币都放在一个地方</h2><p>非洲谚语说“不要把所有鸡蛋都放在一个篮子里”-因为一旦跌倒，一个人就有将所有鸡蛋切成碎片的风险。所有令牌用户都可以在加密货币行业中采用相同的原理。</p>
+<p>最好将储蓄存储在几个加密货币和几个钱包中。因此，即使一个钱包被黑客入侵，一个人也将设法保留一个人的大部分储蓄。经验丰富的投资者总是将他们的投资分成几种加密货币。除了保护储蓄免受攻击外，这种方法还可以最大程度地降低与价格波动相关的风险。</p>
+<hr>
+<h2 id="9、持续监控钱包交易以发现任何可疑的操作"><a href="#9、持续监控钱包交易以发现任何可疑的操作" class="headerlink" title="9、持续监控钱包交易以发现任何可疑的操作"></a>9、持续监控钱包交易以发现任何可疑的操作</h2><p>在加密货币钱包的公共地址上应用检测工具可能有助于跟踪任何可疑活动。最好继续通过短信和电子邮件获取交易通知。在这种情况下，用户将在实际进行交易之前收到交易通知。因此，即使有人访问了钱包并试图从中取出钱财，也有可能阻止交易的发生。</p>
+<p>因此，许多还提供钱包服务的加密货币交易所具有在实际发送交易之前确认交易的功能。因此，用户有机会在汇款前仔细检查所有信息，因为基于区块链的交易是不可逆的，因此任何错误都可能导致资金损失。此外，如果有任何第三方试图代表用户进行交易，那么使用这种功能就不可能错过它。</p>
+<hr>
+<h2 id="10、使用冷存储"><a href="#10、使用冷存储" class="headerlink" title="10、使用冷存储"></a>10、使用冷存储</h2><p>冷存储与热存储相比，具有很大的优势，因为它没有连接到Internet。因此，窃取资金的唯一方法是钱包本身的物理隐身性。但是即使那样，罪犯也需要掌握大量的技术技能才能获得资金。</p>
+<p><img src="https://s1.ax1x.com/2020/08/05/arBjbT.jpg" alt="arBjbT.jpg"></p>
+<center><font color="acacac" size=2>冷存储硬件钱包</font></center>
+
+
+
+<p>一些加密货币持有人同时使用两种存储。在线钱包用于进行交易，冷库用于存储加密货币。通过这种方式，他们可以确保节省下来的钱。</p>
+<p>无论如何，在创建一个加密货币钱包并用任何资金信任它之前，最好进行彻底的研究。这将有助于了解各种钱包如何根据自己的需求做出完美选择。</p>
+<p><img src="https://s1.ax1x.com/2020/07/20/U5nuv9.jpg" alt="U5nuv9.jpg"></p>
+<p><strong>声明：</strong>编者在撰写本文时，未购买任何数字货币资产。本文为区块新看点-程伟在15年互联网企业从事管理经验中得出的管理技巧和企业改进观点，希望给所有精英人士一点点的分享交流意见和建议，欢迎前来讨论和给更好的论点，谢谢！转载请注明来源于“区块新看点-行业研究”。</p>
+<p><strong>区块新看点-精彩科技内容回顾：</strong></p>
+<ul>
+<li><a href="https://www.chengwf.com/2020/07/Nouriel-Roubini-BitCoin.html">大反派回来了！“乌鸦嘴”末日博士称：经济可能会再次衰退，甚至引发大萧条，最佳的避险资产是比特币</a></li>
+<li><a href="https://www.toutiao.com/i6852422789509415436/?group_id=6852422789509415436" target="_blank" rel="noopener">5G革命的新商机：我们如何在数字时代挖掘这轮财富机会？</a></li>
+<li><a href="https://www.toutiao.com/i6845920553283355139/?group_id=6845920553283355139" target="_blank" rel="noopener">下一代5G会为我们带来有什么期望？</a></li>
+<li><a href="https://www.toutiao.com/i6851835708215460359/?group_id=6851835708215460359" target="_blank" rel="noopener">数字经济已进入以太坊（DeFi）金融创新的新纪元</a></li>
+<li><a href="https://www.toutiao.com/i6848883228850422285/?group_id=6848883228850422285" target="_blank" rel="noopener">什么是 Comp？深入挖掘以太坊 DeFi 的最新趋势</a> </li>
+</ul>
+]]></content>
+      <categories>
+        <category>新兴资产</category>
+        <category>加密资产</category>
+      </categories>
+      <tags>
+        <tag>区块链</tag>
+        <tag>区块新看点</tag>
+        <tag>加密资产</tag>
+        <tag>加密新手</tag>
+        <tag>数字资产</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>弱势美元会造成&quot;资金轮动&quot;，比特币突破11,000美元，牛市会继续吗？</title>
     <url>/2020/07/USdoller-BitCoin-ten-thousand-bull-market.html</url>
     <content><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a><strong>前言</strong></h1><br/>
@@ -1853,8 +2284,8 @@
       <tags>
         <tag>比特币</tag>
         <tag>区块新看点</tag>
-        <tag>比特币价格</tag>
         <tag>加密货币</tag>
+        <tag>比特币价格</tag>
         <tag>BTC</tag>
         <tag>哈希率</tag>
         <tag>拜占庭将军</tag>
@@ -2272,9 +2703,26 @@
       </tags>
   </entry>
   <entry>
+    <title>比特币BTC的十年逆袭之路（动态可视化数据图表）</title>
+    <url>/2020/06/videos/bitcoin_ten_dany_data.html</url>
+    <content><![CDATA[<div id="dplayer1" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer1"),"autoplay":true,"hotkey":true,"preload":"metadata","video":{"url":"https://vdept.bdstatic.com/5a375542627a6d613670483877417847/5378313275646855/64c9f17155a218e1e05e7c2803787dcdf9c2ca4df4a9f5574762d8331815f1338d3820b8298ed009022d8a8475473787e6fd096cd023fb7c6cd855fc0b7dcef9.mp4?auth_key=1592851688-0-0-f191b239305e0222a85d6b819f67ea45"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script> 
+]]></content>
+      <categories>
+        <category>区块链</category>
+        <category>数字货币</category>
+        <category>比特币</category>
+      </categories>
+      <tags>
+        <tag>比特币</tag>
+        <tag>比特币价格</tag>
+        <tag>区块链视频</tag>
+        <tag>blockchain_video</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>比特币vs以太坊，从2013到2020（动态可视化数据图表）</title>
     <url>/2020/06/videos/bitcoin_vs_Ethereum.html</url>
-    <content><![CDATA[<div id="dplayer1" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer1"),"autoplay":true,"hotkey":true,"preload":"metadata","video":{"url":"https://vdn3.vzuu.com/LD/ce604174-a98f-11ea-a76e-b2be648d665c.mp4?disable_local_cache=1&bu=http-com&expiration=1592848939&auth_key=1592848939-0-0-80a4e7fcc590ec052c7be80a02a6ee90&f=mp4&v=tx"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script> 
+    <content><![CDATA[<div id="dplayer2" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer2"),"autoplay":true,"hotkey":true,"preload":"metadata","video":{"url":"https://vdn3.vzuu.com/LD/ce604174-a98f-11ea-a76e-b2be648d665c.mp4?disable_local_cache=1&bu=http-com&expiration=1592848939&auth_key=1592848939-0-0-80a4e7fcc590ec052c7be80a02a6ee90&f=mp4&v=tx"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script> 
 
 
 ]]></content>
@@ -2286,23 +2734,6 @@
       </categories>
       <tags>
         <tag>以太坊</tag>
-        <tag>比特币</tag>
-        <tag>比特币价格</tag>
-        <tag>区块链视频</tag>
-        <tag>blockchain_video</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>比特币BTC的十年逆袭之路（动态可视化数据图表）</title>
-    <url>/2020/06/videos/bitcoin_ten_dany_data.html</url>
-    <content><![CDATA[<div id="dplayer2" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer2"),"autoplay":true,"hotkey":true,"preload":"metadata","video":{"url":"https://vdept.bdstatic.com/5a375542627a6d613670483877417847/5378313275646855/64c9f17155a218e1e05e7c2803787dcdf9c2ca4df4a9f5574762d8331815f1338d3820b8298ed009022d8a8475473787e6fd096cd023fb7c6cd855fc0b7dcef9.mp4?auth_key=1592851688-0-0-f191b239305e0222a85d6b819f67ea45"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script> 
-]]></content>
-      <categories>
-        <category>区块链</category>
-        <category>数字货币</category>
-        <category>比特币</category>
-      </categories>
-      <tags>
         <tag>比特币</tag>
         <tag>比特币价格</tag>
         <tag>区块链视频</tag>
@@ -2668,8 +3099,8 @@
       <tags>
         <tag>区块链</tag>
         <tag>以太坊</tag>
-        <tag>以太坊2.0</tag>
         <tag>区块链看点</tag>
+        <tag>以太坊2.0</tag>
         <tag>以太坊2.0升级</tag>
         <tag>ETH</tag>
         <tag>Ethereum</tag>
@@ -2839,9 +3270,9 @@
         <tag>以太坊</tag>
         <tag>比特币</tag>
         <tag>ETH</tag>
-        <tag>BTC</tag>
         <tag>EOS</tag>
         <tag>行情中心</tag>
+        <tag>BTC</tag>
         <tag>BCH</tag>
       </tags>
   </entry>
@@ -3426,7 +3857,7 @@
     <title>Exploring Bitcoin and blockchain technology(探秘比特币与区块链技术)（视频）</title>
     <url>/2020/06/videos/blockchain_DLT.html</url>
     <content><![CDATA[<p>有人认为这不过是炒作；其他人则将此视作一种革命性技术，可以彻底改变我们交易几乎一切有价值之物的方式。 那么这种所谓分布式账本技术(DLT)到底是什么？它怎样运作？谁能从中受益？在这个的视频中，我们将为您区分事实与虚构，帮您看清炒作的烟幕。 …</p>
-<div id="dplayer4" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer4"),"autoplay":true,"hotkey":true,"preload":"metadata","video":{"url":"https://chengwf.com/473ac"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script> 
+<div id="dplayer3" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer3"),"autoplay":true,"hotkey":true,"preload":"metadata","video":{"url":"https://chengwf.com/473ac"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script> 
 
 
 
@@ -3733,7 +4164,7 @@
   <entry>
     <title>区块链和DCEP，终结美元霸权两大杀手锏（视频）</title>
     <url>/2020/05/videos/china_dcep.html</url>
-    <content><![CDATA[<div id="dplayer5" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer5"),"autoplay":true,"hotkey":true,"preload":"metadata","video":{"url":"https://chengwf.com/1l8"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script> 
+    <content><![CDATA[<div id="dplayer6" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer6"),"autoplay":true,"hotkey":true,"preload":"metadata","video":{"url":"https://chengwf.com/1l8"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script> 
 
 
 
@@ -3931,7 +4362,7 @@
 <p>Facebook于上週公佈密码货币Libra细节，这款以建立一套去中心化、低门槛无国界支付为宗旨的创新金融服务，能否得到主流市场的认可，是其实现伟大金融愿景的关键。</p>
 </blockquote>
 <p>Facebook CEO的Mark Zuckerberg公布了筹备已久的区块链金融产品：密码货币Libra和Calibra数位钱包（Digital Wallet），一脚踏入区块链与金融科技的领域。</p>
-<div id="dplayer6" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer6"),"autoplay":true,"hotkey":true,"preload":"metadata","video":{"url":"https://chengwf.com/5dg"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script> 
+<div id="dplayer5" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer5"),"autoplay":true,"hotkey":true,"preload":"metadata","video":{"url":"https://chengwf.com/5dg"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script> 
 
 <h1 id="Libra是什么？"><a href="#Libra是什么？" class="headerlink" title="Libra是什么？"></a>Libra是什么？</h1><p><strong>Libra的使命是建立一套简单的、无国界的货币，和为数十亿人服务的金融基础设施。</strong></p>
 <p>Libra白皮书开宗明义的目的和理想，就是运用区块链技术来打造无国界、去中心化、低波动的加密虚拟货币（Cryptocurrency），来降低全球货币兑换转帐、支付交易的门槛，实现普惠的互联网金融创新。</p>
@@ -4105,8 +4536,8 @@
       <categories>
         <category>区块链</category>
         <category>人工智能（AI）</category>
-        <category>AI应用</category>
         <category>数字经济</category>
+        <category>AI应用</category>
         <category>数字经济</category>
         <category>数字化管理</category>
       </categories>
@@ -4122,7 +4553,7 @@
   <entry>
     <title>5分钟给你说明白什么是区块链（视频）</title>
     <url>/2020/05/videos/blockchain_education.html</url>
-    <content><![CDATA[<div id="dplayer3" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer3"),"autoplay":true,"hotkey":true,"preload":"metadata","video":{"url":"https://vdn2.vzuu.com/SD/04520378-9ad9-11ea-a676-d2489c713817.mp4?disable_local_cache=1&bu=http-com&expiration=1592849218&auth_key=1592849218-0-0-71c28c810b6b6707ace5882e03a2b227&f=mp4&v=bsy"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script> 
+    <content><![CDATA[<div id="dplayer4" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer4"),"autoplay":true,"hotkey":true,"preload":"metadata","video":{"url":"https://vdn2.vzuu.com/SD/04520378-9ad9-11ea-a676-d2489c713817.mp4?disable_local_cache=1&bu=http-com&expiration=1592849218&auth_key=1592849218-0-0-71c28c810b6b6707ace5882e03a2b227&f=mp4&v=bsy"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script> 
 
 
 
@@ -4423,8 +4854,8 @@
       </categories>
       <tags>
         <tag>区块链</tag>
-        <tag>数字经济</tag>
         <tag>大数据</tag>
+        <tag>数字经济</tag>
         <tag>人工智能</tag>
         <tag>新商业</tag>
         <tag>通证经济</tag>
@@ -5048,9 +5479,9 @@
         <tag>区块链看点</tag>
         <tag>新冠状病毒</tag>
         <tag>COVID-19</tag>
+        <tag>大数据</tag>
         <tag>数字经济</tag>
         <tag>数字营销</tag>
-        <tag>大数据</tag>
       </tags>
   </entry>
   <entry>
@@ -5755,10 +6186,10 @@
         <category>数字经济</category>
         <category>区块链金融</category>
         <category>国家主权货币</category>
-        <category>DCEP</category>
         <category>数字银行</category>
         <category>DCEP</category>
         <category>数字银行</category>
+        <category>DCEP</category>
       </categories>
       <tags>
         <tag>区块链</tag>
@@ -5994,10 +6425,10 @@ AI的关键重要性
 </blockquote>
 ]]></content>
       <categories>
-        <category>数据</category>
-        <category>数据资产</category>
         <category>新兴资产</category>
         <category>加密资产</category>
+        <category>数据</category>
+        <category>数据资产</category>
       </categories>
       <tags>
         <tag>区块链看点</tag>
@@ -6051,21 +6482,21 @@ AI的关键重要性
 ]]></content>
       <categories>
         <category>区块链</category>
-        <category>国家主权货币</category>
-        <category>DCEP</category>
-        <category>区块链技术</category>
-        <category>DCEP</category>
         <category>新兴资产</category>
         <category>加密资产</category>
+        <category>国家主权货币</category>
+        <category>区块链技术</category>
+        <category>DCEP</category>
+        <category>DCEP</category>
         <category>数字资产</category>
       </categories>
       <tags>
         <tag>DCEP</tag>
         <tag>区块链看点</tag>
+        <tag>加密资产</tag>
+        <tag>数字资产</tag>
         <tag>区块链技术</tag>
         <tag>国家主权货币</tag>
-        <tag>数字资产</tag>
-        <tag>加密资产</tag>
       </tags>
   </entry>
   <entry>
@@ -6374,8 +6805,8 @@ AI的关键重要性
       <categories>
         <category>区块链</category>
         <category>数字货币</category>
-        <category>稳定币</category>
         <category>数字经济</category>
+        <category>稳定币</category>
         <category>加密经济</category>
       </categories>
       <tags>
@@ -6446,8 +6877,8 @@ AI的关键重要性
 ]]></content>
       <categories>
         <category>数字经济</category>
-        <category>哈佛商业评论</category>
         <category>数字经济</category>
+        <category>哈佛商业评论</category>
         <category>数字化管理</category>
       </categories>
       <tags>
