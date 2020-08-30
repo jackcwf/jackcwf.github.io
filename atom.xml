@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.chengwf.com/"/>
-  <updated>2020-08-22T07:42:49.964Z</updated>
+  <updated>2020-08-30T07:46:44.225Z</updated>
   <id>https://www.chengwf.com/</id>
   
   <author>
@@ -15,6 +15,96 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Anyswap、Uniswap或Trustswap：哪种交换协议最适合DeFi用户？</title>
+    <link href="https://www.chengwf.com/2020/08/which-swap-best-defi.html"/>
+    <id>https://www.chengwf.com/2020/08/which-swap-best-defi.html</id>
+    <published>2020-08-29T16:00:00.000Z</published>
+    <updated>2020-08-30T07:46:44.225Z</updated>
+    
+    <content type="html"><![CDATA[<p>DeFi（去中心化金融），目前是加密领域中最热门的话题。然而，DeFi是创建区块链技术的原始目标并不奇怪，该技术旨在代表金融世界的未来骨干。话虽如此，直到最近才开发出有效而实用的工具来实现这一目标。去中心化交易所和流动性池是引领DeFi革命的工具之一。<a id="more"></a></p><p>想要以完全分散的方式进行交易的用户有许多选项可供选择，这可能会使根据他们的需要和要为了做出正确的选择需要，变得令人困惑。在本文中，我们将对目前市场上最流行和最有前景的三种交换和流动性提供协议进行分析：Uniswap是一种流行的选择，Anyswap和Trustwap是全新的、充满希望的另外一种选择。</p><p><img src="https://chengwf.com/941" alt="dbbO2R.jpg"></p><center><font color="acacac" size=2>DeFi</font></center><p>我们将首先讨论每个平台的功能，然后根据对用户最重要的标准对它们进行比较。因此，事不宜迟，让我们从回顾Anyswap开始。</p><blockquote><p>延伸阅读：<a href="https://www.chengwf.com/2020/08/Defi-Ecosystem-Products-and-Services.html">DeFi生态系统：产品和服务（区块新看点）</a></p></blockquote><hr><h1 id="1、Anyswap"><a href="#1、Anyswap" class="headerlink" title="1、Anyswap"></a>1、Anyswap</h1><br/><p><img src="https://s1.ax1x.com/2020/08/30/dbb7aF.jpg" alt="dbb7aF.jpg"></p><p>Anyswap交换是一种新的开源跨链交换协议，提供自动定价和流动性系统。Anyswap构建在Fusion chain上，由Fusion的DCRM技术（分布式控制权限管理）提供支持，该技术允许在使用ECDSA或EdDSA签名算法的任何区块链中的任何硬币或令牌之间进行交换。简单地说，用户将能够以完全分散和安全的方式在BTC、ETH、XRP、USDT、LTC、FSN、ERC20代币和其他硬币之间进行交换。</p><p>Anyswap引入了ANY，一种在Fusion区块链上发行的代币。在发行代币之前，没有预售或筹款。ANY是一种管理令牌，允许其持有者做出决策，例如投票选择新硬币或代币的列表，以及选择Anyswap工作节点（AWN）。任何代币也将用于奖励用户使用Anyswap提供的不同功能，例如交换硬币和代币、为池添加流动性或运行Anyswap节点。</p><p>因此，Anyswap工作节点将由社区（任何所有者）选举，此过程将有助于网络的完全分散，并且Anyswap团队对您的资金没有任何控制权。</p><p>此时，Anyswap已经启动了几个星期。值得注意的是，其活动和采用统计数据只有一个流动性池（FSN/ANY）。其他货币和代币如BTC、ETH、USDT或XRP将很快加入，这将进一步影响任何掉期的采用。</p><p>平台上线三天后统计：</p><p><img src="https://s1.ax1x.com/2020/08/30/dbbqPJ.png" alt="dbbqPJ.png"></p><center><font color="acacac" size=2>Anyswap统计数据：2020年7月23日</font></center><p>在推出后的两周内，FSN/ANY美元组合的流动性较第三天的统计数字几乎翻了一番，共有超过650万美元的资金投入。此外，年收益率仍保持在430%的高利润率。</p><p><img src="https://s1.ax1x.com/2020/08/30/dbbLG9.jpg" alt="dbbLG9.jpg"></p><p>此外，Anyswap宣布将于2020年8月18日增加USDT。这将为Anyswap带来更多的采用和更高的数量。另一个重要的发展是与Hotbit的战略伙伴关系。集中交换Hotbit和Anyswap将在顶级DeFi项目和新DeFi代币的发现上相互协作。在Anyswap上发布的所有DeFi相关项目都将列在Hotbit上，具有最高优先级。Hotbit还将提供价值100万美元的流动性的任何掉期交易，以建立他们的共同违约生态系统。所以请继续关注，因为在不久的将来，Anyswap都将有重大进展。</p><hr><h1 id="2、Uniswap"><a href="#2、Uniswap" class="headerlink" title="2、Uniswap"></a>2、Uniswap</h1><br/><p><img src="https://s1.ax1x.com/2020/08/30/dbbXx1.png" alt="dbbXx1.png"></p><center><font color="acacac" size=2>Uniswap</font></center><p>Uniswap是一种开放源代码交换协议，方便以太坊区块链内的链上交换。除了以太币（ETH）外，Uniswap允许用户通过自动流动性系统在不同的ERC20代币之间进行交换。</p><p>Uniswap是去中心化的，与Anyswap不同，它没有任何实用工具或治理令牌。据DeFiPulse介绍，它是目前使用最多、最受欢迎的DeFi工具之一，锁定价值超过9600万美元。</p><p>今年2020年早些时候，在DeFi生态中，尤其是Uniswap，遭受了闪电贷款攻击，使得黑客得以逃走数十万美元。为了纠正这种情况，发布了新版本的Uniswap。Uniswap 2.0对此类攻击具有更强的抵抗力，并为DeFi space提供了更高级和更合适的功能。</p><hr><h1 id="3、Trustswap"><a href="#3、Trustswap" class="headerlink" title="3、Trustswap"></a>3、Trustswap</h1><br/><p><img src="https://s1.ax1x.com/2020/08/30/dbb5rV.jpg" alt="dbb5rV.jpg"></p><center><font color="acacac" size=2>Trustswap</font></center><p>Trustswap是一种新的生态系统，其主要目标是促进金融交易并为企业提供较低的费用。Trustswap专门从事金融服务，这些服务可以通过智能合约完成，例如时间释放支付、代币锁、事件释放、跨链掉期和其他DEX解决方案。</p><p>与Anyswap类似，Trustswap将使用治理和实用令牌：“SWAP”。它是一种ERC20代币，它赋予持有人投票权来管理平台决策。此外，当使用交换代币支付服务时，该平台将收取较低的费用。</p><p>最初，Trustswap将在以太坊区块链中提供这些服务，然后通过将硬币包装成ERC20代币扩展到其他区块链。白皮书是最近发布的，它更侧重于解释平台将提供的服务，而较少关注技术方面的内容，使生态系统能够提供复杂的服务，如跨链封装和限时支付。</p><p>现在您已经对Anyswap、Uniswap和Trustswap有了一个大致的了解，下面让我们根据对用户来说最重要的方面对它们进行比较：</p><ul><li><p><strong>Defi：</strong>哪个协议最适合当前的Defi需求并提供最好的功能？</p></li><li><p><strong>奖励和费用：</strong>哪个分散式交易所的费用最低，回报最好？</p></li><li><p><strong>安全性：</strong>哪个协议提供最高的安全性和最安全的体验？</p></li><li><p><strong>前景展望：</strong>哪一个协议在未来有望获得最好的采用和成功？</p></li></ul><hr><h1 id="4、比较分析"><a href="#4、比较分析" class="headerlink" title="4、比较分析"></a>4、比较分析</h1><br/><p><img src="https://s1.ax1x.com/2020/08/30/dbbH54.jpg" alt="dbbH54.jpg"></p><center><font color="acacac" size=2>制图来源：区块新看点</font></center><br/><p><strong>DeFi</strong></p><p>目前，DeFi生态主要集中在以太坊（Ethereum），这个区块链网络大多数DeFi工具都是在以太坊上构建的。然而，这仅仅是去中心化金融的一个起点，必须在比特币以外的区块链上取得进展，而且XRP、LTC也是如此。</p><p>下一个需要跨层次的技术是：Interoperability（互操作性）。像Uniswap和Trustswap这样的工具在这方面有一些局限性。Anyswap使用Fusion的DCRM技术来确保不同区块链之间的互操作性和通信。这些特性允许Anyswap有更多的用例和潜力。Trustswap还将使用跨链技术，不过，根据他们的路线图，这项功能将在2021年第4季度推出。</p><p>Anyswap建立在Fusion chain上，该项目的主要目标是将传统金融与区块链连接起来。在DeFi这个流行词出现之前，Fusion一直致力于分散金融。该项目开发了时间锁定功能和多触发机制等功能，可以进行复杂的财务操作。基本上，Fusion为DeFi工具（如Anyswap）创建了一个灵活的生态系统，以实现高效的特性和用例。</p><br/><p><strong>奖励和费用</strong></p><p>让我们先看一下网络费用，这是一个至关重要的方面，因为每个网络的费用差别很大。我们已经看到了提供跨链DeFi交易的重要性，但是对于用户来说支付较低的费用有多重要？作为一个反问，我们知道这是获得用户的主要动机！</p><p>让我们看看这个交易中的费用比较：以太坊网络上的以太收费1240美元，收费7.45美元。在Fusion Network上，价值1364美元的2112.99 FSN的交易成本为0.000066FSN（约0.000043美元）。这些数字不言而喻，在Fusion网络上进行交易的用户支付的费用是以太坊网络用户的10万倍左右。</p><p>如您所见，Uniswap和Trustswap用户支付的交易费用很高，而Anyswap用户支付的交易费用却少了10万倍。Anyswap是唯一一个支持ERC-20令牌的交换协议，而不是构建在以太坊上。用户可以通过其跨链技术访问以太坊代币，费用远低于以太坊上的交易所。</p><p>前面也提到过，除了以太坊，Anyswap还将使用DCRM技术来支持比特币、Cardano、Litecoin、Cosmos和Ripple等主要区块链。</p><p>现在，让我们继续讨论平台费用和奖励。在交换加密货币时，Uniswap收取0.3%的费用，用于奖励特定资金池的流动性提供者，其比例与他们对资金池的贡献成比例。另一方面，Anyswap收取0.4%的交换费，其中0.3%给流动性提供者，0.1%给项目。</p><p>这是否意味着任何交换都比Uniswap收费高？不，原因如下。</p><p>你还记得Anyswap的效用和治理令牌吗？包括所有交易所的交易者在内的所有交易者都使用了奖励。事实上，其总供应量的25%被分配到“掉期交易”中，掉期交易商每100个熔合块将分享250个ANY，这与他们在此期间的交易量成比例。综上所述，使用Anyswap进行交易更有回报。</p><p>虽然流动性提供商在Anyswap和Uniswap上共享0.3%的交易费用作为奖励，但Anyswap流动性提供商每天将收到大约9900美元，此外，他们在工作节点建立之前获得的6600美元。考虑到目前的价格，这是非常重要的。（撰写本报告时为1.57美元）。</p><br/><p><strong>安全性</strong></p><p>Uniswap已经启动并运行了近两年。在此期间，几起针对DEXes的攻击，其中最著名的一次是今年早些时候发生的闪电贷款攻击，导致价值35万美元的Ether被盗。这是导致推出Uniswap V2的主要原因之一。</p><p>推出Uniswap V2的目的是提供更多功能，但最重要的是加强交换的安全性。然而，Uniswap用户仍然面临令牌列表问题。基本上，任何人都可以在Uniswap中添加伪造的加密货币，并选择给这些代币起类似于著名加密货币的名称和标识。</p><p>另一方面，通过使用Anyswap工作节点，Anyswap将完全分散。Anyswap团队没有对其用户代币的管理，这与Bancor等声称分散的其他交易所不同。Bancor在2018年遭到黑客攻击，该团队成功冻结了被盗的BNT代币。你可能认为这是一个好消息，然而，团队成功做到这一点是因为它控制了BNT智能合约。</p><hr><h1 id="5、未来展望"><a href="#5、未来展望" class="headerlink" title="5、未来展望"></a>5、未来展望</h1><br/><p>当涉及到可能成为未来DeFi生态中心的工具时，确定哪些工具最有潜力满足去中心化金融世界的需求是很重要的。</p><p><img src="https://s1.ax1x.com/2020/08/30/dbb4K0.png" alt="dbb4K0.png"></p><p>根据btconethereum网站，目前只有19600个比特币被锁定在以太坊区块链中，约占BTC流通供应量的0.1%。这让我们清楚地知道我们在DeFi空间还处于早期阶段。有了它所提供的特性，Anyswap能够满足DeFi的需求。</p><hr><h1 id="6、结论"><a href="#6、结论" class="headerlink" title="6、结论"></a>6、结论</h1><br/><p>在Anyswap上，用户可以安全地交易硬币和代币，而不用担心购买诈骗代币。此外，Anyswap使用已经建立的跨链技术，它是唯一奖励所有用户（包括掉期交易员）使用该平台的交易所。</p><p><img src="https://s1.ax1x.com/2020/08/30/dbbIbT.jpg" alt="dbbIbT.jpg"></p><p>Uniswap是以太坊社区中一个信誉良好的交换协议。然而，它仅限于以太坊区块链，它的另一个主要问题是，它使骗子更容易列出假代币和窃取用户的钱。</p><p>我们审查的第三个交易所是信托互换。目前，围绕这个项目有很多宣传，在白皮书中承诺了很多有趣的特性。然而，关于团队将如何实现这些特性的技术细节很少。</p><p>综上所述，在流动性和安全性方面，Anyswap似乎是最好的交换，并且在跨链定义方面是最合适的选择。</p><blockquote><p>延伸科普： <a href="https://www.chengwf.com/2020/06/wiki-DeFi-index.html">区块新看点科普 | 什么是去中心化金融（DeFi）？</a></p></blockquote><p><img src="https://s1.ax1x.com/2020/08/22/daJPKO.jpg" alt="daJPKO.jpg"></p><p><strong>声明：</strong>编者在撰写本文时，未购买任何数字货币资产。本文为区块新看点-程伟在15年互联网企业从事管理经验中得出的管理技巧和企业改进观点，希望给所有精英人士一点点的分享交流意见和建议，欢迎前来讨论和给更好的论点，谢谢！转载请注明来源于“区块新看点-行业研究”。</p>]]></content>
+    
+    <summary type="html">
+    
+      DeFi（去中心化金融），目前是加密领域中最热门的话题。然而，DeFi是创建区块链技术的原始目标并不奇怪，该技术旨在代表金融世界的未来骨干。
+    
+    </summary>
+    
+    
+      <category term="区块链" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/"/>
+    
+      <category term="数字货币" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/"/>
+    
+      <category term="以太坊" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/%E4%BB%A5%E5%A4%AA%E5%9D%8A/"/>
+    
+      <category term="区块链金融" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E5%8C%BA%E5%9D%97%E9%93%BE%E9%87%91%E8%9E%8D/"/>
+    
+      <category term="DeFi" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E5%8C%BA%E5%9D%97%E9%93%BE%E9%87%91%E8%9E%8D/DeFi/"/>
+    
+      <category term="DeFi" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/%E4%BB%A5%E5%A4%AA%E5%9D%8A/DeFi/"/>
+    
+    
+      <category term="以太坊" scheme="https://www.chengwf.com/tags/%E4%BB%A5%E5%A4%AA%E5%9D%8A/"/>
+    
+      <category term="去中心化金融" scheme="https://www.chengwf.com/tags/%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%8C%96%E9%87%91%E8%9E%8D/"/>
+    
+      <category term="DeFi" scheme="https://www.chengwf.com/tags/DeFi/"/>
+    
+      <category term="区块新看点" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E6%96%B0%E7%9C%8B%E7%82%B9/"/>
+    
+      <category term="Anyswap" scheme="https://www.chengwf.com/tags/Anyswap/"/>
+    
+      <category term="Uniswap" scheme="https://www.chengwf.com/tags/Uniswap/"/>
+    
+      <category term="Trustswap" scheme="https://www.chengwf.com/tags/Trustswap/"/>
+    
+      <category term="交换协议" scheme="https://www.chengwf.com/tags/%E4%BA%A4%E6%8D%A2%E5%8D%8F%E8%AE%AE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>数字货币中的可替代与不可替代，有什么区别？</title>
+    <link href="https://www.chengwf.com/2020/08/NFT-non-NFT-difference.html"/>
+    <id>https://www.chengwf.com/2020/08/NFT-non-NFT-difference.html</id>
+    <published>2020-08-26T16:00:00.000Z</published>
+    <updated>2020-08-30T07:56:29.140Z</updated>
+    
+    <content type="html"><![CDATA[<p>今天，我们将研究可替代与不可替代令牌，又称为NFT，也称为精巧。随着虚拟猫（一种虚拟猫收藏游戏）的突然流行，它们进入了主流。虽然基于Ethereum的ERC-721仍然是市场上最受欢迎的NFT，但那里有一些项目（例如RSK）已经产生了自己的收藏代币。因此，在进行任何此类操作之前，我们先进行一些背景研究。<a id="more"></a></p><blockquote><p>延伸阅读：<strong><a href="https://www.chengwf.com/2020/08/wiki-Distributed-Ledger-Technology.html">什么是分布式账本技术（DLT）?比特币的前世今生？</a></strong></p></blockquote><p><img src="https://chengwf.com/87377" alt="dbLDAS.jpg"></p><h1 id="1、什么是代币？"><a href="#1、什么是代币？" class="headerlink" title="1、什么是代币？"></a>1、什么是代币？</h1><br/><p>在现实生活中，代币是一种可以对事实，质量，感觉等进行可见或有形表示的事物。您现在可以掏空口袋，很可能会偶然发现很多现实生活中的代币。</p><ul><li>您的办公室身份证显示公司有酬劳地雇用您。</li><li>您的驾驶执照是象征性的，代表您已经在自己的国家/地区参加了驾驶所需的培训。</li><li>您的酒店钥匙卡显示您已为房间付款。</li></ul><p>同样，在密码学领域，令牌是其特定生态系统中“某物”的表示。它可以估值，股权，投票权或其他任何方式。令牌不限于一个特定的角色。它可以在其本地生态系统中扮演许多角色。代币代表公司拥有的资产或公用事业，通常在公开发售期间将其赠送给投资者。</p><hr><h1 id="2、代币的作用"><a href="#2、代币的作用" class="headerlink" title="2、代币的作用"></a>2、代币的作用</h1><br/><p>令牌是其特定生态系统中某物的表示。它可以是价值，股权，投票权或其他任何东西。令牌不限于特定角色；它可以在其本地生态系统中履行许多功能，例如：</p><ul><li><strong>收费：</strong>令牌可以充当Dapp的网关。基本上，要访问Dapp，您将需要持有令牌。</li><li><strong>投票权：</strong>令牌还可以使持有人有一定的投票权。想想EOS，持有EOS代币将使您能够投票给区块生产者。</li><li><strong>价值交换：</strong>这是令牌在生态系统中的较传统角色之一。令牌可以帮助在应用程序内创建内部经济系统。</li><li><strong>增强用户体验：</strong>令牌还可以使持有人在特定环境的范围内丰富用户体验。例如。在Brave（Web浏览器）中，BAT（Brave中使用的令牌）的持有者将有权使用其令牌在Brave平台上添加广告或其他基于关注的服务来丰富客户体验。</li><li><strong>货币：</strong>可以用作价值存储，在给定生态系统内外进行交易。</li><li><strong>唯一事物的所有权：</strong>不可替代的令牌可以代表该特定用户的唯一事物。例如。加密猫。</li></ul><hr><h1 id="3、可替代代币与不可替代代币"><a href="#3、可替代代币与不可替代代币" class="headerlink" title="3、可替代代币与不可替代代币"></a>3、可替代代币与不可替代代币</h1><br/><p>好了，我们已经获得了有关令牌如何工作的一些背景信息，让我们看一下可替代令牌和不可替代令牌之间的区别。</p><p>“可替代性是商品或资产与相同类型的其他单个商品或资产的可互换性。”</p><p>让我们通过一个例子来理解这一点。</p><p>假设您从朋友那里借了100美元的钞票。要还清她，您真的需要用完全相同的钞票还清她吗？</p><p>绝对不。</p><p>您可以再给她100美元的钞票。实际上，您可以给您的朋友2张50美元的钞票，甚至10张10美元的钞票。因为美元（或一般的纸币）在大多数情况下是可替代的，所以这将是完美的。</p><p>现在，假设您借用朋友的汽车。如果您还车给她，她会好吗？如果您拆开她的汽车并还给她引擎，车轮，门等，该怎么办？如果她不对您提出投诉，您会很幸运！</p><p>那么，这里发生了什么？</p><p>汽车算作收藏品，这就是为什么它不可替代的原因。</p><p>这是可替代资产和不可替代资产之间的根本区别。</p><p>货币通过其可替代性获得更多价值。特定货币越被广泛认可和接受，人们就会使用它越多，因此它的感知价值就越高。因此，如果付款是您感兴趣的令牌的主要实用工具之一，那么您应该检查令牌是否可替代。</p><p>当令牌是可收藏的并从其唯一性中获得其价值时，不可替代性就是一种理想的资产。</p><hr><h1 id="4、以太坊代币标准：ERC-20与ERC-721"><a href="#4、以太坊代币标准：ERC-20与ERC-721" class="headerlink" title="4、以太坊代币标准：ERC-20与ERC-721"></a>4、以太坊代币标准：ERC-20与ERC-721</h1><br/><p>为了创建一个健康的生态系统，建立在以太坊之上的Dapp能够无缝地交互是至关重要的。但是，如果我们有两个令牌（例如令牌Alpha和令牌Beta），并且它们都有不同的智能合约结构，将会发生什么？</p><p><img src="https://s1.ax1x.com/2020/08/30/dbLrtg.jpg" alt="dbLrtg.jpg"></p><blockquote><p>延伸阅读：<a href="https://www.chengwf.com/2020/07/wiki-Ethereum.html"><strong>深度解密：什么是以太坊（Ethereum）？</strong></a></p></blockquote><p>为了使两个令牌交互，开发人员将需要仔细研究他们的合同，并准确地绘制出这些令牌如何相互配合。</p><p>现在，这对于可伸缩性并不是一个好兆头，对吗？</p><p>如果有100个不同的代币与100个不同的合约，那么要缩小所需的所有条件和条件，以确保在所有这些代币之间都能进行转账，将需要大量的复杂计算。这根本不是理想的方案。</p><p>这就是为什么决定标准化管理令牌基础架构的规则的原因。这些规则称为ERC-20。“ ERC”代表“以太坊请求评论”，而数字“ 20”被分配给该请求。</p><br/><h2 id="4-1、让我们看看是什么构成了ERC20的基础："><a href="#4-1、让我们看看是什么构成了ERC20的基础：" class="headerlink" title="4.1、让我们看看是什么构成了ERC20的基础："></a><strong>4.1、让我们看看是什么构成了ERC20的基础：</strong></h2><ul><li>总供应</li><li>平衡</li><li>转让</li><li>转移自</li><li>批准</li><li>津贴</li></ul><br/><h2 id="4-2、现在，这些是ERC-20令牌必须具有的规则和功能。但是，它们还可以具有以下3个可选特征："><a href="#4-2、现在，这些是ERC-20令牌必须具有的规则和功能。但是，它们还可以具有以下3个可选特征：" class="headerlink" title="4.2、现在，这些是ERC-20令牌必须具有的规则和功能。但是，它们还可以具有以下3个可选特征："></a><strong>4.2、现在，这些是ERC-20令牌必须具有的规则和功能。</strong>但是，它们还可以具有以下3个可选特征：</h2><ul><li>代币名称</li><li>符号</li><li>小数位（最多18个）</li></ul><p>这些规则定义了ERC-20的可替代标准。</p><br/><h2 id="4-3、可替代令牌的属性："><a href="#4-3、可替代令牌的属性：" class="headerlink" title="4.3、可替代令牌的属性："></a><strong>4.3、可替代令牌的属性：</strong></h2><ul><li><p>相同类型的另一个令牌可以替换一个令牌。</p></li><li><p>管理令牌的基本规则是相同的。</p></li><li><p>可替代的令牌是可分割的，可以使用各种较小的分数来偿还较大的金额。例如，可以用0.50 BTC，0.30 BTC和0.20 BTC偿还1 BTC。</p></li></ul><hr><h1 id="5、ERC-721-–不可替代标准"><a href="#5、ERC-721-–不可替代标准" class="headerlink" title="5、ERC-721 –不可替代标准"></a>5、ERC-721 –不可替代标准</h1><br/><p><strong>ERC-721令牌标准有助于创建不可替代的令牌</strong>。在许多方面，它的功能与ERC-20非常相似。存在这种相似性有两个原因：</p><ul><li>首先，开发人员更容易进行过渡。，他们不必学习很多新事物</li><li>对于可以将这些代币存储在普通钱包中并在交易所进行交易的用户而言，生活变得更加轻松。</li></ul><p><strong>ERC-721的接口提供两种方法：</strong></p><ul><li>ownerOf：查询令牌的所有者</li><li>transferFrom：转移令牌的所有权</li></ul><hr><h1 id="6、ERC-721功能"><a href="#6、ERC-721功能" class="headerlink" title="6、ERC-721功能"></a>6、ERC-721功能</h1><br/><p>ERC-721标准定义了以下功能：名称，符号，totalSupply，balanceOf，ownerOf，批准，takeOwnership，转让，tokenOfOwnerByIndex和tokenMetadata。它还描述了两个事件：转移和批准。</p><p>在进行个别功能讨论之前，您必须了解ERC-721功能的令牌所有权和令牌创建的含义。</p><hr><h1 id="7、代币所有权"><a href="#7、代币所有权" class="headerlink" title="7、代币所有权"></a>7、代币所有权</h1><br/><p>当您购买ERC-20代币时，您的所有权将写入智能合约中。智能合约还具有有关交易后每个地址将拥有多少代币的数据……仅此而已。问题是这些合同不需要担心特定的令牌，因为它们是可互换的，因此它们都是相同的。</p><p>但是，一个ERC-721令牌的值与另一个ERC-721令牌不相同，因为它具有不可替代性。仅在合同中添加地址和余额是不够的。还需要添加令牌的唯一所有权详细信息。</p><hr><h1 id="8、大事记"><a href="#8、大事记" class="headerlink" title="8、大事记"></a>8、大事记</h1><br/><p>每当合同调用事件时，事件就会触发，并将事件广播到任何监听程序中。</p><p>合同之外的程序侦听事件，以便它们可以在执行时执行代码。ERC-721标准涉及两个事件：</p><p><strong>8.1、转让：</strong>每当令牌易手时，都会触发此事件。令牌的所有权每次从一个人转移到另一个人时，都会触发此事件。它详细说明了以下内容：</p><ul><li>哪个帐户发送了令牌？</li><li>哪个帐户收到了令牌？</li><li>哪个令牌被转移（通过ID检查）？</li></ul><p><strong>8.2、批准：</strong></p><p>每当用户允许另一个用户获得特定令牌的所有权时，就会触发第二个事件。该事件详细说明了哪个账户当前一直拥有该令牌，以及哪个账户将来获得了对其拥有令牌的许可。它还检查令牌ID，以确定已批准哪个特定令牌转让所有权。</p><hr><h1 id="9、不可替代的令牌标准"><a href="#9、不可替代的令牌标准" class="headerlink" title="9、不可替代的令牌标准"></a>9、不可替代的令牌标准</h1><br/><h2 id="9-1、-ERC-1155"><a href="#9-1、-ERC-1155" class="headerlink" title="9.1、 ERC-1155"></a><strong>9.1、 ERC-1155</strong></h2><p>ERC-1155是由Enjin团队推广的另一种不可替代的令牌标准。此处定义的ID并不代表单个资产，而是资产的类别。因此，如果我们想使“卡片”成为收藏品，则可以使用一个代表“卡片”的ID。一个钱包可能有50个。</p><p>与ERC-721相比，ERC-1155具有一个优势，用户必须通过修改智能合约的状态来转移这50张卡。但是，ERC-1155的缺点在于可追溯性的丧失。</p><h2 id="9-2、-ERC-998"><a href="#9-2、-ERC-998" class="headerlink" title="9.2、 ERC-998"></a><strong>9.2、</strong> <strong>ERC-998</strong></h2><p>诸如ERC-998之类的可组合物提供了一个模板，NFT可以通过该模板拥有不可替代和可替代资产。</p><hr><h1 id="10、不可替代令牌的优缺点"><a href="#10、不可替代令牌的优缺点" class="headerlink" title="10、不可替代令牌的优缺点"></a>10、不可替代令牌的优缺点</h1><br/><h2 id="10-1、优点："><a href="#10-1、优点：" class="headerlink" title="10.1、优点："></a><strong>10.1、优点：</strong></h2><ul><li>ERC-721标准可以成为一种在公共或混合区块链上以完全不变性和安全性对每个重要资产进行标记的方法。</li><li>不可替代的令牌可以用比该时期大多数人可用的资源更多的方式来设计。用户可以这样做，将额外的上下文和信息添加到资产的元数据中。</li></ul><h2 id="10-2、缺点-："><a href="#10-2、缺点-：" class="headerlink" title="10.2、缺点**：**"></a><strong>10.2、缺点**</strong>：**</h2><ul><li>ERC-721令牌标准仍然相对较新。</li><li>可替代令牌在一定程度上是可分割的。ERC-721根本无法分割，必须整体购买或出售。</li></ul><p>如前所述，目前已经有相当一些流行的DeFi项目已经开始发行NFT代币。</p><br/><p> 更多精彩文章：<strong><a href="https://www.chengwf.com/2020/08/Ethereum-King-5-history.html">以太坊五年缔造公链之王，5张图透析以太坊称王之路</a></strong></p><p><img src="https://s1.ax1x.com/2020/08/22/daJPKO.jpg" alt="daJPKO.jpg"></p><p><strong>声明：</strong>编者在撰写本文时，未购买任何数字货币资产。本文为区块新看点-程伟在15年互联网企业从事管理经验中得出的管理技巧和企业改进观点，希望给所有精英人士一点点的分享交流意见和建议，欢迎前来讨论和给更好的论点，谢谢！转载请注明来源于“区块新看点-行业研究”。</p>]]></content>
+    
+    <summary type="html">
+    
+      今天，我们将研究可替代与不可替代令牌，又称为NFT，也称为精巧。随着虚拟猫（一种虚拟猫收藏游戏）的突然流行，它们进入了主流。
+    
+    </summary>
+    
+    
+      <category term="区块链" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/"/>
+    
+      <category term="数字货币" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/"/>
+    
+      <category term="以太坊" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/%E4%BB%A5%E5%A4%AA%E5%9D%8A/"/>
+    
+      <category term="区块链技术" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E5%8C%BA%E5%9D%97%E9%93%BE%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="以太坊" scheme="https://www.chengwf.com/tags/%E4%BB%A5%E5%A4%AA%E5%9D%8A/"/>
+    
+      <category term="区块新看点" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E6%96%B0%E7%9C%8B%E7%82%B9/"/>
+    
+      <category term="ERC-20" scheme="https://www.chengwf.com/tags/ERC-20/"/>
+    
+      <category term="ERC-721" scheme="https://www.chengwf.com/tags/ERC-721/"/>
+    
+      <category term="NFT" scheme="https://www.chengwf.com/tags/NFT/"/>
+    
+      <category term="加密猫" scheme="https://www.chengwf.com/tags/%E5%8A%A0%E5%AF%86%E7%8C%AB/"/>
+    
+      <category term="可替代代币" scheme="https://www.chengwf.com/tags/%E5%8F%AF%E6%9B%BF%E4%BB%A3%E4%BB%A3%E5%B8%81/"/>
+    
+      <category term="不可替代代币" scheme="https://www.chengwf.com/tags/%E4%B8%8D%E5%8F%AF%E6%9B%BF%E4%BB%A3%E4%BB%A3%E5%B8%81/"/>
+    
+  </entry>
   
   <entry>
     <title>Steem vs Tron：对加密货币帝国的反抗！</title>
@@ -701,90 +791,6 @@
       <category term="加密市场" scheme="https://www.chengwf.com/tags/%E5%8A%A0%E5%AF%86%E5%B8%82%E5%9C%BA/"/>
     
       <category term="数字钱包" scheme="https://www.chengwf.com/tags/%E6%95%B0%E5%AD%97%E9%92%B1%E5%8C%85/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>高风险加密Dapps市场：三大币交易量超2.8亿美元，风险爆炸前警示</title>
-    <link href="https://www.chengwf.com/2020/07/crypto-Dapps-2.8.html"/>
-    <id>https://www.chengwf.com/2020/07/crypto-Dapps-2.8.html</id>
-    <published>2020-07-15T16:00:00.000Z</published>
-    <updated>2020-07-16T12:25:13.061Z</updated>
-    
-    <content type="html"><![CDATA[<p><strong>以太坊仍然是高风险种类的领先计算机协议。</strong></p><p>自成立之初，DappRadar就表现出高风险的dapps类别。在DappRadar上已经提交了813个dapp，在赌博之后排名第二。需要注意的是，现在只有12％的用户显示任何活动。<a id="more"></a></p><p><img src="https://chengwf.com/c7c87" alt="高风险加密Dapps市场：三大币交易量超2.8亿美元，风险爆炸前警示"></p><center><font color="acacac" size=2>高风险加密Dapps市场：三大币交易量超2.8亿美元，风险爆炸前警示</font></center><p>高风险的dapp 主要是庞氏骗局或类似的高收益投资计划，这些投资计划将带来不可持续的高投资回报率。高回报并不是适用于该类别的唯一功能。通常，此类dapp在风险级别上并不透明，或者仅dapp的功能才是对代币的投资。</p><p>此外，在dapp中看到可持续活动并不常见。通常，我们会见证赛车活动在几个月内以撞车事故告终。</p><p>最近，我们发现越来越多的新高风险dapp，交易量和每日活跃钱包增加。检查激增背后的原因很重要。</p><p>本内容仅出于研究和分发目的而编写。我们旨在审查高风险dapps类别中的当前趋势和数据。</p><p><img src="https://s1.ax1x.com/2020/07/16/Uri3Yd.jpg" alt="Top 5 Dapps by Users: High-Risk Category"></p><center><font color="acacac" size=2>Top 5 Dapps by Users: High-Risk Category</font></center><br/><blockquote><p>延伸阅读：《以太坊的DApps如何开发和运作？》</p><p>区块新看点深度解密：<a href="https://www.chengwf.com/2020/07/wiki-Ethereum.html">什么是以太坊？怎么使用以太坊？如何挖矿？（深度解密百科）</a></p></blockquote><p><img src="https://s1.ax1x.com/2020/07/16/UrViGQ.jpg" alt="UrViGQ.jpg"></p><h1 id="文章要点"><a href="#文章要点" class="headerlink" title="文章要点"></a>文章要点</h1><ul><li>以太坊仍然是高风险类别的领先协议。2020年第二季度，它占总交易量的97％（或2.78亿美元）。</li><li>一枚dapp HEX产生了2.02亿美元的以太坊交易量。</li><li>在所有以太坊高风险dapp中，Forsage占每日活动钱包的50％。</li><li>到2020年7月，所有TRON高风险dapp的日常活动有时会超过10,000。这主要是由BeeHive Fast和TRON银行推动的。</li><li>EOS和IOST高风险dapp的发展势头可追溯到2019年。2020年记录的活动很少。</li></ul><p><img src="https://s1.ax1x.com/2020/07/16/UrE4Dx.jpg" alt="UrE4Dx.jpg"></p><h1 id="以太坊"><a href="#以太坊" class="headerlink" title="以太坊"></a>以太坊</h1><p><strong>1.1、以太坊：每日活跃钱包比上一季度增长134％</strong></p><p>以太坊仍然是区块链世界上最强大的协议之一。几乎所有dapp类别都实现了同比增长。高风险类别也不例外。它的每日活跃钱包和交易量创下历史新高。此外，2020年第二季度共提交了74份新的dapp，比上一季度高出两倍。</p><p>在2020年第二季度，我们看到每日活跃钱包的季度收入大幅增长134％。以太坊上的高风险dapp现在每天至少吸引4,200个活跃钱包。Dapp Forsage现在负责50％的日常活动。</p><p><img src="https://s1.ax1x.com/2020/07/16/Uri1FH.jpg" alt="以太坊钱包活跃度"></p><center><font color="acacac" size=2>以太坊钱包活跃度</font></center><p><strong>1.2、以太坊：2020年第二季度交易量超过2.7亿美元</strong></p><p>2020年第二季度，交易量比2020年第一季度增加了910％。该类别在2020年第二季度产生了2.78亿美元。</p><p>2020年第二季度销量的增长是由于一个名为HEX的dapp产生了2.02亿美元的收入，贡献了73％。增长受到2020年5月HEX代币爆炸性价格上涨的推动。</p><p><img src="https://s1.ax1x.com/2020/07/16/UriQTe.jpg" alt="以太坊2019年、2020年每个季度的交易量"></p><center><font color="acacac" size=2>以太坊2019年、2020年每个季度的交易量</font></center><p><strong>1.3、以太坊：HEX仍然有动力吗？</strong></p><p>HEX dapp于2019年12月上旬开始。该dapp一直是以太坊高风险类别的领先dapp 。十六进制不同于其他高风险dapp；它们围绕着热土豆博弈论或标准金字塔销售而构建。</p><p>dapp具有自己的令牌，称为HEX，该令牌现在在DEX世界中很流行，高收益的固定机制和强大的联盟营销。通过雄心勃勃地尝试引导新的加密货币和社区的镜头，可以更好地查看它。</p><p>在2020年第二季度，它创下了有史以来的最佳交易量，接近2.02亿美元。同时，在2020年第二季度初，日常活动激增。但是，我们可以看到日常活动呈下降趋势，即到6月底总体上从1000个钱包减少到400个钱包。</p><p><img src="https://s1.ax1x.com/2020/07/16/Uri8fA.jpg" alt="以太坊钱每日活跃钱包总量与交易量分析图"></p><center><font color="acacac" size=2>以太坊钱每日活跃钱包总量与交易量分析图</font></center><p><strong>1.4、以太坊：Forsage面临空前高额的每日活跃钱包</strong></p><p>Forsage于2020年1月开始其旅程。它把自己描述为具有轻松赚取ETH方式的众筹平台。钱包可以以0.5 ETH的初始付款参与。当然，可以在几周内实现高收益回报。收入取决于您创建的会员网络。</p><p>乍一看，dapp与尝试使用区块链技术以发挥其优势的一些高级庞氏骗局非常相似。</p><p>Forsage的日常活动在2020年第二季度达到了新的水平，与2020年第一季度相比增加了670％。有时，在2020年第二季度，每日活动的钱包接近3,000。</p><p><img src="https://s1.ax1x.com/2020/07/16/UriJSI.jpg" alt="Forsage 每日活跃钱包总量与交易量分析图"></p><center><font color="acacac" size=2>Forsage 每日活跃钱包总量与交易量分析图</font></center><p>Forsage的交易量逐月激增。2020年第二季度，Forsage产生了4,300万美元，占高风险类别交易量的16％。现在，这种浪潮似乎并没有停止。到2020年7月，它已经产生了超过2000万美元的资金，这已经是2020年第二季度的一半。</p><p><strong>1.5、以太坊：结论</strong></p><p>以太坊在2020年第二季度仍然是高风险类别中的领导者。交易量和每日活跃钱包的增长都是可观的。另一方面，它主要由几个Dapp驱动：HEX和Forsage。</p><p>这使我们了解到，我们现在在以太坊高风险交易平台上观察到的增长仅基于一些风险较高的dapp，因此非常脆弱。</p><p><img src="https://s1.ax1x.com/2020/07/16/UrE5b6.jpg" alt="UrE5b6.jpg"></p><h1 id="TRON"><a href="#TRON" class="headerlink" title="TRON"></a>TRON</h1><p><strong>2.1、TRON：2020年7月的每日活跃钱包偶尔会超过10,000个</strong></p><p>自2019年以来，无论是数量还是日常活动，TRON协议在高风险类别中都经历了不稳定的旅程。但是，据观察，该类别在2020年第二季度出现了增长的积极迹象。新提交的小型dapp也有所增加。2020年第二季度，DappRadar中添加了28个新的dapp。</p><p>2020年第二季度，日常活动环比增长276％，同比增长396％。BeeHive Fast，TRON银行和CryptoFriends分别以每天2,201、1,106和552个活动唯一钱包推动了这一类别。截止到今天，它已成为TRON协议日常活动中的第一大类。</p><p><img src="https://s1.ax1x.com/2020/07/16/UriYlt.jpg" alt="TRON钱包活跃度"></p><center><font color="acacac" size=2>TRON钱包活跃度</font></center><p><strong>2.2、TRON：交易量激增至1000万美元</strong></p><p>自2019年第一季度以来，TRON的High-Risk交易量暴跌。一年之后，我们见证了新的增长浪潮。</p><p>2020年第二季度类别产生了1000万美元的交易量，其价值比2020年第一季度增加了2342％。ECOSmartECS，TRON银行和BeeHive Fast分别占总交易量的52％，26％和9％。</p><p>到2020年7月，该类别已募集了近500万美元的资金，这是2020年第二季度的一半。如果这种趋势继续下去，我们将在2020年第三季度见证更高的数字。</p><p><img src="https://s1.ax1x.com/2020/07/16/Urit6P.jpg" alt="TRON2019年、2020年每个季度的交易量"></p><center><font color="acacac" size=2>TRON2019年、2020年每个季度的交易量</font></center><p><strong>2.3、TRON：BeeHive Fast在6月产生了100万美元的交易量</strong></p><p>BeeHive Fast是一个游戏模拟器，用户可以在其中获得TRX。乍一看，dapp与养蜜蜂生产蜂蜜的游戏非常相似。蜂蜜可以转换成TRX。当然有入场费。</p><p>当您仔细观察时，它是另一种庞氏骗局。越来越多的人加入该平台，为早期投资者带来了更多的红利。所有后来的投资者都有很高的机会损失他们投资游戏的资金。</p><p>2020年6月，dapp产生了100万美元的交易量，每天的活动量至少为2,000或更多。到目前为止，在7月份，dapp每天维持1000个钱包的活动量，至少产生了150万美元的收入。</p><p><img src="https://s1.ax1x.com/2020/07/16/UriBkQ.jpg" alt="BeeHive Fast每日活跃钱包总量与交易量分析图"></p><center><font color="acacac" size=2>BeeHive Fast每日活跃钱包总量与交易量分析图</font></center><p><strong>2.4、TRON：TRON银行的每日活跃钱包接近3500</strong></p><p>TRON dapp银行将自己视为高收益投资计划。根据他们的网站，它可以选择从钻石到青铜的不同计划。收益百分比可能看起来很诱人，并带有一定的风险。值得注意的是，没有真正的解释说明您的投资有多安全或资金投入到哪里。</p><p>如果我们研究2020年dapp的日常活动和交易量。从6月份开始，dapp看起来很有希望。到6月底，它拥有1106个钱包，并在6月份创造了270万美元的收入，这是自成立以来的最高水平。</p><p>截至7月，到目前为止的生成量为200万美元，包含3,387个钱包，这使得该dapp成为“高风险”类别中收入最高的类别之一。</p><p><img src="https://s1.ax1x.com/2020/07/16/UriwTg.jpg" alt="TRON银行每日活跃钱包总量与交易量分析图"></p><center><font color="acacac" size=2>TRON银行每日活跃钱包总量与交易量分析图</font></center><p><strong>2.5、TRON：结论</strong></p><p>TRON高风险类别面临第二波增长。第一个是在2019年，第二个是在现在。像往常一样，所有增长都是由几个dapp驱动的。大多数人处于起步阶段。</p><p>与以太坊类似，我们希望将来该种类有所发展。它可能会重复与2019年相同的趋势。</p><p><img src="https://s1.ax1x.com/2020/07/16/UrEoVK.jpg" alt="UrEoVK.jpg"></p><h1 id="EOS"><a href="#EOS" class="headerlink" title="EOS"></a>EOS</h1><p><strong>EOS和IOST每天都在下降</strong></p><p>EOS和IOST协议的发展趋势与以太坊和TRON不同。协议dapps早在2019年就开始蓬勃发展。2020年记录的活动很少。</p><p>在2019年第一季度，EOS的每日活动唯一钱包约为624个，最近已降至6个每日活动钱包。唯一仍处于活动状态的dapp是EOS Pack，HiGold Miner和333 EOS。</p><p>IOST遵循与EOS类似的趋势。唯一使IOST仍处于高风险类别竞赛中的dapp是每天有10位活跃用户的Fish n’Chips 。</p><p><img src="https://s1.ax1x.com/2020/07/16/Uriam8.jpg" alt="EOS钱包活跃度"></p><center><font color="acacac" size=2>EOS钱包活跃度</font></center><p>结果，交易量也下降了。卷现在接近于零。</p><p><img src="https://s1.ax1x.com/2020/07/16/Urid0S.jpg" alt="EOS/IOST在2019年、2020年每个季度效果量"></p><center><font color="acacac" size=2>EOS/IOST在2019年、2020年每个季度效果量</font></center><h1 id="总结论"><a href="#总结论" class="headerlink" title="总结论"></a>总结论</h1><p>2020年第二季度可以被称为“高风险第二季”。首先，高风险类别是DappRadar上第二大类别，仅次于dapps赌博。其次，它显示了2020年第二季度交易量和每日活跃钱包的过度发展。同样，它已经发生在2019年。</p><p>可以在每个dapp中发现一种趋势。刚开始时，这些dapp的活动急剧增加，但在几个月后显着下降。很少有dapp将活动保留超过半年。</p><p><strong>事实证明，以太坊是适用于区块链dapp的最佳协议。</strong>它负责2020年第二季度产生的97％的交易量。</p><p>尽管TRON协议自2019年以来在高风险类别中经历了艰辛的旅程; 它在2020年第二季度发布了令人放心的画面，其中大多数新的高风险项目已发布。</p><p>与以往一样-尤其是在这种情况下。DappRadar平台提醒用户，<strong>永远不要在Dapps中投入超出其承受能力的更多价值</strong>。</p><p>一如既往，区块新看点将继续监测事态发展。</p><hr><p>声明：编者在撰写本文时，未购买任何数字货币资产。本文为区块新看点-程伟，原创所著，请转载时注明来源于“区块新看点”！</p><center><font  color="acacac" size=4><a href="https://zhuanlan.zhihu.com/chengwf" target="_blank" title="区块新看点专栏">--   知乎  【区块新看点专栏】   --</a></font></center><br/><p><a href="https://www.zhihu.com/club/1255823155094331392" target="_blank" rel="noopener"><img src="https://chengwf.com/ese" alt="UJcKyT.jpg"></a></p><blockquote><p>欢迎进入讨论币圈最新动态：<strong><a href="https://www.zhihu.com/club/1255823155094331392" target="_blank" rel="noopener">区块新看点-圈子（数字科技圈）</a></strong></p></blockquote><blockquote><p>订阅“区块新看点”微信公众号：BlockChan888，私信获取更多精彩课件</p></blockquote><p><img src="https://chengwf.com/358db" alt="UJculV.jpg"></p><br/><iframe src="https://cn.widgets.investing.com/crypto-currency-rates?theme=darkTheme&pairs=997650,1001803,1010776" width="100%" height="100%" frameborder="0" allowtransparency="true" marginwidth="0" marginheight="0"></iframe><div class="poweredBy" style="font-family: Arial, Helvetica, sans-serif;">技术支持 <a href="https://cn.investing.com?utm_source=WMT&amp;utm_medium=referral&amp;utm_campaign=CRYPTO_CURRENCY_RATES&amp;utm_content=Footer%20Link" target="_blank" rel="nofollow" boundblank="">Investing.com</a></div><br/>]]></content>
-    
-    <summary type="html">
-    
-      以太坊仍然是高风险种类的领先计算机协议。自成立之初，DappRadar就表现出高风险的dapps类别。
-    
-    </summary>
-    
-    
-      <category term="区块链" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/"/>
-    
-      <category term="数字货币" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/"/>
-    
-      <category term="以太坊" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/%E4%BB%A5%E5%A4%AA%E5%9D%8A/"/>
-    
-      <category term="TRON" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/TRON/"/>
-    
-      <category term="EOS" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/EOS/"/>
-    
-    
-      <category term="以太坊" scheme="https://www.chengwf.com/tags/%E4%BB%A5%E5%A4%AA%E5%9D%8A/"/>
-    
-      <category term="区块新看点" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E6%96%B0%E7%9C%8B%E7%82%B9/"/>
-    
-      <category term="加密市场" scheme="https://www.chengwf.com/tags/%E5%8A%A0%E5%AF%86%E5%B8%82%E5%9C%BA/"/>
-    
-      <category term="数字钱包" scheme="https://www.chengwf.com/tags/%E6%95%B0%E5%AD%97%E9%92%B1%E5%8C%85/"/>
-    
-      <category term="DApps" scheme="https://www.chengwf.com/tags/DApps/"/>
-    
-      <category term="TRON" scheme="https://www.chengwf.com/tags/TRON/"/>
-    
-      <category term="EOS" scheme="https://www.chengwf.com/tags/EOS/"/>
-    
-      <category term="DappRadar" scheme="https://www.chengwf.com/tags/DappRadar/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>稳定币Tether的黄金稳定资产成长</title>
-    <link href="https://www.chengwf.com/2020/07/Tether-gold-Growth.html"/>
-    <id>https://www.chengwf.com/2020/07/Tether-gold-Growth.html</id>
-    <published>2020-07-14T16:00:00.000Z</published>
-    <updated>2020-07-15T07:34:50.054Z</updated>
-    
-    <content type="html"><![CDATA[<p>加密货币行业已达到增长的拐点，Tether是最大的受益者。<a id="more"></a></p><blockquote><p>根据WIKI解密：Tether是一种有争议的[加密货币，由Tether Limited发行。[2]以前声称每个代币都以一美元作为抵押，但在2019年3月14日更改了抵押以包括对联属公司的贷款。Bitfinex交换是由被告纽约总检察长用USDt的资金，以掩盖资金中旬以来，2018缺少$ 850亿。</p></blockquote><p><strong>USDt</strong>被称为stablecoin（稳定币），因为它最初的设计永远是价值$ 1.00，维持$ 1.00储备发行的每个USDt。但是，Tether Limited声明，USDt拥有者没有合同权利，其他法律主张，也不保证USDt将被赎回或兑换成美元。</p><p>【2019年4月30日，Tether Limited的律师声称，每个tether仅获得0.74美元的现金和现金等价物作为后盾。】</p><blockquote><p>USDT是通过Omni Layer协议在比特币区块链的基础上制造的一种加密货币资产。每个USDT代币都被束缚在Tether Limited储备余额中的美元中，可以通过Tether平台获得。USDT可以像比特币或任何其他加密货币一样进行转移，存储，使用。用户可以使用任何支持Omni Layer的钱包（例如Ambisafe，Holy Transaction或Omni Wallet）转移和存储Tether的加密货币。</p></blockquote><p><img src="https://chengwf.com/int" alt="UwkJxK.png"></p><center><font color="acacac" size=2>Tether</font></center><p>自2014年推出以来，Tether一直是加密行业中备受争议的项目。反对者对此提出了很多批评-从有关抵押担保的问题到监管的不确定性。在过去的三年中，它还面临来自众多稳定币项目的日益激烈的竞争，这些项目似乎准备蚕食Tether的市场份额。</p><p>如今，几年后，Tether抵御了这些攻击和不确定性，超出了其发展的所有预期。在过去的12个月中，Tether的发行量增长了两倍，达到$ 10B，现在占所有未发行稳定币的&gt; 85％。尽管总体上稳定币类别变得越来越重要，但是Tether从越来越多的关注和使用中受益最大。</p><p>对于Tether来说，过去的一年的增长代表着一种成熟，在这种成熟中，它已成为事实上的加密货币储备交易对，并将其效用扩展到了更广泛的用例范围，而不仅仅是简单的交换和跨境转移。现在，Tether已成为全球加密货币衍生产品，贷款和开放式金融活动的主要推动者。</p><hr><h1 id="2020年3月成为拐点"><a href="#2020年3月成为拐点" class="headerlink" title="2020年3月成为拐点"></a>2020年3月成为拐点</h1><p>查看Tether的发行图表时，3月代表了其增长的明显拐点。COVID-19危机带来的不确定性导致大量国际投资者寻求逃离美元等安全资产。美元仍然是世界上最可靠和最受欢迎的法定货币，并且被许多人视为避险资产。作为无边界的美元等值货币，Tether是获得美元敞口的一种高效，低摩擦的方法。虽然在国内使用美元很简单，但是Tether可以为其他无法广泛使用美元的国家/地区的本地银行系统提供一个上乘的选择。</p><p><img src="https://s1.ax1x.com/2020/07/15/Uwk88x.png" alt="Uwk88x.png"></p><center><font color="acacac" size=2>Tether在3月增发数量图</font></center><p>Tether的通行性和受欢迎程度是逃避安全的原因，从而为交易员带来了套利机会。这在3月12日最为明显，Tether高达1.05美元，因为投资者愿意支付溢价来持有USDT并减少风险资产的敞口。这为套利者提供了一个机会，他们在接下来的几天通过铸造大量新硬币来结束溢价。</p><p>此外，在黑色星期四，许多交易者在跨平台转移资金方面遇到了巨大困难，法定结账时间较长，链上交易时间也很昂贵。将Tether放在交易所或钱包中可以使交易者更轻松地利用市场错位并在短时间内获得流动性。</p><p>结果是，Tether 超越了比特币和美元，成为现货和加密OTC交易的主导交易对。需要明确的是，Tether绝对不会吞噬比特币的核心价值主张，即抵抗审查的价值存储。作为与美元挂钩的资产，Tether仍然完全容易受到比特币可以对冲的“大货币通货膨胀”的影响。</p><hr><h1 id="现货→衍生产品，贷款和开放式金融"><a href="#现货→衍生产品，贷款和开放式金融" class="headerlink" title="现货→衍生产品，贷款和开放式金融"></a>现货→衍生产品，贷款和开放式金融</h1><p>Tether的统治地位也扩展到了衍生品和贷款市场。最初的收益掉期模型是以BTC计价的，而USDT定价的衍生产品已变得司空见惯，诸如Binance，Huobi和OKex等较新的期货和掉期平台在 Tether中计价和保证金。现货和衍生品的储备资产自然会汇聚在同一资产上。</p><p>由于Tether作为交易对和储备资产的效用不断提高，其借贷市场已大幅增长。无论是集中式还是分散式提供商，在市场上对Tether的持续需求均来自基金，做市商和公司。用例的范围从对杠杆的期望，做市商和营运资金/套利目的。作为一种具有持续需求的流动性和可访问性货币，USDT现在是贷方以可扩展，可持续方式赚取收益的可行选择。</p><p>同样，Tether的扩展效用也使其在开放金融生态系统中发挥了更大的作用。Tether最初在三月份得到了新贵贷款协议Aave的支持，在 Aave的早期增长中占了很大一部分，到5月，该平台上可获得价值800万美元的USDT。</p><p><img src="https://s1.ax1x.com/2020/07/15/UwkQa9.jpg" alt="UwkQa9.jpg"></p><center><font color="acacac" size=2>Tether与Aave合作促进DeFi贷款</font></center><p>在Aave通过支持USDT取得早期成功之后，Compound在5月的一次治理民意调查中投票支持了USDT。几周后，Compound开始了其流动性挖掘计划，在该计划中，资本供应商可以根据应计的总利息赚取COMP代币。截至6/29，Tether 在流动性采矿计划中发挥了重要作用，占赚取的COMP的近 50％。部分原因是强大的基础需求导致USDT利率很高，再加上Tether的流动性和可及性。值得一提的是，即使用户仍无法从其USDT抵押品中借贷以取得杠杆作用，其他资产（如BAT，ETH或USDC）也可能发生这种情况。</p><p>尽管Tether最近才在“开放式金融”中成为相关资产，但它很快就成为重要的组成部分。虽然将USDT描绘成“开放式金融”的储备货币还为时过早，但它在短时间内的增长令人印象深刻，并显示出它可以发挥重要作用。Tether本身也对扩大其在这里的作用表现出兴趣，最近将资金投资于Aave和Celsius。</p><blockquote><p><a href="https://www.toutiao.com/i6844893832467710476/?group_id=6844893832467710476" target="_blank" rel="noopener">开放金融的热潮：6月十大最常用的去中心化金融（DeFi）应用程序</a></p></blockquote><hr><h1 id="USDT-ETH为王"><a href="#USDT-ETH为王" class="headerlink" title="USDT-ETH为王"></a>USDT-ETH为王</h1><p>以太坊一直是新发行的Tether的主要受益者，现在约占未发行Tether的60％和USDT交易量的88％。与替代方案相比，USDT-ETH具有独特的属性集。它具有较低的封锁时间和快速的交换确认（&lt;10分钟，费用低廉），以及得到广泛支持的ERC-20标准。</p><p>随着以太坊的Tether规模和费用继续上涨，新的发行和活动可能会转移到替代链上。交易者是与链无关的，经济上合理的参与者，他们将使用流动性最高，最易访问和最方便的Tether方式。尽管还有其他一些链可以以较低的费用（例如Tron）促进Tether的转让，但它们并没有ERC-20标准所维护的广泛的集成和保管人支持。如果这种情况发生变化，我们可以看到其他链成为Tether的主要发行人。</p><h1 id="未来考虑"><a href="#未来考虑" class="headerlink" title="未来考虑"></a>未来考虑</h1><p>尽管在过去的一年中，Tether取得了增长，但仍有反对者。NYAG案仍在进行中，有些人继续质疑Tether的支持和稳定性。此外，一些人想知道加密货币业务模型在低利率环境中如何运作。</p><p>尽管如此，看来Tether正成为其权利中的“蟑螂”，能够抵御攻击和不确定性。在过去的一年中，随着可靠性，可用性和可访问性的发展，它已成为加密货币资本市场的关键资产。</p><p>所有这些意味着什么？对于服务提供商而言，这意味着对USDT的支持比以往任何时候都更为重要，因为不必担心它会被排除在庞大的全球流动资金池之外的提供商。对于交易者和投资者，这意味着使用基于Tether和USDT的产品。对于更广泛的加密社区-这意味着了解Tether及其在加密生态系统中的广泛作用。</p><p>尽管Tether在过去一年中从$ 3B增长到$ 10B，但它仍然代表着更广泛的全球资产格局。随着Tether的扩展，它将面临新的，看不见的挑战，例如世界各地的政府和中央银行。</p><hr><p>声明：编者在撰写本文时，未购买任何数字货币资产。本文为区块新看点-程伟，原创所著，请转载时注明来源于“区块新看点”！</p><center><font  color="acacac" size=4><a href="https://zhuanlan.zhihu.com/chengwf" target="_blank" title="区块新看点专栏">--   知乎  【区块新看点专栏】   --</a></font></center><p><br/><strong><a href="https://zhuanlan.zhihu.com/p/159774363" target="_blank" rel="noopener">知乎 | 区块新看点：Tether的黄金稳定资产成长</a></strong></p><p><a href="https://www.zhihu.com/club/1255823155094331392" target="_blank" rel="noopener"><img src="https://chengwf.com/ese" alt="UJcKyT.jpg"></a></p><blockquote><p>欢迎进入讨论币圈最新动态：<strong><a href="https://www.zhihu.com/club/1255823155094331392" target="_blank" rel="noopener">区块新看点-圈子（数字科技圈）</a></strong></p></blockquote><blockquote><p>订阅“区块新看点”微信公众号：BlockChan888，私信获取更多精彩课件</p></blockquote><p><img src="https://chengwf.com/358db" alt="UJculV.jpg"></p><hr><p><strong>媒体报道：</strong></p><p>腾讯新闻：<strong>（<a href="https://new.qq.com/omn/author/18089488" target="_blank" rel="noopener">企鹅号 | 区块新看点专栏</a>） | <a href="https://page.om.qq.com/page/OUS9Uel2RPyJVrnwxgXg6khQ0" target="_blank" rel="noopener">区块新看点：Tether的黄金稳定资产成长</a></strong></p><hr><br/><iframe src="https://cn.widgets.investing.com/crypto-currency-rates?theme=darkTheme&pairs=997650,1001803,1010776" width="100%" height="100%" frameborder="0" allowtransparency="true" marginwidth="0" marginheight="0"></iframe><div class="poweredBy" style="font-family: Arial, Helvetica, sans-serif;">技术支持 <a href="https://cn.investing.com?utm_source=WMT&amp;utm_medium=referral&amp;utm_campaign=CRYPTO_CURRENCY_RATES&amp;utm_content=Footer%20Link" target="_blank" rel="nofollow" boundblank="">Investing.com</a></div><br/>]]></content>
-    
-    <summary type="html">
-    
-      USDt被称为stablecoin（稳定币），因为它最初的设计永远是价值$ 1.00，维持$ 1.00储备发行的每个USDt。但是，Tether Limited声明，USDt拥有者没有合同权利，其他法律主张，也不保证USDt将被赎回或兑换成美元。
-    
-    </summary>
-    
-    
-      <category term="区块链" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/"/>
-    
-      <category term="数字货币" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/"/>
-    
-      <category term="稳定币" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/%E7%A8%B3%E5%AE%9A%E5%B8%81/"/>
-    
-      <category term="Tether" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/%E7%A8%B3%E5%AE%9A%E5%B8%81/Tether/"/>
-    
-    
-      <category term="以太坊" scheme="https://www.chengwf.com/tags/%E4%BB%A5%E5%A4%AA%E5%9D%8A/"/>
-    
-      <category term="DeFi" scheme="https://www.chengwf.com/tags/DeFi/"/>
-    
-      <category term="开放金融" scheme="https://www.chengwf.com/tags/%E5%BC%80%E6%94%BE%E9%87%91%E8%9E%8D/"/>
-    
-      <category term="区块新看点" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E6%96%B0%E7%9C%8B%E7%82%B9/"/>
-    
-      <category term="Tether" scheme="https://www.chengwf.com/tags/Tether/"/>
-    
-      <category term="稳定币" scheme="https://www.chengwf.com/tags/%E7%A8%B3%E5%AE%9A%E5%B8%81/"/>
     
   </entry>
   
