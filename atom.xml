@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.chengwf.com/"/>
-  <updated>2020-09-08T09:58:03.017Z</updated>
+  <updated>2020-09-14T07:09:00.671Z</updated>
   <id>https://www.chengwf.com/</id>
   
   <author>
@@ -15,6 +15,53 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>什么是Uniswap？</title>
+    <link href="https://www.chengwf.com/2020/09/wiki-uniswap.html"/>
+    <id>https://www.chengwf.com/2020/09/wiki-uniswap.html</id>
+    <published>2020-09-12T16:00:00.000Z</published>
+    <updated>2020-09-14T07:09:00.671Z</updated>
+    
+    <content type="html"><![CDATA[<p><strong>Uniswap</strong>是以太坊的一种协议，用于交换ERC20代币，而无需买卖双方创造需求。它通过方程式来实现此目的，方程式将根据需求量自动设置和平衡值。<a id="more"></a></p><h1 id="简单来说："><a href="#简单来说：" class="headerlink" title="简单来说："></a>简单来说：</h1><br/><ul><li>Uniswap是一个基于以太坊的交易所，允许任何人交换ERC20代币。</li><li>传统上，代币互换要求买卖双方创造流动性。Uniswap自动创建市场。</li><li>Uniswap V2于2020年5月推出，可实现直接ERC20到ERC20的互换，并增加了许多技术改进。</li></ul><p><strong>去中心化交易所</strong>（Decentralized exchange，简称“DEX”）解决了集中式交易所的许多问题，包括黑客入侵、管理不善、平台资金池 和任意收费的风险。</p><p>但是，去中心化交易所有其自身的问题，主要是缺乏资产流动性，为了使得撮合交易速度更快、更有效进行，交易所自身就要集聚大量资金投入到硬件成本与软件开发。</p><p><img src="https://chengwf.com/3f3d4" alt="一种全新的去中心化交易(DEX)：什么是Uniswap？"></p><center><font color="acacac" size=2>Uniswap</font></center><br/><p>这到了Uniswap降临的用武之地。Uniswap试图通过允许交易所交换代币而不依赖于买卖双方创造这种流动性的方式来解决DEX的流动性问题。</p><p>下面我们探讨Uniswap的工作原理，以及它如何成为以太坊上最受欢迎的DEX之一。</p><hr><h1 id="什么是Uniswap？"><a href="#什么是Uniswap？" class="headerlink" title="什么是Uniswap？"></a>什么是Uniswap？</h1><p><br/>Uniswap是以太坊上的一种协议，用于交换ERC20令牌。与大多数交易所收取费用的交易方式不同，Uniswap旨在充当公共物品，这是无需平台费用或中间商的社区贸易代币的工具。与大多数交易所（通过匹配买卖双方来确定价格并执行交易）不同，Uniswap使用简单的数学方程式以及代币和ETH池来完成相同的工作。</p><hr><h1 id="谁发明了Uniswap？"><a href="#谁发明了Uniswap？" class="headerlink" title="谁发明了Uniswap？"></a>谁发明了Uniswap？</h1><p><br/>Uniswap由海登·亚当斯（Hayden Adams）创建，他受到以太坊创始人Vitalik Buterin 的帖子的启发而创建了该协议。</p><p><img src="https://s1.ax1x.com/2020/09/14/wDaJIg.jpg" alt="一种全新的去中心化交易(DEX)：什么是Uniswap？"></p><center><font color="acacac" size=2>Hayden Adams</font></center><hr><h1 id="Uniswap有什么特别之处？"><a href="#Uniswap有什么特别之处？" class="headerlink" title="Uniswap有什么特别之处？"></a>Uniswap有什么特别之处？</h1><p><br/>Uniswap与其他去中心化交易所的主要区别是使用了一种称为“恒定产品做市商模型”的定价机制。</p><p>任何代币都可以通过向Uniswap提供等值的ETH和正在交易的ERC20代币来添加到Uniswap中。例如，如果你想交换一种叫做“Poop Token”的altcoin，你可以为“Poop Token”启动一个新的Uniswap智能合约，并创建一个流动性池，比如价值10美元的“Poop Token”和价值10美元的ETH。</p><p>Uniswap的不同之处在于，Uniswap没有联系买家和卖家来确定Poop代币的价格，而是使用了一个常量等式：x*y=k。</p><p>在等式中，x和y代表流动性池中可用的ETH和ERC20代币的数量，k是一个常量。该等式使用ETH和ERC20代币之间的平衡以及供求关系来确定特定代币的价格。每当有人用以太币购买便当券时，便当券的供应量减少而以太币的供应量增加时，便便代币的价格就会上升。</p><p>因此，Uniswap上代币的价格只能在交易发生时发生变化。从本质上说，Uniswap所做的是平衡代币的价值，并根据人们对代币的购买和出售意愿来交换代币。</p><hr><h1 id="Uniswap还有什么不同？"><a href="#Uniswap还有什么不同？" class="headerlink" title="Uniswap还有什么不同？"></a>Uniswap还有什么不同？</h1><p><br/>绝对可以在Uniswap上列出任何ERC20令牌-无需许可。每个代币都有自己的智能合约和流动资金池——如果不存在，则可以轻松创建。一旦代币拥有自己的交换智能合约和流动性池，任何人都可以交易代币或为流动性池捐款，同时获得0.3%的流动性提供商费用。要为流动资金池提供资金，您需要等价的ETH和ERC20代币。</p><hr><h1 id="Uniswap代币是如何生产的？"><a href="#Uniswap代币是如何生产的？" class="headerlink" title="Uniswap代币是如何生产的？"></a>Uniswap代币是如何生产的？</h1><p><br/>每当新的ETH/ERC20代币被捐献给Uniswap流动性池时，出资人将收到一个“池代币”，这也是一个ERC20代币。只要资金存入池中，就会创建池令牌，作为ERC20令牌，池令牌可以自由交换、移动和在其他DAPP中使用。当资金回收时，池代币会被烧毁或销毁。每个池令牌代表用户在池总资产中的份额以及池0.3%交易费的份额。</p><hr><h1 id="如何使用Uniswap交换令牌"><a href="#如何使用Uniswap交换令牌" class="headerlink" title="如何使用Uniswap交换令牌"></a>如何使用Uniswap交换令牌</h1><p><br/>Uniswap协议可通过其前端访问uniswap.exchange. 您还需要一个以太坊地址，例如使用MetaMask之类的钱包。</p><p>因此，您可以交换代币或将代币添加到Uniswap流动性池中；只需选择您想从中调出的代币和您想换入的代币。然后，您需要使用您的钱包批准交易，并确认交换（记住要记住任何额外的以太坊交换费用）。</p><p><img src="https://s1.ax1x.com/2020/09/14/wDaNGj.jpg" alt="一种全新的去中心化交易(DEX)：什么是Uniswap？"></p><center><font color="acacac" size=2>Uniswap V1的兑换过程</font></center><p>由于Uniswap是一个智能合约的开放协议，已经为它创建了许多前端用户界面。例如，InstaDApp允许您将资金添加到Uniswap池中，而无需访问正式的Uniswap用户界面。接口，如Zapper.fi允许用户只使用以太币而不是以太币和其他代币向Uniswap资金池添加资金。该界面甚至提供了简单的一键式解决方案，用于结合bZx令牌策略购买池令牌。</p><p>随着一系列官方和非官方资源可供开发人员在该协议的基础上构建，我们预计在未来几年内，Uniswap独特的代币交换系统和新的分散金融（DeFi）产品之间会有更多的集成。</p><hr><h1 id="Uniswap-V2及更高版本"><a href="#Uniswap-V2及更高版本" class="headerlink" title="Uniswap V2及更高版本"></a>Uniswap V2及更高版本</h1><p><br/>尽管Uniswap早在2018年11月就推出了，但直到最近，该协议才开始受到重视。</p><p>最近的兴趣主要来自于Uniswap V2的发布，这是一个重大的升级，现在可以直接进行ERC20到ERC20的交换，尽可能地将包装乙醚（WETH）从等式中去掉。Uniswap V2还支持以前不兼容的ERC20令牌，如OmiseGo（OMG）和Tether（USDt），并添加了一系列技术改进，使其更适合使用。</p><p><strong>Uniswap V2 的改进</strong></p><p><strong>Uniswap V2 的改进</strong>是历史将价格保存在链上，并加上了时间权重。它的存储方式是在链上保存了一个累积价格，通过使用两个累积价格的差值和时间差，可以计算出一个具有时间权重的平均价格。</p><p>我们知道 Uniswap 的价格变动是跟随交易变化的。如果一直没有交易，那么这个价格会是一个固定的值。假设两次交易的间隔 10 秒，第一次交易后产生的价格 P1 会持续存在，直到第二次交易的发生（10 秒后）才变为 P2。因此 P1 的累积值就是 P1 * 10。累积价格（priceCumulative）即价格和时间差的乘积。在无数次的价格变动中，其中每次的时间间隔分别是 T1、T2、T3…，就有：</p><p>priceCumulative = P1 * T1 + P2 * T2 + P3 * T3 + …</p><p>有了累积价格，使用累积价格除以时间就可以得到一个基于时间权重的平均价格。</p><p>具体实现如下图：</p><p><img src="https://s1.ax1x.com/2020/09/14/wDaGdS.jpg" alt="一种全新的去中心化交易(DEX)：什么是Uniswap？"></p><center><font color="acacac" size=2>链上累积价格存储机制</font></center><br/><p><strong>闪电兑换</strong></p><p>也许是得益于闪电贷的启发，V2 版本也将提供闪电兑换的功能。该功能同闪电贷异曲同工，无需任何抵押（空手套白狼），就可以借出 Uniswap 供给池中的 Token，这些 Token 用于「闪电」业务，只要在业务处理完成后，将对手方 Token 即刻兑换，就可以完成一笔闪电兑换。</p><p>V2 核心合约 Pair （即供给池）的 swap 函数中实现了 calldata 调用，并且可以让用户先兑后还。假设有一个支持 DAI/ETH 的 Pair （供给池），一开始 ETH 会从 Pair 借出到外部套利合约，然后 Pair 会去调用套利合约实现的 uniswapV2Call 接口。</p><p>UAniswapV2Call 中可以完成一系列的「闪电」业务，之后 uniswapV2Call 再将相应的 DAI 返还给 Pair。Pair 对 uniswapV2Call 调用结束后，会进行最终的账目核对。如果 Pair 没有收到足够的 DAI，那么整个交易都将回滚。因此对于套利者，借出一笔 ETH 后，必须在同一个交易结束前再将 DAI 返还（并付出 0.3% 的费率），才能保证整个闪电兑换的成功。</p><p><img src="https://s1.ax1x.com/2020/09/14/wDatiQ.jpg" alt="一种全新的去中心化交易(DEX)：什么是Uniswap？"></p><center><font color="acacac" size=2>UAniswapV2的闪电兑换</font></center><br/><p>随着流动性挖矿和收益农耕的平台在2020年的受欢迎程度大幅提高，Uniswap的兴趣也相应激增，因为许多DeFi平台允许Uniswap流动性提供商看到其LP代币的额外回报。</p><p>这一点，加上分配给流动性提供商的0.3%的交易费，以及该平台作为流行的DeFi项目代币的平台的受欢迎程度，使得Uniswap的排名上升，成为按total value locked（TVL）排名第一的DeFi平台（衡量平台中锁定的加密资产的总价值）。</p><p>目前，在Uniswap协议中有超过10亿美元的资金被锁仓，相当于一个月内增加了590%以上。</p><hr><h1 id="总结："><a href="#总结：" class="headerlink" title="总结："></a>总结：</h1><p>尽管Uniswap存在操作复杂、Gas费用高、发币无门槛等缺点，但<strong>Uniswap仍然对现有的以HBO为代表的中心化交易所产生了很大冲击（虽然很大程度是心灵上而非业务上的冲击）</strong></p><p><img src="https://s1.ax1x.com/2020/09/14/wDBHBt.jpg" alt="wDBHBt.jpg"></p><br/><p>延伸科普：<a href="https://www.chengwf.com/2020/06/wiki-DeFi-index.html">什么是去中心化金融（DeFi）</a></p><hr><h2 id="Uniswap-百科词条简要总结"><a href="#Uniswap-百科词条简要总结" class="headerlink" title="Uniswap-百科词条简要总结"></a>Uniswap-百科词条简要总结</h2><h3 id="1）☑问：Uniswap是什么？"><a href="#1）☑问：Uniswap是什么？" class="headerlink" title="1）☑问：Uniswap是什么？"></a>1）☑问：Uniswap是什么？</h3><p>答：以太坊的一种协议，用于交换ERC20代币，而无需买卖双方创造需求。它通过方程式来实现此目的，方程式将根据需求量自动设置和平衡值。。</p><h3 id="2）☑问：谁发明Uniswap？"><a href="#2）☑问：谁发明Uniswap？" class="headerlink" title="2）☑问：谁发明Uniswap？"></a>2）☑问：谁发明Uniswap？</h3><p>答：海登·亚当斯（Hayden Adams）。</p><hr><blockquote><p><strong>声明：</strong>编者在撰写本文时，未购买任何数字货币资产。本文为区块新看点-程伟在15年互联网企业从事管理经验中得出的管理技巧和企业改进观点，希望给所有精英人士一点点的分享交流意见和建议，欢迎前来讨论和给更好的论点，谢谢！转载请注明来源于“区块新看点-行业研究”。</p></blockquote>]]></content>
+    
+    <summary type="html">
+    
+      Uniswap是以太坊的一种协议，用于交换ERC20代币，而无需买卖双方创造需求。
+    
+    </summary>
+    
+    
+      <category term="区块链" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/"/>
+    
+      <category term="数字货币" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/"/>
+    
+      <category term="以太坊" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/%E4%BB%A5%E5%A4%AA%E5%9D%8A/"/>
+    
+      <category term="WIKI" scheme="https://www.chengwf.com/categories/WIKI/"/>
+    
+      <category term="区块链金融" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E5%8C%BA%E5%9D%97%E9%93%BE%E9%87%91%E8%9E%8D/"/>
+    
+      <category term="DeFi" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/DeFi/"/>
+    
+      <category term="DeFi" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E5%8C%BA%E5%9D%97%E9%93%BE%E9%87%91%E8%9E%8D/DeFi/"/>
+    
+      <category term="DeFi" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/%E4%BB%A5%E5%A4%AA%E5%9D%8A/DeFi/"/>
+    
+    
+      <category term="以太坊" scheme="https://www.chengwf.com/tags/%E4%BB%A5%E5%A4%AA%E5%9D%8A/"/>
+    
+      <category term="去中心化金融" scheme="https://www.chengwf.com/tags/%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%8C%96%E9%87%91%E8%9E%8D/"/>
+    
+      <category term="DeFi" scheme="https://www.chengwf.com/tags/DeFi/"/>
+    
+      <category term="区块链技术" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE%E6%8A%80%E6%9C%AF/"/>
+    
+      <category term="Uniswap" scheme="https://www.chengwf.com/tags/Uniswap/"/>
+    
+      <category term="去中心化交易所" scheme="https://www.chengwf.com/tags/%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%8C%96%E4%BA%A4%E6%98%93%E6%89%80/"/>
+    
+  </entry>
   
   <entry>
     <title>加密市场哀鸿遍野，Twitter黑客真相曝光，Pornhub接受加密货币，DeFi大降温</title>
@@ -772,41 +819,6 @@
       <category term="Nouriel·Roubini" scheme="https://www.chengwf.com/tags/Nouriel%C2%B7Roubini/"/>
     
       <category term="末日博士" scheme="https://www.chengwf.com/tags/%E6%9C%AB%E6%97%A5%E5%8D%9A%E5%A3%AB/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>本周关注比特币五大事：黄金、刺激政策和期货缺口（2020/7/27）</title>
-    <link href="https://www.chengwf.com/2020/07/2020-07-26-blockchain-news.html"/>
-    <id>https://www.chengwf.com/2020/07/2020-07-26-blockchain-news.html</id>
-    <published>2020-07-26T16:00:00.000Z</published>
-    <updated>2020-07-29T09:02:46.477Z</updated>
-    
-    <content type="html"><![CDATA[<p>黄金在历史新高时上涨，市场等待美国联邦储备委员会（FederalReserve）的消息，比特币价格波动将回归——金价将上涨到哪里？<a id="more"></a></p><p>比特币 （BTC） 开始新的一周，超过10，000美元，并戏弄投资者与更多的收益 - 它会持续还是已经保证修正？</p><p>比特币价格可能存储的是什么- 五个因素可能使 BTC/USD 上涨或回到四个数字。</p><p><img src="https://chengwf.com/a797b" alt="aedwh4.jpg"></p><h1 id="1、黄金与比特币：”强势收益不可避免”"><a href="#1、黄金与比特币：”强势收益不可避免”" class="headerlink" title="1、黄金与比特币：”强势收益不可避免”"></a><strong>1</strong>、黄金与比特币：”强势收益不可避免”</h1><p><br/>虽然美股股指期货周一走高，但宏观的重点更多的是地方性政治紧张局势。世界两个大国中美双方继续加剧敌对情绪，而冠状病毒的困境同样留在头条新闻中。</p><p>这两个问题都对资金避风港的需求产生了显著的影响，尤其是对黄金的需求。正如Cointelgraph所报道的，上周黄金和白银均大幅升值，而上周末金价创下盘中新高。</p><p>与之前的情绪指标一样，在贵金属的引领下，比特币的信心非常大。</p><p>一位著名投行分析师在接受彭博社采访时预测，黄金的运行远未结束。</p><p>澳大利亚 MineLife Pty 高级资源分析师加文？温特（Gavin Wendt）表示：”随着我们进入一个与后 GFC 环境非常一样的时期，金价飙升到创纪录水平，因为大量美联储资金被注入金融体系，这是不可避免的。</p><p>与此同时，花旗集团将到2020年底的XAU/USD赔率突破2，000美元，达到30%。</p><blockquote><p>“美元刚刚创下历史新低。你现在需要超过1，920美元购买一盎司的黄金，”金虫彼得希夫总结。</p><p>金虫彼得希夫还说，”但只要美元贬值才刚刚开始，这一纪录就不会持续。它即将跌到新的深度，使美国人的生活水平下降。“</p></blockquote><p><img src="https://s1.ax1x.com/2020/07/29/aedB9J.jpg" alt="aedB9J.jpg"></p><center><font color="acacac" size=2>比特币对黄金3个月图表。来源：Skew</font></center><hr><h1 id="2、交易所资金流入困难"><a href="#2、交易所资金流入困难" class="headerlink" title="2、交易所资金流入困难"></a>2、交易所资金流入困难</h1><p><br/>在飞往避风港的背景下，比特币升到10，300美元并不奇怪。长期以来，人们一直预计，价格压缩将在分拆或下跌中解决——分析师们只是对市场走向哪个方向的一分为二。</p><p>尽管如此，周末的突破速度还是令一些人不安。具体来说，交易者的行为表明，人们的情绪正越来越多地转向短期获利。</p><p>“<strong>BTC 价格上涨过快，似乎其他鲸鱼也这么认为。</strong>”链上分析资源CrycryQuant的创始人KiYoung Ju总结道。</p><p>Ki上传了一张图表，显示过去三天的汇出量，显示用于兑换钱包的硬币数量明显激增。</p><p>在大涨开始时，长期抛售者缺乏卖出，给人的印象是，这一次，10，000美元不会像前两次飙升那样在抛售中消失。</p><p>CryptoQuant的数据现在表明，对许多人来说，诱惑太高了。</p><p><img src="https://s1.ax1x.com/2020/07/29/aeddNF.jpg" alt="aeddNF.jpg"></p><center><font color="acacac" size=2>比特币在所有交易所流入3天图表</font></center><h1 id="3、300-美元的期货缺口打开"><a href="#3、300-美元的期货缺口打开" class="headerlink" title="3、300 美元的期货缺口打开"></a>3、300 美元的期货缺口打开</h1><p><br/>本周回归比特币的一股熟悉力量与衍生品市场有关——CME集团比特币期货市场的缺口。</p><p>突显出与压缩的对比，周五交易结束和周一开始之间的差价是几百美元——走廊上约为9，650美元和9，900美元。</p><p>正如Cointelgraph经常报道的，BTC/USD有”填补”期货中留下的空白的习惯，通常在期货出现后几天甚至几小时内。</p><p>因此，人们的注意力集中在从新闻时10，250美元降至9，600美元，以缩小差距。周一，订单在走廊底部以下堆积，围绕所谓的控制点（POC），为9，575美元，领先的Cointelegraph市场分析师米夏埃尔·范德波普对比特币和市场的其余部分得出了不同的结论。</p><blockquote><p>“<strong>老实说，我相信以太坊正在一个新的周期开始，比特币仍然停留在其范围内。</strong>“米夏埃尔·范德波普在私人评论中说。”我唯一的怀疑是， 我们将下降到 9， 400 美元， 并持续一个月的范围。</p></blockquote><p>Ether上周末的涨幅超出预期，在285美元的阻力上强劲击败，并持续上涨至330美元。</p><p><img src="https://s1.ax1x.com/2020/07/29/aedaAU.jpg" alt="aedaAU.jpg"></p><center><font color="acacac" size=2>**芝加哥商品交易所比特币期货1周图表**</font></center><h1 id="4、关注美联储和美联储的刺激政策"><a href="#4、关注美联储和美联储的刺激政策" class="headerlink" title="4、关注美联储和美联储的刺激政策"></a>4、关注美联储和美联储的刺激政策</h1><p><br/>回到宏观，美国的经济刺激措施将于周一公布，进一步刺激经济。</p><p>与此同时，市场正在听取美联储（Fed）的新指令，分析师们建议将利率控制在0.25%。</p><p>尽管周末对BTC价格与股票的相关性形成了例外，但该决定对股票的任何影响都很可能有助于比特币的轨迹。</p><p><img src="https://s1.ax1x.com/2020/07/29/aedN7T.jpg" alt="aedN7T.jpg"></p><center><font color="acacac" size=2>比特币与标普500 3个月图表</font></center><p>“COVID19对美国经济致命的原因是，我们借了这么多钱来人为地提振GDP和股市，”希夫继续说道。</p><blockquote><p>希夫：”所以，我们现在太破产了，不能借更多的钱来对抗科维德，我们能做的就是打印。美元将崩溃，使经济因此而下跌。</p></blockquote><p>和以往一样，希夫对比特币的前景并不乐观，随着美元下跌，将黄金作为主要的避风港。</p><hr><h1 id="5、矿工情绪指标保持冷静"><a href="#5、矿工情绪指标保持冷静" class="headerlink" title="5、矿工情绪指标保持冷静"></a>5、矿工情绪指标保持冷静</h1><p><br/>与现货交易者不同，比特币矿商在最近波动中显得平静。根据CryscryQuant的说法，由于价格上涨，矿业池流出并没有激增。</p><p>以往的事件引起了更多的动荡，特别是5月快补贴减半，一夜之间将矿工奖励削减了50%。</p><p><img src="https://s1.ax1x.com/2020/07/29/aedtBV.jpg" alt="aedtBV.jpg"></p><center><font color="acacac" size=2>比特币对黄金3个月图表。来源：Skew</font></center><p>困难是一个不准确但有用的矿工情绪衡量标准，而哈希率形成一个粗略的指示，多少计算机电源保护比特币区块链。</p><br/><p><strong>声明：</strong>编者在撰写本文时，未购买任何数字货币资产。本文为区块新看点-程伟，原创所著，请转载时注明来源于“区块新看点”！</p><p><img src="https://s1.ax1x.com/2020/07/20/U5nuv9.jpg" alt="U5nuv9.jpg"></p><p><strong>区块新看点-精彩科技内容回顾：</strong></p><ul><li><a href="https://www.chengwf.com/2020/07/Nouriel-Roubini-BitCoin.html">大反派回来了！“乌鸦嘴”末日博士称：经济可能会再次衰退，甚至引发大萧条，最佳的避险资产是比特币</a></li><li><a href="https://www.toutiao.com/i6852422789509415436/?group_id=6852422789509415436" target="_blank" rel="noopener">5G革命的新商机：我们如何在数字时代挖掘这轮财富机会？</a></li><li><a href="https://www.toutiao.com/i6845920553283355139/?group_id=6845920553283355139" target="_blank" rel="noopener">下一代5G会为我们带来有什么期望？</a></li><li><a href="https://www.toutiao.com/i6851835708215460359/?group_id=6851835708215460359" target="_blank" rel="noopener">数字经济已进入以太坊（DeFi）金融创新的新纪元</a></li><li><a href="https://www.toutiao.com/i6848883228850422285/?group_id=6848883228850422285" target="_blank" rel="noopener">什么是 Comp？深入挖掘以太坊 DeFi 的最新趋势</a> <a href="https://www.toutiao.com/i6841856473862144515/?group_id=6841856473862144515" target="_blank" rel="noopener">什么是去中心化金融（DeFi）？</a></li><li><a href="https://www.toutiao.com/i6840343630067008013/?group_id=6840343630067008013" target="_blank" rel="noopener">DeFi：不止是加密货币，更是一种重新定义未来金融的新趋势</a></li></ul><hr><center><font  color="acacac" size=4><a href="https://zhuanlan.zhihu.com/chengwf" target="_blank" title="区块新看点专栏">--   知乎  【区块新看点专栏】   --</a></font></center><br/><p><a href="https://www.zhihu.com/club/1255823155094331392" target="_blank" rel="noopener"><img src="https://chengwf.com/ese" alt="UJcKyT.jpg"></a></p><blockquote><p>欢迎进入讨论币圈最新动态：<strong><a href="https://www.zhihu.com/club/1255823155094331392" target="_blank" rel="noopener">区块新看点-圈子（数字科技圈）</a></strong></p></blockquote><blockquote><p>订阅“区块新看点”微信公众号：BlockChan888，私信获取更多精彩课件</p></blockquote><p><img src="https://chengwf.com/358db" alt="UJculV.jpg"></p>]]></content>
-    
-    <summary type="html">
-    
-      黄金在历史新高时上涨，市场等待美国联邦储备委员会（FederalReserve）的消息，比特币价格波动将回归——金价将上涨到哪里？
-    
-    </summary>
-    
-    
-      <category term="区块链" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/"/>
-    
-      <category term="数字货币" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/"/>
-    
-      <category term="比特币" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/%E6%AF%94%E7%89%B9%E5%B8%81/"/>
-    
-    
-      <category term="区块链" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE/"/>
-    
-      <category term="区块链周报" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE%E5%91%A8%E6%8A%A5/"/>
-    
-      <category term="比特币" scheme="https://www.chengwf.com/tags/%E6%AF%94%E7%89%B9%E5%B8%81/"/>
-    
-      <category term="黄金指数" scheme="https://www.chengwf.com/tags/%E9%BB%84%E9%87%91%E6%8C%87%E6%95%B0/"/>
-    
-      <category term="刺激政策" scheme="https://www.chengwf.com/tags/%E5%88%BA%E6%BF%80%E6%94%BF%E7%AD%96/"/>
     
   </entry>
   
