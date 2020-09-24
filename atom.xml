@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.chengwf.com/"/>
-  <updated>2020-09-21T15:11:08.687Z</updated>
+  <updated>2020-09-24T06:55:43.861Z</updated>
   <id>https://www.chengwf.com/</id>
   
   <author>
@@ -15,6 +15,88 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>DeFi解释：Uniswap和UNI令牌的简短故事</title>
+    <link href="https://www.chengwf.com/2020/09/defi-Uniswap-UNI-Token-story.html"/>
+    <id>https://www.chengwf.com/2020/09/defi-Uniswap-UNI-Token-story.html</id>
+    <published>2020-09-21T16:00:00.000Z</published>
+    <updated>2020-09-24T06:55:43.861Z</updated>
+    
+    <content type="html"><![CDATA[<p>那么，Uniswap（DeFi中最重要的协议之一）背后的故事是什么？为何UNI令牌可能是有史以来分配最好的令牌之一？您将在本文中找到这些问题的答案。<a id="more"></a></p><p>科普：  <a href="https://www.chengwf.com/2020/09/wiki-uniswap.html">什么是Uniswap？</a></p><hr><h1 id="Uniswap"><a href="#Uniswap" class="headerlink" title="Uniswap"></a>Uniswap</h1><p><br>Uniswap显然是defi空间中最重要，讨论最多的项目之一。Uniswap的核心是在以太坊区块链上进行代币分散交易的协议。Uniswap协议是作为一组智能合约部署的，它是完全去中心化，无权限且不受审查的。</p><p><img src="https://s1.ax1x.com/2020/09/24/0SS7b4.png" alt="0SS7b4.png"></p><p>Uniswap建立在流动资金池和自动化做市商的概念之上，或者确切地说，是固定产品做市商。如果您想了解有关该协议机制的更多信息，请查看我关于以Uniswap为例的流动资金池的文章。您可以在这里阅读。</p><p>回到主要故事。</p><hr><h1 id="Uniswap-V1"><a href="#Uniswap-V1" class="headerlink" title="Uniswap V1"></a><strong>Uniswap V1</strong></h1><p><br>Uniswap的初始版本已于2018年11月2日发布到以太坊主网。这是其创建者Hayden Adams花费了一年多的宝贵时间的结晶。</p><p>有趣的是，以前担任机械工程师的海登在没有任何编程知识的情况下创办了Uniswap。他学习了在Uniswap协议的初始版本上工作时如何编写智能合约。</p><p>实施自动化做市商的最初想法来自海顿的朋友卡尔，他对维塔利克·布特林（Vitalik Buterin）的一篇博文印象深刻，该博文描述了恒定产品做市商背后的理论。</p><p><img src="https://s1.ax1x.com/2020/09/24/0SSTrF.png" alt="0SSTrF.png"></p><p>在构建Uniswap协议的第一个版本时，EtherDelta几乎是唯一具有一定吸引力的去中心化交易所。EtherDelta虽然当时很受欢迎，但它基于订单簿模型，该模型不太适合以太坊等第1层区块链协议。除此之外，EtherDelta的用户体验非常不直观，导致用户体验非常差并且缺乏流动性。</p><p>在优化智能合约并为可能的主网启动做准备的同时，海登申请了以太坊基金会的赠款，该赠款随后于2018年7月被接受。赠款中的钱允许一家名为Runtime Verification的公司审核Uniswap的智能合约。运行时验证的初始审核导致添加了额外的安全检查，并对某些数学运算进行了重新处理，以最大程度地减少了舍入误差。</p><p>最重要的是，正在进行全面的正式验证。在完全启动该协议之前，Hayden决定重建用户界面，以提供更好的用户体验。</p><p>该协议的第一版于Devcon 4会议的最后一天发布，初始价值30000美元的资金可用于3个不同的代币。</p><p>该协议很快吸引了很多人，这导致了最初的种子投资，这使Uniswap的团队可以研究第二版协议。</p><hr><h1 id="Uniswap-V2"><a href="#Uniswap-V2" class="headerlink" title="Uniswap V2"></a><strong>Uniswap V2</strong></h1><p><br>2020年5月，Uniswap推出了该协议的第二个版本，称为Uniswap V2。</p><p><img src="https://s1.ax1x.com/2020/09/24/0SSh80.png" alt="0SSh80.png"></p><p>主要功能是增加了ERC20 / ERC20流动资金池。在V2之前，每个流动资金池必须包含ETH作为货币之一，因此，例如，要从USDC交易到DAI，用户必须将其USDC换成ETH，而ETH换成DAI，这通常会导致更高的汽油费和更多的滑点。</p><p>对于不想提供以太坊并使自己遭受永久损失的流动性提供商而言，提供ERC20 / ERC20资金池也更好。V2还具有其他一些功能，包括链上价格供稿和快速掉期。</p><p><img src="https://s1.ax1x.com/2020/09/24/0SSfCq.png" alt="0SSfCq.png"></p><p>一个有趣的事实是，所有V2智能合约均以Solidity编写。这可以与完全用Vyper编写的V1进行比较。Uniswap V1实际上是完全用Vyper编写的首批项目之一。</p><p>由于其分散和未经许可的性质，该协议的第一个版本仍在一段时间内与V2一起积极使用，无论Uniswap团队鼓励流动性提供者将其流动性迁移到V2都是如此。这也显示了不可阻挡代码的真正力量。</p><p>2020年8月，Uniswap团队从包括安德森·霍洛维茨（Andreessen Horowitz），USV，Paradigm和Version One在内的一些著名风投中筹集了1100万美元。这些资金用于扩大团队规模和构建Uniswap V3，这将大大提高该协议的灵活性和资本效率。</p><hr><h1 id="SushiSwap比赛"><a href="#SushiSwap比赛" class="headerlink" title="SushiSwap比赛"></a><strong>SushiSwap比赛</strong></h1><p><br>2020年5月，随着人们对DeFi的兴趣增加，Uniswap的交易量开始回升。每天的交易量超过100万美元，提供的流动性大约为10-20M美元，这已经变得不寻常了。</p><p>在八月份，随着所有农作物生产热潮的到来，我们预计日交易量约为1.5亿美元，提供的流动资金约为3亿美元，这确实是指数级增长。Uniswap的交易量开始越来越接近顶级集中式交易所的交易量，超过了Kraken等一些最受欢迎的交易所。</p><p><img src="https://s1.ax1x.com/2020/09/24/0SS42V.png" alt="0SS42V.png"></p><p>SushiSwap在8月底也开始发挥作用。SushiSwap的目的是通过分叉该项目，与Uniswap的流动性提供商进行奖励，并最终将Uniswap的流动性窃取到SushiSwap平台中，与Uniswap直接竞争。您可以了解更多关于此过程中，也被称为吸血鬼的攻击，在我的另一篇文章在这里。</p><p>SushiSwap的高产农业导致Uniswap的流动性在几天之内从3亿美元增加到近2B美元。最重要的是，每日交易量在5亿美元至10亿美元之间，在某些时候超过了Coinbase的每日交易量。这是一个了不起的成就，尤其是考虑到Uniswap只有大约10名员工，而Coinbase则有1000多名员工。</p><p>在从Uniswap迁移到SushiSwap的流动性开始之前，Uniswap在SushiSwap平台上仍有大约8亿美元的流动性。这也是Hayden暗示潜在的Uniswap令牌的时候。</p><p>尽管SushiSwap的迁移导致Uniswap的总流动资金从几乎$ 2B降至$ 0.5B，但剩余的流动资金仍比SushiSwap项目甚至开始之前的几周要高。交易量也保持强劲，每天约为300-500M。</p><hr><h1 id="UNI令牌"><a href="#UNI令牌" class="headerlink" title="UNI令牌"></a><strong>UNI令牌</strong></h1><p><br>9月16日，Uniswap宣布推出其新代币UNI。此次发布最令人惊讶的部分是一些代币的追溯分配方式。甚至在9月1日之前使用过Uniswap的每个人都有资格领取他们的400个UNI代币，这些代币在宣布之日价值约1200美元。</p><p><img src="https://chengwf.com/20bc6" alt="0SSoKU.png"></p><p>几天后，UNI代币在集中式和去中心化交易所中活跃交易，代币价格高达8美元，使最初的400 UNI奖励价值约3200美元。UNI令牌已分发到约50,000个以太坊地址，使其成为该空间中分布最广泛的令牌之一。</p><p>最重要的是，该协议的流动性提供者还获得了额外的UNI令牌的追溯奖励。</p><p>通过以下方式分配了总计10亿个UNI令牌。</p><p><img src="https://s1.ax1x.com/2020/09/24/0SS5vT.png" alt="0SS5vT.png"></p><p>四年之后，每年的永久通货膨胀率为2％，以确保Uniswap的持续参与和贡献，而以被动UNI持有者为代价。</p><p>最重要的是，Uniswap宣布了4个激励性流动资金池，这将为流动性提供者提供额外的UNI代币。这导致吸引了数百万美元的新流动资金。在撰写本文时，协议中锁定了超过$ 2B的流动资金。在最初的30天治理宽限期结束后，UNI持有人也可以投票增加更多的激励池。</p><p>通过发布令牌，Uniswap团队希望进一步分散该协议的权力，使其成为公共拥有的，可自我维持的金融基础结构，同时仍继续保护其坚不可摧的自主质量，并致力于Uniswap V3。</p><p>代币持有者将能够通过对不同的提案进行投票或将其投票权委托给第三方来参与Uniswap的治理。</p><p>并且，与几乎所有治理令牌一样，人们对协议与UNI持有者未来潜在的收入份额有很多猜测。</p><p>那么您如何看待Uniswap的UNI令牌及其分发方式？</p><p>延伸阅读：   <a href="https://www.chengwf.com/2020/08/which-swap-best-defi.html">Anyswap、Uniswap或Trustswap：哪种交换协议最适合DeFi用户？</a></p><p><img src="https://s1.ax1x.com/2020/08/22/daJPKO.jpg" alt="daJPKO.jpg"></p><hr><p>声明：<strong>编者在撰写本文时，未购买任何数字货币资产。本文为区块新看点-程伟在15年互联网企业从事管理经验中得出的管理技巧和企业改进观点，希望给所有精英人士一点点的分享交流意见和建议，欢迎前来讨论和给更好的论点，谢谢！转载请注明来源于“区块新看点-行业研究”。</strong></p>]]></content>
+    
+    <summary type="html">
+    
+      那么，Uniswap（DeFi中最重要的协议之一）背后的故事是什么？
+    
+    </summary>
+    
+    
+      <category term="区块链" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/"/>
+    
+      <category term="数字货币" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/"/>
+    
+      <category term="以太坊" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/%E4%BB%A5%E5%A4%AA%E5%9D%8A/"/>
+    
+      <category term="DeFi" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/%E4%BB%A5%E5%A4%AA%E5%9D%8A/DeFi/"/>
+    
+    
+      <category term="去中心化金融" scheme="https://www.chengwf.com/tags/%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%8C%96%E9%87%91%E8%9E%8D/"/>
+    
+      <category term="DeFi" scheme="https://www.chengwf.com/tags/DeFi/"/>
+    
+      <category term="区块新看点" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E6%96%B0%E7%9C%8B%E7%82%B9/"/>
+    
+      <category term="原创精文" scheme="https://www.chengwf.com/tags/%E5%8E%9F%E5%88%9B%E7%B2%BE%E6%96%87/"/>
+    
+      <category term="加密货币" scheme="https://www.chengwf.com/tags/%E5%8A%A0%E5%AF%86%E8%B4%A7%E5%B8%81/"/>
+    
+      <category term="Uniswap" scheme="https://www.chengwf.com/tags/Uniswap/"/>
+    
+      <category term="UNI" scheme="https://www.chengwf.com/tags/UNI/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>DeFi‌周‌报(21/9)‌：DeFi该如何持续对抗Fork？</title>
+    <link href="https://www.chengwf.com/2020/09/crypro-defi-news-20200921.html"/>
+    <id>https://www.chengwf.com/2020/09/crypro-defi-news-20200921.html</id>
+    <published>2020-09-20T16:00:00.000Z</published>
+    <updated>2020-09-24T06:36:07.166Z</updated>
+    
+    <content type="html"><![CDATA[<p>亲爱的数字货币、比特币、以太坊、DeFi 爱好者们：<a id="more"></a></p><p>本周Uniswap宣布其治理代币 UNI 的发行！并慷慨的发放400 UNI给所有老用户，也让Uniswap锁仓量来到历史新高的1.8 B。此外，其治理方式也引起讨论，必须有1% UNI才能发起治理提案。另一个受到Fork威胁的AMM项目Curve也透过支付治理行政费反击Fork项目Swerve。本周观点我们就来聊聊DeFi该如何面对这猖獗的Fork风暴。</p><p>本周大老观点我们看到Set 的Anthony Sassano 对DeFi 空投的全新诠释；Bankless 倡议者Ryan Adams 再次提及DeFi 项目和传统科技公司的差异；还有我们的Andre Cronje 大神呼吁大家不要让你的UNI治理权睡着了，可以授权给他为你参与治理！</p><h1 id="什么是DeFi？"><a href="#什么是DeFi？" class="headerlink" title="什么是DeFi？"></a><strong>什么是DeFi？</strong></h1><p><br><strong>DeFi（Decentralized Finance）</strong>是指去中心化的金融服务。简单来说，同样是金融服务，但以分散管理权、资讯透明、基于区块链的方式经营，解决传统金融产业交易速度慢、成本高、易遭骇客攻击、且会被国家或组织滥用等问题。目前的DeFi服务已经有借贷、合成资产、衍生性产品甚至独有的闪电贷服务。</p><p>区块新看点-编者推荐科普：<a href="https://www.chengwf.com/2020/06/wiki-DeFi-index.html">什么是去中心化金融（DeFi）？</a></p><p><img src="https://chengwf.com/97ed8" alt="wzO03D.jpg"></p><h1 id="一、区块新看点的观点"><a href="#一、区块新看点的观点" class="headerlink" title="一、区块新看点的观点"></a>一、区块新看点的观点</h1><p><strong>1、Uniswap 王者归来，但DeFi 该如何持续对抗Fork？</strong></p><ul><li><strong>Uniswap vs ShushiSwap</strong></li></ul><p>在 Uniswap 的新治理模型与治理型代币UNI推出后，不但让Uniswap夺回 Fork项目SushiSwap 偷走的版面，伴随空投而来的UNI也在48小时内价格翻近三倍，而最重要的是Uniswap总锁仓量快速冲回DeFi/DEX龙头，为DeFi社群夺回正义(原创)必胜的精神。然而，我们仍不能将代币空投视为Fork的解方，Fork项目将持续地发生，尤其是在区块链开源环境下。</p><p>延伸阅读：<a href="https://www.chengwf.com/2020/09/wiki-uniswap.html">DeFi的新潮流：什么是Uniswap？</a></p><p><img src="https://s1.ax1x.com/2020/09/24/wzODjH.png" alt="wzODjH.png"></p><center><font color="acacac" size=2>Sushiswap分叉了Uniswap</font></center><ul><li><strong>我们如何看待Fork</strong></li></ul><p>事实上，在传统商业界，创意搬运、挪用本来就是常有的事。像是Samsung参考Apple的智慧型手机、Instagram参考Snapchat的限时讯息等等。在开源的DeFi环境中搬运更加容易了，Ctrl+C/V就能搬走世界级工程师长时间的心血，我们甚至该疑惑为何SushiSwap事件到现在才发生。有了Sushi的先河，我们可以想像“ <strong>Fork抗性</strong> ”将是未来DeFi项目开发最重要的一环了。我们总不能期待新的项目都要准备代币空投来面对未来的Fork危机。</p><p><strong>2、DeFi 项目如何具有“Fork 抗性”</strong></p><ul><li><strong>内在解方</strong></li></ul><p>Fork 对项目方最大的伤害可能有：1.夺走使用者和流动性2. 抢先与大平台整合3. 优化版Fork 夺走特定用户群等等。在程式与服务设计上防止Fork 的机制可能有：提高社群体验以增加黏着度、打造可信赖的团队声望、与真实世界项目整合以增加Fork 困难度等等。如果Fork 真的难以避免，那么不如我们换个想法，在程式码中给予Fork 项目主动与原项目整合的诱因，如可以共用TVL 、Fork 项目收益分配导回原项目等，那么即使未来项目被Fork，却可以能使项目越来越强大！</p><ul><li><strong>外在解方</strong></li></ul><p>事实上，区块链上的Fork 就像真实世界的智慧财产抄袭一样，只是以太坊上没有机制约束他们——但现在没有，难道未来就不会有吗？我们猜想，既然项目可以透过代币治理，那区块链本身是否也可以治理。未来以太坊将会有PoS 机制，透过抵押(Stake) 以太币就可以挖矿，那是否也可以透过抵押取得投票权，并投票决定是否让抄袭者的项目继续运行下去，或是对其惩罚像是手续费加倍之类的。或是更理理想主义一点——将保护著作权的规则写入区块链中？自动侦测重复性过高的智能合约，并提高其部署门槛或要求其提供更多资讯才能部署等。当然这些规则都可以经过投票决定和调整。</p><p><strong>总结：</strong></p><p>以上是我们对区块链未来发展的猜想和建议，而回到现在，开源仍是DeFi 和区块链生态系的特色和传统，它让开发者可以更加容易的整合与进步，但SushiSwap 却向社群展示了其伴随着被Fork 的风险。我们认为，DeFi 项目必须将Fork 视为新的常态，并从一开始就考虑加入“Fork 抗性”，而区块链也必须发展出更加保护开发者的链上治理机制。</p><hr><h1 id="二、本周大事记"><a href="#二、本周大事记" class="headerlink" title="二、本周大事记"></a>二、本周大事记</h1><br><p><strong>✨ 本周头条</strong></p><ul><li><strong>Uniswap 发布治理型代币UNI，初始铸造量10 亿枚</strong></li></ul><p>去中心化交易所Uniswap 现已发布治理代币UNI。UNI 初始铸造量为10 亿枚，其中60％ 将分配给Uniswap 社区成员，21.51% 将分配给团队成员，17.80％ 将分配给投资者，0.69% 将分配给顾问。其中，总供应量的15% 已空投给使用过的用户和流动性提供者，一人分配得400 UNI。</p><ul><li><strong>Uniswap 公布治理参数和UNI 持有者拥有的治理权</strong></li></ul><p>去中心化交易所Uniswap 治理协议即日起已生效，治理代币UNI 持有者拥有的治理权包括Uniswap 治理权、UNI 社区金库控制权、协议费用转换等等。治理参数包含：持有1% 以上UNI 可提出改进案、每项改进案须4% 赞同票以上方可通过、改进案为期七天等等。</p><ul><li><strong>Andre Cronje 发起Uniswap 治理权集资</strong></li></ul><p>由于治理参数规定须持有1% (100 万颗) UNI 才能提出改进案，yearn 创办人Andre Cronje 在yuni.finance 提出他的募资计划，希望大众如果有HODL 的UNI 能够将治理权交付给他。这种交付无须锁仓，可以随时领回UNI。</p><ul><li><strong>Curve 支付治理行政费(Admin Fee)，狠甩复制版协议Swerve</strong></li></ul><p>为了提高治理参与率，去中心化稳定币交换平台Curve 在今天开始了治理行政费(Admin Fee) 的分发，将原先的交易手续费0.04% 分出50% 给持有veCRV 的治理参与者。CRV 的持有者可以在DAO 的页面，选择锁定CRV 已获得治理投票权veCRV。</p><br>**DeFi 协议**<ul><li>Hakka.Finance 发布结合Fomo 3D 模型的去中心化保险产品3F Mutual</li><li>Yam Finance 已开始迁移至YAM v3</li><li>yearn.finance 将推出WBTC Vault</li><li>动态自动造市商creamY 即将上线</li><li>去中心化借贷协议bZx 现已恢复借贷池</li><li>链上期权协议Opyn 上线UNI 看跌期权</li></ul><br><p><strong>稳定币</strong></p><p>风投基金Blockchain Capital 加入Libra 协会</p><br><p><strong>跨链</strong></p><ul><li>Solana 数字钱包Sollet 打通ERC20 与SPL 连接桥</li><li>跨链DeFi 协议Kava 于9 月21 日发布跨链货币市场Harvest v1 测试网</li><li>区块链服务网络BSN 将集成公链Algorand、ShareRing 和Solana</li><li>日本社交通讯巨头LINE 启动虚拟货币LN 奖励计划</li></ul><br><p><strong>融资</strong></p><ul><li>基于Polkadot 的DEX Polkastarter 获NGC 等87.5 万美元的种子及私募轮融资</li><li>去中心化交易聚合平台ParaSwap 完成270 万美元种子轮融资，CoinGecko 参投</li></ul><hr><h1 id="三、大佬观点"><a href="#三、大佬观点" class="headerlink" title="三、大佬观点"></a>三、大佬观点</h1><ol><li><strong>Anthony Sassano (Set Protocol)：</strong>DeFi空投就像发全民基本收入给那些根本不需要的人</li><li><strong>Ryan Sean Adams (Bankless)：</strong>Google不会发GOOG给搜寻者；Amazon不会发AMZN给买书的人；而Uniswap会发行UNI给使用的人</li><li><strong>Andre Cronje (Yearn Finanace)：</strong>如果你不打算卖掉UNI，也没有要参与治理，那不如让我当你的代理人吧</li></ol><hr><h1 id="四、数据统计"><a href="#四、数据统计" class="headerlink" title="四、数据统计"></a><strong>四、数据统计</strong></h1><p><em>本周数据采计自2020/9/15 ~ 9/21。TVL（Total Value Locked）指有多少价值（美元）储存在该平台中；IPY（Interest Per Year）为当下借出资金\</em> 借出年利息，即平台一年利息收益。数据来源：DeFi Pulse，CoinGecko。（单位：百万美元）*</p><p><img src="https://s1.ax1x.com/2020/09/24/wzOw9O.jpg" alt="wzOw9O.jpg"></p><center><font color="acacac" size=2>DeFi 总指标</font></center><p><img src="https://s1.ax1x.com/2020/09/24/wzOUN6.jpg" alt="wzOUN6.jpg"></p><center><font color="acacac" size=2>借贷平台规模</font></center><p><img src="https://s1.ax1x.com/2020/09/24/wzOa4K.jpg" alt="wzOa4K.jpg"></p><center><font color="acacac" size=2>DEX 规模</font></center><p><img src="https://s1.ax1x.com/2020/08/22/daJPKO.jpg" alt="daJPKO.jpg"></p><p><strong>免责声明:</strong></p><p>作者所表达的观点和意见仅供参考，不构成财务、投资或其他建议。</p><p><strong>声明：</strong>编者在撰写本文时，未购买任何数字货币资产。本文为区块新看点-程伟在15年互联网企业从事管理经验中得出的管理技巧和企业改进观点，希望给所有精英人士一点点的分享交流意见和建议，欢迎前来讨论和给更好的论点，谢谢！转载请注明来源于“区块新看点-行业研究”。</p>]]></content>
+    
+    <summary type="html">
+    
+      本周Uniswap宣布其治理代币 UNI 的发行！并慷慨的发放400 UNI给所有老用户，也让Uniswap锁仓量来到历史新高的1.8 B.
+    
+    </summary>
+    
+    
+      <category term="区块链" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/"/>
+    
+      <category term="数字货币" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/"/>
+    
+      <category term="以太坊" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/%E4%BB%A5%E5%A4%AA%E5%9D%8A/"/>
+    
+      <category term="以太坊，DeFi" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/%E4%BB%A5%E5%A4%AA%E5%9D%8A%EF%BC%8CDeFi/"/>
+    
+    
+      <category term="以太坊" scheme="https://www.chengwf.com/tags/%E4%BB%A5%E5%A4%AA%E5%9D%8A/"/>
+    
+      <category term="区块链周报" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE%E5%91%A8%E6%8A%A5/"/>
+    
+      <category term="比特币" scheme="https://www.chengwf.com/tags/%E6%AF%94%E7%89%B9%E5%B8%81/"/>
+    
+      <category term="DeFi" scheme="https://www.chengwf.com/tags/DeFi/"/>
+    
+      <category term="区块新看点" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E6%96%B0%E7%9C%8B%E7%82%B9/"/>
+    
+      <category term="加密货币" scheme="https://www.chengwf.com/tags/%E5%8A%A0%E5%AF%86%E8%B4%A7%E5%B8%81/"/>
+    
+      <category term="Fork" scheme="https://www.chengwf.com/tags/Fork/"/>
+    
+  </entry>
   
   <entry>
     <title>可编程货币：如何改变我们的整个价值转移体验</title>
@@ -749,76 +831,6 @@
       <category term="数字化转型" scheme="https://www.chengwf.com/tags/%E6%95%B0%E5%AD%97%E5%8C%96%E8%BD%AC%E5%9E%8B/"/>
     
       <category term="互联工作者" scheme="https://www.chengwf.com/tags/%E4%BA%92%E8%81%94%E5%B7%A5%E4%BD%9C%E8%80%85/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>加密新手必修课：确保持有加密资产持有的10条提示</title>
-    <link href="https://www.chengwf.com/2020/07/Crypro-Beginner-CryptoAssets-10-Tips.html"/>
-    <id>https://www.chengwf.com/2020/07/Crypro-Beginner-CryptoAssets-10-Tips.html</id>
-    <published>2020-07-30T16:00:00.000Z</published>
-    <updated>2020-08-05T03:33:05.576Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="前言一：加密资产的定义"><a href="#前言一：加密资产的定义" class="headerlink" title="前言一：加密资产的定义"></a>前言一：加密资产的定义</h2><p>自比特币和区块链技术的诞生，催生了一系列加密资产类别的发展。事实上，《区块链革命（BlockChain Revolution）》一书的作者Don Tapscott指出，关于数字资产，你至少要知道七种。包括：<a id="more"></a></p><ul><li><strong>加密货币</strong>（Crypto Currency）</li><li><strong>平台代币</strong>（Platform Tokens）</li><li><strong>实用代币</strong>（Utility Tokens）</li><li><strong>证券代币</strong>（Security Tokens）</li><li><strong>自然资产代币</strong>（Natural Asset Tokens）</li><li><strong>加密收藏品</strong>（Cryptocollectibles）</li><li><strong>加密对法币代币</strong>（Crypto-fiat currencies）</li></ul><blockquote><p><em>引用声明：根据Don Tapscontt和Alex Tapscott共同编著的《Blockchain Revolution》，书中关于数字资产七大种类的定义。</em></p></blockquote><hr><h2 id="前言二"><a href="#前言二" class="headerlink" title="前言二"></a>前言二</h2><p>加密货币行业的初学者通常会担心与之相关的风险。除了价格波动外，用户还经常面临钱包被黑客入侵的风险，造成不可弥补的损失。</p><p>尽管加密货币交易所以及钱包服务提供商提供了增强的安全功能，但不能保证黑客不会发现入侵系统并窃取用户资金的漏洞。但是，还有一些其他手段，用户可能会利用这种手段来保护自己的资金不被窃取或丢失。下面“区块新看点”-区块链科普分享10大绝招教你怎么保护你的加密资产：</p><hr><h2 id="1、选择信誉良好的钱包服务提供商"><a href="#1、选择信誉良好的钱包服务提供商" class="headerlink" title="1、选择信誉良好的钱包服务提供商"></a>1、选择信誉良好的钱包服务提供商</h2><p><br/>安全性始于选择服务提供商。目前，热门的加密货币钱包数量众多，其中很多都是欺诈性的。这就是为什么用户在信任自己的钱到在线服务之前应该非常小心。</p><p><img src="https://chengwf.com/6510e" alt="arDCG9.png"></p><center><font color="acacac" size=2>数字钱包服务提供商</font></center><br/><p>为了确保在线钱包或加密货币交易所合法，有必要注意其运行时间。诈骗永远不会持续太久，因此，如果提供商的经营时间超过五年，则很可能是可靠且合法的提供商。另外，值得检查其他用户在Internet上的反馈。如今，人们倾向于在线共享他们的经验，因此不难发现他人的观点。</p><p>除此之外，用户还可以检查公司的合规性和可用的注册数据。可靠的公司始终会披露尽可能多的信息，要求用户提供完整的KYC（Know your customer）认证，以证明其可靠性、合法性和唯一性。</p><hr><h2 id="2、使用强密码"><a href="#2、使用强密码" class="headerlink" title="2、使用强密码"></a>2、使用强密码</h2><p><img src="https://s1.ax1x.com/2020/08/05/arBxVU.jpg" alt="arBxVU.jpg"></p><center><font color="acacac" size=2>数字资产密钥设置</font></center><br/><p>让我们以一所房子为例。当一个人用弱小的挂锁继续锁住自己的房屋/办公室时，这就像邀请小偷进来强迫他们进入房屋一样。因此，为了阻止不速之客，必须始终用强力锁将其锁定。同样，必须使用功能强大的私钥来保护数字货币的持有量。</p><p>攻击者倾向于使用更高级和复杂的私钥破解器来攻击用户的账户，并且这些工具利用词典，常用密码列表以及暴力攻击。因此，如果密码又长又强，它将具有更大的熵，这意味着攻击者将很难破解账户。</p><h2 id="3、启用两因素身份验证（2FA）"><a href="#3、启用两因素身份验证（2FA）" class="headerlink" title="3、启用两因素身份验证（2FA）"></a>3、启用两因素身份验证（2FA）</h2><p><br/><img src="https://s1.ax1x.com/2020/08/05/arDS54.jpg" alt="arDS54.jpg"></p><center><font color="acacac" size=2>2FA示例图</font></center><br/><p>2FA生成安全的两步验证码以访问设备上的令牌。通过轻松，有效地添加额外的安全层，它可以从攻击者和劫机者中拯救用户的帐户。2FA私钥每30秒更改一次，因此不会给攻击者留下任何迫使其进入加密货币帐户的空间。</p><p>不过，这并不意味着使用两因素身份验证器足以使资产100％安全，因为黑客不断改变策略，因此必须在每个在线帐户上启用2FA（电子邮件，文件存储服务，社交媒体等）链接到一个人的令牌帐户。</p><hr><h2 id="4、禁用加密货币钱包的自动更新"><a href="#4、禁用加密货币钱包的自动更新" class="headerlink" title="4、禁用加密货币钱包的自动更新"></a>4、禁用加密货币钱包的自动更新</h2><p><br/>台式机或移动式加密货币钱包的工作原理与其他任何应用程序一样，因此会不时进行更新，以提供新功能，应对新的网络安全威胁并修复可能的错误，从而使用户体验越来越完美。</p><p><img src="https://s1.ax1x.com/2020/08/05/arD9PJ.jpg" alt="arD9PJ.jpg"></p><center><font color="acacac" size=2>某一数字钱包自动更新示意图</font></center><br/><p>当用户不进行更新时，他们的钱包很可能遭到黑客攻击或损坏–因为攻击者会发现网络安全墙非常脆弱且不稳定。</p><p>但是，用户不应在到达后就急着下载并安装最新更新。在某些情况下，这些新版本带有可能会影响钱包软件并使其更加脆弱的错误。此外，黑客可能会将其恶意软件伪装成更新并将其推送到商店中。因此，如果启用了自动更新功能，则用户可以安装可窃取资金而不是实际更新的恶意软件。因此，最好等待3-5天并仅在没有关于新版本的问题或不好的评论时更新钱包。</p><hr><h1 id="5、备份您的数字钱包到可靠的地方"><a href="#5、备份您的数字钱包到可靠的地方" class="headerlink" title="5、备份您的数字钱包到可靠的地方"></a>5、备份您的数字钱包到可靠的地方</h1><p><br/>从您的加密货币钱包中备份数据可以很容易地在丢失，损坏或任何设备故障的情况下检索，还原或访问令牌以及其他敏感信息。</p><p>如果用户的计算机或智能手机被盗或放错了地方，备份副本将使用户可以恢复自己的钱包。但是，用户还需要确保已在可靠的云服务中创建了备份，因为这些数据也可能被盗用和滥用。其中要备份的数据包括：私钥、助记词、钱包地址、钱包用户名等。</p><p><img src="https://s1.ax1x.com/2020/08/05/arBXrV.jpg" alt="arBXrV.jpg"></p><center><font color="acacac" size=2>数字资产钱包备份助记词流程</font></center><hr><h2 id="6、使用受信任的安全网络"><a href="#6、使用受信任的安全网络" class="headerlink" title="6、使用受信任的安全网络"></a>6、使用受信任的安全网络</h2><p><br/>用数字货币进行交易时，始终使用WiFi热点等公共互联网连接是不好的。这使钱包暴露给罪犯，因为他们发现很容易闯入帐户并以大量股份为自己服务。使用公共网络使该网络的所有参与者都可以看到钱包，从而可以轻松访问设备。</p><p>使用公共设备访问您的钱包也有同样的问题。即使删除了所有密码，它们也会保留在设备的内存中。因此，具有某些技术技能的人可能会容易地检索和滥用它们。这就是为什么应使用个人互联网和个人计算机/智能电话进行任何类型的交易。</p><p><img src="https://s1.ax1x.com/2020/08/05/arBzaF.jpg" alt="arBzaF.jpg"></p><h2 id="7、应用强加密"><a href="#7、应用强加密" class="headerlink" title="7、应用强加密"></a>7、应用强加密</h2><p>无论使用哪种加密货币钱包，都必须对其进行高度加密，以确保储蓄安全可靠。它越强大，被黑客入侵的机会就越少。</p><p>通过对钱包或整个设备进行加密，用户可以设置私钥或一种防火墙，以防止试图取出任何钱的不良玩家。因此，确保对钱包进行严格而正确的加密将使用户能够安然入睡，而不必担心丢失自己的资金。</p><hr><h2 id="8、永远不要将所有加密货币都放在一个地方"><a href="#8、永远不要将所有加密货币都放在一个地方" class="headerlink" title="8、永远不要将所有加密货币都放在一个地方"></a>8、永远不要将所有加密货币都放在一个地方</h2><p>非洲谚语说“不要把所有鸡蛋都放在一个篮子里”-因为一旦跌倒，一个人就有将所有鸡蛋切成碎片的风险。所有令牌用户都可以在加密货币行业中采用相同的原理。</p><p>最好将储蓄存储在几个加密货币和几个钱包中。因此，即使一个钱包被黑客入侵，一个人也将设法保留一个人的大部分储蓄。经验丰富的投资者总是将他们的投资分成几种加密货币。除了保护储蓄免受攻击外，这种方法还可以最大程度地降低与价格波动相关的风险。</p><hr><h2 id="9、持续监控钱包交易以发现任何可疑的操作"><a href="#9、持续监控钱包交易以发现任何可疑的操作" class="headerlink" title="9、持续监控钱包交易以发现任何可疑的操作"></a>9、持续监控钱包交易以发现任何可疑的操作</h2><p>在加密货币钱包的公共地址上应用检测工具可能有助于跟踪任何可疑活动。最好继续通过短信和电子邮件获取交易通知。在这种情况下，用户将在实际进行交易之前收到交易通知。因此，即使有人访问了钱包并试图从中取出钱财，也有可能阻止交易的发生。</p><p>因此，许多还提供钱包服务的加密货币交易所具有在实际发送交易之前确认交易的功能。因此，用户有机会在汇款前仔细检查所有信息，因为基于区块链的交易是不可逆的，因此任何错误都可能导致资金损失。此外，如果有任何第三方试图代表用户进行交易，那么使用这种功能就不可能错过它。</p><hr><h2 id="10、使用冷存储"><a href="#10、使用冷存储" class="headerlink" title="10、使用冷存储"></a>10、使用冷存储</h2><p>冷存储与热存储相比，具有很大的优势，因为它没有连接到Internet。因此，窃取资金的唯一方法是钱包本身的物理隐身性。但是即使那样，罪犯也需要掌握大量的技术技能才能获得资金。</p><p><img src="https://s1.ax1x.com/2020/08/05/arBjbT.jpg" alt="arBjbT.jpg"></p><center><font color="acacac" size=2>冷存储硬件钱包</font></center><p>一些加密货币持有人同时使用两种存储。在线钱包用于进行交易，冷库用于存储加密货币。通过这种方式，他们可以确保节省下来的钱。</p><p>无论如何，在创建一个加密货币钱包并用任何资金信任它之前，最好进行彻底的研究。这将有助于了解各种钱包如何根据自己的需求做出完美选择。</p><p><img src="https://s1.ax1x.com/2020/07/20/U5nuv9.jpg" alt="U5nuv9.jpg"></p><p><strong>声明：</strong>编者在撰写本文时，未购买任何数字货币资产。本文为区块新看点-程伟在15年互联网企业从事管理经验中得出的管理技巧和企业改进观点，希望给所有精英人士一点点的分享交流意见和建议，欢迎前来讨论和给更好的论点，谢谢！转载请注明来源于“区块新看点-行业研究”。</p><p><strong>区块新看点-精彩科技内容回顾：</strong></p><ul><li><a href="https://www.chengwf.com/2020/07/Nouriel-Roubini-BitCoin.html">大反派回来了！“乌鸦嘴”末日博士称：经济可能会再次衰退，甚至引发大萧条，最佳的避险资产是比特币</a></li><li><a href="https://www.toutiao.com/i6852422789509415436/?group_id=6852422789509415436" target="_blank" rel="noopener">5G革命的新商机：我们如何在数字时代挖掘这轮财富机会？</a></li><li><a href="https://www.toutiao.com/i6845920553283355139/?group_id=6845920553283355139" target="_blank" rel="noopener">下一代5G会为我们带来有什么期望？</a></li><li><a href="https://www.toutiao.com/i6851835708215460359/?group_id=6851835708215460359" target="_blank" rel="noopener">数字经济已进入以太坊（DeFi）金融创新的新纪元</a></li><li><a href="https://www.toutiao.com/i6848883228850422285/?group_id=6848883228850422285" target="_blank" rel="noopener">什么是 Comp？深入挖掘以太坊 DeFi 的最新趋势</a> </li></ul>]]></content>
-    
-    <summary type="html">
-    
-      “区块新看点”-区块链科普分享10大绝招教你怎么保护你的加密资产.
-    
-    </summary>
-    
-    
-      <category term="新兴资产" scheme="https://www.chengwf.com/categories/%E6%96%B0%E5%85%B4%E8%B5%84%E4%BA%A7/"/>
-    
-      <category term="加密资产" scheme="https://www.chengwf.com/categories/%E6%96%B0%E5%85%B4%E8%B5%84%E4%BA%A7/%E5%8A%A0%E5%AF%86%E8%B5%84%E4%BA%A7/"/>
-    
-    
-      <category term="区块链" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE/"/>
-    
-      <category term="区块新看点" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E6%96%B0%E7%9C%8B%E7%82%B9/"/>
-    
-      <category term="加密资产" scheme="https://www.chengwf.com/tags/%E5%8A%A0%E5%AF%86%E8%B5%84%E4%BA%A7/"/>
-    
-      <category term="加密新手" scheme="https://www.chengwf.com/tags/%E5%8A%A0%E5%AF%86%E6%96%B0%E6%89%8B/"/>
-    
-      <category term="数字资产" scheme="https://www.chengwf.com/tags/%E6%95%B0%E5%AD%97%E8%B5%84%E4%BA%A7/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>弱势美元会造成&quot;资金轮动&quot;，比特币突破11,000美元，牛市会继续吗？</title>
-    <link href="https://www.chengwf.com/2020/07/USdoller-BitCoin-ten-thousand-bull-market.html"/>
-    <id>https://www.chengwf.com/2020/07/USdoller-BitCoin-ten-thousand-bull-market.html</id>
-    <published>2020-07-28T16:00:00.000Z</published>
-    <updated>2020-07-29T08:54:07.710Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a><strong>前言</strong></h1><br/><p><em>睽违近一年，比特币又再度突破11,000 美元大关，不仅如此，台股和黄金都双双站上历史新高，正当热钱滚动的时候，道琼工业指数、标普500 指数上周双双下跌，连强劲的美国科技股指数（纳指）也连续两周下跌，这是巧合吗？还是资金真的开始轮动了呢？</em><a id="more"></a></p><hr><h1 id="近期加密市场（BTC）"><a href="#近期加密市场（BTC）" class="headerlink" title="近期加密市场（BTC）"></a>近期加密市场（BTC）</h1><br/><p>BTC 比特币上周日（7月26日）无预警再度站上万点，这已经是比特币今年「第三度」突破10，000美元的大关，再加上DeFi的推波助澜，只要沾上边的代币都涨得一蹋糊涂，让人觉得牛市已到。</p><p><img src="https://chengwf.com/s8p" alt="aeYqMV.jpg"></p><blockquote><p>延伸阅读：“区块新看点”在7月3日总结了5大BTC上涨动力因素</p><p><a href="https://www.chengwf.com/2020/07/bitcoin-price-2021-five-fundamental-factors.html">比特币如在2021年迎来上涨行情，这5大关键因素或是开启红牛行情的钥匙</a></p></blockquote><p>不过相较加密市场的热络，美股过去两周的表现要相形失色一些。</p><p>上周，美股三大指数尽墨。道琼（DJI）周跌0.7%、标普500（SPX）周跌0.6%，而最值得注意是纳斯达克指数的连两周下跌。众所周知，这波「V 型复苏」主要是以科技股为动力，而纳指主要就是追踪科技股，包括微软、苹果、脸书等大型科技公司。</p><p><img src="https://s1.ax1x.com/2020/07/29/aeYjZF.jpg" alt="aeYjZF.jpg"></p><p>虽然股市下跌的原因有很多，包括中美关系紧张、美国疫情又再度失控、科技公司财报的数据不如市场预期、就业数据显示复苏疲弱、参议院未能通过新一轮的纾困方案（昨已通过）等等，这都可能是股市下跌的原因。</p><p>然而，除了上述之外，美元贬值可能也是其中一个重要原因。</p><hr><h1 id="美元贬值代表什么？"><a href="#美元贬值代表什么？" class="headerlink" title="美元贬值代表什么？"></a>美元贬值代表什么？</h1><br/><p>传统上，大众一向认为货币贬值有助于外销。美元贬值就代表外国人可以用更便宜的价格购买美国产品，另外，美元贬值也推升了通胀预期，有助于推升风险资产（例如股市）的成长。</p><p>从过去数字看来，美元疲软对股市是有帮助的：自1973年以来，广义美元指数与标普500的相关系数为-0.2。而近年来，这种连动性更加强烈，自2000年中国加入世界贸易组织后，相关系数大约维持在-0.35，这代表美元汇率下降，反而有利于美国股市。</p><p><strong>基于外销、股市考量的货币贬值也许不会令人担心，但如果一国的货币贬值是基于国内经济结构出现问题，那就是完全不同情况了。</strong></p><p>一般而言，该国的货币表现都反映了市场参与者对其经济前景的看法。追踪美元对其它世界主要六种货币的美元指数（DXY）在过去一周下跌了1.74%，昨天又再度下跌0.74%，截稿前的数据为93.64，是2018年以来最低。</p><p><img src="https://s1.ax1x.com/2020/07/29/aetSi9.png" alt="aetSi9.png"></p><center><font color="acacac" size=2>美元指数从2018年至今的指数走势图</font></center><p>读者需要了解，<strong><em>汇率强弱是一种相对状况\</em></strong>。美元走贬并不必然代表投资人看坏美国前景，起码现在未必不一定是。上周，美元和美股同时下跌，但欧元持续走强，七月上涨3.6%。现在，投资人可能认为其它经济体在未来数个月的复苏会跑赢美国。</p><p>Bincentive机构分析师评估：<strong>现在的美元贬值可能是因为投资人看好其它经济体，尤其是欧洲。欧洲七月制造业和服务业采购经理人指数（PMI）反弹强劲，欧盟领袖同意推出一套财政刺激方案，都为欧元升值走势推波助澜</strong>。</p><hr><h1 id="美元疲软的资金轮动"><a href="#美元疲软的资金轮动" class="headerlink" title="美元疲软的资金轮动"></a>美元疲软的资金轮动</h1><p>值得注意的是，<strong><em>如果美元继续疲软下去，可能会促使资金轮动。热钱会流入其他的市场，包括新兴市场，也很有可能会流入加密货币市场。\</em></strong> Bincentive机构分析师认为这很有可能是近两周，加密货币市场开始复苏，甚至是纳指、台股、黄金这三种不同市场都破历史新高的原因之一。</p><p>作为传统避险资产，黄金在美股创新高的情况下，表现理应不强势。然而部分投资机构仍然对于实体经济复苏抱持疑虑，再加上美元指数跌至近两年低点、美国实质殖利率为负值、无限QE等政策，世界两强政治紧张、国际COVID-19疫情似有扩大迹象等等，诸多不确定因素吸引资金涌入黄金市场。</p><p>昨天黄金期货合约盘中创下每盎司1，971.3美元、现货价盘中则达1，942.5美元，同创历史新高。</p><p>Bincentive首席加密市场分析师在研究报告：Bincentive<strong>认为新兴市场近来的「非典型」好表现可能归功于「资金轮动」现象**</strong>。**</p><p>新兴市场的市场规模普遍较小，定价效率低下、缺乏法规、充斥投资者等多重原因，让它常常比西方同类公司增长要快，其股票定价效率低下也带来了高回报的可能性。</p><p>另外，过去新兴市场经常是反经济周期。由于新兴市场国家所实行的财政政策和货币政策与西方发达国家迥然不同，新兴市场国家的经济和公司盈利循环周期与西方国家的股票指数相关度很低，有的甚至是负相关，因此，在欧美出现不利的经济循环时，<strong>投资人对新兴市场的投资可以有效对冲</strong>。</p><p>正常情况来说，中美局势紧张、美国前所未有的高失业率，以及COVID-19疫情复发的可能性都可能会让投资人对新兴市场却步，但是Bincentive现在看到的是七月份的iSharesMSCI新兴市场ETF（EEM-US）已经上涨9.55%。</p><hr><h1 id="比特币突破压力，牛市来了吗？"><a href="#比特币突破压力，牛市来了吗？" class="headerlink" title="比特币突破压力，牛市来了吗？"></a>比特币突破压力，牛市来了吗？</h1><br/><p>Bincentive机构认为，<strong>这次的突破万点可能和前两次不同</strong>。</p><p>首先，从技术指标来看，比特币已经突破了自2017年的下降趋势线。先前三次的破万点虽然也有触碰，甚至短暂突破下降趋势线，然而，最终都未能站稳。</p><blockquote><p>延伸阅读：<a href="https://www.chengwf.com/2020/06/wiki-bitcoins-value.html">为什么比特币有价值？（WIKI百科）</a></p></blockquote><p>这次却有所不同，即使是用周线图看，比特币也已经达成了远远突破的水平。且下方的均线皆已抬头，形成了支撑，多头格局已然明确。</p><p>虽然许多预测分析都认为突破11，000美元后，很可能就上看20，000美元。确实机会是增加了。然而从技术线图的角度分析，比特币上方还有两个较大的压力，分别是2019年6月24日的13，868美元以及2019年8月5日的12，320美元。</p><p><img src="https://s1.ax1x.com/2020/07/29/aeYxIJ.png" alt="aeYxIJ.png"></p><center><font color="acacac" size=2>比特币指数从2018年至今的指数走势图</font></center><p>此外，根据链上数据分析公司CryptoQuant，随着比特币站稳了万点，过去数天流入交易所的热钱包的资金量明显增加。不过这个数据只表示了资金量增加，而增加的资金可能是要抛售比特币，也有可能是新的闲置资金入场购买比特币。</p><p>CryptoQuant的数据表明采矿池的比特币流出量并未「大量增加」，这代表矿工似乎没有打算要在这个阶段抛售比特币。</p><p><img src="https://s1.ax1x.com/2020/07/29/aeYva4.png" alt="aeYva4.png"></p><center><font color="acacac" size=2>图片来源于：CryptoQuant</font></center><br/><p>综合以上所述，Bincentive机构分析师认为这次的破万点可能和前半年很不一样。若是前面所说的「资金轮动」真的成立的话，再加上近来类似于2017年ICO的DeFi动能，比特币是有机会在年底前，挑战12，320甚至是14，000美元的高点。</p><p>不过，这也伴随着风险。目前全球的实体经济复苏仍然未明朗，截至今天，全球至少1，632万人染疫，至少65万死于COVID-19，其中近三分之一在欧洲。且自7月9日以来，全球新增死亡病例达10万起以上;近两个多月来，病亡人数已增加1倍。</p><p>如果各国政府无法在经济逐渐解封的同时想出限制疫情扩散的方法，那么很有可能会遇到美国目前的情况：复苏中断。 <strong>一旦发展至此，对比特币这种高风险资产来说，绝非好事，今年三月已经验证了，万一实体经济出现问题，比特币可能会先成为优先被抛售的资产。</strong></p><p>因此，Bincentive机构分析师提醒读者/投资人：<strong>目前加密市场虽然看似正在复苏，但风险依然很大，做好资产配置，衡量自身可承担风险才是第一要务。</strong></p><br/><p>备注：本编撰写本文时，BTC的价格为：中区时间，2020年7月18日，下午11时40分，11,038美元。</p><p><strong>声明：</strong>编者在撰写本文时，未购买任何数字货币资产。本文为区块新看点-程伟，原创所著，请转载时注明来源于“区块新看点”！</p><p><img src="https://s1.ax1x.com/2020/07/20/U5nuv9.jpg" alt="U5nuv9.jpg"></p><p><strong>区块新看点-精彩科技内容回顾：</strong></p><ul><li><a href="https://www.chengwf.com/2020/07/Nouriel-Roubini-BitCoin.html">大反派回来了！“乌鸦嘴”末日博士称：经济可能会再次衰退，甚至引发大萧条，最佳的避险资产是比特币</a></li><li><a href="https://www.toutiao.com/i6852422789509415436/?group_id=6852422789509415436" target="_blank" rel="noopener">5G革命的新商机：我们如何在数字时代挖掘这轮财富机会？</a></li><li><a href="https://www.toutiao.com/i6845920553283355139/?group_id=6845920553283355139" target="_blank" rel="noopener">下一代5G会为我们带来有什么期望？</a></li><li><a href="https://www.toutiao.com/i6851835708215460359/?group_id=6851835708215460359" target="_blank" rel="noopener">数字经济已进入以太坊（DeFi）金融创新的新纪元</a></li><li><a href="https://www.toutiao.com/i6848883228850422285/?group_id=6848883228850422285" target="_blank" rel="noopener">什么是 Comp？深入挖掘以太坊 DeFi 的最新趋势</a> <a href="https://www.toutiao.com/i6841856473862144515/?group_id=6841856473862144515" target="_blank" rel="noopener">什么是去中心化金融（DeFi）？</a></li><li><a href="https://www.toutiao.com/i6840343630067008013/?group_id=6840343630067008013" target="_blank" rel="noopener">DeFi：不止是加密货币，更是一种重新定义未来金融的新趋势</a></li></ul><hr><center><font  color="acacac" size=4><a href="https://zhuanlan.zhihu.com/chengwf" target="_blank" title="区块新看点专栏">--   知乎  【区块新看点专栏】   --</a></font></center><br/><p><a href="https://www.zhihu.com/club/1255823155094331392" target="_blank" rel="noopener"><img src="https://chengwf.com/ese" alt="UJcKyT.jpg"></a></p><blockquote><p>欢迎进入讨论币圈最新动态：<strong><a href="https://www.zhihu.com/club/1255823155094331392" target="_blank" rel="noopener">区块新看点-圈子（数字科技圈）</a></strong></p></blockquote><blockquote><p>订阅“区块新看点”微信公众号：BlockChan888，私信获取更多精彩课件</p></blockquote><p><img src="https://chengwf.com/358db" alt="UJculV.jpg"></p>]]></content>
-    
-    <summary type="html">
-    
-      上周，美股三大指数尽墨。道琼（DJI）周跌0.7%、标普500（SPX）周跌0.6%，而最值得注意是纳斯达克指数的连两周下跌。众所周知，这波「V 型复苏」主要是以科技股为动力，而纳指主要就是追踪科技股，包括微软、苹果、脸书等大型科技公司。
-    
-    </summary>
-    
-    
-      <category term="区块链" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/"/>
-    
-      <category term="数字货币" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/"/>
-    
-      <category term="比特币" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/%E6%AF%94%E7%89%B9%E5%B8%81/"/>
-    
-    
-      <category term="比特币" scheme="https://www.chengwf.com/tags/%E6%AF%94%E7%89%B9%E5%B8%81/"/>
-    
-      <category term="区块新看点" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E6%96%B0%E7%9C%8B%E7%82%B9/"/>
-    
-      <category term="美元" scheme="https://www.chengwf.com/tags/%E7%BE%8E%E5%85%83/"/>
-    
-      <category term="BitCoin" scheme="https://www.chengwf.com/tags/BitCoin/"/>
-    
-      <category term="美元指数" scheme="https://www.chengwf.com/tags/%E7%BE%8E%E5%85%83%E6%8C%87%E6%95%B0/"/>
-    
-      <category term="比特币突破1万美金" scheme="https://www.chengwf.com/tags/%E6%AF%94%E7%89%B9%E5%B8%81%E7%AA%81%E7%A0%B41%E4%B8%87%E7%BE%8E%E9%87%91/"/>
     
   </entry>
   

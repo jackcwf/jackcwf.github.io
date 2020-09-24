@@ -1,0 +1,1567 @@
+<!DOCTYPE html>
+
+
+
+  
+
+
+<html class="theme-next pisces use-motion" lang="zh-Hans">
+<head>
+  <meta charset="UTF-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+<meta name="theme-color" content="#222">
+
+<script src="http://echarts.baidu.com/dist/echarts.common.min.js"></script>
+
+
+
+
+
+
+
+<meta http-equiv="Cache-Control" content="no-transform" />
+<meta http-equiv="Cache-Control" content="no-siteapp" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  <link href="/lib/fancybox/source/jquery.fancybox.css?v=2.1.5" rel="stylesheet" type="text/css" />
+
+
+
+
+
+
+
+<link href="/lib/font-awesome/css/font-awesome.min.css?v=4.6.2" rel="stylesheet" type="text/css" />
+
+<link href="/css/main.css?v=5.1.4" rel="stylesheet" type="text/css" />
+
+
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon-next.png?v=5.1.4">
+
+
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32-next.png?v=5.1.4">
+
+
+  <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16-next.png?v=5.1.4">
+
+
+  <link rel="mask-icon" href="/images/logo.svg?v=5.1.4" color="#222">
+
+
+
+
+
+  <meta name="keywords" content="以太坊,区块链周报,比特币,DeFi,区块新看点,加密货币,Fork," />
+
+
+
+
+  
+
+
+  <link rel="alternate" href="/atom.xml" title="区块新看点" type="application/atom+xml" />
+
+
+
+
+
+
+<meta name="description" content="本周Uniswap宣布其治理代币 UNI 的发行！并慷慨的发放400 UNI给所有老用户，也让Uniswap锁仓量来到历史新高的1.8 B.">
+<meta property="og:type" content="article">
+<meta property="og:title" content="DeFi‌周‌报(21&#x2F;9)‌：DeFi该如何持续对抗Fork？">
+<meta property="og:url" content="https://www.chengwf.com/2020/09/crypro-defi-news-20200921.html">
+<meta property="og:site_name" content="区块新看点">
+<meta property="og:description" content="本周Uniswap宣布其治理代币 UNI 的发行！并慷慨的发放400 UNI给所有老用户，也让Uniswap锁仓量来到历史新高的1.8 B.">
+<meta property="og:image" content="https://chengwf.com/97ed8">
+<meta property="og:image" content="https://s1.ax1x.com/2020/09/24/wzODjH.png">
+<meta property="og:image" content="https://s1.ax1x.com/2020/09/24/wzOw9O.jpg">
+<meta property="og:image" content="https://s1.ax1x.com/2020/09/24/wzOUN6.jpg">
+<meta property="og:image" content="https://s1.ax1x.com/2020/09/24/wzOa4K.jpg">
+<meta property="og:image" content="https://s1.ax1x.com/2020/08/22/daJPKO.jpg">
+<meta property="article:published_time" content="2020-09-20T16:00:00.000Z">
+<meta property="article:modified_time" content="2020-09-24T06:36:07.166Z">
+<meta property="article:author" content="Block.Chan(程伟)">
+<meta property="article:tag" content="以太坊">
+<meta property="article:tag" content="区块链周报">
+<meta property="article:tag" content="比特币">
+<meta property="article:tag" content="DeFi">
+<meta property="article:tag" content="区块新看点">
+<meta property="article:tag" content="加密货币">
+<meta property="article:tag" content="Fork">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="https://chengwf.com/97ed8">
+
+
+
+<script type="text/javascript" id="hexo.configurations">
+  var NexT = window.NexT || {};
+  var CONFIG = {
+    root: '/',
+    scheme: 'Pisces',
+    version: '5.1.4',
+    sidebar: {"position":"left","display":"post","offset":12,"b2t":false,"scrollpercent":false,"onmobile":false},
+    fancybox: true,
+    tabs: true,
+    motion: {"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}},
+    duoshuo: {
+      userId: '0',
+      author: '博主'
+    },
+    algolia: {
+      applicationID: '',
+      apiKey: '',
+      indexName: '',
+      hits: {"per_page":10},
+      labels: {"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}
+    }
+  };
+</script>
+
+
+
+  <link rel="canonical" href="https://www.chengwf.com/2020/09/crypro-defi-news-20200921.html"/>
+
+
+
+
+
+  <title>DeFi‌周‌报(21/9)‌：DeFi该如何持续对抗Fork？ | 区块新看点</title>
+  
+
+
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+          m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-161769700-1', 'auto');
+  ga('send', 'pageview');
+</script>
+
+
+  <script type="text/javascript">
+    var _hmt = _hmt || [];
+    (function() {
+      var hm = document.createElement("script");
+      hm.src = "https://hm.baidu.com/hm.js?16b17e705b07f8c375f222faa41a469c";
+      var s = document.getElementsByTagName("script")[0];
+      s.parentNode.insertBefore(hm, s);
+    })();
+  </script>
+
+
+
+
+<meta name="generator" content="Hexo 4.2.0"></head>
+
+<body itemscope itemtype="http://schema.org/WebPage" lang="zh-Hans">
+
+  
+  
+    
+  
+
+  <div class="container sidebar-position-left page-post-detail">
+    <div class="headband"></div>
+
+    <header id="header" class="header" itemscope itemtype="http://schema.org/WPHeader">
+      <div class="header-inner"><div class="site-brand-wrapper">
+  <div class="site-meta ">
+    
+
+    <div class="custom-logo-site-title">
+      <a href="/"  class="brand" rel="start">
+        <span class="logo-line-before"><i></i></span>
+        <span class="site-title">区块新看点</span>
+        <span class="logo-line-after"><i></i></span>
+      </a>
+    </div>
+      
+        <h1 class="site-subtitle" itemprop="description">区块链衍生科技领域的资深分析博客</h1>
+      
+  </div>
+
+  <div class="site-nav-toggle">
+    <button>
+      <span class="btn-bar"></span>
+      <span class="btn-bar"></span>
+      <span class="btn-bar"></span>
+    </button>
+  </div>
+</div>
+
+<nav class="site-nav">
+  
+
+  
+    <ul id="menu" class="menu">
+      
+        
+        <li class="menu-item menu-item-home">
+          <a href="/" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-home"></i> <br />
+            
+            首页
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-区块链看点">
+          <a href="/tags/%E5%8C%BA%E5%9D%97%E9%93%BE%E7%9C%8B%E7%82%B9" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-bitcoin"></i> <br />
+            
+            区块链看点
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-原创精文">
+          <a href="/tags/%E5%8E%9F%E5%88%9B%E7%B2%BE%E6%96%87" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-edit"></i> <br />
+            
+            原创精文
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-加密市场行情">
+          <a href="https://chengwf.com/srv" target="_blank" rel="section noopener">
+            
+              <i class="menu-item-icon fa fa-fw fa-delicious"></i> <br />
+            
+            加密市场行情
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-区块链周报">
+          <a href="/tags/%E5%8C%BA%E5%9D%97%E9%93%BE%E5%91%A8%E6%8A%A5/" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-globe"></i> <br />
+            
+            区块链周报
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-数字经济">
+          <a href="/categories/%E6%95%B0%E5%AD%97%E7%BB%8F%E6%B5%8E" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-balance-scale"></i> <br />
+            
+            数字经济
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-defi">
+          <a href="/tags/DeFi/" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-delicious"></i> <br />
+            
+            DeFi
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-区块链产业创新">
+          <a href="/tags/blockchain-Industrial-innovation/" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-anchor"></i> <br />
+            
+            区块链产业创新
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-区块链wiki">
+          <a href="/categories/WIKI/" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-cubes"></i> <br />
+            
+            区块链WIKI
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-视频专区">
+          <a href="/tags/blockchain-video/" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-adn"></i> <br />
+            
+            视频专区
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-tags">
+          <a href="/tags/" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-tags"></i> <br />
+            
+            标签
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-categories">
+          <a href="/categories/" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-sitemap"></i> <br />
+            
+            分类
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-archives">
+          <a href="/archives/" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-folder-open"></i> <br />
+            
+            归档
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-关于本站">
+          <a href="/about/index.html" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-address-card"></i> <br />
+            
+            关于本站
+          </a>
+        </li>
+      
+
+      
+        <li class="menu-item menu-item-search">
+          
+            <a href="javascript:;" class="popup-trigger">
+          
+            
+              <i class="menu-item-icon fa fa-search fa-fw"></i> <br />
+            
+            搜索
+          </a>
+        </li>
+      
+    </ul>
+  
+
+  
+    <div class="site-search">
+      
+  <div class="popup search-popup local-search-popup">
+  <div class="local-search-header clearfix">
+    <span class="search-icon">
+      <i class="fa fa-search"></i>
+    </span>
+    <span class="popup-btn-close">
+      <i class="fa fa-times-circle"></i>
+    </span>
+    <div class="local-search-input-wrapper">
+      <input autocomplete="off"
+             placeholder="搜索..." spellcheck="false"
+             type="text" id="local-search-input">
+    </div>
+  </div>
+  <div id="local-search-result"></div>
+</div>
+
+
+
+    </div>
+  
+</nav>
+
+
+
+ </div>
+    </header>
+
+    <main id="main" class="main">
+      <div class="main-inner">
+        <div class="content-wrap">
+          <div id="content" class="content">
+            
+
+  <div id="posts" class="posts-expand">
+    
+
+  
+
+  
+  
+  
+
+  <article class="post post-type-normal" itemscope itemtype="http://schema.org/Article">
+  
+  
+  
+  <div class="post-block">
+    <link itemprop="mainEntityOfPage" href="https://www.chengwf.com/2020/09/crypro-defi-news-20200921.html">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="name" content="Block.Chan(程伟)">
+      <meta itemprop="description" content="">
+      <meta itemprop="image" content="/images/avatar.gif">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="区块新看点">
+    </span>
+
+    
+      <header class="post-header">
+
+        
+        
+          <h2 class="post-title" itemprop="name headline">DeFi‌周‌报(21/9)‌：DeFi该如何持续对抗Fork？</h2>
+        
+
+        <div class="post-meta">
+          <span class="post-time">
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-calendar-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">发表于</span>
+              
+              <time title="创建于" itemprop="dateCreated datePublished" datetime="2020-09-21T00:00:00+08:00">
+                2020-09-21
+              </time>
+            
+
+            
+
+            
+          </span>
+
+          
+            <span class="post-category" >
+            
+              <span class="post-meta-divider">|</span>
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-folder-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">分类于</span>
+              
+              
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/" itemprop="url" rel="index">
+                    <span itemprop="name">区块链</span>
+                  </a>
+                </span>
+
+                
+                
+                  ， 
+                
+              
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/" itemprop="url" rel="index">
+                    <span itemprop="name">数字货币</span>
+                  </a>
+                </span>
+
+                
+                
+                  ， 
+                
+              
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/%E4%BB%A5%E5%A4%AA%E5%9D%8A/" itemprop="url" rel="index">
+                    <span itemprop="name">以太坊</span>
+                  </a>
+                </span>
+
+                
+                
+                  ， 
+                
+              
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/%E4%BB%A5%E5%A4%AA%E5%9D%8A%EF%BC%8CDeFi/" itemprop="url" rel="index">
+                    <span itemprop="name">以太坊，DeFi</span>
+                  </a>
+                </span>
+
+                
+                
+              
+            </span>
+          
+
+          
+            
+          
+
+          
+          
+
+          
+
+          
+
+          
+              <div class="post-description">
+                  本周Uniswap宣布其治理代币 UNI 的发行！并慷慨的发放400 UNI给所有老用户，也让Uniswap锁仓量来到历史新高的1.8 B.
+              </div>
+          
+
+        </div>
+      </header>
+    
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+      
+
+      
+        <p>亲爱的数字货币、比特币、以太坊、DeFi 爱好者们：<a id="more"></a></p>
+<p>本周Uniswap宣布其治理代币 UNI 的发行！并慷慨的发放400 UNI给所有老用户，也让Uniswap锁仓量来到历史新高的1.8 B。此外，其治理方式也引起讨论，必须有1% UNI才能发起治理提案。另一个受到Fork威胁的AMM项目Curve也透过支付治理行政费反击Fork项目Swerve。本周观点我们就来聊聊DeFi该如何面对这猖獗的Fork风暴。</p>
+<p>本周大老观点我们看到Set 的Anthony Sassano 对DeFi 空投的全新诠释；Bankless 倡议者Ryan Adams 再次提及DeFi 项目和传统科技公司的差异；还有我们的Andre Cronje 大神呼吁大家不要让你的UNI治理权睡着了，可以授权给他为你参与治理！</p>
+<h1 id="什么是DeFi？"><a href="#什么是DeFi？" class="headerlink" title="什么是DeFi？"></a><strong>什么是DeFi？</strong></h1><p><br><strong>DeFi（Decentralized Finance）</strong>是指去中心化的金融服务。简单来说，同样是金融服务，但以分散管理权、资讯透明、基于区块链的方式经营，解决传统金融产业交易速度慢、成本高、易遭骇客攻击、且会被国家或组织滥用等问题。目前的DeFi服务已经有借贷、合成资产、衍生性产品甚至独有的闪电贷服务。</p>
+<p>区块新看点-编者推荐科普：<a href="https://www.chengwf.com/2020/06/wiki-DeFi-index.html">什么是去中心化金融（DeFi）？</a></p>
+<p><img src="https://chengwf.com/97ed8" alt="wzO03D.jpg"></p>
+<h1 id="一、区块新看点的观点"><a href="#一、区块新看点的观点" class="headerlink" title="一、区块新看点的观点"></a>一、区块新看点的观点</h1><p><strong>1、Uniswap 王者归来，但DeFi 该如何持续对抗Fork？</strong></p>
+<ul>
+<li><strong>Uniswap vs ShushiSwap</strong></li>
+</ul>
+<p>在 Uniswap 的新治理模型与治理型代币UNI推出后，不但让Uniswap夺回 Fork项目SushiSwap 偷走的版面，伴随空投而来的UNI也在48小时内价格翻近三倍，而最重要的是Uniswap总锁仓量快速冲回DeFi/DEX龙头，为DeFi社群夺回正义(原创)必胜的精神。然而，我们仍不能将代币空投视为Fork的解方，Fork项目将持续地发生，尤其是在区块链开源环境下。</p>
+<p>延伸阅读：<a href="https://www.chengwf.com/2020/09/wiki-uniswap.html">DeFi的新潮流：什么是Uniswap？</a></p>
+<p><img src="https://s1.ax1x.com/2020/09/24/wzODjH.png" alt="wzODjH.png"></p>
+<center><font color="acacac" size=2>Sushiswap分叉了Uniswap</font></center>
+
+
+
+<ul>
+<li><strong>我们如何看待Fork</strong></li>
+</ul>
+<p>事实上，在传统商业界，创意搬运、挪用本来就是常有的事。像是Samsung参考Apple的智慧型手机、Instagram参考Snapchat的限时讯息等等。在开源的DeFi环境中搬运更加容易了，Ctrl+C/V就能搬走世界级工程师长时间的心血，我们甚至该疑惑为何SushiSwap事件到现在才发生。有了Sushi的先河，我们可以想像“ <strong>Fork抗性</strong> ”将是未来DeFi项目开发最重要的一环了。我们总不能期待新的项目都要准备代币空投来面对未来的Fork危机。</p>
+<p><strong>2、DeFi 项目如何具有“Fork 抗性”</strong></p>
+<ul>
+<li><strong>内在解方</strong></li>
+</ul>
+<p>Fork 对项目方最大的伤害可能有：1.夺走使用者和流动性2. 抢先与大平台整合3. 优化版Fork 夺走特定用户群等等。在程式与服务设计上防止Fork 的机制可能有：提高社群体验以增加黏着度、打造可信赖的团队声望、与真实世界项目整合以增加Fork 困难度等等。如果Fork 真的难以避免，那么不如我们换个想法，在程式码中给予Fork 项目主动与原项目整合的诱因，如可以共用TVL 、Fork 项目收益分配导回原项目等，那么即使未来项目被Fork，却可以能使项目越来越强大！</p>
+<ul>
+<li><strong>外在解方</strong></li>
+</ul>
+<p>事实上，区块链上的Fork 就像真实世界的智慧财产抄袭一样，只是以太坊上没有机制约束他们——但现在没有，难道未来就不会有吗？我们猜想，既然项目可以透过代币治理，那区块链本身是否也可以治理。未来以太坊将会有PoS 机制，透过抵押(Stake) 以太币就可以挖矿，那是否也可以透过抵押取得投票权，并投票决定是否让抄袭者的项目继续运行下去，或是对其惩罚像是手续费加倍之类的。或是更理理想主义一点——将保护著作权的规则写入区块链中？自动侦测重复性过高的智能合约，并提高其部署门槛或要求其提供更多资讯才能部署等。当然这些规则都可以经过投票决定和调整。</p>
+<p><strong>总结：</strong></p>
+<p>以上是我们对区块链未来发展的猜想和建议，而回到现在，开源仍是DeFi 和区块链生态系的特色和传统，它让开发者可以更加容易的整合与进步，但SushiSwap 却向社群展示了其伴随着被Fork 的风险。我们认为，DeFi 项目必须将Fork 视为新的常态，并从一开始就考虑加入“Fork 抗性”，而区块链也必须发展出更加保护开发者的链上治理机制。</p>
+<hr>
+<h1 id="二、本周大事记"><a href="#二、本周大事记" class="headerlink" title="二、本周大事记"></a>二、本周大事记</h1><br>
+
+<p><strong>✨ 本周头条</strong></p>
+<ul>
+<li><strong>Uniswap 发布治理型代币UNI，初始铸造量10 亿枚</strong></li>
+</ul>
+<p>去中心化交易所Uniswap 现已发布治理代币UNI。UNI 初始铸造量为10 亿枚，其中60％ 将分配给Uniswap 社区成员，21.51% 将分配给团队成员，17.80％ 将分配给投资者，0.69% 将分配给顾问。其中，总供应量的15% 已空投给使用过的用户和流动性提供者，一人分配得400 UNI。</p>
+<ul>
+<li><strong>Uniswap 公布治理参数和UNI 持有者拥有的治理权</strong></li>
+</ul>
+<p>去中心化交易所Uniswap 治理协议即日起已生效，治理代币UNI 持有者拥有的治理权包括Uniswap 治理权、UNI 社区金库控制权、协议费用转换等等。治理参数包含：持有1% 以上UNI 可提出改进案、每项改进案须4% 赞同票以上方可通过、改进案为期七天等等。</p>
+<ul>
+<li><strong>Andre Cronje 发起Uniswap 治理权集资</strong></li>
+</ul>
+<p>由于治理参数规定须持有1% (100 万颗) UNI 才能提出改进案，yearn 创办人Andre Cronje 在yuni.finance 提出他的募资计划，希望大众如果有HODL 的UNI 能够将治理权交付给他。这种交付无须锁仓，可以随时领回UNI。</p>
+<ul>
+<li><strong>Curve 支付治理行政费(Admin Fee)，狠甩复制版协议Swerve</strong></li>
+</ul>
+<p>为了提高治理参与率，去中心化稳定币交换平台Curve 在今天开始了治理行政费(Admin Fee) 的分发，将原先的交易手续费0.04% 分出50% 给持有veCRV 的治理参与者。CRV 的持有者可以在DAO 的页面，选择锁定CRV 已获得治理投票权veCRV。</p>
+<br>
+**DeFi 协议**
+
+<ul>
+<li>Hakka.Finance 发布结合Fomo 3D 模型的去中心化保险产品3F Mutual</li>
+<li>Yam Finance 已开始迁移至YAM v3</li>
+<li>yearn.finance 将推出WBTC Vault</li>
+<li>动态自动造市商creamY 即将上线</li>
+<li>去中心化借贷协议bZx 现已恢复借贷池</li>
+<li>链上期权协议Opyn 上线UNI 看跌期权</li>
+</ul>
+<br>
+
+<p><strong>稳定币</strong></p>
+<p>风投基金Blockchain Capital 加入Libra 协会</p>
+<br>
+
+<p><strong>跨链</strong></p>
+<ul>
+<li>Solana 数字钱包Sollet 打通ERC20 与SPL 连接桥</li>
+<li>跨链DeFi 协议Kava 于9 月21 日发布跨链货币市场Harvest v1 测试网</li>
+<li>区块链服务网络BSN 将集成公链Algorand、ShareRing 和Solana</li>
+<li>日本社交通讯巨头LINE 启动虚拟货币LN 奖励计划</li>
+</ul>
+<br>
+
+<p><strong>融资</strong></p>
+<ul>
+<li>基于Polkadot 的DEX Polkastarter 获NGC 等87.5 万美元的种子及私募轮融资</li>
+<li>去中心化交易聚合平台ParaSwap 完成270 万美元种子轮融资，CoinGecko 参投</li>
+</ul>
+<hr>
+<h1 id="三、大佬观点"><a href="#三、大佬观点" class="headerlink" title="三、大佬观点"></a>三、大佬观点</h1><ol>
+<li><strong>Anthony Sassano (Set Protocol)：</strong>DeFi空投就像发全民基本收入给那些根本不需要的人</li>
+<li><strong>Ryan Sean Adams (Bankless)：</strong>Google不会发GOOG给搜寻者；Amazon不会发AMZN给买书的人；而Uniswap会发行UNI给使用的人</li>
+<li><strong>Andre Cronje (Yearn Finanace)：</strong>如果你不打算卖掉UNI，也没有要参与治理，那不如让我当你的代理人吧</li>
+</ol>
+<hr>
+<h1 id="四、数据统计"><a href="#四、数据统计" class="headerlink" title="四、数据统计"></a><strong>四、数据统计</strong></h1><p><em>本周数据采计自2020/9/15 ~ 9/21。TVL（Total Value Locked）指有多少价值（美元）储存在该平台中；IPY（Interest Per Year）为当下借出资金\</em> 借出年利息，即平台一年利息收益。数据来源：DeFi Pulse，CoinGecko。（单位：百万美元）*</p>
+<p><img src="https://s1.ax1x.com/2020/09/24/wzOw9O.jpg" alt="wzOw9O.jpg"></p>
+<center><font color="acacac" size=2>DeFi 总指标</font></center>
+
+
+
+<p><img src="https://s1.ax1x.com/2020/09/24/wzOUN6.jpg" alt="wzOUN6.jpg"></p>
+<center><font color="acacac" size=2>借贷平台规模</font></center>
+
+
+
+<p><img src="https://s1.ax1x.com/2020/09/24/wzOa4K.jpg" alt="wzOa4K.jpg"></p>
+<center><font color="acacac" size=2>DEX 规模</font></center>
+
+
+
+<p><img src="https://s1.ax1x.com/2020/08/22/daJPKO.jpg" alt="daJPKO.jpg"></p>
+<p><strong>免责声明:</strong></p>
+<p>作者所表达的观点和意见仅供参考，不构成财务、投资或其他建议。</p>
+<p><strong>声明：</strong>编者在撰写本文时，未购买任何数字货币资产。本文为区块新看点-程伟在15年互联网企业从事管理经验中得出的管理技巧和企业改进观点，希望给所有精英人士一点点的分享交流意见和建议，欢迎前来讨论和给更好的论点，谢谢！转载请注明来源于“区块新看点-行业研究”。</p>
+
+      
+    </div>
+    
+    
+    
+
+    
+      <div>
+        <div id="wechat_subscriber" style="display: block; padding: 10px 0; margin: 20px auto; width: 100%; text-align: center">
+    <img id="wechat_subscriber_qcode" src="/images/wechat-qcode.jpg" alt="Block.Chan(程伟) wechat" style="width: 200px; max-width: 100%;"/>
+    <div>欢迎关注区块新看点</div>
+</div>
+
+      </div>
+    
+
+    
+
+    
+      <div>
+        <ul class="post-copyright">
+  <li class="post-copyright-author">
+    <strong>本文作者：</strong>
+    Block.Chan(程伟)
+  </li>
+  <li class="post-copyright-link">
+    <strong>本文链接：</strong>
+    <a href="https://www.chengwf.com/2020/09/crypro-defi-news-20200921.html" title="DeFi‌周‌报(21/9)‌：DeFi该如何持续对抗Fork？">https://www.chengwf.com/2020/09/crypro-defi-news-20200921.html</a>
+  </li>
+  <li class="post-copyright-license">
+    <strong>版权声明： </strong>
+    本博客所有文章除特别声明外，均采用 <a href="https://chengwf.com/4ih" rel="external nofollow" target="_blank">CC BY-NC-SA 3.0</a> 许可协议。转载请注明出处！
+  </li>
+</ul>
+
+      </div>
+    
+
+    <footer class="post-footer">
+      
+        <div class="post-tags">
+          
+            <a href="/tags/%E4%BB%A5%E5%A4%AA%E5%9D%8A/" rel="tag"># 以太坊</a>
+          
+            <a href="/tags/%E5%8C%BA%E5%9D%97%E9%93%BE%E5%91%A8%E6%8A%A5/" rel="tag"># 区块链周报</a>
+          
+            <a href="/tags/%E6%AF%94%E7%89%B9%E5%B8%81/" rel="tag"># 比特币</a>
+          
+            <a href="/tags/DeFi/" rel="tag"># DeFi</a>
+          
+            <a href="/tags/%E5%8C%BA%E5%9D%97%E6%96%B0%E7%9C%8B%E7%82%B9/" rel="tag"># 区块新看点</a>
+          
+            <a href="/tags/%E5%8A%A0%E5%AF%86%E8%B4%A7%E5%B8%81/" rel="tag"># 加密货币</a>
+          
+            <a href="/tags/Fork/" rel="tag"># Fork</a>
+          
+        </div>
+      
+
+      
+      
+        <div class="post-widgets">
+        
+
+        
+
+        
+          
+          <div id="needsharebutton-postbottom">
+            <span class="btn">
+              <i class="fa fa-share-alt" aria-hidden="true"></i>
+            </span>
+          </div>
+        
+        </div>
+      
+      
+
+      
+        <div class="post-nav">
+          <div class="post-nav-next post-nav-item">
+            
+              <a href="/2020/09/programmable-money-crypto-tokens.html" rel="next" title="可编程货币：如何改变我们的整个价值转移体验">
+                <i class="fa fa-chevron-left"></i> 可编程货币：如何改变我们的整个价值转移体验
+              </a>
+            
+          </div>
+
+          <span class="post-nav-divider"></span>
+
+          <div class="post-nav-prev post-nav-item">
+            
+              <a href="/2020/09/defi-Uniswap-UNI-Token-story.html" rel="prev" title="DeFi解释：Uniswap和UNI令牌的简短故事">
+                DeFi解释：Uniswap和UNI令牌的简短故事 <i class="fa fa-chevron-right"></i>
+              </a>
+            
+          </div>
+        </div>
+      
+
+      
+      
+    </footer>
+  </div>
+  
+  
+  
+  </article>
+
+
+
+    <div class="post-spread">
+      
+    </div>
+  </div>
+
+
+          </div>
+          
+
+
+          
+
+  
+
+
+
+        </div>
+        
+          
+  
+  <div class="sidebar-toggle">
+    <div class="sidebar-toggle-line-wrap">
+      <span class="sidebar-toggle-line sidebar-toggle-line-first"></span>
+      <span class="sidebar-toggle-line sidebar-toggle-line-middle"></span>
+      <span class="sidebar-toggle-line sidebar-toggle-line-last"></span>
+    </div>
+  </div>
+
+  <aside id="sidebar" class="sidebar">
+    
+    <div class="sidebar-inner">
+
+      
+
+      
+        <ul class="sidebar-nav motion-element">
+          <li class="sidebar-nav-toc sidebar-nav-active" data-target="post-toc-wrap">
+            文章目录
+          </li>
+          <li class="sidebar-nav-overview" data-target="site-overview-wrap">
+            站点概览
+          </li>
+        </ul>
+      
+
+      <section class="site-overview-wrap sidebar-panel">
+        <div class="site-overview">
+          <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            
+              <img class="site-author-image" itemprop="image"
+                src="/images/avatar.gif"
+                alt="Block.Chan(程伟)" />
+            
+              <p class="site-author-name" itemprop="name">Block.Chan(程伟)</p>
+              <p class="site-description motion-element" itemprop="description"></p>
+          </div>
+
+          <nav class="site-state motion-element">
+
+            
+              <div class="site-state-item site-state-posts">
+              
+                <a href="/archives/%7C%7C%20folder-open">
+              
+                  <span class="site-state-item-count">91</span>
+                  <span class="site-state-item-name">日志</span>
+                </a>
+              </div>
+            
+
+            
+              
+              
+              <div class="site-state-item site-state-categories">
+                <a href="/categories/index.html">
+                  <span class="site-state-item-count">55</span>
+                  <span class="site-state-item-name">分类</span>
+                </a>
+              </div>
+            
+
+            
+              
+              
+              <div class="site-state-item site-state-tags">
+                <a href="/tags/index.html">
+                  <span class="site-state-item-count">184</span>
+                  <span class="site-state-item-name">标签</span>
+                </a>
+              </div>
+            
+
+          </nav>
+
+          
+            <div class="feed-link motion-element">
+              <a href="/atom.xml" rel="alternate">
+                <i class="fa fa-rss"></i>
+                RSS
+              </a>
+            </div>
+          
+
+          
+            <div class="links-of-author motion-element">
+                
+                  <span class="links-of-author-item">
+                    <a href="https://chengwf.com/d9718" target="_blank" title="金色财经">
+                      
+                        <i class="fa fa-fw fa-twitter"></i>金色财经</a>
+                  </span>
+                
+                  <span class="links-of-author-item">
+                    <a href="https://chengwf.com/jez" target="_blank" title="腾讯新闻">
+                      
+                        <i class="fa fa-fw fa-envelope"></i>腾讯新闻</a>
+                  </span>
+                
+                  <span class="links-of-author-item">
+                    <a href="https://chengwf.com/a37a9" target="_blank" title="今日头条">
+                      
+                        <i class="fa fa-fw fa-youtube"></i>今日头条</a>
+                  </span>
+                
+                  <span class="links-of-author-item">
+                    <a href="https://chengwf.com/ca63f" target="_blank" title="百家号">
+                      
+                        <i class="fa fa-fw fa-facebook"></i>百家号</a>
+                  </span>
+                
+                  <span class="links-of-author-item">
+                    <a href="https://chengwf.com/45944" target="_blank" title="知乎专栏">
+                      
+                        <i class="fa fa-fw fa-vk"></i>知乎专栏</a>
+                  </span>
+                
+                  <span class="links-of-author-item">
+                    <a href="https://chengwf.com/1fbd9" target="_blank" title="大鱼号">
+                      
+                        <i class="fa fa-fw fa-stack-overflow"></i>大鱼号</a>
+                  </span>
+                
+                  <span class="links-of-author-item">
+                    <a href="https://chengwf.com/maa" target="_blank" title="新浪微博">
+                      
+                        <i class="fa fa-fw fa-instagram"></i>新浪微博</a>
+                  </span>
+                
+                  <span class="links-of-author-item">
+                    <a href="https://chengwf.com/b1b79" target="_blank" title="链闻">
+                      
+                        <i class="fa fa-fw fa-skype"></i>链闻</a>
+                  </span>
+                
+                  <span class="links-of-author-item">
+                    <a href="https://chengwf.com/4895c" target="_blank" title="星球日报">
+                      
+                        <i class="fa fa-fw fa-certificate"></i>星球日报</a>
+                  </span>
+                
+                  <span class="links-of-author-item">
+                    <a href="https://chengwf.com/9ad6e" target="_blank" title="陀螺财经">
+                      
+                        <i class="fa fa-fw fa-black-tie"></i>陀螺财经</a>
+                  </span>
+                
+                  <span class="links-of-author-item">
+                    <a href="https://chengwf.com/wq5" target="_blank" title="火星财经">
+                      
+                        <i class="fa fa-fw fa-check-circle"></i>火星财经</a>
+                  </span>
+                
+                  <span class="links-of-author-item">
+                    <a href="https://chengwf.com/fc9cc" target="_blank" title="区块链网">
+                      
+                        <i class="fa fa-fw fa-cc-diners-club"></i>区块链网</a>
+                  </span>
+                
+                  <span class="links-of-author-item">
+                    <a href="https://chengwf.com/df98c" target="_blank" title="facebook">
+                      
+                        <i class="fa fa-fw fa-facebook-square"></i>facebook</a>
+                  </span>
+                
+                  <span class="links-of-author-item">
+                    <a href="https://chengwf.com/24a99" target="_blank" title="youTube">
+                      
+                        <i class="fa fa-fw fa-youtube-square"></i>youTube</a>
+                  </span>
+                
+            </div>
+          
+
+          
+          
+
+          
+          
+
+          
+
+        </div>
+      </section>
+
+      
+      <!--noindex-->
+        <section class="post-toc-wrap motion-element sidebar-panel sidebar-panel-active">
+          <div class="post-toc">
+
+            
+              
+            
+
+            
+              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-1"><a class="nav-link" href="#什么是DeFi？"><span class="nav-number">1.</span> <span class="nav-text">什么是DeFi？</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#一、区块新看点的观点"><span class="nav-number">2.</span> <span class="nav-text">一、区块新看点的观点</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#二、本周大事记"><span class="nav-number">3.</span> <span class="nav-text">二、本周大事记</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#三、大佬观点"><span class="nav-number">4.</span> <span class="nav-text">三、大佬观点</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#四、数据统计"><span class="nav-number">5.</span> <span class="nav-text">四、数据统计</span></a></li></ol></div>
+            
+
+          </div>
+        </section>
+      <!--/noindex-->
+      
+
+      
+
+    </div>
+  </aside>
+
+
+        
+      </div>
+    </main>
+
+    <footer id="footer" class="footer">
+      <div class="footer-inner">
+        <div class="copyright">&copy; <span itemprop="copyrightYear">2020</span>
+  <span class="with-love">
+    <i class="fa fa-user"></i>
+  </span>
+  <span class="author" itemprop="copyrightHolder">Block.Chan(程伟)</span>
+
+  
+</div>
+
+<!-- start webpushr tracking code --> 
+<script>(function(w,d, s, id) {if(typeof(w.webpushr)!=='undefined') return;w.webpushr=w.webpushr||function(){(w.webpushr.q=w.webpushr.q||[]).push(arguments)};var js, fjs = d.getElementsByTagName(s)[0];js = d.createElement(s); js.id = id;js.src = "https://cdn.webpushr.com/app.min.js";
+fjs.parentNode.appendChild(js);}(window,document, 'script', 'webpushr-jssdk'));
+webpushr('init','BNl1cbjP2-wUqLnc3vrdjhMw4zJrREyhUG00EG4fRxkF2wWAFvFjw4eQQb0GTYLJpRUDKNdaS3s_zX8DWTw6YB8');</script>
+<!-- end webpushr tracking code -->
+
+
+  <div class="powered-by">由 <a class="theme-link" target="_blank" href="https://www.chengwf.com">区块新看点技术团队</a> 强力驱动</div>
+
+
+
+  <span class="post-meta-divider">|</span>
+
+
+
+  <div class="theme-info">主题 &mdash; <a class="theme-link" target="_blank" href="http://beian.miit.gov.cn/">备案号：粤ICP备16072212号.Pisces</a> v5.1.4</div>
+
+
+
+
+        
+
+
+
+
+
+
+
+        
+      </div>
+    </footer>
+
+    
+      <div class="back-to-top">
+        <i class="fa fa-arrow-up"></i>
+        
+      </div>
+    
+
+    
+
+  </div>
+<!-- start webpushr tracking code --> 
+<script>(function(w,d, s, id) {if(typeof(w.webpushr)!=='undefined') return;w.webpushr=w.webpushr||function(){(w.webpushr.q=w.webpushr.q||[]).push(arguments)};var js, fjs = d.getElementsByTagName(s)[0];js = d.createElement(s); js.id = id;js.src = "https://cdn.webpushr.com/app.min.js";
+fjs.parentNode.appendChild(js);}(window,document, 'script', 'webpushr-jssdk'));
+webpushr('init','BNl1cbjP2-wUqLnc3vrdjhMw4zJrREyhUG00EG4fRxkF2wWAFvFjw4eQQb0GTYLJpRUDKNdaS3s_zX8DWTw6YB8');</script>
+<!-- end webpushr tracking code -->
+  
+
+<script type="text/javascript">
+  if (Object.prototype.toString.call(window.Promise) !== '[object Function]') {
+    window.Promise = null;
+  }
+</script>
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    <script type="text/javascript" src="/lib/jquery/index.js?v=2.1.3"></script>
+  
+
+  
+  
+    <script type="text/javascript" src="/lib/fastclick/lib/fastclick.min.js?v=1.0.6"></script>
+  
+
+  
+  
+    <script type="text/javascript" src="/lib/jquery_lazyload/jquery.lazyload.js?v=1.9.7"></script>
+  
+
+  
+  
+    <script type="text/javascript" src="/lib/velocity/velocity.min.js?v=1.2.1"></script>
+  
+
+  
+  
+    <script type="text/javascript" src="/lib/velocity/velocity.ui.min.js?v=1.2.1"></script>
+  
+
+  
+  
+    <script type="text/javascript" src="/lib/fancybox/source/jquery.fancybox.pack.js?v=2.1.5"></script>
+  
+
+
+  
+
+
+  <script type="text/javascript" src="/js/src/utils.js?v=5.1.4"></script>
+
+  <script type="text/javascript" src="/js/src/motion.js?v=5.1.4"></script>
+
+
+
+  
+  
+
+
+  <script type="text/javascript" src="/js/src/affix.js?v=5.1.4"></script>
+
+  <script type="text/javascript" src="/js/src/schemes/pisces.js?v=5.1.4"></script>
+
+
+
+  
+  <script type="text/javascript" src="/js/src/scrollspy.js?v=5.1.4"></script>
+<script type="text/javascript" src="/js/src/post-details.js?v=5.1.4"></script>
+
+
+
+  
+
+
+  <script type="text/javascript" src="/js/src/bootstrap.js?v=5.1.4"></script>
+
+
+
+  
+
+
+  
+
+
+
+
+	
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  <script type="text/javascript">
+    // Popup Window;
+    var isfetched = false;
+    var isXml = true;
+    // Search DB path;
+    var search_path = "search.xml";
+    if (search_path.length === 0) {
+      search_path = "search.xml";
+    } else if (/json$/i.test(search_path)) {
+      isXml = false;
+    }
+    var path = "/" + search_path;
+    // monitor main search box;
+
+    var onPopupClose = function (e) {
+      $('.popup').hide();
+      $('#local-search-input').val('');
+      $('.search-result-list').remove();
+      $('#no-result').remove();
+      $(".local-search-pop-overlay").remove();
+      $('body').css('overflow', '');
+    }
+
+    function proceedsearch() {
+      $("body")
+        .append('<div class="search-popup-overlay local-search-pop-overlay"></div>')
+        .css('overflow', 'hidden');
+      $('.search-popup-overlay').click(onPopupClose);
+      $('.popup').toggle();
+      var $localSearchInput = $('#local-search-input');
+      $localSearchInput.attr("autocapitalize", "none");
+      $localSearchInput.attr("autocorrect", "off");
+      $localSearchInput.focus();
+    }
+
+    // search function;
+    var searchFunc = function(path, search_id, content_id) {
+      'use strict';
+
+      // start loading animation
+      $("body")
+        .append('<div class="search-popup-overlay local-search-pop-overlay">' +
+          '<div id="search-loading-icon">' +
+          '<i class="fa fa-spinner fa-pulse fa-5x fa-fw"></i>' +
+          '</div>' +
+          '</div>')
+        .css('overflow', 'hidden');
+      $("#search-loading-icon").css('margin', '20% auto 0 auto').css('text-align', 'center');
+
+      $.ajax({
+        url: path,
+        dataType: isXml ? "xml" : "json",
+        async: true,
+        success: function(res) {
+          // get the contents from search data
+          isfetched = true;
+          $('.popup').detach().appendTo('.header-inner');
+          var datas = isXml ? $("entry", res).map(function() {
+            return {
+              title: $("title", this).text(),
+              content: $("content",this).text(),
+              url: $("url" , this).text()
+            };
+          }).get() : res;
+          var input = document.getElementById(search_id);
+          var resultContent = document.getElementById(content_id);
+          var inputEventFunction = function() {
+            var searchText = input.value.trim().toLowerCase();
+            var keywords = searchText.split(/[\s\-]+/);
+            if (keywords.length > 1) {
+              keywords.push(searchText);
+            }
+            var resultItems = [];
+            if (searchText.length > 0) {
+              // perform local searching
+              datas.forEach(function(data) {
+                var isMatch = false;
+                var hitCount = 0;
+                var searchTextCount = 0;
+                var title = data.title.trim();
+                var titleInLowerCase = title.toLowerCase();
+                var content = data.content.trim().replace(/<[^>]+>/g,"");
+                var contentInLowerCase = content.toLowerCase();
+                var articleUrl = decodeURIComponent(data.url);
+                var indexOfTitle = [];
+                var indexOfContent = [];
+                // only match articles with not empty titles
+                if(title != '') {
+                  keywords.forEach(function(keyword) {
+                    function getIndexByWord(word, text, caseSensitive) {
+                      var wordLen = word.length;
+                      if (wordLen === 0) {
+                        return [];
+                      }
+                      var startPosition = 0, position = [], index = [];
+                      if (!caseSensitive) {
+                        text = text.toLowerCase();
+                        word = word.toLowerCase();
+                      }
+                      while ((position = text.indexOf(word, startPosition)) > -1) {
+                        index.push({position: position, word: word});
+                        startPosition = position + wordLen;
+                      }
+                      return index;
+                    }
+
+                    indexOfTitle = indexOfTitle.concat(getIndexByWord(keyword, titleInLowerCase, false));
+                    indexOfContent = indexOfContent.concat(getIndexByWord(keyword, contentInLowerCase, false));
+                  });
+                  if (indexOfTitle.length > 0 || indexOfContent.length > 0) {
+                    isMatch = true;
+                    hitCount = indexOfTitle.length + indexOfContent.length;
+                  }
+                }
+
+                // show search results
+
+                if (isMatch) {
+                  // sort index by position of keyword
+
+                  [indexOfTitle, indexOfContent].forEach(function (index) {
+                    index.sort(function (itemLeft, itemRight) {
+                      if (itemRight.position !== itemLeft.position) {
+                        return itemRight.position - itemLeft.position;
+                      } else {
+                        return itemLeft.word.length - itemRight.word.length;
+                      }
+                    });
+                  });
+
+                  // merge hits into slices
+
+                  function mergeIntoSlice(text, start, end, index) {
+                    var item = index[index.length - 1];
+                    var position = item.position;
+                    var word = item.word;
+                    var hits = [];
+                    var searchTextCountInSlice = 0;
+                    while (position + word.length <= end && index.length != 0) {
+                      if (word === searchText) {
+                        searchTextCountInSlice++;
+                      }
+                      hits.push({position: position, length: word.length});
+                      var wordEnd = position + word.length;
+
+                      // move to next position of hit
+
+                      index.pop();
+                      while (index.length != 0) {
+                        item = index[index.length - 1];
+                        position = item.position;
+                        word = item.word;
+                        if (wordEnd > position) {
+                          index.pop();
+                        } else {
+                          break;
+                        }
+                      }
+                    }
+                    searchTextCount += searchTextCountInSlice;
+                    return {
+                      hits: hits,
+                      start: start,
+                      end: end,
+                      searchTextCount: searchTextCountInSlice
+                    };
+                  }
+
+                  var slicesOfTitle = [];
+                  if (indexOfTitle.length != 0) {
+                    slicesOfTitle.push(mergeIntoSlice(title, 0, title.length, indexOfTitle));
+                  }
+
+                  var slicesOfContent = [];
+                  while (indexOfContent.length != 0) {
+                    var item = indexOfContent[indexOfContent.length - 1];
+                    var position = item.position;
+                    var word = item.word;
+                    // cut out 100 characters
+                    var start = position - 20;
+                    var end = position + 80;
+                    if(start < 0){
+                      start = 0;
+                    }
+                    if (end < position + word.length) {
+                      end = position + word.length;
+                    }
+                    if(end > content.length){
+                      end = content.length;
+                    }
+                    slicesOfContent.push(mergeIntoSlice(content, start, end, indexOfContent));
+                  }
+
+                  // sort slices in content by search text's count and hits' count
+
+                  slicesOfContent.sort(function (sliceLeft, sliceRight) {
+                    if (sliceLeft.searchTextCount !== sliceRight.searchTextCount) {
+                      return sliceRight.searchTextCount - sliceLeft.searchTextCount;
+                    } else if (sliceLeft.hits.length !== sliceRight.hits.length) {
+                      return sliceRight.hits.length - sliceLeft.hits.length;
+                    } else {
+                      return sliceLeft.start - sliceRight.start;
+                    }
+                  });
+
+                  // select top N slices in content
+
+                  var upperBound = parseInt('1');
+                  if (upperBound >= 0) {
+                    slicesOfContent = slicesOfContent.slice(0, upperBound);
+                  }
+
+                  // highlight title and content
+
+                  function highlightKeyword(text, slice) {
+                    var result = '';
+                    var prevEnd = slice.start;
+                    slice.hits.forEach(function (hit) {
+                      result += text.substring(prevEnd, hit.position);
+                      var end = hit.position + hit.length;
+                      result += '<b class="search-keyword">' + text.substring(hit.position, end) + '</b>';
+                      prevEnd = end;
+                    });
+                    result += text.substring(prevEnd, slice.end);
+                    return result;
+                  }
+
+                  var resultItem = '';
+
+                  if (slicesOfTitle.length != 0) {
+                    resultItem += "<li><a href='" + articleUrl + "' class='search-result-title'>" + highlightKeyword(title, slicesOfTitle[0]) + "</a>";
+                  } else {
+                    resultItem += "<li><a href='" + articleUrl + "' class='search-result-title'>" + title + "</a>";
+                  }
+
+                  slicesOfContent.forEach(function (slice) {
+                    resultItem += "<a href='" + articleUrl + "'>" +
+                      "<p class=\"search-result\">" + highlightKeyword(content, slice) +
+                      "...</p>" + "</a>";
+                  });
+
+                  resultItem += "</li>";
+                  resultItems.push({
+                    item: resultItem,
+                    searchTextCount: searchTextCount,
+                    hitCount: hitCount,
+                    id: resultItems.length
+                  });
+                }
+              })
+            };
+            if (keywords.length === 1 && keywords[0] === "") {
+              resultContent.innerHTML = '<div id="no-result"><i class="fa fa-search fa-5x" /></div>'
+            } else if (resultItems.length === 0) {
+              resultContent.innerHTML = '<div id="no-result"><i class="fa fa-frown-o fa-5x" /></div>'
+            } else {
+              resultItems.sort(function (resultLeft, resultRight) {
+                if (resultLeft.searchTextCount !== resultRight.searchTextCount) {
+                  return resultRight.searchTextCount - resultLeft.searchTextCount;
+                } else if (resultLeft.hitCount !== resultRight.hitCount) {
+                  return resultRight.hitCount - resultLeft.hitCount;
+                } else {
+                  return resultRight.id - resultLeft.id;
+                }
+              });
+              var searchResultList = '<ul class=\"search-result-list\">';
+              resultItems.forEach(function (result) {
+                searchResultList += result.item;
+              })
+              searchResultList += "</ul>";
+              resultContent.innerHTML = searchResultList;
+            }
+          }
+
+          if ('auto' === 'auto') {
+            input.addEventListener('input', inputEventFunction);
+          } else {
+            $('.search-icon').click(inputEventFunction);
+            input.addEventListener('keypress', function (event) {
+              if (event.keyCode === 13) {
+                inputEventFunction();
+              }
+            });
+          }
+
+          // remove loading animation
+          $(".local-search-pop-overlay").remove();
+          $('body').css('overflow', '');
+
+          proceedsearch();
+        }
+      });
+    }
+
+    // handle and trigger popup window;
+    $('.popup-trigger').click(function(e) {
+      e.stopPropagation();
+      if (isfetched === false) {
+        searchFunc(path, 'local-search-input', 'local-search-result');
+      } else {
+        proceedsearch();
+      };
+    });
+
+    $('.popup-btn-close').click(onPopupClose);
+    $('.popup').click(function(e){
+      e.stopPropagation();
+    });
+    $(document).on('keyup', function (event) {
+      var shouldDismissSearchPopup = event.which === 27 &&
+        $('.search-popup').is(':visible');
+      if (shouldDismissSearchPopup) {
+        onPopupClose();
+      }
+    });
+  </script>
+
+
+
+
+
+  
+
+  
+
+  
+<script>
+(function(){
+    var bp = document.createElement('script');
+    var curProtocol = window.location.protocol.split(':')[0];
+    if (curProtocol === 'https') {
+        bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';        
+    }
+    else {
+        bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+    }
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(bp, s);
+})();
+</script>
+
+
+  
+  
+  
+  <link rel="stylesheet" href="/lib/needsharebutton/needsharebutton.css">
+
+  
+  
+  <script src="/lib/needsharebutton/needsharebutton.js"></script>
+
+  <script>
+    
+      pbOptions = {};
+      
+          pbOptions.iconStyle = "box";
+      
+          pbOptions.boxForm = "horizontal";
+      
+          pbOptions.position = "bottomCenter";
+      
+          pbOptions.networks = "Weibo,Wechat,Douban,QQZone,Twitter,Facebook";
+      
+      new needShareButton('#needsharebutton-postbottom', pbOptions);
+    
+    
+  </script>
+
+  
+
+  
+
+  
+
+  
+
+<script>(function(w,d, s, id) {w.webpushr=w.webpushr||function(){(w.webpushr.q=w.webpushr.q||[]).push(arguments)};var js, fjs = d.getElementsByTagName(s)[0];js = d.createElement(s); js.id = id;js.src = 'https://cdn.webpushr.com/app.min.js';fjs.parentNode.appendChild(js);}(window,document, 'script', 'webpushr-jssdk'));webpushr('init','BNl1cbjP2-wUqLnc3vrdjhMw4zJrREyhUG00EG4fRxkF2wWAFvFjw4eQQb0GTYLJpRUDKNdaS3s_zX8DWTw6YB8');</script></body>
+</html>

@@ -1,0 +1,1506 @@
+<!DOCTYPE html>
+
+
+
+  
+
+
+<html class="theme-next pisces use-motion" lang="zh-Hans">
+<head>
+  <meta charset="UTF-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+<meta name="theme-color" content="#222">
+
+<script src="http://echarts.baidu.com/dist/echarts.common.min.js"></script>
+
+
+
+
+
+
+
+<meta http-equiv="Cache-Control" content="no-transform" />
+<meta http-equiv="Cache-Control" content="no-siteapp" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  <link href="/lib/fancybox/source/jquery.fancybox.css?v=2.1.5" rel="stylesheet" type="text/css" />
+
+
+
+
+
+
+
+<link href="/lib/font-awesome/css/font-awesome.min.css?v=4.6.2" rel="stylesheet" type="text/css" />
+
+<link href="/css/main.css?v=5.1.4" rel="stylesheet" type="text/css" />
+
+
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon-next.png?v=5.1.4">
+
+
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32-next.png?v=5.1.4">
+
+
+  <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16-next.png?v=5.1.4">
+
+
+  <link rel="mask-icon" href="/images/logo.svg?v=5.1.4" color="#222">
+
+
+
+
+
+  <meta name="keywords" content="去中心化金融,DeFi,区块新看点,原创精文,加密货币,Uniswap,UNI," />
+
+
+
+
+  
+
+
+  <link rel="alternate" href="/atom.xml" title="区块新看点" type="application/atom+xml" />
+
+
+
+
+
+
+<meta name="description" content="那么，Uniswap（DeFi中最重要的协议之一）背后的故事是什么？">
+<meta property="og:type" content="article">
+<meta property="og:title" content="DeFi解释：Uniswap和UNI令牌的简短故事">
+<meta property="og:url" content="https://www.chengwf.com/2020/09/defi-Uniswap-UNI-Token-story.html">
+<meta property="og:site_name" content="区块新看点">
+<meta property="og:description" content="那么，Uniswap（DeFi中最重要的协议之一）背后的故事是什么？">
+<meta property="og:image" content="https://s1.ax1x.com/2020/09/24/0SS7b4.png">
+<meta property="og:image" content="https://s1.ax1x.com/2020/09/24/0SSTrF.png">
+<meta property="og:image" content="https://s1.ax1x.com/2020/09/24/0SSh80.png">
+<meta property="og:image" content="https://s1.ax1x.com/2020/09/24/0SSfCq.png">
+<meta property="og:image" content="https://s1.ax1x.com/2020/09/24/0SS42V.png">
+<meta property="og:image" content="https://chengwf.com/20bc6">
+<meta property="og:image" content="https://s1.ax1x.com/2020/09/24/0SS5vT.png">
+<meta property="og:image" content="https://s1.ax1x.com/2020/08/22/daJPKO.jpg">
+<meta property="article:published_time" content="2020-09-21T16:00:00.000Z">
+<meta property="article:modified_time" content="2020-09-24T06:55:43.861Z">
+<meta property="article:author" content="Block.Chan(程伟)">
+<meta property="article:tag" content="去中心化金融">
+<meta property="article:tag" content="DeFi">
+<meta property="article:tag" content="区块新看点">
+<meta property="article:tag" content="原创精文">
+<meta property="article:tag" content="加密货币">
+<meta property="article:tag" content="Uniswap">
+<meta property="article:tag" content="UNI">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="https://s1.ax1x.com/2020/09/24/0SS7b4.png">
+
+
+
+<script type="text/javascript" id="hexo.configurations">
+  var NexT = window.NexT || {};
+  var CONFIG = {
+    root: '/',
+    scheme: 'Pisces',
+    version: '5.1.4',
+    sidebar: {"position":"left","display":"post","offset":12,"b2t":false,"scrollpercent":false,"onmobile":false},
+    fancybox: true,
+    tabs: true,
+    motion: {"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}},
+    duoshuo: {
+      userId: '0',
+      author: '博主'
+    },
+    algolia: {
+      applicationID: '',
+      apiKey: '',
+      indexName: '',
+      hits: {"per_page":10},
+      labels: {"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}
+    }
+  };
+</script>
+
+
+
+  <link rel="canonical" href="https://www.chengwf.com/2020/09/defi-Uniswap-UNI-Token-story.html"/>
+
+
+
+
+
+  <title>DeFi解释：Uniswap和UNI令牌的简短故事 | 区块新看点</title>
+  
+
+
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+          m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-161769700-1', 'auto');
+  ga('send', 'pageview');
+</script>
+
+
+  <script type="text/javascript">
+    var _hmt = _hmt || [];
+    (function() {
+      var hm = document.createElement("script");
+      hm.src = "https://hm.baidu.com/hm.js?16b17e705b07f8c375f222faa41a469c";
+      var s = document.getElementsByTagName("script")[0];
+      s.parentNode.insertBefore(hm, s);
+    })();
+  </script>
+
+
+
+
+<meta name="generator" content="Hexo 4.2.0"></head>
+
+<body itemscope itemtype="http://schema.org/WebPage" lang="zh-Hans">
+
+  
+  
+    
+  
+
+  <div class="container sidebar-position-left page-post-detail">
+    <div class="headband"></div>
+
+    <header id="header" class="header" itemscope itemtype="http://schema.org/WPHeader">
+      <div class="header-inner"><div class="site-brand-wrapper">
+  <div class="site-meta ">
+    
+
+    <div class="custom-logo-site-title">
+      <a href="/"  class="brand" rel="start">
+        <span class="logo-line-before"><i></i></span>
+        <span class="site-title">区块新看点</span>
+        <span class="logo-line-after"><i></i></span>
+      </a>
+    </div>
+      
+        <h1 class="site-subtitle" itemprop="description">区块链衍生科技领域的资深分析博客</h1>
+      
+  </div>
+
+  <div class="site-nav-toggle">
+    <button>
+      <span class="btn-bar"></span>
+      <span class="btn-bar"></span>
+      <span class="btn-bar"></span>
+    </button>
+  </div>
+</div>
+
+<nav class="site-nav">
+  
+
+  
+    <ul id="menu" class="menu">
+      
+        
+        <li class="menu-item menu-item-home">
+          <a href="/" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-home"></i> <br />
+            
+            首页
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-区块链看点">
+          <a href="/tags/%E5%8C%BA%E5%9D%97%E9%93%BE%E7%9C%8B%E7%82%B9" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-bitcoin"></i> <br />
+            
+            区块链看点
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-原创精文">
+          <a href="/tags/%E5%8E%9F%E5%88%9B%E7%B2%BE%E6%96%87" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-edit"></i> <br />
+            
+            原创精文
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-加密市场行情">
+          <a href="https://chengwf.com/srv" target="_blank" rel="section noopener">
+            
+              <i class="menu-item-icon fa fa-fw fa-delicious"></i> <br />
+            
+            加密市场行情
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-区块链周报">
+          <a href="/tags/%E5%8C%BA%E5%9D%97%E9%93%BE%E5%91%A8%E6%8A%A5/" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-globe"></i> <br />
+            
+            区块链周报
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-数字经济">
+          <a href="/categories/%E6%95%B0%E5%AD%97%E7%BB%8F%E6%B5%8E" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-balance-scale"></i> <br />
+            
+            数字经济
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-defi">
+          <a href="/tags/DeFi/" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-delicious"></i> <br />
+            
+            DeFi
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-区块链产业创新">
+          <a href="/tags/blockchain-Industrial-innovation/" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-anchor"></i> <br />
+            
+            区块链产业创新
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-区块链wiki">
+          <a href="/categories/WIKI/" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-cubes"></i> <br />
+            
+            区块链WIKI
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-视频专区">
+          <a href="/tags/blockchain-video/" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-adn"></i> <br />
+            
+            视频专区
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-tags">
+          <a href="/tags/" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-tags"></i> <br />
+            
+            标签
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-categories">
+          <a href="/categories/" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-sitemap"></i> <br />
+            
+            分类
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-archives">
+          <a href="/archives/" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-folder-open"></i> <br />
+            
+            归档
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-关于本站">
+          <a href="/about/index.html" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-address-card"></i> <br />
+            
+            关于本站
+          </a>
+        </li>
+      
+
+      
+        <li class="menu-item menu-item-search">
+          
+            <a href="javascript:;" class="popup-trigger">
+          
+            
+              <i class="menu-item-icon fa fa-search fa-fw"></i> <br />
+            
+            搜索
+          </a>
+        </li>
+      
+    </ul>
+  
+
+  
+    <div class="site-search">
+      
+  <div class="popup search-popup local-search-popup">
+  <div class="local-search-header clearfix">
+    <span class="search-icon">
+      <i class="fa fa-search"></i>
+    </span>
+    <span class="popup-btn-close">
+      <i class="fa fa-times-circle"></i>
+    </span>
+    <div class="local-search-input-wrapper">
+      <input autocomplete="off"
+             placeholder="搜索..." spellcheck="false"
+             type="text" id="local-search-input">
+    </div>
+  </div>
+  <div id="local-search-result"></div>
+</div>
+
+
+
+    </div>
+  
+</nav>
+
+
+
+ </div>
+    </header>
+
+    <main id="main" class="main">
+      <div class="main-inner">
+        <div class="content-wrap">
+          <div id="content" class="content">
+            
+
+  <div id="posts" class="posts-expand">
+    
+
+  
+
+  
+  
+  
+
+  <article class="post post-type-normal" itemscope itemtype="http://schema.org/Article">
+  
+  
+  
+  <div class="post-block">
+    <link itemprop="mainEntityOfPage" href="https://www.chengwf.com/2020/09/defi-Uniswap-UNI-Token-story.html">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="name" content="Block.Chan(程伟)">
+      <meta itemprop="description" content="">
+      <meta itemprop="image" content="/images/avatar.gif">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="区块新看点">
+    </span>
+
+    
+      <header class="post-header">
+
+        
+        
+          <h2 class="post-title" itemprop="name headline">DeFi解释：Uniswap和UNI令牌的简短故事</h2>
+        
+
+        <div class="post-meta">
+          <span class="post-time">
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-calendar-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">发表于</span>
+              
+              <time title="创建于" itemprop="dateCreated datePublished" datetime="2020-09-22T00:00:00+08:00">
+                2020-09-22
+              </time>
+            
+
+            
+
+            
+          </span>
+
+          
+            <span class="post-category" >
+            
+              <span class="post-meta-divider">|</span>
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-folder-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">分类于</span>
+              
+              
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/" itemprop="url" rel="index">
+                    <span itemprop="name">区块链</span>
+                  </a>
+                </span>
+
+                
+                
+                  ， 
+                
+              
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/" itemprop="url" rel="index">
+                    <span itemprop="name">数字货币</span>
+                  </a>
+                </span>
+
+                
+                
+                  ， 
+                
+              
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/%E4%BB%A5%E5%A4%AA%E5%9D%8A/" itemprop="url" rel="index">
+                    <span itemprop="name">以太坊</span>
+                  </a>
+                </span>
+
+                
+                
+                  ， 
+                
+              
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/%E4%BB%A5%E5%A4%AA%E5%9D%8A/DeFi/" itemprop="url" rel="index">
+                    <span itemprop="name">DeFi</span>
+                  </a>
+                </span>
+
+                
+                
+              
+            </span>
+          
+
+          
+            
+          
+
+          
+          
+
+          
+
+          
+
+          
+              <div class="post-description">
+                  那么，Uniswap（DeFi中最重要的协议之一）背后的故事是什么？
+              </div>
+          
+
+        </div>
+      </header>
+    
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+      
+
+      
+        <p>那么，Uniswap（DeFi中最重要的协议之一）背后的故事是什么？为何UNI令牌可能是有史以来分配最好的令牌之一？您将在本文中找到这些问题的答案。<a id="more"></a></p>
+<p>科普：  <a href="https://www.chengwf.com/2020/09/wiki-uniswap.html">什么是Uniswap？</a></p>
+<hr>
+<h1 id="Uniswap"><a href="#Uniswap" class="headerlink" title="Uniswap"></a>Uniswap</h1><p><br>Uniswap显然是defi空间中最重要，讨论最多的项目之一。Uniswap的核心是在以太坊区块链上进行代币分散交易的协议。Uniswap协议是作为一组智能合约部署的，它是完全去中心化，无权限且不受审查的。</p>
+<p><img src="https://s1.ax1x.com/2020/09/24/0SS7b4.png" alt="0SS7b4.png"></p>
+<p>Uniswap建立在流动资金池和自动化做市商的概念之上，或者确切地说，是固定产品做市商。如果您想了解有关该协议机制的更多信息，请查看我关于以Uniswap为例的流动资金池的文章。您可以在这里阅读。</p>
+<p>回到主要故事。</p>
+<hr>
+<h1 id="Uniswap-V1"><a href="#Uniswap-V1" class="headerlink" title="Uniswap V1"></a><strong>Uniswap V1</strong></h1><p><br>Uniswap的初始版本已于2018年11月2日发布到以太坊主网。这是其创建者Hayden Adams花费了一年多的宝贵时间的结晶。</p>
+<p>有趣的是，以前担任机械工程师的海登在没有任何编程知识的情况下创办了Uniswap。他学习了在Uniswap协议的初始版本上工作时如何编写智能合约。</p>
+<p>实施自动化做市商的最初想法来自海顿的朋友卡尔，他对维塔利克·布特林（Vitalik Buterin）的一篇博文印象深刻，该博文描述了恒定产品做市商背后的理论。</p>
+<p><img src="https://s1.ax1x.com/2020/09/24/0SSTrF.png" alt="0SSTrF.png"></p>
+<p>在构建Uniswap协议的第一个版本时，EtherDelta几乎是唯一具有一定吸引力的去中心化交易所。EtherDelta虽然当时很受欢迎，但它基于订单簿模型，该模型不太适合以太坊等第1层区块链协议。除此之外，EtherDelta的用户体验非常不直观，导致用户体验非常差并且缺乏流动性。</p>
+<p>在优化智能合约并为可能的主网启动做准备的同时，海登申请了以太坊基金会的赠款，该赠款随后于2018年7月被接受。赠款中的钱允许一家名为Runtime Verification的公司审核Uniswap的智能合约。运行时验证的初始审核导致添加了额外的安全检查，并对某些数学运算进行了重新处理，以最大程度地减少了舍入误差。</p>
+<p>最重要的是，正在进行全面的正式验证。在完全启动该协议之前，Hayden决定重建用户界面，以提供更好的用户体验。</p>
+<p>该协议的第一版于Devcon 4会议的最后一天发布，初始价值30000美元的资金可用于3个不同的代币。</p>
+<p>该协议很快吸引了很多人，这导致了最初的种子投资，这使Uniswap的团队可以研究第二版协议。</p>
+<hr>
+<h1 id="Uniswap-V2"><a href="#Uniswap-V2" class="headerlink" title="Uniswap V2"></a><strong>Uniswap V2</strong></h1><p><br>2020年5月，Uniswap推出了该协议的第二个版本，称为Uniswap V2。</p>
+<p><img src="https://s1.ax1x.com/2020/09/24/0SSh80.png" alt="0SSh80.png"></p>
+<p>主要功能是增加了ERC20 / ERC20流动资金池。在V2之前，每个流动资金池必须包含ETH作为货币之一，因此，例如，要从USDC交易到DAI，用户必须将其USDC换成ETH，而ETH换成DAI，这通常会导致更高的汽油费和更多的滑点。</p>
+<p>对于不想提供以太坊并使自己遭受永久损失的流动性提供商而言，提供ERC20 / ERC20资金池也更好。V2还具有其他一些功能，包括链上价格供稿和快速掉期。</p>
+<p><img src="https://s1.ax1x.com/2020/09/24/0SSfCq.png" alt="0SSfCq.png"></p>
+<p>一个有趣的事实是，所有V2智能合约均以Solidity编写。这可以与完全用Vyper编写的V1进行比较。Uniswap V1实际上是完全用Vyper编写的首批项目之一。</p>
+<p>由于其分散和未经许可的性质，该协议的第一个版本仍在一段时间内与V2一起积极使用，无论Uniswap团队鼓励流动性提供者将其流动性迁移到V2都是如此。这也显示了不可阻挡代码的真正力量。</p>
+<p>2020年8月，Uniswap团队从包括安德森·霍洛维茨（Andreessen Horowitz），USV，Paradigm和Version One在内的一些著名风投中筹集了1100万美元。这些资金用于扩大团队规模和构建Uniswap V3，这将大大提高该协议的灵活性和资本效率。</p>
+<hr>
+<h1 id="SushiSwap比赛"><a href="#SushiSwap比赛" class="headerlink" title="SushiSwap比赛"></a><strong>SushiSwap比赛</strong></h1><p><br>2020年5月，随着人们对DeFi的兴趣增加，Uniswap的交易量开始回升。每天的交易量超过100万美元，提供的流动性大约为10-20M美元，这已经变得不寻常了。</p>
+<p>在八月份，随着所有农作物生产热潮的到来，我们预计日交易量约为1.5亿美元，提供的流动资金约为3亿美元，这确实是指数级增长。Uniswap的交易量开始越来越接近顶级集中式交易所的交易量，超过了Kraken等一些最受欢迎的交易所。</p>
+<p><img src="https://s1.ax1x.com/2020/09/24/0SS42V.png" alt="0SS42V.png"></p>
+<p>SushiSwap在8月底也开始发挥作用。SushiSwap的目的是通过分叉该项目，与Uniswap的流动性提供商进行奖励，并最终将Uniswap的流动性窃取到SushiSwap平台中，与Uniswap直接竞争。您可以了解更多关于此过程中，也被称为吸血鬼的攻击，在我的另一篇文章在这里。</p>
+<p>SushiSwap的高产农业导致Uniswap的流动性在几天之内从3亿美元增加到近2B美元。最重要的是，每日交易量在5亿美元至10亿美元之间，在某些时候超过了Coinbase的每日交易量。这是一个了不起的成就，尤其是考虑到Uniswap只有大约10名员工，而Coinbase则有1000多名员工。</p>
+<p>在从Uniswap迁移到SushiSwap的流动性开始之前，Uniswap在SushiSwap平台上仍有大约8亿美元的流动性。这也是Hayden暗示潜在的Uniswap令牌的时候。</p>
+<p>尽管SushiSwap的迁移导致Uniswap的总流动资金从几乎$ 2B降至$ 0.5B，但剩余的流动资金仍比SushiSwap项目甚至开始之前的几周要高。交易量也保持强劲，每天约为300-500M。</p>
+<hr>
+<h1 id="UNI令牌"><a href="#UNI令牌" class="headerlink" title="UNI令牌"></a><strong>UNI令牌</strong></h1><p><br>9月16日，Uniswap宣布推出其新代币UNI。此次发布最令人惊讶的部分是一些代币的追溯分配方式。甚至在9月1日之前使用过Uniswap的每个人都有资格领取他们的400个UNI代币，这些代币在宣布之日价值约1200美元。</p>
+<p><img src="https://chengwf.com/20bc6" alt="0SSoKU.png"></p>
+<p>几天后，UNI代币在集中式和去中心化交易所中活跃交易，代币价格高达8美元，使最初的400 UNI奖励价值约3200美元。UNI令牌已分发到约50,000个以太坊地址，使其成为该空间中分布最广泛的令牌之一。</p>
+<p>最重要的是，该协议的流动性提供者还获得了额外的UNI令牌的追溯奖励。</p>
+<p>通过以下方式分配了总计10亿个UNI令牌。</p>
+<p><img src="https://s1.ax1x.com/2020/09/24/0SS5vT.png" alt="0SS5vT.png"></p>
+<p>四年之后，每年的永久通货膨胀率为2％，以确保Uniswap的持续参与和贡献，而以被动UNI持有者为代价。</p>
+<p>最重要的是，Uniswap宣布了4个激励性流动资金池，这将为流动性提供者提供额外的UNI代币。这导致吸引了数百万美元的新流动资金。在撰写本文时，协议中锁定了超过$ 2B的流动资金。在最初的30天治理宽限期结束后，UNI持有人也可以投票增加更多的激励池。</p>
+<p>通过发布令牌，Uniswap团队希望进一步分散该协议的权力，使其成为公共拥有的，可自我维持的金融基础结构，同时仍继续保护其坚不可摧的自主质量，并致力于Uniswap V3。</p>
+<p>代币持有者将能够通过对不同的提案进行投票或将其投票权委托给第三方来参与Uniswap的治理。</p>
+<p>并且，与几乎所有治理令牌一样，人们对协议与UNI持有者未来潜在的收入份额有很多猜测。</p>
+<p>那么您如何看待Uniswap的UNI令牌及其分发方式？</p>
+<p>延伸阅读：   <a href="https://www.chengwf.com/2020/08/which-swap-best-defi.html">Anyswap、Uniswap或Trustswap：哪种交换协议最适合DeFi用户？</a></p>
+<p><img src="https://s1.ax1x.com/2020/08/22/daJPKO.jpg" alt="daJPKO.jpg"></p>
+<hr>
+<p>声明：<strong>编者在撰写本文时，未购买任何数字货币资产。本文为区块新看点-程伟在15年互联网企业从事管理经验中得出的管理技巧和企业改进观点，希望给所有精英人士一点点的分享交流意见和建议，欢迎前来讨论和给更好的论点，谢谢！转载请注明来源于“区块新看点-行业研究”。</strong></p>
+
+      
+    </div>
+    
+    
+    
+
+    
+      <div>
+        <div id="wechat_subscriber" style="display: block; padding: 10px 0; margin: 20px auto; width: 100%; text-align: center">
+    <img id="wechat_subscriber_qcode" src="/images/wechat-qcode.jpg" alt="Block.Chan(程伟) wechat" style="width: 200px; max-width: 100%;"/>
+    <div>欢迎关注区块新看点</div>
+</div>
+
+      </div>
+    
+
+    
+
+    
+      <div>
+        <ul class="post-copyright">
+  <li class="post-copyright-author">
+    <strong>本文作者：</strong>
+    Block.Chan(程伟)
+  </li>
+  <li class="post-copyright-link">
+    <strong>本文链接：</strong>
+    <a href="https://www.chengwf.com/2020/09/defi-Uniswap-UNI-Token-story.html" title="DeFi解释：Uniswap和UNI令牌的简短故事">https://www.chengwf.com/2020/09/defi-Uniswap-UNI-Token-story.html</a>
+  </li>
+  <li class="post-copyright-license">
+    <strong>版权声明： </strong>
+    本博客所有文章除特别声明外，均采用 <a href="https://chengwf.com/4ih" rel="external nofollow" target="_blank">CC BY-NC-SA 3.0</a> 许可协议。转载请注明出处！
+  </li>
+</ul>
+
+      </div>
+    
+
+    <footer class="post-footer">
+      
+        <div class="post-tags">
+          
+            <a href="/tags/%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%8C%96%E9%87%91%E8%9E%8D/" rel="tag"># 去中心化金融</a>
+          
+            <a href="/tags/DeFi/" rel="tag"># DeFi</a>
+          
+            <a href="/tags/%E5%8C%BA%E5%9D%97%E6%96%B0%E7%9C%8B%E7%82%B9/" rel="tag"># 区块新看点</a>
+          
+            <a href="/tags/%E5%8E%9F%E5%88%9B%E7%B2%BE%E6%96%87/" rel="tag"># 原创精文</a>
+          
+            <a href="/tags/%E5%8A%A0%E5%AF%86%E8%B4%A7%E5%B8%81/" rel="tag"># 加密货币</a>
+          
+            <a href="/tags/Uniswap/" rel="tag"># Uniswap</a>
+          
+            <a href="/tags/UNI/" rel="tag"># UNI</a>
+          
+        </div>
+      
+
+      
+      
+        <div class="post-widgets">
+        
+
+        
+
+        
+          
+          <div id="needsharebutton-postbottom">
+            <span class="btn">
+              <i class="fa fa-share-alt" aria-hidden="true"></i>
+            </span>
+          </div>
+        
+        </div>
+      
+      
+
+      
+        <div class="post-nav">
+          <div class="post-nav-next post-nav-item">
+            
+              <a href="/2020/09/crypro-defi-news-20200921.html" rel="next" title="DeFi‌周‌报(21/9)‌：DeFi该如何持续对抗Fork？">
+                <i class="fa fa-chevron-left"></i> DeFi‌周‌报(21/9)‌：DeFi该如何持续对抗Fork？
+              </a>
+            
+          </div>
+
+          <span class="post-nav-divider"></span>
+
+          <div class="post-nav-prev post-nav-item">
+            
+          </div>
+        </div>
+      
+
+      
+      
+    </footer>
+  </div>
+  
+  
+  
+  </article>
+
+
+
+    <div class="post-spread">
+      
+    </div>
+  </div>
+
+
+          </div>
+          
+
+
+          
+
+  
+
+
+
+        </div>
+        
+          
+  
+  <div class="sidebar-toggle">
+    <div class="sidebar-toggle-line-wrap">
+      <span class="sidebar-toggle-line sidebar-toggle-line-first"></span>
+      <span class="sidebar-toggle-line sidebar-toggle-line-middle"></span>
+      <span class="sidebar-toggle-line sidebar-toggle-line-last"></span>
+    </div>
+  </div>
+
+  <aside id="sidebar" class="sidebar">
+    
+    <div class="sidebar-inner">
+
+      
+
+      
+        <ul class="sidebar-nav motion-element">
+          <li class="sidebar-nav-toc sidebar-nav-active" data-target="post-toc-wrap">
+            文章目录
+          </li>
+          <li class="sidebar-nav-overview" data-target="site-overview-wrap">
+            站点概览
+          </li>
+        </ul>
+      
+
+      <section class="site-overview-wrap sidebar-panel">
+        <div class="site-overview">
+          <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            
+              <img class="site-author-image" itemprop="image"
+                src="/images/avatar.gif"
+                alt="Block.Chan(程伟)" />
+            
+              <p class="site-author-name" itemprop="name">Block.Chan(程伟)</p>
+              <p class="site-description motion-element" itemprop="description"></p>
+          </div>
+
+          <nav class="site-state motion-element">
+
+            
+              <div class="site-state-item site-state-posts">
+              
+                <a href="/archives/%7C%7C%20folder-open">
+              
+                  <span class="site-state-item-count">91</span>
+                  <span class="site-state-item-name">日志</span>
+                </a>
+              </div>
+            
+
+            
+              
+              
+              <div class="site-state-item site-state-categories">
+                <a href="/categories/index.html">
+                  <span class="site-state-item-count">55</span>
+                  <span class="site-state-item-name">分类</span>
+                </a>
+              </div>
+            
+
+            
+              
+              
+              <div class="site-state-item site-state-tags">
+                <a href="/tags/index.html">
+                  <span class="site-state-item-count">184</span>
+                  <span class="site-state-item-name">标签</span>
+                </a>
+              </div>
+            
+
+          </nav>
+
+          
+            <div class="feed-link motion-element">
+              <a href="/atom.xml" rel="alternate">
+                <i class="fa fa-rss"></i>
+                RSS
+              </a>
+            </div>
+          
+
+          
+            <div class="links-of-author motion-element">
+                
+                  <span class="links-of-author-item">
+                    <a href="https://chengwf.com/d9718" target="_blank" title="金色财经">
+                      
+                        <i class="fa fa-fw fa-twitter"></i>金色财经</a>
+                  </span>
+                
+                  <span class="links-of-author-item">
+                    <a href="https://chengwf.com/jez" target="_blank" title="腾讯新闻">
+                      
+                        <i class="fa fa-fw fa-envelope"></i>腾讯新闻</a>
+                  </span>
+                
+                  <span class="links-of-author-item">
+                    <a href="https://chengwf.com/a37a9" target="_blank" title="今日头条">
+                      
+                        <i class="fa fa-fw fa-youtube"></i>今日头条</a>
+                  </span>
+                
+                  <span class="links-of-author-item">
+                    <a href="https://chengwf.com/ca63f" target="_blank" title="百家号">
+                      
+                        <i class="fa fa-fw fa-facebook"></i>百家号</a>
+                  </span>
+                
+                  <span class="links-of-author-item">
+                    <a href="https://chengwf.com/45944" target="_blank" title="知乎专栏">
+                      
+                        <i class="fa fa-fw fa-vk"></i>知乎专栏</a>
+                  </span>
+                
+                  <span class="links-of-author-item">
+                    <a href="https://chengwf.com/1fbd9" target="_blank" title="大鱼号">
+                      
+                        <i class="fa fa-fw fa-stack-overflow"></i>大鱼号</a>
+                  </span>
+                
+                  <span class="links-of-author-item">
+                    <a href="https://chengwf.com/maa" target="_blank" title="新浪微博">
+                      
+                        <i class="fa fa-fw fa-instagram"></i>新浪微博</a>
+                  </span>
+                
+                  <span class="links-of-author-item">
+                    <a href="https://chengwf.com/b1b79" target="_blank" title="链闻">
+                      
+                        <i class="fa fa-fw fa-skype"></i>链闻</a>
+                  </span>
+                
+                  <span class="links-of-author-item">
+                    <a href="https://chengwf.com/4895c" target="_blank" title="星球日报">
+                      
+                        <i class="fa fa-fw fa-certificate"></i>星球日报</a>
+                  </span>
+                
+                  <span class="links-of-author-item">
+                    <a href="https://chengwf.com/9ad6e" target="_blank" title="陀螺财经">
+                      
+                        <i class="fa fa-fw fa-black-tie"></i>陀螺财经</a>
+                  </span>
+                
+                  <span class="links-of-author-item">
+                    <a href="https://chengwf.com/wq5" target="_blank" title="火星财经">
+                      
+                        <i class="fa fa-fw fa-check-circle"></i>火星财经</a>
+                  </span>
+                
+                  <span class="links-of-author-item">
+                    <a href="https://chengwf.com/fc9cc" target="_blank" title="区块链网">
+                      
+                        <i class="fa fa-fw fa-cc-diners-club"></i>区块链网</a>
+                  </span>
+                
+                  <span class="links-of-author-item">
+                    <a href="https://chengwf.com/df98c" target="_blank" title="facebook">
+                      
+                        <i class="fa fa-fw fa-facebook-square"></i>facebook</a>
+                  </span>
+                
+                  <span class="links-of-author-item">
+                    <a href="https://chengwf.com/24a99" target="_blank" title="youTube">
+                      
+                        <i class="fa fa-fw fa-youtube-square"></i>youTube</a>
+                  </span>
+                
+            </div>
+          
+
+          
+          
+
+          
+          
+
+          
+
+        </div>
+      </section>
+
+      
+      <!--noindex-->
+        <section class="post-toc-wrap motion-element sidebar-panel sidebar-panel-active">
+          <div class="post-toc">
+
+            
+              
+            
+
+            
+              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-1"><a class="nav-link" href="#Uniswap"><span class="nav-number">1.</span> <span class="nav-text">Uniswap</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#Uniswap-V1"><span class="nav-number">2.</span> <span class="nav-text">Uniswap V1</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#Uniswap-V2"><span class="nav-number">3.</span> <span class="nav-text">Uniswap V2</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#SushiSwap比赛"><span class="nav-number">4.</span> <span class="nav-text">SushiSwap比赛</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#UNI令牌"><span class="nav-number">5.</span> <span class="nav-text">UNI令牌</span></a></li></ol></div>
+            
+
+          </div>
+        </section>
+      <!--/noindex-->
+      
+
+      
+
+    </div>
+  </aside>
+
+
+        
+      </div>
+    </main>
+
+    <footer id="footer" class="footer">
+      <div class="footer-inner">
+        <div class="copyright">&copy; <span itemprop="copyrightYear">2020</span>
+  <span class="with-love">
+    <i class="fa fa-user"></i>
+  </span>
+  <span class="author" itemprop="copyrightHolder">Block.Chan(程伟)</span>
+
+  
+</div>
+
+<!-- start webpushr tracking code --> 
+<script>(function(w,d, s, id) {if(typeof(w.webpushr)!=='undefined') return;w.webpushr=w.webpushr||function(){(w.webpushr.q=w.webpushr.q||[]).push(arguments)};var js, fjs = d.getElementsByTagName(s)[0];js = d.createElement(s); js.id = id;js.src = "https://cdn.webpushr.com/app.min.js";
+fjs.parentNode.appendChild(js);}(window,document, 'script', 'webpushr-jssdk'));
+webpushr('init','BNl1cbjP2-wUqLnc3vrdjhMw4zJrREyhUG00EG4fRxkF2wWAFvFjw4eQQb0GTYLJpRUDKNdaS3s_zX8DWTw6YB8');</script>
+<!-- end webpushr tracking code -->
+
+
+  <div class="powered-by">由 <a class="theme-link" target="_blank" href="https://www.chengwf.com">区块新看点技术团队</a> 强力驱动</div>
+
+
+
+  <span class="post-meta-divider">|</span>
+
+
+
+  <div class="theme-info">主题 &mdash; <a class="theme-link" target="_blank" href="http://beian.miit.gov.cn/">备案号：粤ICP备16072212号.Pisces</a> v5.1.4</div>
+
+
+
+
+        
+
+
+
+
+
+
+
+        
+      </div>
+    </footer>
+
+    
+      <div class="back-to-top">
+        <i class="fa fa-arrow-up"></i>
+        
+      </div>
+    
+
+    
+
+  </div>
+<!-- start webpushr tracking code --> 
+<script>(function(w,d, s, id) {if(typeof(w.webpushr)!=='undefined') return;w.webpushr=w.webpushr||function(){(w.webpushr.q=w.webpushr.q||[]).push(arguments)};var js, fjs = d.getElementsByTagName(s)[0];js = d.createElement(s); js.id = id;js.src = "https://cdn.webpushr.com/app.min.js";
+fjs.parentNode.appendChild(js);}(window,document, 'script', 'webpushr-jssdk'));
+webpushr('init','BNl1cbjP2-wUqLnc3vrdjhMw4zJrREyhUG00EG4fRxkF2wWAFvFjw4eQQb0GTYLJpRUDKNdaS3s_zX8DWTw6YB8');</script>
+<!-- end webpushr tracking code -->
+  
+
+<script type="text/javascript">
+  if (Object.prototype.toString.call(window.Promise) !== '[object Function]') {
+    window.Promise = null;
+  }
+</script>
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    <script type="text/javascript" src="/lib/jquery/index.js?v=2.1.3"></script>
+  
+
+  
+  
+    <script type="text/javascript" src="/lib/fastclick/lib/fastclick.min.js?v=1.0.6"></script>
+  
+
+  
+  
+    <script type="text/javascript" src="/lib/jquery_lazyload/jquery.lazyload.js?v=1.9.7"></script>
+  
+
+  
+  
+    <script type="text/javascript" src="/lib/velocity/velocity.min.js?v=1.2.1"></script>
+  
+
+  
+  
+    <script type="text/javascript" src="/lib/velocity/velocity.ui.min.js?v=1.2.1"></script>
+  
+
+  
+  
+    <script type="text/javascript" src="/lib/fancybox/source/jquery.fancybox.pack.js?v=2.1.5"></script>
+  
+
+
+  
+
+
+  <script type="text/javascript" src="/js/src/utils.js?v=5.1.4"></script>
+
+  <script type="text/javascript" src="/js/src/motion.js?v=5.1.4"></script>
+
+
+
+  
+  
+
+
+  <script type="text/javascript" src="/js/src/affix.js?v=5.1.4"></script>
+
+  <script type="text/javascript" src="/js/src/schemes/pisces.js?v=5.1.4"></script>
+
+
+
+  
+  <script type="text/javascript" src="/js/src/scrollspy.js?v=5.1.4"></script>
+<script type="text/javascript" src="/js/src/post-details.js?v=5.1.4"></script>
+
+
+
+  
+
+
+  <script type="text/javascript" src="/js/src/bootstrap.js?v=5.1.4"></script>
+
+
+
+  
+
+
+  
+
+
+
+
+	
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  <script type="text/javascript">
+    // Popup Window;
+    var isfetched = false;
+    var isXml = true;
+    // Search DB path;
+    var search_path = "search.xml";
+    if (search_path.length === 0) {
+      search_path = "search.xml";
+    } else if (/json$/i.test(search_path)) {
+      isXml = false;
+    }
+    var path = "/" + search_path;
+    // monitor main search box;
+
+    var onPopupClose = function (e) {
+      $('.popup').hide();
+      $('#local-search-input').val('');
+      $('.search-result-list').remove();
+      $('#no-result').remove();
+      $(".local-search-pop-overlay").remove();
+      $('body').css('overflow', '');
+    }
+
+    function proceedsearch() {
+      $("body")
+        .append('<div class="search-popup-overlay local-search-pop-overlay"></div>')
+        .css('overflow', 'hidden');
+      $('.search-popup-overlay').click(onPopupClose);
+      $('.popup').toggle();
+      var $localSearchInput = $('#local-search-input');
+      $localSearchInput.attr("autocapitalize", "none");
+      $localSearchInput.attr("autocorrect", "off");
+      $localSearchInput.focus();
+    }
+
+    // search function;
+    var searchFunc = function(path, search_id, content_id) {
+      'use strict';
+
+      // start loading animation
+      $("body")
+        .append('<div class="search-popup-overlay local-search-pop-overlay">' +
+          '<div id="search-loading-icon">' +
+          '<i class="fa fa-spinner fa-pulse fa-5x fa-fw"></i>' +
+          '</div>' +
+          '</div>')
+        .css('overflow', 'hidden');
+      $("#search-loading-icon").css('margin', '20% auto 0 auto').css('text-align', 'center');
+
+      $.ajax({
+        url: path,
+        dataType: isXml ? "xml" : "json",
+        async: true,
+        success: function(res) {
+          // get the contents from search data
+          isfetched = true;
+          $('.popup').detach().appendTo('.header-inner');
+          var datas = isXml ? $("entry", res).map(function() {
+            return {
+              title: $("title", this).text(),
+              content: $("content",this).text(),
+              url: $("url" , this).text()
+            };
+          }).get() : res;
+          var input = document.getElementById(search_id);
+          var resultContent = document.getElementById(content_id);
+          var inputEventFunction = function() {
+            var searchText = input.value.trim().toLowerCase();
+            var keywords = searchText.split(/[\s\-]+/);
+            if (keywords.length > 1) {
+              keywords.push(searchText);
+            }
+            var resultItems = [];
+            if (searchText.length > 0) {
+              // perform local searching
+              datas.forEach(function(data) {
+                var isMatch = false;
+                var hitCount = 0;
+                var searchTextCount = 0;
+                var title = data.title.trim();
+                var titleInLowerCase = title.toLowerCase();
+                var content = data.content.trim().replace(/<[^>]+>/g,"");
+                var contentInLowerCase = content.toLowerCase();
+                var articleUrl = decodeURIComponent(data.url);
+                var indexOfTitle = [];
+                var indexOfContent = [];
+                // only match articles with not empty titles
+                if(title != '') {
+                  keywords.forEach(function(keyword) {
+                    function getIndexByWord(word, text, caseSensitive) {
+                      var wordLen = word.length;
+                      if (wordLen === 0) {
+                        return [];
+                      }
+                      var startPosition = 0, position = [], index = [];
+                      if (!caseSensitive) {
+                        text = text.toLowerCase();
+                        word = word.toLowerCase();
+                      }
+                      while ((position = text.indexOf(word, startPosition)) > -1) {
+                        index.push({position: position, word: word});
+                        startPosition = position + wordLen;
+                      }
+                      return index;
+                    }
+
+                    indexOfTitle = indexOfTitle.concat(getIndexByWord(keyword, titleInLowerCase, false));
+                    indexOfContent = indexOfContent.concat(getIndexByWord(keyword, contentInLowerCase, false));
+                  });
+                  if (indexOfTitle.length > 0 || indexOfContent.length > 0) {
+                    isMatch = true;
+                    hitCount = indexOfTitle.length + indexOfContent.length;
+                  }
+                }
+
+                // show search results
+
+                if (isMatch) {
+                  // sort index by position of keyword
+
+                  [indexOfTitle, indexOfContent].forEach(function (index) {
+                    index.sort(function (itemLeft, itemRight) {
+                      if (itemRight.position !== itemLeft.position) {
+                        return itemRight.position - itemLeft.position;
+                      } else {
+                        return itemLeft.word.length - itemRight.word.length;
+                      }
+                    });
+                  });
+
+                  // merge hits into slices
+
+                  function mergeIntoSlice(text, start, end, index) {
+                    var item = index[index.length - 1];
+                    var position = item.position;
+                    var word = item.word;
+                    var hits = [];
+                    var searchTextCountInSlice = 0;
+                    while (position + word.length <= end && index.length != 0) {
+                      if (word === searchText) {
+                        searchTextCountInSlice++;
+                      }
+                      hits.push({position: position, length: word.length});
+                      var wordEnd = position + word.length;
+
+                      // move to next position of hit
+
+                      index.pop();
+                      while (index.length != 0) {
+                        item = index[index.length - 1];
+                        position = item.position;
+                        word = item.word;
+                        if (wordEnd > position) {
+                          index.pop();
+                        } else {
+                          break;
+                        }
+                      }
+                    }
+                    searchTextCount += searchTextCountInSlice;
+                    return {
+                      hits: hits,
+                      start: start,
+                      end: end,
+                      searchTextCount: searchTextCountInSlice
+                    };
+                  }
+
+                  var slicesOfTitle = [];
+                  if (indexOfTitle.length != 0) {
+                    slicesOfTitle.push(mergeIntoSlice(title, 0, title.length, indexOfTitle));
+                  }
+
+                  var slicesOfContent = [];
+                  while (indexOfContent.length != 0) {
+                    var item = indexOfContent[indexOfContent.length - 1];
+                    var position = item.position;
+                    var word = item.word;
+                    // cut out 100 characters
+                    var start = position - 20;
+                    var end = position + 80;
+                    if(start < 0){
+                      start = 0;
+                    }
+                    if (end < position + word.length) {
+                      end = position + word.length;
+                    }
+                    if(end > content.length){
+                      end = content.length;
+                    }
+                    slicesOfContent.push(mergeIntoSlice(content, start, end, indexOfContent));
+                  }
+
+                  // sort slices in content by search text's count and hits' count
+
+                  slicesOfContent.sort(function (sliceLeft, sliceRight) {
+                    if (sliceLeft.searchTextCount !== sliceRight.searchTextCount) {
+                      return sliceRight.searchTextCount - sliceLeft.searchTextCount;
+                    } else if (sliceLeft.hits.length !== sliceRight.hits.length) {
+                      return sliceRight.hits.length - sliceLeft.hits.length;
+                    } else {
+                      return sliceLeft.start - sliceRight.start;
+                    }
+                  });
+
+                  // select top N slices in content
+
+                  var upperBound = parseInt('1');
+                  if (upperBound >= 0) {
+                    slicesOfContent = slicesOfContent.slice(0, upperBound);
+                  }
+
+                  // highlight title and content
+
+                  function highlightKeyword(text, slice) {
+                    var result = '';
+                    var prevEnd = slice.start;
+                    slice.hits.forEach(function (hit) {
+                      result += text.substring(prevEnd, hit.position);
+                      var end = hit.position + hit.length;
+                      result += '<b class="search-keyword">' + text.substring(hit.position, end) + '</b>';
+                      prevEnd = end;
+                    });
+                    result += text.substring(prevEnd, slice.end);
+                    return result;
+                  }
+
+                  var resultItem = '';
+
+                  if (slicesOfTitle.length != 0) {
+                    resultItem += "<li><a href='" + articleUrl + "' class='search-result-title'>" + highlightKeyword(title, slicesOfTitle[0]) + "</a>";
+                  } else {
+                    resultItem += "<li><a href='" + articleUrl + "' class='search-result-title'>" + title + "</a>";
+                  }
+
+                  slicesOfContent.forEach(function (slice) {
+                    resultItem += "<a href='" + articleUrl + "'>" +
+                      "<p class=\"search-result\">" + highlightKeyword(content, slice) +
+                      "...</p>" + "</a>";
+                  });
+
+                  resultItem += "</li>";
+                  resultItems.push({
+                    item: resultItem,
+                    searchTextCount: searchTextCount,
+                    hitCount: hitCount,
+                    id: resultItems.length
+                  });
+                }
+              })
+            };
+            if (keywords.length === 1 && keywords[0] === "") {
+              resultContent.innerHTML = '<div id="no-result"><i class="fa fa-search fa-5x" /></div>'
+            } else if (resultItems.length === 0) {
+              resultContent.innerHTML = '<div id="no-result"><i class="fa fa-frown-o fa-5x" /></div>'
+            } else {
+              resultItems.sort(function (resultLeft, resultRight) {
+                if (resultLeft.searchTextCount !== resultRight.searchTextCount) {
+                  return resultRight.searchTextCount - resultLeft.searchTextCount;
+                } else if (resultLeft.hitCount !== resultRight.hitCount) {
+                  return resultRight.hitCount - resultLeft.hitCount;
+                } else {
+                  return resultRight.id - resultLeft.id;
+                }
+              });
+              var searchResultList = '<ul class=\"search-result-list\">';
+              resultItems.forEach(function (result) {
+                searchResultList += result.item;
+              })
+              searchResultList += "</ul>";
+              resultContent.innerHTML = searchResultList;
+            }
+          }
+
+          if ('auto' === 'auto') {
+            input.addEventListener('input', inputEventFunction);
+          } else {
+            $('.search-icon').click(inputEventFunction);
+            input.addEventListener('keypress', function (event) {
+              if (event.keyCode === 13) {
+                inputEventFunction();
+              }
+            });
+          }
+
+          // remove loading animation
+          $(".local-search-pop-overlay").remove();
+          $('body').css('overflow', '');
+
+          proceedsearch();
+        }
+      });
+    }
+
+    // handle and trigger popup window;
+    $('.popup-trigger').click(function(e) {
+      e.stopPropagation();
+      if (isfetched === false) {
+        searchFunc(path, 'local-search-input', 'local-search-result');
+      } else {
+        proceedsearch();
+      };
+    });
+
+    $('.popup-btn-close').click(onPopupClose);
+    $('.popup').click(function(e){
+      e.stopPropagation();
+    });
+    $(document).on('keyup', function (event) {
+      var shouldDismissSearchPopup = event.which === 27 &&
+        $('.search-popup').is(':visible');
+      if (shouldDismissSearchPopup) {
+        onPopupClose();
+      }
+    });
+  </script>
+
+
+
+
+
+  
+
+  
+
+  
+<script>
+(function(){
+    var bp = document.createElement('script');
+    var curProtocol = window.location.protocol.split(':')[0];
+    if (curProtocol === 'https') {
+        bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';        
+    }
+    else {
+        bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+    }
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(bp, s);
+})();
+</script>
+
+
+  
+  
+  
+  <link rel="stylesheet" href="/lib/needsharebutton/needsharebutton.css">
+
+  
+  
+  <script src="/lib/needsharebutton/needsharebutton.js"></script>
+
+  <script>
+    
+      pbOptions = {};
+      
+          pbOptions.iconStyle = "box";
+      
+          pbOptions.boxForm = "horizontal";
+      
+          pbOptions.position = "bottomCenter";
+      
+          pbOptions.networks = "Weibo,Wechat,Douban,QQZone,Twitter,Facebook";
+      
+      new needShareButton('#needsharebutton-postbottom', pbOptions);
+    
+    
+  </script>
+
+  
+
+  
+
+  
+
+  
+
+<script>(function(w,d, s, id) {w.webpushr=w.webpushr||function(){(w.webpushr.q=w.webpushr.q||[]).push(arguments)};var js, fjs = d.getElementsByTagName(s)[0];js = d.createElement(s); js.id = id;js.src = 'https://cdn.webpushr.com/app.min.js';fjs.parentNode.appendChild(js);}(window,document, 'script', 'webpushr-jssdk'));webpushr('init','BNl1cbjP2-wUqLnc3vrdjhMw4zJrREyhUG00EG4fRxkF2wWAFvFjw4eQQb0GTYLJpRUDKNdaS3s_zX8DWTw6YB8');</script></body>
+</html>

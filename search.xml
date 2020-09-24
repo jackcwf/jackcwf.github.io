@@ -1,6 +1,207 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>DeFi解释：Uniswap和UNI令牌的简短故事</title>
+    <url>/2020/09/defi-Uniswap-UNI-Token-story.html</url>
+    <content><![CDATA[<p>那么，Uniswap（DeFi中最重要的协议之一）背后的故事是什么？为何UNI令牌可能是有史以来分配最好的令牌之一？您将在本文中找到这些问题的答案。<a id="more"></a></p>
+<p>科普：  <a href="https://www.chengwf.com/2020/09/wiki-uniswap.html">什么是Uniswap？</a></p>
+<hr>
+<h1 id="Uniswap"><a href="#Uniswap" class="headerlink" title="Uniswap"></a>Uniswap</h1><p><br>Uniswap显然是defi空间中最重要，讨论最多的项目之一。Uniswap的核心是在以太坊区块链上进行代币分散交易的协议。Uniswap协议是作为一组智能合约部署的，它是完全去中心化，无权限且不受审查的。</p>
+<p><img src="https://s1.ax1x.com/2020/09/24/0SS7b4.png" alt="0SS7b4.png"></p>
+<p>Uniswap建立在流动资金池和自动化做市商的概念之上，或者确切地说，是固定产品做市商。如果您想了解有关该协议机制的更多信息，请查看我关于以Uniswap为例的流动资金池的文章。您可以在这里阅读。</p>
+<p>回到主要故事。</p>
+<hr>
+<h1 id="Uniswap-V1"><a href="#Uniswap-V1" class="headerlink" title="Uniswap V1"></a><strong>Uniswap V1</strong></h1><p><br>Uniswap的初始版本已于2018年11月2日发布到以太坊主网。这是其创建者Hayden Adams花费了一年多的宝贵时间的结晶。</p>
+<p>有趣的是，以前担任机械工程师的海登在没有任何编程知识的情况下创办了Uniswap。他学习了在Uniswap协议的初始版本上工作时如何编写智能合约。</p>
+<p>实施自动化做市商的最初想法来自海顿的朋友卡尔，他对维塔利克·布特林（Vitalik Buterin）的一篇博文印象深刻，该博文描述了恒定产品做市商背后的理论。</p>
+<p><img src="https://s1.ax1x.com/2020/09/24/0SSTrF.png" alt="0SSTrF.png"></p>
+<p>在构建Uniswap协议的第一个版本时，EtherDelta几乎是唯一具有一定吸引力的去中心化交易所。EtherDelta虽然当时很受欢迎，但它基于订单簿模型，该模型不太适合以太坊等第1层区块链协议。除此之外，EtherDelta的用户体验非常不直观，导致用户体验非常差并且缺乏流动性。</p>
+<p>在优化智能合约并为可能的主网启动做准备的同时，海登申请了以太坊基金会的赠款，该赠款随后于2018年7月被接受。赠款中的钱允许一家名为Runtime Verification的公司审核Uniswap的智能合约。运行时验证的初始审核导致添加了额外的安全检查，并对某些数学运算进行了重新处理，以最大程度地减少了舍入误差。</p>
+<p>最重要的是，正在进行全面的正式验证。在完全启动该协议之前，Hayden决定重建用户界面，以提供更好的用户体验。</p>
+<p>该协议的第一版于Devcon 4会议的最后一天发布，初始价值30000美元的资金可用于3个不同的代币。</p>
+<p>该协议很快吸引了很多人，这导致了最初的种子投资，这使Uniswap的团队可以研究第二版协议。</p>
+<hr>
+<h1 id="Uniswap-V2"><a href="#Uniswap-V2" class="headerlink" title="Uniswap V2"></a><strong>Uniswap V2</strong></h1><p><br>2020年5月，Uniswap推出了该协议的第二个版本，称为Uniswap V2。</p>
+<p><img src="https://s1.ax1x.com/2020/09/24/0SSh80.png" alt="0SSh80.png"></p>
+<p>主要功能是增加了ERC20 / ERC20流动资金池。在V2之前，每个流动资金池必须包含ETH作为货币之一，因此，例如，要从USDC交易到DAI，用户必须将其USDC换成ETH，而ETH换成DAI，这通常会导致更高的汽油费和更多的滑点。</p>
+<p>对于不想提供以太坊并使自己遭受永久损失的流动性提供商而言，提供ERC20 / ERC20资金池也更好。V2还具有其他一些功能，包括链上价格供稿和快速掉期。</p>
+<p><img src="https://s1.ax1x.com/2020/09/24/0SSfCq.png" alt="0SSfCq.png"></p>
+<p>一个有趣的事实是，所有V2智能合约均以Solidity编写。这可以与完全用Vyper编写的V1进行比较。Uniswap V1实际上是完全用Vyper编写的首批项目之一。</p>
+<p>由于其分散和未经许可的性质，该协议的第一个版本仍在一段时间内与V2一起积极使用，无论Uniswap团队鼓励流动性提供者将其流动性迁移到V2都是如此。这也显示了不可阻挡代码的真正力量。</p>
+<p>2020年8月，Uniswap团队从包括安德森·霍洛维茨（Andreessen Horowitz），USV，Paradigm和Version One在内的一些著名风投中筹集了1100万美元。这些资金用于扩大团队规模和构建Uniswap V3，这将大大提高该协议的灵活性和资本效率。</p>
+<hr>
+<h1 id="SushiSwap比赛"><a href="#SushiSwap比赛" class="headerlink" title="SushiSwap比赛"></a><strong>SushiSwap比赛</strong></h1><p><br>2020年5月，随着人们对DeFi的兴趣增加，Uniswap的交易量开始回升。每天的交易量超过100万美元，提供的流动性大约为10-20M美元，这已经变得不寻常了。</p>
+<p>在八月份，随着所有农作物生产热潮的到来，我们预计日交易量约为1.5亿美元，提供的流动资金约为3亿美元，这确实是指数级增长。Uniswap的交易量开始越来越接近顶级集中式交易所的交易量，超过了Kraken等一些最受欢迎的交易所。</p>
+<p><img src="https://s1.ax1x.com/2020/09/24/0SS42V.png" alt="0SS42V.png"></p>
+<p>SushiSwap在8月底也开始发挥作用。SushiSwap的目的是通过分叉该项目，与Uniswap的流动性提供商进行奖励，并最终将Uniswap的流动性窃取到SushiSwap平台中，与Uniswap直接竞争。您可以了解更多关于此过程中，也被称为吸血鬼的攻击，在我的另一篇文章在这里。</p>
+<p>SushiSwap的高产农业导致Uniswap的流动性在几天之内从3亿美元增加到近2B美元。最重要的是，每日交易量在5亿美元至10亿美元之间，在某些时候超过了Coinbase的每日交易量。这是一个了不起的成就，尤其是考虑到Uniswap只有大约10名员工，而Coinbase则有1000多名员工。</p>
+<p>在从Uniswap迁移到SushiSwap的流动性开始之前，Uniswap在SushiSwap平台上仍有大约8亿美元的流动性。这也是Hayden暗示潜在的Uniswap令牌的时候。</p>
+<p>尽管SushiSwap的迁移导致Uniswap的总流动资金从几乎$ 2B降至$ 0.5B，但剩余的流动资金仍比SushiSwap项目甚至开始之前的几周要高。交易量也保持强劲，每天约为300-500M。</p>
+<hr>
+<h1 id="UNI令牌"><a href="#UNI令牌" class="headerlink" title="UNI令牌"></a><strong>UNI令牌</strong></h1><p><br>9月16日，Uniswap宣布推出其新代币UNI。此次发布最令人惊讶的部分是一些代币的追溯分配方式。甚至在9月1日之前使用过Uniswap的每个人都有资格领取他们的400个UNI代币，这些代币在宣布之日价值约1200美元。</p>
+<p><img src="https://chengwf.com/20bc6" alt="0SSoKU.png"></p>
+<p>几天后，UNI代币在集中式和去中心化交易所中活跃交易，代币价格高达8美元，使最初的400 UNI奖励价值约3200美元。UNI令牌已分发到约50,000个以太坊地址，使其成为该空间中分布最广泛的令牌之一。</p>
+<p>最重要的是，该协议的流动性提供者还获得了额外的UNI令牌的追溯奖励。</p>
+<p>通过以下方式分配了总计10亿个UNI令牌。</p>
+<p><img src="https://s1.ax1x.com/2020/09/24/0SS5vT.png" alt="0SS5vT.png"></p>
+<p>四年之后，每年的永久通货膨胀率为2％，以确保Uniswap的持续参与和贡献，而以被动UNI持有者为代价。</p>
+<p>最重要的是，Uniswap宣布了4个激励性流动资金池，这将为流动性提供者提供额外的UNI代币。这导致吸引了数百万美元的新流动资金。在撰写本文时，协议中锁定了超过$ 2B的流动资金。在最初的30天治理宽限期结束后，UNI持有人也可以投票增加更多的激励池。</p>
+<p>通过发布令牌，Uniswap团队希望进一步分散该协议的权力，使其成为公共拥有的，可自我维持的金融基础结构，同时仍继续保护其坚不可摧的自主质量，并致力于Uniswap V3。</p>
+<p>代币持有者将能够通过对不同的提案进行投票或将其投票权委托给第三方来参与Uniswap的治理。</p>
+<p>并且，与几乎所有治理令牌一样，人们对协议与UNI持有者未来潜在的收入份额有很多猜测。</p>
+<p>那么您如何看待Uniswap的UNI令牌及其分发方式？</p>
+<p>延伸阅读：   <a href="https://www.chengwf.com/2020/08/which-swap-best-defi.html">Anyswap、Uniswap或Trustswap：哪种交换协议最适合DeFi用户？</a></p>
+<p><img src="https://s1.ax1x.com/2020/08/22/daJPKO.jpg" alt="daJPKO.jpg"></p>
+<hr>
+<p>声明：<strong>编者在撰写本文时，未购买任何数字货币资产。本文为区块新看点-程伟在15年互联网企业从事管理经验中得出的管理技巧和企业改进观点，希望给所有精英人士一点点的分享交流意见和建议，欢迎前来讨论和给更好的论点，谢谢！转载请注明来源于“区块新看点-行业研究”。</strong></p>
+]]></content>
+      <categories>
+        <category>区块链</category>
+        <category>数字货币</category>
+        <category>以太坊</category>
+        <category>DeFi</category>
+      </categories>
+      <tags>
+        <tag>去中心化金融</tag>
+        <tag>DeFi</tag>
+        <tag>区块新看点</tag>
+        <tag>原创精文</tag>
+        <tag>加密货币</tag>
+        <tag>Uniswap</tag>
+        <tag>UNI</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>DeFi‌周‌报(21/9)‌：DeFi该如何持续对抗Fork？</title>
+    <url>/2020/09/crypro-defi-news-20200921.html</url>
+    <content><![CDATA[<p>亲爱的数字货币、比特币、以太坊、DeFi 爱好者们：<a id="more"></a></p>
+<p>本周Uniswap宣布其治理代币 UNI 的发行！并慷慨的发放400 UNI给所有老用户，也让Uniswap锁仓量来到历史新高的1.8 B。此外，其治理方式也引起讨论，必须有1% UNI才能发起治理提案。另一个受到Fork威胁的AMM项目Curve也透过支付治理行政费反击Fork项目Swerve。本周观点我们就来聊聊DeFi该如何面对这猖獗的Fork风暴。</p>
+<p>本周大老观点我们看到Set 的Anthony Sassano 对DeFi 空投的全新诠释；Bankless 倡议者Ryan Adams 再次提及DeFi 项目和传统科技公司的差异；还有我们的Andre Cronje 大神呼吁大家不要让你的UNI治理权睡着了，可以授权给他为你参与治理！</p>
+<h1 id="什么是DeFi？"><a href="#什么是DeFi？" class="headerlink" title="什么是DeFi？"></a><strong>什么是DeFi？</strong></h1><p><br><strong>DeFi（Decentralized Finance）</strong>是指去中心化的金融服务。简单来说，同样是金融服务，但以分散管理权、资讯透明、基于区块链的方式经营，解决传统金融产业交易速度慢、成本高、易遭骇客攻击、且会被国家或组织滥用等问题。目前的DeFi服务已经有借贷、合成资产、衍生性产品甚至独有的闪电贷服务。</p>
+<p>区块新看点-编者推荐科普：<a href="https://www.chengwf.com/2020/06/wiki-DeFi-index.html">什么是去中心化金融（DeFi）？</a></p>
+<p><img src="https://chengwf.com/97ed8" alt="wzO03D.jpg"></p>
+<h1 id="一、区块新看点的观点"><a href="#一、区块新看点的观点" class="headerlink" title="一、区块新看点的观点"></a>一、区块新看点的观点</h1><p><strong>1、Uniswap 王者归来，但DeFi 该如何持续对抗Fork？</strong></p>
+<ul>
+<li><strong>Uniswap vs ShushiSwap</strong></li>
+</ul>
+<p>在 Uniswap 的新治理模型与治理型代币UNI推出后，不但让Uniswap夺回 Fork项目SushiSwap 偷走的版面，伴随空投而来的UNI也在48小时内价格翻近三倍，而最重要的是Uniswap总锁仓量快速冲回DeFi/DEX龙头，为DeFi社群夺回正义(原创)必胜的精神。然而，我们仍不能将代币空投视为Fork的解方，Fork项目将持续地发生，尤其是在区块链开源环境下。</p>
+<p>延伸阅读：<a href="https://www.chengwf.com/2020/09/wiki-uniswap.html">DeFi的新潮流：什么是Uniswap？</a></p>
+<p><img src="https://s1.ax1x.com/2020/09/24/wzODjH.png" alt="wzODjH.png"></p>
+<center><font color="acacac" size=2>Sushiswap分叉了Uniswap</font></center>
+
+
+
+<ul>
+<li><strong>我们如何看待Fork</strong></li>
+</ul>
+<p>事实上，在传统商业界，创意搬运、挪用本来就是常有的事。像是Samsung参考Apple的智慧型手机、Instagram参考Snapchat的限时讯息等等。在开源的DeFi环境中搬运更加容易了，Ctrl+C/V就能搬走世界级工程师长时间的心血，我们甚至该疑惑为何SushiSwap事件到现在才发生。有了Sushi的先河，我们可以想像“ <strong>Fork抗性</strong> ”将是未来DeFi项目开发最重要的一环了。我们总不能期待新的项目都要准备代币空投来面对未来的Fork危机。</p>
+<p><strong>2、DeFi 项目如何具有“Fork 抗性”</strong></p>
+<ul>
+<li><strong>内在解方</strong></li>
+</ul>
+<p>Fork 对项目方最大的伤害可能有：1.夺走使用者和流动性2. 抢先与大平台整合3. 优化版Fork 夺走特定用户群等等。在程式与服务设计上防止Fork 的机制可能有：提高社群体验以增加黏着度、打造可信赖的团队声望、与真实世界项目整合以增加Fork 困难度等等。如果Fork 真的难以避免，那么不如我们换个想法，在程式码中给予Fork 项目主动与原项目整合的诱因，如可以共用TVL 、Fork 项目收益分配导回原项目等，那么即使未来项目被Fork，却可以能使项目越来越强大！</p>
+<ul>
+<li><strong>外在解方</strong></li>
+</ul>
+<p>事实上，区块链上的Fork 就像真实世界的智慧财产抄袭一样，只是以太坊上没有机制约束他们——但现在没有，难道未来就不会有吗？我们猜想，既然项目可以透过代币治理，那区块链本身是否也可以治理。未来以太坊将会有PoS 机制，透过抵押(Stake) 以太币就可以挖矿，那是否也可以透过抵押取得投票权，并投票决定是否让抄袭者的项目继续运行下去，或是对其惩罚像是手续费加倍之类的。或是更理理想主义一点——将保护著作权的规则写入区块链中？自动侦测重复性过高的智能合约，并提高其部署门槛或要求其提供更多资讯才能部署等。当然这些规则都可以经过投票决定和调整。</p>
+<p><strong>总结：</strong></p>
+<p>以上是我们对区块链未来发展的猜想和建议，而回到现在，开源仍是DeFi 和区块链生态系的特色和传统，它让开发者可以更加容易的整合与进步，但SushiSwap 却向社群展示了其伴随着被Fork 的风险。我们认为，DeFi 项目必须将Fork 视为新的常态，并从一开始就考虑加入“Fork 抗性”，而区块链也必须发展出更加保护开发者的链上治理机制。</p>
+<hr>
+<h1 id="二、本周大事记"><a href="#二、本周大事记" class="headerlink" title="二、本周大事记"></a>二、本周大事记</h1><br>
+
+<p><strong>✨ 本周头条</strong></p>
+<ul>
+<li><strong>Uniswap 发布治理型代币UNI，初始铸造量10 亿枚</strong></li>
+</ul>
+<p>去中心化交易所Uniswap 现已发布治理代币UNI。UNI 初始铸造量为10 亿枚，其中60％ 将分配给Uniswap 社区成员，21.51% 将分配给团队成员，17.80％ 将分配给投资者，0.69% 将分配给顾问。其中，总供应量的15% 已空投给使用过的用户和流动性提供者，一人分配得400 UNI。</p>
+<ul>
+<li><strong>Uniswap 公布治理参数和UNI 持有者拥有的治理权</strong></li>
+</ul>
+<p>去中心化交易所Uniswap 治理协议即日起已生效，治理代币UNI 持有者拥有的治理权包括Uniswap 治理权、UNI 社区金库控制权、协议费用转换等等。治理参数包含：持有1% 以上UNI 可提出改进案、每项改进案须4% 赞同票以上方可通过、改进案为期七天等等。</p>
+<ul>
+<li><strong>Andre Cronje 发起Uniswap 治理权集资</strong></li>
+</ul>
+<p>由于治理参数规定须持有1% (100 万颗) UNI 才能提出改进案，yearn 创办人Andre Cronje 在yuni.finance 提出他的募资计划，希望大众如果有HODL 的UNI 能够将治理权交付给他。这种交付无须锁仓，可以随时领回UNI。</p>
+<ul>
+<li><strong>Curve 支付治理行政费(Admin Fee)，狠甩复制版协议Swerve</strong></li>
+</ul>
+<p>为了提高治理参与率，去中心化稳定币交换平台Curve 在今天开始了治理行政费(Admin Fee) 的分发，将原先的交易手续费0.04% 分出50% 给持有veCRV 的治理参与者。CRV 的持有者可以在DAO 的页面，选择锁定CRV 已获得治理投票权veCRV。</p>
+<br>
+**DeFi 协议**
+
+<ul>
+<li>Hakka.Finance 发布结合Fomo 3D 模型的去中心化保险产品3F Mutual</li>
+<li>Yam Finance 已开始迁移至YAM v3</li>
+<li>yearn.finance 将推出WBTC Vault</li>
+<li>动态自动造市商creamY 即将上线</li>
+<li>去中心化借贷协议bZx 现已恢复借贷池</li>
+<li>链上期权协议Opyn 上线UNI 看跌期权</li>
+</ul>
+<br>
+
+<p><strong>稳定币</strong></p>
+<p>风投基金Blockchain Capital 加入Libra 协会</p>
+<br>
+
+<p><strong>跨链</strong></p>
+<ul>
+<li>Solana 数字钱包Sollet 打通ERC20 与SPL 连接桥</li>
+<li>跨链DeFi 协议Kava 于9 月21 日发布跨链货币市场Harvest v1 测试网</li>
+<li>区块链服务网络BSN 将集成公链Algorand、ShareRing 和Solana</li>
+<li>日本社交通讯巨头LINE 启动虚拟货币LN 奖励计划</li>
+</ul>
+<br>
+
+<p><strong>融资</strong></p>
+<ul>
+<li>基于Polkadot 的DEX Polkastarter 获NGC 等87.5 万美元的种子及私募轮融资</li>
+<li>去中心化交易聚合平台ParaSwap 完成270 万美元种子轮融资，CoinGecko 参投</li>
+</ul>
+<hr>
+<h1 id="三、大佬观点"><a href="#三、大佬观点" class="headerlink" title="三、大佬观点"></a>三、大佬观点</h1><ol>
+<li><strong>Anthony Sassano (Set Protocol)：</strong>DeFi空投就像发全民基本收入给那些根本不需要的人</li>
+<li><strong>Ryan Sean Adams (Bankless)：</strong>Google不会发GOOG给搜寻者；Amazon不会发AMZN给买书的人；而Uniswap会发行UNI给使用的人</li>
+<li><strong>Andre Cronje (Yearn Finanace)：</strong>如果你不打算卖掉UNI，也没有要参与治理，那不如让我当你的代理人吧</li>
+</ol>
+<hr>
+<h1 id="四、数据统计"><a href="#四、数据统计" class="headerlink" title="四、数据统计"></a><strong>四、数据统计</strong></h1><p><em>本周数据采计自2020/9/15 ~ 9/21。TVL（Total Value Locked）指有多少价值（美元）储存在该平台中；IPY（Interest Per Year）为当下借出资金\</em> 借出年利息，即平台一年利息收益。数据来源：DeFi Pulse，CoinGecko。（单位：百万美元）*</p>
+<p><img src="https://s1.ax1x.com/2020/09/24/wzOw9O.jpg" alt="wzOw9O.jpg"></p>
+<center><font color="acacac" size=2>DeFi 总指标</font></center>
+
+
+
+<p><img src="https://s1.ax1x.com/2020/09/24/wzOUN6.jpg" alt="wzOUN6.jpg"></p>
+<center><font color="acacac" size=2>借贷平台规模</font></center>
+
+
+
+<p><img src="https://s1.ax1x.com/2020/09/24/wzOa4K.jpg" alt="wzOa4K.jpg"></p>
+<center><font color="acacac" size=2>DEX 规模</font></center>
+
+
+
+<p><img src="https://s1.ax1x.com/2020/08/22/daJPKO.jpg" alt="daJPKO.jpg"></p>
+<p><strong>免责声明:</strong></p>
+<p>作者所表达的观点和意见仅供参考，不构成财务、投资或其他建议。</p>
+<p><strong>声明：</strong>编者在撰写本文时，未购买任何数字货币资产。本文为区块新看点-程伟在15年互联网企业从事管理经验中得出的管理技巧和企业改进观点，希望给所有精英人士一点点的分享交流意见和建议，欢迎前来讨论和给更好的论点，谢谢！转载请注明来源于“区块新看点-行业研究”。</p>
+]]></content>
+      <categories>
+        <category>区块链</category>
+        <category>数字货币</category>
+        <category>以太坊</category>
+        <category>以太坊，DeFi</category>
+      </categories>
+      <tags>
+        <tag>以太坊</tag>
+        <tag>区块链周报</tag>
+        <tag>比特币</tag>
+        <tag>DeFi</tag>
+        <tag>区块新看点</tag>
+        <tag>加密货币</tag>
+        <tag>Fork</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>可编程货币：如何改变我们的整个价值转移体验</title>
     <url>/2020/09/programmable-money-crypto-tokens.html</url>
     <content><![CDATA[<blockquote>
