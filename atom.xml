@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.chengwf.com/"/>
-  <updated>2020-09-24T06:55:43.861Z</updated>
+  <updated>2020-10-17T07:20:48.528Z</updated>
   <id>https://www.chengwf.com/</id>
   
   <author>
@@ -15,6 +15,41 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>区块链游戏：经济模型的模式转变</title>
+    <link href="https://www.chengwf.com/2020/10/blockchain-game-eco-change.html"/>
+    <id>https://www.chengwf.com/2020/10/blockchain-game-eco-change.html</id>
+    <published>2020-10-14T16:00:00.000Z</published>
+    <updated>2020-10-17T07:20:48.528Z</updated>
+    
+    <content type="html"><![CDATA[<p>一个游戏媒介平台，已经主导了整个游戏行业。近51%的全球游戏市场来自移动终端设备。预计到2021年，手机游戏收入将增长到1000亿美元。如今，手机游戏开发商从应用商店（付费应用）或游戏内交易支付30%的佣金。<a id="more"></a></p><p>相比之下，区块链游戏和收藏品是一个具有独特经济模式的商机市场。区块链中数字资产游戏和收藏品的一个突出催化剂是：CryptoKitties（加密猫，或称“数字猫”）。2017年ETH网络推出，整个游戏范围围绕着加密猫的收集、繁殖和拍卖，这为玩家创造了一种新型的经济模型：新型的游戏资产创造和出售给其他玩家，这种游戏资产被定义为不可替代的数字货币。</p><p><img src="https://s1.ax1x.com/2020/10/17/0Le9HI.jpg" alt="0Le9HI.jpg"></p><p>2018年，CryptoKitties最昂贵的资产售价超过17万美元。结果，很多人都忙于繁殖和销售加密猫，受欢迎程度达到了以太坊网络由于事务过载而大幅放缓的程度。</p><p>如今，CryptoKitties已经成为“KittyVerse”的一个更大的部分，KittyVerse是一个由几个游戏开发商组成的CryptoKitties的扩展领域。因此，在这个游戏中，每个人都可以更好地利用kitties游戏中的一些资源（例如：kitties和其他一些游戏）。</p><hr><h1 id="1、区块链游戏经济模型"><a href="#1、区块链游戏经济模型" class="headerlink" title="1、区块链游戏经济模型"></a>1、区块链游戏经济模型</h1><br/><p>自从CryptoKitties的发展以来，许多基于区块链技术和网格的游戏得到空前发展，并开始显示出未来潜力的迹象。到目前为止，在多个平台上已有750多个基于区块链的游戏和可收藏DAPP，来源：dapp.review。</p><p>区块链游戏开发商在公开发售间和游戏发布后，将其游戏资产实行货币化，从每笔数字资产交易中收取一小部分费用或版税（如下图1所示），从而为游戏开发商提供了更好的将其创作物货币化的能力。</p><p><img src="https://s1.ax1x.com/2020/10/17/0LZ67q.png" alt="0LZ67q.png"></p><p>自由转移资产的可能性使得基于区块链的游戏比基于web2的游戏更受欢迎。在集中式游戏中，玩家可能会损失数年的辛苦工作，从账户黑客、取消游戏或集中决策等获得稀有资产。</p><p>相比之下，区块链为玩家的收藏品或数字资产提供安全性、防篡改的所有权记录，并实现跨游戏资产转移。此外，它还为玩家提供了一个选择，让他们在二级市场上将自己的资产或财产货币化。</p><hr><h1 id="2、区块链游戏思想的现状"><a href="#2、区块链游戏思想的现状" class="headerlink" title="2、区块链游戏思想的现状"></a>2、区块链游戏思想的现状</h1><br/><p>尽管区块链游戏有着巨大的好处，但它还没有取得巨大的飞跃。</p><p><strong>原因是：目前**</strong>游戏之间缺乏可解释性**。尽管来自同一网络的基于区块链的数字资产（如游戏/可收藏）具有互操作性，但游戏开发商却不愿意利用这一功能。</p><p><strong>为什么？</strong>大多数游戏开发者一旦建立起他们的观众群，就把他们关在封闭的墙里，以免失去他们。在游戏之间拥有任何类型的价值和资产的可转让性都可能使他们的观众面临风险，同时，他们也有可能失去游戏内的交易经济，并在没有控制的情况下将其变量传播到自由开放的市场经济体中。</p><p>因此，大多数开发商将其经济回报限制在游戏内购买或活动上。这使得整个游戏生态系统孤立于1到2个游戏中。让我们看看下面的分析，以便更好地理解它。</p><hr><h1 id="3、游戏生态系统的分析"><a href="#3、游戏生态系统的分析" class="headerlink" title="3、游戏生态系统的分析"></a>3、游戏生态系统的分析</h1><br/><p>基于以太坊区块链上使用标准ERC-721的项目，2019年上半年，每周有近12000多个地址使用至少一个dApp游戏进行交易。尽管活跃用户数量在2019年上半年增加了70%，但在2019年上半年分析的14个项目列表中，90.77%的玩家只玩过一款区块链游戏。</p><p><strong>这表明加密游戏或者NFT社区是相互隔离的。</strong>我的加密英雄拥有最高活跃用户（或玩家）是迄今为止最“孤立”的项目，93%的玩家没有玩任何其他区块链游戏。资料来源：NonFungible。</p><p>为了扩展区块链游戏生态系统，我们希望游戏dApp的用户尝试更广泛的应用。除了CryptoKitties之外，几乎所有项目与其他项目的普通用户比例都不到10%。</p><hr><h1 id="4、我们能做些什么"><a href="#4、我们能做些什么" class="headerlink" title="4、我们能做些什么"></a>4、我们能做些什么</h1><br/><p>区块链要求NFT代币采用新的代币标准，允许开发者设定许可费，实现跨平台使用。这样开发者就可以在自由市场上控制游戏的经济回报，并创造出进一步的发展途径。</p><p>nearprotocol使协议级别的版税打破了开发人员的隔离。在NEAR协议上构建的开发者可以直接设置一个开发者费用百分比，在调用他们的智能合约时，除了交易费用之外还要收取这个百分比。</p><p>这开启了一整套基于专利权和许可的自动化商业模式，这些模式以前在区块链应用程序上实施起来非常困难。由于无法控制变量的问题，现在项目（开发人员）可以相互合作和协作，以在其他游戏应用程序中创建其资产的效用。</p><p><img src="https://chengwf.com/0v5" alt="0LZgA0.jpg"></p><p>例如，让我们挑选两款活跃用户群最高的区块链游戏：CryptoKitties和MyCryptoHeroes，构建它们的数字资产，以便在彼此平台上进行交互。</p><p>例如，CryptoKitties可以加入MyCryptoHeros游戏中的战斗任务，并通过训练生产出一种特殊的CryptoKitties面包，一只忍者小猫。这样的功能不仅会增加开发者的收入，也会增加用户的参与度和尝试其他应用的热情。</p><p>除了提高开发人员的盈利机会，NEAR protocol还简化了用户的UX。考虑到在dapp中导航的复杂性，开发人员主要将加密（或区块链）社区作为其应用程序采用者。</p><p>近协议简化了应用程序的使用，允许开发人员（或企业家）将他们的视野扩展到广泛的客户角色，如加密新手。实现方法如下：</p><p>它让用户免费使用分散式应用程序（Dapp），就像他们尝试其他应用程序一样。开发人员可以为他们预付交易费用，这样他们的用户就不必担心如何获得加密令牌来开始使用应用程序。</p><p>此外，它允许用户只需注册一个电子邮件地址和密码。一旦用户准备好升级其帐户的安全性，应用程序就可以安全自动地将访问密钥转移到用户的帐户。用户可以创建独特的帐户系统使用其钱包，这是人类可读的名称。</p><p>由于区块链机制在后台无声运行，用户可以通过近期的dapp体验平稳的入职和参与过程，类似于体验Facebook或Instagram等应用程序。</p><p>对于考虑开发基于区块链的产品的初创企业来说，他们可以利用开放网络集体的加速器计划来推出成功的产品。通过成为加速器项目的一部分，初创企业可以利用开放网络集体的庞大社区和利基行业的顾问，为他们的商业模式建立秘密的调料。</p><p>该基金会采用精益启动方法，帮助初创企业定义价值主张，目标客户个性，并容易建立MVP，以验证市场上的理想可取性。这一机制确保了产品的成功上市，故障率最低。</p><p><strong>- 结论 -</strong></p><p><strong>区块链游戏刚刚出现，显然需要对其基础层（或协议）进行进一步的研究，以使其能被更广泛的主流用户/开发者社区使用。NEAR protocol通过提供轻松的跨游戏资产利用率和更好的用户体验（UX），有助于重塑区块链游戏生态系统，从而实现之前未被现有区块链协议锁定的目标。</strong></p><p><img src="https://s1.ax1x.com/2020/08/22/daJPKO.jpg" alt="daJPKO.jpg"></p><hr><p>声明：<strong>编者在撰写本文时，未购买任何数字货币资产。本文为区块新看点-程伟在15年互联网企业从事管理经验中得出的管理技巧和企业改进观点，希望给所有精英人士一点点的分享交流意见和建议，欢迎前来讨论和给更好的论点，谢谢！转载请注明来源于“区块新看点-行业研究”。</strong></p>]]></content>
+    
+    <summary type="html">
+    
+      区块链游戏和收藏品是一个具有独特经济模式的商机市场。
+    
+    </summary>
+    
+    
+      <category term="区块链" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/"/>
+    
+    
+      <category term="区块链" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE/"/>
+    
+      <category term="区块新看点" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E6%96%B0%E7%9C%8B%E7%82%B9/"/>
+    
+      <category term="原创精文" scheme="https://www.chengwf.com/tags/%E5%8E%9F%E5%88%9B%E7%B2%BE%E6%96%87/"/>
+    
+      <category term="CryptoKitties" scheme="https://www.chengwf.com/tags/CryptoKitties/"/>
+    
+      <category term="加密猫" scheme="https://www.chengwf.com/tags/%E5%8A%A0%E5%AF%86%E7%8C%AB/"/>
+    
+      <category term="区块链游戏" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE%E6%B8%B8%E6%88%8F/"/>
+    
+      <category term="经济模型" scheme="https://www.chengwf.com/tags/%E7%BB%8F%E6%B5%8E%E6%A8%A1%E5%9E%8B/"/>
+    
+  </entry>
   
   <entry>
     <title>DeFi解释：Uniswap和UNI令牌的简短故事</title>
@@ -796,41 +831,6 @@
       <category term="Dapp" scheme="https://www.chengwf.com/tags/Dapp/"/>
     
       <category term="区块链金融创新" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE%E9%87%91%E8%9E%8D%E5%88%9B%E6%96%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>互联工作者：数字化转型如何塑造行业的未来</title>
-    <link href="https://www.chengwf.com/2020/08/Data-digitization-industry-transformation.html"/>
-    <id>https://www.chengwf.com/2020/08/Data-digitization-industry-transformation.html</id>
-    <published>2020-07-31T16:00:00.000Z</published>
-    <updated>2020-08-04T08:51:16.546Z</updated>
-    
-    <content type="html"><![CDATA[<p><strong>一、前言：</strong></p><p>数字化转型已颠覆了全球范围内的业务，任何行业都无法避免其强大的影响。<a id="more"></a></p><p>新技术和增强的客户体验是投资数字化转型的公司的主要驱动力，但是优先考虑这一转变的最重要原因是，它将使他们能够利用全新的增长机会。</p><p>但是，随着数字化转型的速度以惊人的速度加快，公司需要快速适应其工作环境以跟上发展的步伐。本文揭示了互联工作者的起源，并探索了跨行业互联设备的潜在应用。</p><p><img src="https://chengwf.com/a5230" alt="aBSMLt.jpg"></p><center><font color="acacac" size=2>Connected Workers</font></center><hr><h2 id="二、举例：制造业的数字化转型概述"><a href="#二、举例：制造业的数字化转型概述" class="headerlink" title="二、举例：制造业的数字化转型概述"></a>二、举例：制造业的数字化转型概述</h2><p>数字化转型会企业从根本上改头换面。随着企业对各类创新技术的采用以及对不同资质人才的聘用，新型的数字化工厂正悄然引领制造业的转型，并推动着制造业的中心迈向高度定制化的产品和系统。</p><p>领先的制造型企业正采用一系列的先进技术实现生产乃至整条供应链的数字化。这些技术包括大数据分析解决方案、端至端的实时规划和互联、自控系统、数字孪生等。凭借这些技术，效率得以提升，企业能够批量生产高度定制化的产品。然而，想要完全发挥出数字化的潜力，企业仍需要与主要供应商和大客户实时互联。</p><p>作为在电子商务和电子支付领域内全球公认的数字化领先者，中国在制造业领域内对数字化的应用却仍处于起步阶段。尽管“中国制造2025”战略的颁布为产业变革注入了强心针、突显了战略紧迫性，但只有在企业大胆拥抱数字化的情况下才能取得实质性的进展，并产生深远影响。</p><p><img src="https://s1.ax1x.com/2020/08/04/aBSmzd.png" alt="aBSmzd.png"></p><center><font color="acacac" size=2>数字化转型</font></center><p>在朝着数字化转型的道路上大步前行时，思略特从此次“数字化工厂2020 — 欧洲数字化工厂高管调研”中梳理出的关键发现以及提出的数字化工厂蓝图，将协助企业规避实施中的风险，成功达成既定的目标。</p><hr><h2 id="三、互联工作者的崛起"><a href="#三、互联工作者的崛起" class="headerlink" title="三、互联工作者的崛起"></a>三、互联工作者的崛起</h2><p>智能设备的大量采用引发了远程工作的新潮流。据估计，这种工作安排每年将为全球经济注入4,410亿美元，并在2029年之前节省250万吨二氧化碳，相当于纽约和伦敦之间的1,280趟航班。（下图1所示）</p><p><img src="https://s1.ax1x.com/2020/08/04/aBSGFS.jpg" alt="aBSGFS.jpg"></p><center><font color="acacac" size=2>图1。资料来源：Regus</font></center><p>但是，根据行业的不同，灵活的工作方式或远程工作方式也有所不同。例如，在诸如工程或制造之类的商业服务的背景下，使用数字技术远程执行不同任务的员工被称为互联员工。</p><p>该术语并非千篇一律，因为存在许多不同类型的，具有不同角色的互联工人，例如：（如下图2）</p><p><strong>A）操作员：</strong>为实时响应工作系统提供支持的人</p><p><strong>B）现场工人：</strong>使用移动可访问的图表连接到通信和协作平台的线路，全时段无间断以获取信息和支持</p><p><strong>C）工程师：</strong>实时了解生产和维护的关键性能指标</p><p><strong>D）管理人员：</strong>利用数据创造效益，推动战略创新，加强决策</p><p><img src="https://s1.ax1x.com/2020/08/04/aBS3o8.jpg" alt="aBS3o8.jpg"></p><center><font color="acacac" size=2>图2：互联工作者的性质</font></center><p>但是，无论个人头衔如何，每位互联的工作者在实现数字化转型中都扮演着至关重要的角色。</p><hr><h2 id="四、实时数据，实时收益"><a href="#四、实时数据，实时收益" class="headerlink" title="四、实时数据，实时收益"></a>四、实时数据，实时收益</h2><p>当工作者实时连接到资产时，他们可以做出更好，更明智的决策，最终使总体上成为更有效率的劳动力。结果，行业可以释放出大量利益，例如：（如下图3）</p><p>A）<strong>减少人为错误</strong></p><p>B）<strong>提高生产力</strong></p><p>C）<strong>减少危险事件</strong></p><p>D）<strong>提高工作者的安全</strong></p><p>E）<strong>节省时间和金钱</strong></p><p>F）<strong>7*24：监控资产</strong></p><p><img src="https://s1.ax1x.com/2020/08/04/aBSKsI.jpg" alt="aBSKsI.jpg"></p><center><font color="acacac" size=2>图3：互联工作者的效益</font></center><p>互联工人可以提高行业潜力，而他们用来实现这些好处的工具对于他们的成功至关重要。</p><hr><h2 id="五、互联工作者的技术"><a href="#五、互联工作者的技术" class="headerlink" title="五、互联工作者的技术"></a>五、互联工作者的技术</h2><p>连接的设备具有通过Internet与其他设备和系统连接的能力。联网的工作人员设备市场将在未来两年内快速增长，到2039年将达到43亿美元。石油和天然气，化工生产和建筑等行业在采用联网的工作人员技术方面处于领先地位，其中包括：（图4）</p><p>A）<strong>平台：</strong>使用人工智能和数据来允许工程师创建定制应用程序并远程控制制造过程的硬件或软件</p><p>B）<strong>接口：</strong>3D数字孪生之类的技术可实现对等信息共享。它们还会对周围环境产生沉浸式的反射，否则，工人将无法接触到周围环境，例如风力涡轮机叶片</p><p>C）<strong>智能传感器和物联网设备：</strong>监视资产的传感器可实时更全面地概述工业流程并防止发生危险事件</p><p>D）<strong>云和边缘计算：</strong>使用云可使工作人员彼此通信并更有效地管理共享数据</p><p><img src="https://s1.ax1x.com/2020/08/04/aBSleP.jpg" alt="aBSleP.jpg"></p><center><font color="acacac" size=2>图4</font></center><p>随着时间的流逝，连接的设备变得越来越智能，并扩展了其功能。此外，诸如可穿戴设备之类的设备比以往任何时候都更加谨慎，甚至可以嵌入个人防护设备中以收集数据，同时保持不干扰。</p><hr><h2 id="六、实际应用"><a href="#六、实际应用" class="headerlink" title="六、实际应用"></a>六、实际应用</h2><p>这些设备具有无穷的潜力，能够为数十个行业的不断挑战提供解决方案。</p><p>楼宇维护和管理设施经理可以访问实时信息并与现场维护人员联系，以快速解决问题。建筑人员还可以通过连接的技术访问文档和远程帮助。</p><p>A）<strong>楼宇维护和管理</strong></p><p>任务管理采矿等工业环境中的操作员可以控制远程位置的活动。他们还可以使现场人员与其他位置的专家联系。</p><p><img src="https://s1.ax1x.com/2020/08/04/aBSZJe.jpg" alt="aBSZJe.jpg"></p><p>B）<strong>任务管理</strong></p><p>通讯平台基于云的通讯平台可以为医疗从业人员提供与患者，患者家庭和急救人员联系的工具。</p><p><img src="https://s1.ax1x.com/2020/08/04/aBSeRH.jpg" alt="aBSeRH.jpg"></p><p>C）<strong>通讯平台</strong></p><p>通过利用人工智能，物联网和分析的力量，互联的工人可以继续革新全球的企业和行业。</p><p><img src="https://s1.ax1x.com/2020/08/04/aBSViD.jpg" alt="aBSViD.jpg"></p><hr><h2 id="结语：走向更加互联的未来"><a href="#结语：走向更加互联的未来" class="headerlink" title="结语：走向更加互联的未来"></a>结语：走向更加互联的未来</h2><p>随着公司应对COVID-19的挑战，实施互联的工作者技术和创建数据驱动的工作环境可能很快会变得越来越重要。</p><p>数字化转型不仅对于利用新的增长机会进行规模扩展至关重要，而且对于确定某些企业和行业的未来可能至关重要。</p>]]></content>
-    
-    <summary type="html">
-    
-      新技术和增强的客户体验是投资数字化转型的公司的主要驱动力，但是优先考虑这一转变的最重要原因是，它将使他们能够利用全新的增长机会。
-    
-    </summary>
-    
-    
-      <category term="数字经济" scheme="https://www.chengwf.com/categories/%E6%95%B0%E5%AD%97%E7%BB%8F%E6%B5%8E/"/>
-    
-      <category term="数字经济" scheme="https://www.chengwf.com/categories/%E6%95%B0%E5%AD%97%E7%BB%8F%E6%B5%8E/%E6%95%B0%E5%AD%97%E7%BB%8F%E6%B5%8E/"/>
-    
-      <category term="数字化管理" scheme="https://www.chengwf.com/categories/%E6%95%B0%E5%AD%97%E7%BB%8F%E6%B5%8E/%E6%95%B0%E5%AD%97%E7%BB%8F%E6%B5%8E/%E6%95%B0%E5%AD%97%E5%8C%96%E7%AE%A1%E7%90%86/"/>
-    
-    
-      <category term="区块新看点" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E6%96%B0%E7%9C%8B%E7%82%B9/"/>
-    
-      <category term="数字化" scheme="https://www.chengwf.com/tags/%E6%95%B0%E5%AD%97%E5%8C%96/"/>
-    
-      <category term="大数据" scheme="https://www.chengwf.com/tags/%E5%A4%A7%E6%95%B0%E6%8D%AE/"/>
-    
-      <category term="数字化转型" scheme="https://www.chengwf.com/tags/%E6%95%B0%E5%AD%97%E5%8C%96%E8%BD%AC%E5%9E%8B/"/>
-    
-      <category term="互联工作者" scheme="https://www.chengwf.com/tags/%E4%BA%92%E8%81%94%E5%B7%A5%E4%BD%9C%E8%80%85/"/>
     
   </entry>
   
