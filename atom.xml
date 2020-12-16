@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.chengwf.com/"/>
-  <updated>2020-10-17T07:20:48.528Z</updated>
+  <updated>2020-12-16T10:49:33.600Z</updated>
   <id>https://www.chengwf.com/</id>
   
   <author>
@@ -15,6 +15,45 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>企业比特币资产配置热潮兴起，企业如何设定比特币密钥管理制度？</title>
+    <link href="https://www.chengwf.com/2020/12/company-bitcoin-key-protect.html"/>
+    <id>https://www.chengwf.com/2020/12/company-bitcoin-key-protect.html</id>
+    <published>2020-12-09T16:00:00.000Z</published>
+    <updated>2020-12-16T10:49:33.600Z</updated>
+    
+    <content type="html"><![CDATA[<p>公司使用比特币作为新型主要储备资产，已成为2020年的热门话题。在撰写本文时，区块新看点据调研发现世界公司持有的比特币占其总供应量4％，为什么这成为趋势？<a id="more"></a></p><p><a href="https://imgchr.com/i/r1eDOO" target="_blank" rel="noopener"><img src="https://chengwf.com/4b2fa" alt="r1eDOO.jpg"></a></p><p>公司司库的工作是保护国库券的价值。如果您的国债处于法定状态，那么您可以确定它只会随着时间的流逝而失去价值。</p><p>企业比特币宝库并不是什么新鲜事物，至少对于以比特币赚钱的公司而言。多年来，许多商人只是简单地将比特币添加为结帐选项并将其用作支付工具-自动将资金转换为法定货币以保护自己免受波动风险的影响-专注于比特币的公司往往由长期信奉者经营多头，并将他们提供的商品和服务视为获取更多比特币的另一种方式。</p><p>从历史上讲，长期将国库保存在比特币中的组织受益匪浅。WikiLeaks可能是最突出的例子之一，其升值幅度超过50,000％。</p><p><a href="https://imgchr.com/i/r1eB6K" target="_blank" rel="noopener"><img src="https://s3.ax1x.com/2020/12/16/r1eB6K.jpg" alt="r1eB6K.jpg"></a></p><p>伴随着潜在回报的是新型风险。复杂的攻击者将尝试获取对数字载体资产的访问权，无论它们是由个人还是由公司持有。我们将继续看到针对组织的越来越复杂的鱼叉式钓鱼和社会工程攻击。</p><p>企业比特币库房将要处理大量资金，并且必须注意消除单点故障，甚至防止内部攻击。一个经过深思熟虑的密钥管理体系结构是第一步，尽管它还必须与协议和流程结合在一起，以确保管理密钥的人员不会被精明的社会工程师所欺骗。</p><h3 id="卡萨的公司库房"><a href="#卡萨的公司库房" class="headerlink" title="卡萨的公司库房"></a>卡萨的公司库房</h3><p>许多大公司正在使用受信任的第三方托管人来保护其比特币。如果您将脚趾浸入水中也许可以这样做，但从长远来看，这样做是冒险的，并且违背了整个生态系统的精神。我们想阐明如何管理Casa Casa团队的公司资金。</p><p>自2018年开放以来，Casa已接受比特币付款，没有任何中间商-我们运行自己的BTCPay服务器，该服务器直接集成到我们的后端基础架构中。该服务器管理一个仅用于监视付款的钱包；网上没有私钥可供黑客窃取。而是将私钥保存在专用硬件上，该硬件用于定期将资金从该单一签名钱包中清除到我们的公司财资多重签名钱包中。</p><p>在Casa，我们吃自己的狗食-也就是说，我们的公司资金库钱包是Diamond级别的多用户账户，其中有3 of 5 multisig设置。每个钥匙都由不同的Casa员工持有。当一名员工创建提议的交易并对其进行签名时，他们必须遵循既定的安全程序，要求其他两位密钥持有人签名。这些持有人中的每个人都必须通过端到端的加密通信通道来验证交易的详细信息，并通过安全的视频通话强烈地验证请求签名的员工的身份。</p><p>Casa何时使用其比特币？极少出现-我们认为它是储备资产，仅应在严峻情况下清算，以帮助我们度过艰难时期。少花钱也可以简化我们的会计费用。</p><h3 id="您的企业库房"><a href="#您的企业库房" class="headerlink" title="您的企业库房"></a>您的企业库房</h3><p>公司应了解，托管风险是数字载体资产的真正问题，因此无需承担风险。虽然将比特币与可信赖的第三方保持在一起可以保护您免受法定通货膨胀风险的困扰，但您却放弃了对系统风险的保护。</p><p>与大型金融组织可能代表投资者行事以管理其资产不同，公司库房不受《投资公司法》中合格监护权规则的约束，因为它们不是财务顾问。自我保管无疑是公司国库券的交易对象！</p><p>不幸的是，我怀疑大多数未在比特币经济中运营的公司由于缺乏先进性，并且可能是由于发生任何错误而希望由第三方负责，因此他们没有掌握自己的密钥。</p><h3 id="公司应如何进行私钥管理？"><a href="#公司应如何进行私钥管理？" class="headerlink" title="公司应如何进行私钥管理？"></a>公司应如何进行私钥管理？</h3><p>需要做出哪些高层决策？</p><ul><li>谁是关键持有人？</li><li>您将如何生成密钥？</li><li>您将如何使用这些密钥创建钱包？</li><li>要求什么签署法定人数？</li><li>密钥持有者将如何存储和保护他们的密钥？</li><li>密钥持有者用密钥签名有什么要求？</li><li>密钥持有人如何强烈验证签名请求？</li><li>处理泄露密钥的协议是什么？</li><li>添加/删除密钥持有者的程序是什么？</li></ul><p>在设计公司资金管理解决方案的整个过程中，您将要确保不要插入任何潜在的单点故障，这些点可能会导致花钱的攻击者失去资金或失去获得资金的机会。防止任何人花钱。您将在安全性不足和安全性过高之间走一个好的界限。</p><p><img src="https://s1.ax1x.com/2020/08/22/daJPKO.jpg" alt="daJPKO.jpg"></p><hr><p>声明：<strong>编者在撰写本文时，未购买任何数字货币资产。本文为区块新看点-程伟在15年互联网企业从事管理经验中得出的管理技巧和企业改进观点，希望给所有精英人士一点点的分享交流意见和建议，欢迎前来讨论和给更好的论点，谢谢！转载请注明来源于“区块新看点-行业研究”。</strong></p>]]></content>
+    
+    <summary type="html">
+    
+      公司使用比特币作为新型主要储备资产，已成为2020年的热门话题。
+    
+    </summary>
+    
+    
+      <category term="区块链" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/"/>
+    
+      <category term="数字货币" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/"/>
+    
+      <category term="比特币" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/%E6%AF%94%E7%89%B9%E5%B8%81/"/>
+    
+    
+      <category term="比特币" scheme="https://www.chengwf.com/tags/%E6%AF%94%E7%89%B9%E5%B8%81/"/>
+    
+      <category term="区块新看点" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E6%96%B0%E7%9C%8B%E7%82%B9/"/>
+    
+      <category term="数字货币" scheme="https://www.chengwf.com/tags/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/"/>
+    
+      <category term="原创精文" scheme="https://www.chengwf.com/tags/%E5%8E%9F%E5%88%9B%E7%B2%BE%E6%96%87/"/>
+    
+      <category term="比特币资产" scheme="https://www.chengwf.com/tags/%E6%AF%94%E7%89%B9%E5%B8%81%E8%B5%84%E4%BA%A7/"/>
+    
+      <category term="企业资产配置" scheme="https://www.chengwf.com/tags/%E4%BC%81%E4%B8%9A%E8%B5%84%E4%BA%A7%E9%85%8D%E7%BD%AE/"/>
+    
+      <category term="比特币钥匙" scheme="https://www.chengwf.com/tags/%E6%AF%94%E7%89%B9%E5%B8%81%E9%92%A5%E5%8C%99/"/>
+    
+  </entry>
   
   <entry>
     <title>区块链游戏：经济模型的模式转变</title>
@@ -790,47 +829,6 @@
       <category term="ERC-20" scheme="https://www.chengwf.com/tags/ERC-20/"/>
     
       <category term="ERC-721" scheme="https://www.chengwf.com/tags/ERC-721/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>DeFi的爆炸，以太坊新高光时刻，区块链金融创新的新时代来临</title>
-    <link href="https://www.chengwf.com/2020/08/Ethereum-Highlights-BlockChain-Financial-innovation.html"/>
-    <id>https://www.chengwf.com/2020/08/Ethereum-Highlights-BlockChain-Financial-innovation.html</id>
-    <published>2020-08-02T16:00:00.000Z</published>
-    <updated>2020-08-05T02:52:09.191Z</updated>
-    
-    <content type="html"><![CDATA[<p><strong>区块新看点-加密资产研究师-程伟，调查了2020年以太坊拉力赛背后的主要驱动力。</strong></p><p>本周，以太坊的价格达到了2020年的历史高点，超过320美元（下图1）。是的，这比2017年末ICO繁荣时期的价格要低得多，但仍有一些重要原因。<a id="more"></a></p><p>以太坊从2020年开始，主要受到两方面的影响。以太坊DeFi应用程序的可用性和交易量激增，以太坊2.0即将发布。</p><p><strong>延伸阅读：<a href="http://www.chengwf.com/2020/06/cryptocurrency-redefining-future-of-finance.html">DeFi：不止是加密货币，更是一种重新定义未来金融的新趋势</a></strong></p><p><img src="https://s1.ax1x.com/2020/08/05/arJwBd.jpg" alt="arJwBd.jpg"></p><center><font color="acacac" size=2>图1：以太坊2019年10月至今的走势</font></center><h1 id="1、以太坊有它的杀手级应用"><a href="#1、以太坊有它的杀手级应用" class="headerlink" title="1、以太坊有它的杀手级应用"></a>1、以太坊有它的杀手级应用</h1><br/><p>所有操作系统都是通过引入杀手级应用程序来启动的。互联网上有色情、盗版音乐和电影，有助于找到大众接受的道路。移动设备有愤怒的小鸟和社交媒体。</p><p>以太坊是一个操作系统。因此，它一直在等待它的杀手级应用程序的到来，这将把用户数量推上月球，并帮助将这项技术置于区块链运动的前沿。</p><p>有些人会争辩说，这些创新已经以智能合约的形式出现，并具备了启动分散应用程序（dapp）的能力。但也有人认为，这些发展虽然非常有用，但仍为世界上极少数人口所理解和利用。</p><hr><h1 id="2、DeFi杀手级Dapps"><a href="#2、DeFi杀手级Dapps" class="headerlink" title="2、DeFi杀手级Dapps"></a>2、DeFi杀手级Dapps</h1><br/><p>以太坊价格上涨的第一个推动力是不断膨胀的以太坊DeFi空间。自2020年5月以来，DeFi协议的总价值增加了近4倍，达到37.5亿美元。排名靠前的DeFi-dapp，如Compound、Maker、Aave、Synthetix和Curve Finance，自2020年6月中旬以来，用户数量都出现了大幅增长。用户似乎很快就开始使用新的协议和金融产品，这些产品带来了可观的收益。</p><blockquote><p><strong>延伸阅读：</strong><a href="https://www.chengwf.com/2020/07/DeFi-Dapp-pop.html"><strong>7月DeFi最受欢迎的Dapp（区块新看点）</strong></a></p></blockquote><br/><p><strong>但是他们是使用者还是鲸鱼？</strong></p><p>在Ilya Abugov最近的一篇文章中，DappRadar强调了一个事实，即TVL或Total Value Locked，这是一个在许多方面都存在缺陷的标准度量。事实上，该报告显示，仅30个钱包就占到了供应量的67%和Compound借贷量的75%（下图2）。</p><p>因此，虽然有些人很快就报告了DeFi空间的“用户爆炸”，但考虑鲸鱼用户的活动是至关重要的。</p><p><img src="https://s1.ax1x.com/2020/08/05/arJ0HA.jpg" alt="arJ0HA.jpg"></p><center><font color="acacac" size=2>图2</font></center><p>目前，他们仍然是这场运动的推动力。但是，只要有钱赚，就会有早期用户和更有经验的用户紧随其后。</p><p>在历史上，人们的注意力转向了金融独立，区块链和DeFi教育材料随处可见。德菲似乎符合条件。毕竟，人们为什么不被这种能力所吸引呢？他们可以拿来之不易的钱，把它转换成像美元一样稳定的硬币，然后通过DeFi平台获得4%以上的利息呢？</p><p>因为正如所有美好事物一样，也有风险和代价要考虑。</p><hr><h1 id="3、以太坊DeFi有一个瓶颈"><a href="#3、以太坊DeFi有一个瓶颈" class="headerlink" title="3、以太坊DeFi有一个瓶颈"></a>3、以太坊DeFi有一个瓶颈</h1><br/><p>DeFi空间以如此之快的速度扩张，以至于成为其所在基础设施的牺牲品。简单地说，以太坊网络正在努力跟上它所创造的需求。</p><p>当人们使用以太坊DeFi平台时，他们需要以交易和智能合约的形式发送数据。在大多数情况下，他们还必须利用分散式交易所（DEX）进行代币购买。这些操作都会导致更多的使用，速度变慢，并增加以太坊的成本。</p><p>在过去的一个月里，以太坊区块链网络已经完全饱和。随着网络速度放缓，用户需要支付更高的gas费用或交易费来处理支付和智能合约。</p><p><img src="https://s1.ax1x.com/2020/08/05/arJDAI.jpg" alt="arJDAI.jpg"></p><center><font color="acacac" size=2>图3：2020年前3个季度的钱包活跃量</font></center><hr><h1 id="4、以游戏为代价"><a href="#4、以游戏为代价" class="headerlink" title="4、以游戏为代价"></a>4、以游戏为代价</h1><br/><p>一般来说，你希望你的交易保存得越快，你需要付出的gas就越多。这通常不是问题，因为以太坊的平均阻塞时间不到20秒。但随着以太坊上活动的增加，需要存储的事务越来越多，每个块中的空间也就这么大了。</p><p>为了解决这个问题，gas免费增加了。在这方面上，gas作为优先过滤系统。如果你想把100万美元的以太币或是把价值10万美元的BAT锁在MakerDAO钱包里，付10美元的gas费用不是什么大不了的事。</p><p>然而，如果你想为你最喜欢的游戏购买一个价值10美元的角色，或者每月花费20美元订阅游戏，那么10美元的费用是一笔巨大的额外成本。</p><p>DeFi的爆炸是有代价的。过去几个月，以太坊失去了大部分游戏用户，这些用户要么转向运行在另一个区块链上的同一游戏版本，要么完全停止使用dapp。（下图4）</p><p><img src="https://s1.ax1x.com/2020/08/05/arJrNt.jpg" alt="arJrNt.jpg"></p><center><font color="acacac" size=2>图4：以太坊和非以太坊游戏的每日活动</font></center><hr><h1 id="5、以太坊2-0的来临"><a href="#5、以太坊2-0的来临" class="headerlink" title="5、以太坊2.0的来临"></a>5、以太坊2.0的来临</h1><br/><p>以太坊2.0的到来应该可以解决之前提到的许多问题。在2020年，特别是在第二季度，围绕着这次发射的炒作越来越多。</p><p>以太坊2.0的推出可能是一个直接的价格催化剂，特别是在我们接近2020年底的时候。以太坊开发者，由Afri Schoedon领导者表示：<strong>以太坊2.0的正式测试网发布将于2020年8月4日开始。人们期待已久的消息立即启动了以太坊价格的上升轨道。</strong></p><p>以太坊2.0的第一阶段称为信标链。为了激活或发射它，开发者需要开发测试网来模拟信标链的状况。Schoedon在GitHub上写道，稳定和长期的测试网络对于确保以太坊2.0的无缝发布是必要的。</p><p>因此，当太空中的许多人都在为全面发射而尖叫时，以太坊团队似乎完全致力于成功而顺利的推出——无论时间安排如何。</p><blockquote><p><strong>延伸阅读：</strong><a href="https://www.chengwf.com/2020/07/wiki-Ethereum.html">区块新看点科普 | 白话解读即将到来Ethereum 2.0，以太坊区块链的革命性升级</a></p></blockquote><p><br/><img src="https://chengwf.com/8145b" alt="arJs4P.jpg"></p><p><img src="https://s1.ax1x.com/2020/07/20/U5nuv9.jpg" alt="U5nuv9.jpg"></p><hr><blockquote><p><strong>声明：</strong>编者在撰写本文时，未购买任何数字货币资产。本文为区块新看点-程伟在15年互联网企业从事管理经验中得出的管理技巧和企业改进观点，希望给所有精英人士一点点的分享交流意见和建议，欢迎前来讨论和给更好的论点，谢谢！转载请注明来源于“区块新看点-行业研究”。</p></blockquote><p><strong>区块新看点-精彩科技内容回顾：</strong></p><ul><li><p><a href="https://www.chengwf.com/2020/07/Nouriel-Roubini-BitCoin.html">大反派回来了！“乌鸦嘴”末日博士称：经济可能会再次衰退，甚至引发大萧条，最佳的避险资产是比特币</a></p></li><li><p><a href="https://www.toutiao.com/i6852422789509415436/?group_id=6852422789509415436" target="_blank" rel="noopener">5G革命的新商机：我们如何在数字时代挖掘这轮财富机会？</a></p></li><li><p><a href="https://www.toutiao.com/i6845920553283355139/?group_id=6845920553283355139" target="_blank" rel="noopener">下一代5G会为我们带来有什么期望？</a></p></li><li><p><a href="https://www.toutiao.com/i6851835708215460359/?group_id=6851835708215460359" target="_blank" rel="noopener">数字经济已进入以太坊（DeFi）金融创新的新纪元</a></p></li><li><p><a href="https://www.toutiao.com/i6848883228850422285/?group_id=6848883228850422285" target="_blank" rel="noopener">什么是 Comp？深入挖掘以太坊 DeFi 的最新趋势</a></p></li></ul>]]></content>
-    
-    <summary type="html">
-    
-      本周，以太坊的价格达到了2020年的历史高点，超过320美元（下图1）。是的，这比2017年末ICO繁荣时期的价格要低得多，但仍有一些重要原因
-    
-    </summary>
-    
-    
-      <category term="数字经济" scheme="https://www.chengwf.com/categories/%E6%95%B0%E5%AD%97%E7%BB%8F%E6%B5%8E/"/>
-    
-      <category term="数字经济" scheme="https://www.chengwf.com/categories/%E6%95%B0%E5%AD%97%E7%BB%8F%E6%B5%8E/%E6%95%B0%E5%AD%97%E7%BB%8F%E6%B5%8E/"/>
-    
-      <category term="以太坊" scheme="https://www.chengwf.com/categories/%E6%95%B0%E5%AD%97%E7%BB%8F%E6%B5%8E/%E6%95%B0%E5%AD%97%E7%BB%8F%E6%B5%8E/%E4%BB%A5%E5%A4%AA%E5%9D%8A/"/>
-    
-    
-      <category term="区块链" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE/"/>
-    
-      <category term="以太坊" scheme="https://www.chengwf.com/tags/%E4%BB%A5%E5%A4%AA%E5%9D%8A/"/>
-    
-      <category term="以太坊2.0" scheme="https://www.chengwf.com/tags/%E4%BB%A5%E5%A4%AA%E5%9D%8A2-0/"/>
-    
-      <category term="去中心化金融" scheme="https://www.chengwf.com/tags/%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%8C%96%E9%87%91%E8%9E%8D/"/>
-    
-      <category term="DeFi" scheme="https://www.chengwf.com/tags/DeFi/"/>
-    
-      <category term="区块新看点" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E6%96%B0%E7%9C%8B%E7%82%B9/"/>
-    
-      <category term="Dapp" scheme="https://www.chengwf.com/tags/Dapp/"/>
-    
-      <category term="区块链金融创新" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE%E9%87%91%E8%9E%8D%E5%88%9B%E6%96%B0/"/>
     
   </entry>
   
