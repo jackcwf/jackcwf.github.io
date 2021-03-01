@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.chengwf.com/"/>
-  <updated>2020-12-16T10:49:33.600Z</updated>
+  <updated>2021-03-01T14:59:06.499Z</updated>
   <id>https://www.chengwf.com/</id>
   
   <author>
@@ -15,6 +15,45 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>什么是Filecoin？如何购买FIL？附操作全过程（2021最新版）</title>
+    <link href="https://www.chengwf.com/2021/02/what-is-filecoin-and-buy-fil.html"/>
+    <id>https://www.chengwf.com/2021/02/what-is-filecoin-and-buy-fil.html</id>
+    <published>2021-02-27T16:00:00.000Z</published>
+    <updated>2021-03-01T14:59:06.499Z</updated>
+    
+    <content type="html"><![CDATA[<p>Filecoin是分散式存储提供商。无需将您的文档委托给一家公司，而是可以在全球范围内将它们拆分并保存在不同的计算机上。<a id="more"></a></p><blockquote><p>科普：Filecoin是一个去中心化存储网络，它让云存储变成一个算法市场。这个市场运行在有着本地协议令牌（也叫做Filecoin）的区块链。区块链中的旷工可以通过为客户提供存储来获取Filecoin,相反的，客户可以通过花费Filecoin来雇佣旷工来存储或分发数据。</p></blockquote><h1 id="简单来说"><a href="#简单来说" class="headerlink" title="简单来说"></a>简单来说</h1><ul><li>Filecoin是一种去中心化协议，任何人都可以将计算机上的备用存储空间出租出去。</li><li>Filecoin主网于2020年10月启动。</li></ul><p>可以的话，其实很多人是希望把家里闲置着的电脑白天不用的时候，把硬盘空间租出去的，你是否也有这样的想法呢？</p><p>Filecoin就是希望让您做到这一点。</p><p><a href="https://imgtu.com/i/6ibBcT" target="_blank" rel="noopener"><img src="https://s3.ax1x.com/2021/03/01/6ibBcT.jpg" alt="6ibBcT.jpg"></a></p><h1 id="01、什么是Filecoin？"><a href="#01、什么是Filecoin？" class="headerlink" title="01、什么是Filecoin？"></a>01、什么是Filecoin？</h1><br><blockquote><p>你知道吗？</p><p>Filecoin的ICO在2017年筹集了2.57亿美元。</p></blockquote><p>通过允许世界上任何人加入网络，它可以创建巨大的数据存储源。随着越来越多的系统计算机化，将需要满足需求的增长。</p><p>它是由Protocol Labs创建的，Protocol Labs是由计算机科学家和工程师Juan Benet率领的。</p><h1 id="02、使用Filecoin有什么优势？"><a href="#02、使用Filecoin有什么优势？" class="headerlink" title="02、使用Filecoin有什么优势？"></a>02、使用Filecoin有什么优势？</h1><br><p>Filecoin承诺比集中式数据存储解决方案具有许多优势。他们包括：</p><ul><li>💰<strong>成本</strong>-通过为数据存储创建更大的自由市场，这应该会降低价格。</li><li>📈<strong>规模</strong>-将全球数百万台计算机汇集在一起将创建一个庞大的存储网络。</li><li>🌍<strong>经济</strong>-Filecoin无需构建新的存储计算机，而是利用现有资源。</li><li>🔒<strong>安全</strong>-虽然Dropbox和iCloud被黑客入侵，但分散的网络意味着没有单点攻击，因此很难妥协。</li></ul><blockquote><p>2012年，Dropbox被黑客入侵，互联网上泄露了6800万用户密码。</p></blockquote><h3 id=""><a href="#" class="headerlink" title=""></a></h3><h3 id="-1"><a href="#-1" class="headerlink" title=""></a></h3><h1 id="03、Filecoin有任何不利之处吗？"><a href="#03、Filecoin有任何不利之处吗？" class="headerlink" title="03、Filecoin有任何不利之处吗？"></a>03、Filecoin有任何不利之处吗？</h1><br><p>Filecoin的一些潜在问题是：</p><ul><li>🚗<strong>速度</strong>-不需要访问一台服务器，而是需要访问多台服务器以在需要时将文档拼凑在一起。这取决于服务器的联机速度和Internet速度。</li><li>📵 <strong>DAPP</strong> -通过使用Filecoin cryptocurrency处理事务，它创建了一个门槛，因为有人再买硬币并换取使用该服务。</li></ul><h1 id="04、Filecoin安全吗？"><a href="#04、Filecoin安全吗？" class="headerlink" title="04、Filecoin安全吗？"></a>04、Filecoin安全吗？</h1><br><h3 id="将文档保存在其他人的计算机上是有风险的。但是，Filecoin会拆分数据，有点像将其粉碎，因此没有人可以将其组合在一起。但是，它知道数据如何组合在一起，并在请求时重新排列。"><a href="#将文档保存在其他人的计算机上是有风险的。但是，Filecoin会拆分数据，有点像将其粉碎，因此没有人可以将其组合在一起。但是，它知道数据如何组合在一起，并在请求时重新排列。" class="headerlink" title="将文档保存在其他人的计算机上是有风险的。但是，Filecoin会拆分数据，有点像将其粉碎，因此没有人可以将其组合在一起。但是，它知道数据如何组合在一起，并在请求时重新排列。"></a>将文档保存在其他人的计算机上是有风险的。但是，Filecoin会拆分数据，有点像将其粉碎，因此没有人可以将其组合在一起。但是，它知道数据如何组合在一起，并在请求时重新排列。</h3><p>这意味着主机不能简单地破解其计算机上的文档并获得对用户文件的访问权限。如果他们试图破解它，他们将只会发现毫无意义的数据流。</p><blockquote><p>“世界上有大量的存储空间没有被使用。像Airbnb一样。您的房间有人没有被使用；Airbnb为他们建立了一个市场。”- 胡安·贝纳特。</p></blockquote><h1 id="06、Filecoin有竞争对手吗？"><a href="#06、Filecoin有竞争对手吗？" class="headerlink" title="06、Filecoin有竞争对手吗？"></a>06、Filecoin有竞争对手吗？</h1><br><p>Filecoin不是唯一一家致力于 分散文件存储的公司。其他一些人已经开始努力。</p><ul><li>Siacoin已经拥有360多家存储提供商，容量为2.3 PB，即2340 TB。目前，它可以在加密货币交易所上交易。</li><li>Storj于2020年3月推出了Tardigrade分散式云存储服务，截至2020年10月，其整个网络的存储容量达到80 PB。其加密货币STORJ也已上线。</li></ul><h1 id="07、如何开采Filecoin"><a href="#07、如何开采Filecoin" class="headerlink" title="07、如何开采Filecoin"></a>07、如何开采Filecoin</h1><br><p>Filecoin矿工分为三类：</p><ul><li>有一些存储矿工，他们负责在Filecoin网络上存储数据；</li><li>检索矿工，负责检索文件；</li><li>以及尚未实施的维修矿工。</li></ul><p><a href="https://imgtu.com/i/6ibyB4" target="_blank" rel="noopener"><img src="https://s3.ax1x.com/2021/03/01/6ibyB4.md.jpg" alt="6ibyB4.md.jpg"></a></p><p>filecoin的官方推文</p><p>存储矿工通过存储客户端数据并随着时间的推移提供存储证明来赚取Filecoin。相反，检索矿工通过招标和开采特定文件的费用来获取Filecoin，具体费用取决于市场价值。</p><h1 id="08、如何购买FIL"><a href="#08、如何购买FIL" class="headerlink" title="08、如何购买FIL"></a>08、如何购买FIL</h1><br><p>自Filecoin于2020年10月启动其主网以来，FIL令牌已在各种流行的交换平台上上市。目前，流动性最高的是Coinbase，Huobi Global和Binance。它也可以在OKEx，Upbit和DigiFinex等交易所使用。</p><p>结果，现在比以往任何时候都更容易上手FIL，并且在大多数情况下只需几分钟。</p><p>考虑到这一点，我们将看一下如何使用Binance通过另一种加密货币（例如比特币（BTC）或泰达币（USDT））购买FIL。</p><p><strong>步骤1：</strong>首先，您需要在Binance上创建一个帐户，然后登录。</p><p><strong>第2步：</strong>进入后，转到存款页面，您会在其中找到受支持的加密货币列表。</p><p>在这里，您需要找到您的比特币（BTC），系绳（USDT），Binance Coin（BNB）或Binance USD（BUSD）存款地址-取决于要交换Filecoin（FIL）的资产。</p><p><a href="https://imgtu.com/i/6ibsuF" target="_blank" rel="noopener"><img src="https://s3.ax1x.com/2021/03/01/6ibsuF.md.jpg" alt="6ibsuF.md.jpg"></a></p><p>图片来源：币安</p><p>使用所选资产充值您的帐户，然后等待其记入贷方。</p><p><strong>步骤3：</strong> 接下来，是时候加载交易界面了。单击标题中的“交易”按钮，然后从下拉菜单中选择“经典”选项。</p><p><a href="https://imgtu.com/i/6ib03V" target="_blank" rel="noopener"><img src="https://s3.ax1x.com/2021/03/01/6ib03V.jpg" alt="6ib03V.jpg"></a></p><p>图片来源：币安</p><p><strong>第4步：</strong> 加载后，使用右侧的搜索字段搜索可用的FIL交易对。从下面显示的列表中，选择要交易的市场。</p><p>在我们的示例中，我们将选择FIL / USDT市场。</p><p><a href="https://imgtu.com/i/6ib03V" target="_blank" rel="noopener"><img src="https://s3.ax1x.com/2021/03/01/6ib03V.jpg" alt="6ib03V.jpg"></a></p><p>图片来源：币安</p><p><strong>步骤5：</strong> 这将拉起各自的交易界面。</p><p>在图表下方，您会找到订单选项。选择“市场”标签，然后输入您要在FIL上花费的金额。在这里，我们投入了$ 500。</p><p>您还可以通过单击“总计”按钮并将其更改为“金额”来确切选择要购买的FIL。</p><p>对订单满意后，请按“购买FIL”按钮以最优惠的价格执行该订单。然后可以从您的Binance钱包访问此FIL。</p><p><a href="https://imgtu.com/i/6ibahq" target="_blank" rel="noopener"><img src="https://s3.ax1x.com/2021/03/01/6ibahq.jpg" alt="6ibahq.jpg"></a></p><p>图片来源：币安</p><p>而已！如果正确执行了上述所有步骤，则应该已经购买了FIL。</p><h1 id="09、最近的发展"><a href="#09、最近的发展" class="headerlink" title="09、最近的发展"></a>09、最近的发展</h1><br><p>Filecoin主网于2020年10月启动，此后，该平台上的可用存储量呈指数增长（最近超过25亿千兆字节（2.5EiB）阈值），足以容纳10,000多个Wikipedia副本。</p><p><a href="https://imgtu.com/i/6ibahq" target="_blank" rel="noopener"><img src="https://s3.ax1x.com/2021/03/01/6ibahq.jpg" alt="6ibahq.jpg"></a></p><p>图片来源：Filecoin官方推文</p><p>自从推出以来，由于主要交易所列表以及通过Wrapped Filecoin令牌与以太坊DeFi领域的集成越来越多，FIL令牌的交易量也逐渐增加。</p><p>在2021年2月上旬，由LongHash Ventures创建并得到Filecoin支持的Filecoin Frontier Accelerator揭幕了11家将参加为期12周的加速器计划的初创公司，并获得了20,000美元的赠款。他们包括：</p><ul><li><strong>game OPgames-</strong>一套用于单人视频游戏中多人比赛的工具。</li><li><strong>in Sinso Technology-</strong>用于远程医疗和AI诊断的医学成像数据聚合器。</li><li><strong>🏫Huddle101-</strong> 在线远程教室平台。</li><li><strong>F️Filbox-</strong>一个平台，可帮助用户从其数据中获利。</li><li><strong>🤖Vera AI-</strong>基于AI的后台检查服务。</li></ul><p>Filecoin存储服务的定价是基于自由竞争以及供需变化而定的，但通常被认为与集中式云存储产品相比具有竞争力。</p><h1 id="10、Filecoin的未来"><a href="#10、Filecoin的未来" class="headerlink" title="10、Filecoin的未来"></a>10、Filecoin的未来</h1><br><p>像亚马逊和谷歌这样的云存储提供商赚了很多钱。这表明市场需求很大。</p><p>如果客户决定信任分散式服务，他们会发现自己节省了很多钱。这笔钱也将直接流回经济中，流向个人和小型企业，这可能对人们的生活产生重大的积极影响。</p><p>有关Filecoin的当前状态和未来发展的更多信息，请查看我们区块新看点与Filecoin团队的独家谈话。</p><p><strong>更多WIKI百科：</strong></p><ol><li><a href="http://mp.weixin.qq.com/s?__biz=MzIwNTI5MDIwMg==&mid=2247485644&idx=1&sn=914d85500a00f7e64e1cc6e5436f8bb4&chksm=97326779a045ee6fbeb0ac89129e342b95ccf8ec25474728ca94775813c2842b2caacfbaf1ea&scene=21#wechat_redirect" target="_blank" rel="noopener"><strong>什么是超级账本？区块新看点入门指南（2021版）</strong></a></li><li><a href="http://mp.weixin.qq.com/s?__biz=MzIwNTI5MDIwMg==&mid=2247485492&idx=1&sn=2bcac732e5351a136faddf14af84e5b0&chksm=97326781a045ee971fa20101c020869ce943864207d4944f8f05fc71906e865bc19ba6655a5d&scene=21#wechat_redirect" target="_blank" rel="noopener"><strong>以太坊2.0：POS、分片和Beacon，这里有你想了解的一切！</strong></a></li><li><a href="http://mp.weixin.qq.com/s?__biz=MzIwNTI5MDIwMg==&mid=2247485266&idx=1&sn=2472b93292b0659fdbd73cd36af35308&chksm=973268e7a045e1f1266e91290cde4872c4a19fa51b78a452f6902543da04f9afce9023614e04&scene=21#wechat_redirect" target="_blank" rel="noopener"><strong>一种全新的去中心化交易(DEX)：什么是Uniswap？</strong></a></li></ol><ul><li>END </li></ul><hr><p><strong>重要声明：本文部分观点来源引用和转载，非全部为笔者观点，所以转载本文时请备注清楚为“区块新看点-行业整理分析报告”！本文笔者：区块新看点-程伟，加工原创报告，谢谢关注和分享！</strong></p><hr>]]></content>
+    
+    <summary type="html">
+    
+      Filecoin是一个去中心化存储网络，它让云存储变成一个算法市场。
+    
+    </summary>
+    
+    
+      <category term="区块链" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/"/>
+    
+      <category term="数字货币" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/"/>
+    
+      <category term="IPFS" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/IPFS/"/>
+    
+    
+      <category term="区块新看点" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E6%96%B0%E7%9C%8B%E7%82%B9/"/>
+    
+      <category term="原创精文" scheme="https://www.chengwf.com/tags/%E5%8E%9F%E5%88%9B%E7%B2%BE%E6%96%87/"/>
+    
+      <category term="IPFS" scheme="https://www.chengwf.com/tags/IPFS/"/>
+    
+      <category term="filecoin" scheme="https://www.chengwf.com/tags/filecoin/"/>
+    
+      <category term="fil" scheme="https://www.chengwf.com/tags/fil/"/>
+    
+      <category term="去中心化储存" scheme="https://www.chengwf.com/tags/%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%8C%96%E5%82%A8%E5%AD%98/"/>
+    
+      <category term="去中心化的的存储协议" scheme="https://www.chengwf.com/tags/%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%8C%96%E7%9A%84%E7%9A%84%E5%AD%98%E5%82%A8%E5%8D%8F%E8%AE%AE/"/>
+    
+  </entry>
   
   <entry>
     <title>企业比特币资产配置热潮兴起，企业如何设定比特币密钥管理制度？</title>
@@ -782,53 +821,6 @@
       <category term="Compound" scheme="https://www.chengwf.com/tags/Compound/"/>
     
       <category term="Comp" scheme="https://www.chengwf.com/tags/Comp/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>以太坊五年缔造公链之王，5张图透析以太坊称王之路</title>
-    <link href="https://www.chengwf.com/2020/08/Ethereum-King-5-history.html"/>
-    <id>https://www.chengwf.com/2020/08/Ethereum-King-5-history.html</id>
-    <published>2020-08-04T16:00:00.000Z</published>
-    <updated>2020-08-05T02:54:57.902Z</updated>
-    
-    <content type="html"><![CDATA[<p>五年前的本周，第一个通用区块链在主网上线。以太坊为区块链技术的全新应用生态铺平了开设了一条另类的道路，与比特币最初的电子现金系统愿景脱钩。<a id="more"></a></p><blockquote><p><em>延伸百科科普阅读：</em><a href="https://www.chengwf.com/2020/07/wiki-Ethereum.html"><em>深度解密：什么是以太坊（Ethereum）？</em></a></p></blockquote><p>本文将列出五个图表，以了解以太坊的发展历程</p><br/><h1 id="1、不流血的分裂"><a href="#1、不流血的分裂" class="headerlink" title="1、不流血的分裂"></a>1、不流血的分裂</h1><br/><p><img src="https://s1.ax1x.com/2020/08/05/arlQvd.png" alt="arlQvd.png"></p><center><font color="acacac" size=2>以太坊价格与协议升级的图表</font></center><p>以太坊启动不到一年，一场重大事件将社区一分为二。</p><p>这两个子社区之间的分歧是如此严重，以至于该行导致了一种新加密货币的创建，该加密货币被称为“以太经典 ”（Ethereum classic），是从原始以太坊代码库中克隆而来的。</p><p>以太坊经典游戏是在2016年7月20日创建的，当时价值6,000万美元的以太坊原生加密货币以太币（ETH）从名为DAO的dapp用户中被盗 。当时，DAO是同类中唯一的Dapp，用户可以汇集资金并投票决定将资金投资于哪个项目。DAO的愿景（在黑客入侵并耗尽其大部分财务之前）是成为一家以投资者为导向的风险投资基金。</p><p>经过数周的讨论，以太坊开发人员达成了共识，他们应该倒计时–逆转DAO骇客交易并恢复用户丢失的ETH。这些更改只能通过全网络升级（也称为 硬分叉）来实现。反对这一改变的人主张保留原始区块链的交易和余额历史的完整性，包括被黑的资金和所有资产。</p><p>因此，在2016年7月20日，当执行恢复用户资金的升级时，以太坊区块链一分为二。社区的一部分保留了DAO黑客的原始交易记录和余额，并且没有升级软件，因此创建了一个并行网络：Ethereum Classic。</p><p>自拆分以来，以太坊网络又艰难地分叉了七次，尽管这些后续升级都没有达到与2016年“ DAO分叉”相同的争议水平。</p><hr><h1 id="2、那只该死的猫"><a href="#2、那只该死的猫" class="headerlink" title="2、那只该死的猫"></a>2、那只该死的猫</h1><br/><p><img src="https://s1.ax1x.com/2020/08/05/arl1KA.png" alt="arl1KA.png"></p><center><font color="acacac" size=2>2017年-2018年，以太坊交易量</font></center><p>以太坊上第一个获得真正用户吸引力的dapp是一款名为CryptoKitties（谜恋猫）的收藏品游戏。“数字猫”于2017年11月推出，非常受欢迎，全世界的新闻机构都对其进行了报道，包括《金融邮报》、英国广播公司（BBC）和《纽约时报》。</p><p>在他们最受欢迎的时候，被令牌化的加密猫在以太坊上的交易价格超过20万美元。然而，用户的涌入和来自这个病毒性dapp的大量交易将以太坊区块链阻塞到了前所未有的水平。截至2017年12月，已积压了3万笔交易，这意味着用户必须等待若干天才能确认他们的ETH转账。</p><p><img src="https://s1.ax1x.com/2020/08/05/arlJVP.jpg" alt="arlJVP.jpg"></p><center><font color="acacac" size=2>CryptoKitties（谜恋猫）</font></center><p>CryptoKitties背后的开发者们赶紧通过增加游戏费用来阻止新用户的涌入。CryptoKitties发布后不久，2018年1月10日，以太坊的每日交易费用总额创下历史新高。当天以太坊矿商收取的费用超过450万美元。同月，CryptoKitties的注册用户达到25万。</p><p>在许多方面，CryptoKitties的狂热是一种粗鲁的觉醒，它提醒以太坊开发人员该平台的技术局限性。当一个病毒性的dapp足以压倒以太坊如何成为世界计算机？如果开发人员想认真对待不是成千上百万的dapp用户，他们就需要拿出一个具体的计划来提高吞吐量。</p><hr><h1 id="3、测试极限"><a href="#3、测试极限" class="headerlink" title="3、测试极限"></a>3、测试极限</h1><br/><p><img src="https://s1.ax1x.com/2020/08/05/arl8bt.jpg" alt="arl8bt.jpg"></p><center><font color="acacac" size=2>以太坊区块链上，前5大的ICO和DeFi项目</font></center><p>自2017年的CryptoKitties热潮以来，对以太坊2.0的需求及其对网络效率和可扩展性的预期收益越来越大。</p><blockquote><p><em>首次代币发行（ICO）是一种为加密货币项目的早期阶段提供众筹资金的方式，其受欢迎程度在2018年达到顶峰。</em></p></blockquote><p>当年共为1000多个项目筹集了78亿美元。根据icobbench的数据，超过80%的ICO依赖以太坊区块链来创建代币并将其发行给投资者。</p><p>2018年的ICO热潮等趋势表明，区块链技术可以通过更多的方式来利用，而不仅仅是点对点电子现金。以太坊，作为世界上第一个通用区块链平台，已经成为dapp开发者聚集的中心，为区块链构建任何和所有类型的用例，无论是游戏还是金融相关。</p><p>因此，尽管平台存在技术限制，但以太坊上的dapp开发人员活动仍在蓬勃发展。在以太坊上主导用户流量和交易量的最新趋势是去中心化金融（DeFi）。目前席卷以太坊的DeFi运动是由dapp组成的，dapp模仿了借贷服务、交易所和衍生品市场等传统金融参与者。截至2020年7月29日，价值36.8亿美元的加密资产被用户锁定在各种DeFi协议中。 </p><hr><h1 id="4、Dapp兴起"><a href="#4、Dapp兴起" class="headerlink" title="4、Dapp兴起"></a>4、Dapp兴起</h1><br/><p><img src="https://s1.ax1x.com/2020/08/05/arl3DI.png" alt="arl3DI.png"></p><center><font color="acacac" size=2>目前以太坊平台上Dapps数量分析</font></center><p>以太坊自成立以来的愿景一直是“世界计算机”，在其之上可以自由创建和部署分散应用程序（Dapp）和任何类型的资产。</p><p>为此，以太坊开发者在新兴的区块链领域开创了一种称为“智能合约”的新技术，一种叫做Solidity的新编程语言被发明出来，帮助在以太坊上编写dapp代码。为了确保网络上不同的dapp之间的互操作性，开发了通用框架，如ERC-20和ERC-721令牌标准。</p><p>自2015年以太坊诞生以来，这些创新为其他通用区块链平台的出现开辟了道路。EOS、Stellar、Tezos和Tron是市场份额前15名的四种加密货币，其特点是创建和部署dapp。尽管替代dapp平台的数量在增长，以太坊仍然是最受欢迎的通用区块链，无论是用户数量还是dapp数量，如上图所示。</p><p>然而，以太坊尚未实现其愿景。开发人员确信，目前的区块链基础设施完全不足以应对全球数百万甚至数十亿用户的涌入。这一直是以太坊早期创始人的最大担忧，其中包括维塔利克·巴特林（民间称：V神）。在以太坊大放异彩的五年后，V神和其他人制定了一个名为“ Eth 2.0”的路线图，以使以太坊的开发得以完成。Eth 2.0的第一步有望在今年 或明年2021年初的某个时候推出 。</p><blockquote><p>延伸阅读：<a href="http://www.chengwf.com/2020/08/Ethereum-Highlights-BlockChain-Financial-innovation.html">DeFi的爆炸，以太坊新高光时刻，区块链金融创新的新时代来临</a></p></blockquote><hr><h1 id="5、通往2-0的漫长之路"><a href="#5、通往2-0的漫长之路" class="headerlink" title="5、通往2.0的漫长之路"></a>5、通往2.0的漫长之路</h1><br/><p><img src="https://s1.ax1x.com/2020/08/05/arlMgH.png" alt="arlMgH.png"></p><center><font color="acacac" size=2>以太坊历史节点与计划发行速率分析</font></center><p>以太坊还没有实现它的愿景。</p><p>以太坊2.0的路线图几乎和第一个实现DAPP的原始路线图一样雄心勃勃。虽然这项技术即将推出，但了解以太坊五年历史的一个重要部分在于研究以太坊2.0在其多年规划中经历的多次迭代更新。</p><br/><p><strong>2015年：Serenity“宁静”</strong></p><p>最初，2015年的以太坊2.0被认为是该项目的最终开发阶段，并被称为：Serenity“宁静”。Serenity初步预计将在mainnet首次发布16个月后（2016年11月）推出。此次升级将使以太坊从依赖比特币（Bitcoin）继承的计算密集型流程（称为“采矿”）转变为更节能的验证流程。</p><p>为此，开发商创造了一种被称为“困难炸弹”的东西，以缓慢但肯定地鼓励这种从采矿业转型。这枚炸弹于2016年3月14日启动，随着时间的推移，矿工们寻找以太坊区块的难度增加。在过去的五年中，由于开发人员重新制定了以太坊2.0的发布计划，这一计划使区块生产放缓了三次。</p><p>最近的一次难度炸弹延期是在2020年1月2日。这可能是难度炸弹最后一次被推迟，因为一些开发人员初步估计，向以太坊2.0的过渡可能会在今年某个时候正式开始，并在明年晚些时候取代现有的网络。</p><blockquote><p><em>延伸阅读：**<a href="http://localhost:4000/2020/06/Ethereum2.0.html" target="_blank" rel="noopener">区块新看点科普 | 白话解读即将到来Ethereum 2.0，以太坊区块链的革命性升级</a></em></p></blockquote><hr><h1 id="结语："><a href="#结语：" class="headerlink" title="结语："></a>结语：</h1><p>虽然还不清楚以太坊2.0会带来什么样的新技术和区块链实践标准的创新，但回顾一下该网络发展的前五年，确实可以看出一些端倪。在此期间，以太坊经历了网络拆分升级，面临严重的技术瓶颈，推进了加密项目的新融资形式，并正式制定了迁移到以太坊2.0的启动计划。</p><p><img src="https://s1.ax1x.com/2020/07/20/U5nuv9.jpg" alt="U5nuv9.jpg"></p><p><img src="https://chengwf.com/56bf1" alt="arlK8e.jpg"></p><blockquote><p><strong>声明：</strong>编者在撰写本文时，未购买任何数字货币资产。本文为区块新看点-程伟在15年互联网企业从事管理经验中得出的管理技巧和企业改进观点，希望给所有精英人士一点点的分享交流意见和建议，欢迎前来讨论和给更好的论点，谢谢！转载请注明来源于“区块新看点-行业研究”。</p></blockquote><p><strong>区块新看点-精彩科技内容回顾：</strong></p><ul><li><a href="https://www.chengwf.com/2020/07/Nouriel-Roubini-BitCoin.html">大反派回来了！“乌鸦嘴”末日博士称：经济可能会再次衰退，甚至引发大萧条，最佳的避险资产是比特币</a></li><li><a href="https://www.toutiao.com/i6852422789509415436/?group_id=6852422789509415436" target="_blank" rel="noopener">5G革命的新商机：我们如何在数字时代挖掘这轮财富机会？</a></li><li><a href="https://www.toutiao.com/i6845920553283355139/?group_id=6845920553283355139" target="_blank" rel="noopener">下一代5G会为我们带来有什么期望？</a></li><li><a href="https://www.toutiao.com/i6851835708215460359/?group_id=6851835708215460359" target="_blank" rel="noopener">数字经济已进入以太坊（DeFi）金融创新的新纪元</a></li><li><a href="https://www.toutiao.com/i6848883228850422285/?group_id=6848883228850422285" target="_blank" rel="noopener">什么是 Comp？深入挖掘以太坊 DeFi 的最新趋势</a> </li></ul>]]></content>
-    
-    <summary type="html">
-    
-      五年前的本周，第一个通用区块链在主网上线。以太坊为区块链技术的全新应用生态铺平了开设了一条另类的道路，与比特币最初的电子现金系统愿景脱钩。
-    
-    </summary>
-    
-    
-      <category term="数字经济" scheme="https://www.chengwf.com/categories/%E6%95%B0%E5%AD%97%E7%BB%8F%E6%B5%8E/"/>
-    
-      <category term="数字经济" scheme="https://www.chengwf.com/categories/%E6%95%B0%E5%AD%97%E7%BB%8F%E6%B5%8E/%E6%95%B0%E5%AD%97%E7%BB%8F%E6%B5%8E/"/>
-    
-      <category term="以太坊" scheme="https://www.chengwf.com/categories/%E6%95%B0%E5%AD%97%E7%BB%8F%E6%B5%8E/%E6%95%B0%E5%AD%97%E7%BB%8F%E6%B5%8E/%E4%BB%A5%E5%A4%AA%E5%9D%8A/"/>
-    
-    
-      <category term="以太坊" scheme="https://www.chengwf.com/tags/%E4%BB%A5%E5%A4%AA%E5%9D%8A/"/>
-    
-      <category term="以太坊2.0" scheme="https://www.chengwf.com/tags/%E4%BB%A5%E5%A4%AA%E5%9D%8A2-0/"/>
-    
-      <category term="去中心化金融" scheme="https://www.chengwf.com/tags/%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%8C%96%E9%87%91%E8%9E%8D/"/>
-    
-      <category term="DeFi" scheme="https://www.chengwf.com/tags/DeFi/"/>
-    
-      <category term="区块新看点" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E6%96%B0%E7%9C%8B%E7%82%B9/"/>
-    
-      <category term="Dapp" scheme="https://www.chengwf.com/tags/Dapp/"/>
-    
-      <category term="CryptoKitties" scheme="https://www.chengwf.com/tags/CryptoKitties/"/>
-    
-      <category term="谜恋猫" scheme="https://www.chengwf.com/tags/%E8%B0%9C%E6%81%8B%E7%8C%AB/"/>
-    
-      <category term="数字猫" scheme="https://www.chengwf.com/tags/%E6%95%B0%E5%AD%97%E7%8C%AB/"/>
-    
-      <category term="ERC-20" scheme="https://www.chengwf.com/tags/ERC-20/"/>
-    
-      <category term="ERC-721" scheme="https://www.chengwf.com/tags/ERC-721/"/>
     
   </entry>
   
