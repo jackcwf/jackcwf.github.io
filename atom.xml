@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.chengwf.com/"/>
-  <updated>2021-03-01T14:59:06.499Z</updated>
+  <updated>2021-05-08T15:49:49.767Z</updated>
   <id>https://www.chengwf.com/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>区块链的业务模型全面解析：价值模型、区块链模型、分配模型和经济模型</title>
+    <link href="https://www.chengwf.com/2021/04/blockchain-model-all-whole.html"/>
+    <id>https://www.chengwf.com/2021/04/blockchain-model-all-whole.html</id>
+    <published>2021-04-29T16:00:00.000Z</published>
+    <updated>2021-05-08T15:49:49.767Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="总言"><a href="#总言" class="headerlink" title="总言"></a>总言</h1><p>笔者（区块新看点-程伟），总结主流公链项目得出，区块链业务模型主要由四个主要组件构成：<a id="more"></a></p><ul><li><p><strong>价值模型</strong>（核心理念，关键利益相关者的核心价值和价值主张）</p></li><li><p><strong>区块链模型</strong>（协议规则，网络形状和应用程序层/生态系统）</p></li><li><p><strong>分配模型</strong>（扩大协议及其社区的主要渠道）</p></li><li><p><strong>经济模型</strong>（协议参与者通过其赚钱的动力或激励）</p></li></ul><p>  这些元素融合在一起可以作为构建和分析可靠的区块链业务模型的基础。</p><p><img src="http://pic.rmb.bdstatic.com/bjh/news/ee6be423bab2ec938abed9d16a7773f2.png" alt="img"></p><p>区块链业务模型架构图</p><hr><h1 id="01、价值模型"><a href="#01、价值模型" class="headerlink" title="01、价值模型"></a>01、价值模型</h1><br><p>在价值模型中，我们要回答几个核心问题：</p><ol><li><strong>核心理念：</strong>协议要解决的长期难题是什么？</li><li><strong>核心价值观：</strong>哪些关键价值观驱动着协议？</li><li><strong>价值主张：</strong>每个关键利益相关者从协议中获得什么价值？</li></ol><p>在分析区块链业务模型时，至关重要的是要了解它们看起来更像是逻辑非常复杂的生态系统，而不仅仅是公司，而且动态更简单。但是，那些复杂的系统实际上是由内置于区块链协议中的简单本地规则产生的。</p><hr><h1 id="02、区块链模型"><a href="#02、区块链模型" class="headerlink" title="02、区块链模型"></a>02、区块链模型</h1><br><p>在区块链模型中，我们想了解协议如何将价值模型与其他所有事物联系起来。因此，区块链规则如何使其对整个生态系统的形成具有吸引力。</p><p>在这种情况下，我们需要考虑三个关键层：</p><p><strong>A、协议规则</strong></p><p><strong>什么规则支配着区块链？</strong></p><p>在这里，区块链的基本规则对其至关重要。也许，在像比特币这样的区块链协议上，像工作量证明（PoW）这样的规则非常重要：</p><p><strong>工作量证明是一种共识算法的一种形式，用于在分布式网络上达成协议。在工作量证明中，矿工通过交换困难的数学问题（即哈希函数）来竞争完成网络上的交易，结果他们得到了硬币奖励。</strong></p><p><img src="http://pic.rmb.bdstatic.com/bjh/news/dc97d196d02b18768644bf2ce54da447.png" alt="img"></p><p>工作量证明的规则</p><p><strong>B、网络形态</strong></p><p><strong>协议规则确定什么网络形状？</strong></p><p>根据协议的基本核心规则，将形成一个网络，网络可以采用各种形式（从完全分散到分布式或集中式）。因此，了解协议规则如何使网络发展对于了解力量平衡如何沿区块链生态系统移动至关重要。</p><p><strong>C、应用程序生态系统/层</strong></p><p><strong>可以在协议之上构建哪些应用程序？</strong></p><p>对于要成为业务平台的区块链而言，使其成为模块化可能至关重要，或者至少它使开发人员能够在区块链之上构建应用程序，从而有可能扩展可用的用例并使开发人员能够获利他们在区块链上的存在。</p><h1 id="03、分配模型"><a href="#03、分配模型" class="headerlink" title="03、分配模型"></a>03、分配模型</h1><br><p>在这里，我们想了解各个部分如何融合在一起，以使基础的区块链生态系统可持续发展并不断发展。</p><p><strong>A、开发者社区</strong></p><p><strong>开发者社区是否参与了区块链之上的应用开发？要保持参与度需要什么？</strong></p><p>开发人员在区块链应用程序的开发中起着至关重要的作用，因此了解开发人员社区如何围绕协议发展以及萌芽什么样的应用程序非常重要。</p><p><strong>B、投资者关系</strong></p><p><strong>潜在的加密货币对投资者而言是有价值的资产吗？</strong></p><p>首先使区块链协议起作用的是其背后的强大经济动力。因此，我们可能要争辩说，如果没有加密，就不会有区块链，反之亦然。因此，随着区块链生态系统的发展，针对投资者对它的反应方式也很重要。请记住，区块链不仅仅是一个简单的实体。那是一个“超级实体”。因此，它需要多个利益相关者的支持才能蓬勃发展。</p><p><strong>C、采矿激励</strong></p><p><strong>矿工有哪些动机继续为区块链网络的发展和增长做出贡献？</strong></p><p>矿工在区块链的发展中也起着至关重要的作用。重要的是要注意，像比特币这样的一些区块链主要基于工作量证明，这使得矿工成为开采新硬币的主要参与者。当涉及以太坊等其他协议（也有权益证明机制）时，其他玩家/用户也可以成为矿工。</p><p><strong>D、交易达成</strong></p><p><strong>通过机构和非机构渠道整合了协议的协议是什么？</strong></p><p>为了扩展协议，它需要被许多个人和机构采用。因此，在这里使协议集成到其他机构和非机构系统中的进展变得非常重要。</p><hr><h1 id="04、经济模式"><a href="#04、经济模式" class="headerlink" title="04、经济模式"></a>04、经济模式</h1><br><p><strong>区块链加密资产如何获得价值，生态系统的关键参与者如何将基于其构建的应用程序货币化？</strong></p><p>尽管构建的区块链协议远不止是经济激励机制，但要注意的是，保持生态系统随着时间的推移可持续发展的原因是强大的经济激励机制，可以使生态系统的各个参与者保持一致。因此，重要的是要了解什么促使这些参与者团结起来。</p><hr><h1 id="05、关键要点"><a href="#05、关键要点" class="headerlink" title="05、关键要点"></a>05、关键要点</h1><br><p>区块链业务模型看起来更像是一个动态的生态系统，围绕它的整个参与者：</p><p><strong>a、价值模型</strong></p><ul><li>核心理念：协议要解决的长期难题是什么？</li><li>核心价值观：哪些关键价值观驱动着协议？</li><li>价值主张：每个关键利益相关者从协议中获得什么价值？</li></ul><br><p><strong>b、区块链模型</strong></p><ul><li>协议规则：哪些规则支配着区块链？</li><li>网络形状：协议规则确定哪种网络形状？</li><li>应用程序规则：可以在协议之上构建哪些应用程序？</li></ul><br><p><strong>c、分配模型</strong></p><ul><li>开发者社区：开发者社区是否参与了区块链之上的应用开发？要保持参与度需要什么？</li><li>投资者关系：基础加密货币是否对投资者来说是宝贵的资产？</li><li>采矿激励：矿工有哪些激励措施继续为区块链网络的发展和增长做出贡献？</li></ul><br><p><strong>d、经济模型</strong></p><p>区块链加密资产如何获得价值，生态系统的关键参与者如何将基于其构建的应用程序货币化？</p><br><p><strong>主要免费指南</strong>：（请关注区块新看点持续区块链知识更新）</p><ul><li>商业模式</li><li>经营策略</li><li>业务发展</li><li>数字商业模式</li><li>分销渠道</li><li>市场策略</li><li>平台业务模型</li><li>收益模型</li><li>科技商业模式</li></ul><p>- end -</p><hr><p><strong>重要声明：本文部分观点来源引用和转载，非全部为笔者观点，所以转载本文时请备注清楚为“区块新看点-行业整理分析报告”！本文笔者：区块新看点-程伟，加工原创报告，谢谢关注和分享！</strong></p><ul><li>END </li></ul><p><img src="http://pic.rmb.bdstatic.com/bjh/news/f95c6c13f27305ee4f24e5ef6570fcd5.jpeg" alt="img"></p>]]></content>
+    
+    <summary type="html">
+    
+      笔者（区块新看点-程伟），总结主流公链项目得出，区块链业务模型主要由四个主要组件构成...
+    
+    </summary>
+    
+    
+      <category term="区块链" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/"/>
+    
+    
+      <category term="区块链" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE/"/>
+    
+      <category term="区块新看点" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E6%96%B0%E7%9C%8B%E7%82%B9/"/>
+    
+      <category term="原创精文" scheme="https://www.chengwf.com/tags/%E5%8E%9F%E5%88%9B%E7%B2%BE%E6%96%87/"/>
+    
+  </entry>
   
   <entry>
     <title>什么是Filecoin？如何购买FIL？附操作全过程（2021最新版）</title>
@@ -754,47 +781,6 @@
     <summary type="html">
     
       DeFi生态系统中涉及的各种产品和服务有时统称为“开放式金融”。
-    
-    </summary>
-    
-    
-      <category term="区块链" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/"/>
-    
-      <category term="数字货币" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/"/>
-    
-      <category term="DeFi" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/DeFi/"/>
-    
-      <category term="区块链金融" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E5%8C%BA%E5%9D%97%E9%93%BE%E9%87%91%E8%9E%8D/"/>
-    
-      <category term="DeFi" scheme="https://www.chengwf.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/%E5%8C%BA%E5%9D%97%E9%93%BE%E9%87%91%E8%9E%8D/DeFi/"/>
-    
-    
-      <category term="区块链" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE/"/>
-    
-      <category term="以太坊" scheme="https://www.chengwf.com/tags/%E4%BB%A5%E5%A4%AA%E5%9D%8A/"/>
-    
-      <category term="DeFi" scheme="https://www.chengwf.com/tags/DeFi/"/>
-    
-      <category term="区块新看点" scheme="https://www.chengwf.com/tags/%E5%8C%BA%E5%9D%97%E6%96%B0%E7%9C%8B%E7%82%B9/"/>
-    
-      <category term="Compound" scheme="https://www.chengwf.com/tags/Compound/"/>
-    
-      <category term="Comp" scheme="https://www.chengwf.com/tags/Comp/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>使用Compound金融进行流动性挖掘：只是一种时尚，还是继IEO、ICO之后的最新工具箱？</title>
-    <link href="https://www.chengwf.com/2020/08/Compound-Finance-latest-toolbox-after-ieo-icos.html"/>
-    <id>https://www.chengwf.com/2020/08/Compound-Finance-latest-toolbox-after-ieo-icos.html</id>
-    <published>2020-08-04T16:00:00.000Z</published>
-    <updated>2020-08-05T09:38:51.925Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="前言一：加密资产的定义"><a href="#前言一：加密资产的定义" class="headerlink" title="前言一：加密资产的定义"></a>前言一：加密资产的定义</h2><p>自比特币和区块链技术的诞生，催生了一系列加密资产类别的发展。事实上，《区块链革命（BlockChain Revolution）》一书的作者Don Tapscott指出，关于数字资产，你至少要知道七种。包括：<a id="more"></a></p><ul><li><strong>加密货币</strong>（Crypto Currency）</li><li><strong>平台代币</strong>（Platform Tokens）</li><li><strong>实用代币</strong>（Utility Tokens）</li><li><strong>证券代币</strong>（Security Tokens）</li><li><strong>自然资产代币</strong>（Natural Asset Tokens）</li><li><strong>加密收藏品</strong>（Cryptocollectibles）</li><li><strong>加密对法币代币</strong>（Crypto-fiat currencies）</li></ul><blockquote><p><em>引用声明：根据Don Tapscontt和Alex Tapscott共同编著的《Blockchain Revolution》，书中关于数字资产七大种类的定义。</em></p></blockquote><hr><h2 id="前言二"><a href="#前言二" class="headerlink" title="前言二"></a>前言二</h2><p>加密货币行业的初学者通常会担心与之相关的风险。除了价格波动外，用户还经常面临钱包被黑客入侵的风险，造成不可弥补的损失。</p><p>尽管加密货币交易所以及钱包服务提供商提供了增强的安全功能，但不能保证黑客不会发现入侵系统并窃取用户资金的漏洞。但是，还有一些其他手段，用户可能会利用这种手段来保护自己的资金不被窃取或丢失。下面“区块新看点”-区块链科普分享10大绝招教你怎么保护你的加密资产：</p><hr><h2 id="1、选择信誉良好的钱包服务提供商"><a href="#1、选择信誉良好的钱包服务提供商" class="headerlink" title="1、选择信誉良好的钱包服务提供商"></a>1、选择信誉良好的钱包服务提供商</h2><p><br/>安全性始于选择服务提供商。目前，热门的加密货币钱包数量众多，其中很多都是欺诈性的。这就是为什么用户在信任自己的钱到在线服务之前应该非常小心。</p><p><img src="https://chengwf.com/6510e" alt="arDCG9.png"></p><center><font color="acacac" size=2>数字钱包服务提供商</font></center><br/><p>为了确保在线钱包或加密货币交易所合法，有必要注意其运行时间。诈骗永远不会持续太久，因此，如果提供商的经营时间超过五年，则很可能是可靠且合法的提供商。另外，值得检查其他用户在Internet上的反馈。如今，人们倾向于在线共享他们的经验，因此不难发现他人的观点。</p><p>除此之外，用户还可以检查公司的合规性和可用的注册数据。可靠的公司始终会披露尽可能多的信息，要求用户提供完整的KYC（Know your customer）认证，以证明其可靠性、合法性和唯一性。</p><hr><h2 id="2、使用强密码"><a href="#2、使用强密码" class="headerlink" title="2、使用强密码"></a>2、使用强密码</h2><p><img src="https://s1.ax1x.com/2020/08/05/arBxVU.jpg" alt="arBxVU.jpg"></p><center><font color="acacac" size=2>数字资产密钥设置</font></center><br/><p>让我们以一所房子为例。当一个人用弱小的挂锁继续锁住自己的房屋/办公室时，这就像邀请小偷进来强迫他们进入房屋一样。因此，为了阻止不速之客，必须始终用强力锁将其锁定。同样，必须使用功能强大的私钥来保护数字货币的持有量。</p><p>攻击者倾向于使用更高级和复杂的私钥破解器来攻击用户的账户，并且这些工具利用词典，常用密码列表以及暴力攻击。因此，如果密码又长又强，它将具有更大的熵，这意味着攻击者将很难破解账户。</p><h2 id="3、启用两因素身份验证（2FA）"><a href="#3、启用两因素身份验证（2FA）" class="headerlink" title="3、启用两因素身份验证（2FA）"></a>3、启用两因素身份验证（2FA）</h2><p><br/><img src="https://s1.ax1x.com/2020/08/05/arDS54.jpg" alt="arDS54.jpg"></p><center><font color="acacac" size=2>2FA示例图</font></center><br/><p>2FA生成安全的两步验证码以访问设备上的令牌。通过轻松，有效地添加额外的安全层，它可以从攻击者和劫机者中拯救用户的帐户。2FA私钥每30秒更改一次，因此不会给攻击者留下任何迫使其进入加密货币帐户的空间。</p><p>不过，这并不意味着使用两因素身份验证器足以使资产100％安全，因为黑客不断改变策略，因此必须在每个在线帐户上启用2FA（电子邮件，文件存储服务，社交媒体等）链接到一个人的令牌帐户。</p><hr><h2 id="4、禁用加密货币钱包的自动更新"><a href="#4、禁用加密货币钱包的自动更新" class="headerlink" title="4、禁用加密货币钱包的自动更新"></a>4、禁用加密货币钱包的自动更新</h2><p><br/>台式机或移动式加密货币钱包的工作原理与其他任何应用程序一样，因此会不时进行更新，以提供新功能，应对新的网络安全威胁并修复可能的错误，从而使用户体验越来越完美。</p><p><img src="https://s1.ax1x.com/2020/08/05/arD9PJ.jpg" alt="arD9PJ.jpg"></p><center><font color="acacac" size=2>某一数字钱包自动更新示意图</font></center><br/><p>当用户不进行更新时，他们的钱包很可能遭到黑客攻击或损坏–因为攻击者会发现网络安全墙非常脆弱且不稳定。</p><p>但是，用户不应在到达后就急着下载并安装最新更新。在某些情况下，这些新版本带有可能会影响钱包软件并使其更加脆弱的错误。此外，黑客可能会将其恶意软件伪装成更新并将其推送到商店中。因此，如果启用了自动更新功能，则用户可以安装可窃取资金而不是实际更新的恶意软件。因此，最好等待3-5天并仅在没有关于新版本的问题或不好的评论时更新钱包。</p><hr><h1 id="5、备份您的数字钱包到可靠的地方"><a href="#5、备份您的数字钱包到可靠的地方" class="headerlink" title="5、备份您的数字钱包到可靠的地方"></a>5、备份您的数字钱包到可靠的地方</h1><p><br/>从您的加密货币钱包中备份数据可以很容易地在丢失，损坏或任何设备故障的情况下检索，还原或访问令牌以及其他敏感信息。</p><p>如果用户的计算机或智能手机被盗或放错了地方，备份副本将使用户可以恢复自己的钱包。但是，用户还需要确保已在可靠的云服务中创建了备份，因为这些数据也可能被盗用和滥用。其中要备份的数据包括：私钥、助记词、钱包地址、钱包用户名等。</p><p><img src="https://s1.ax1x.com/2020/08/05/arBXrV.jpg" alt="arBXrV.jpg"></p><center><font color="acacac" size=2>数字资产钱包备份助记词流程</font></center><hr><h2 id="6、使用受信任的安全网络"><a href="#6、使用受信任的安全网络" class="headerlink" title="6、使用受信任的安全网络"></a>6、使用受信任的安全网络</h2><p><br/>用数字货币进行交易时，始终使用WiFi热点等公共互联网连接是不好的。这使钱包暴露给罪犯，因为他们发现很容易闯入帐户并以大量股份为自己服务。使用公共网络使该网络的所有参与者都可以看到钱包，从而可以轻松访问设备。</p><p>使用公共设备访问您的钱包也有同样的问题。即使删除了所有密码，它们也会保留在设备的内存中。因此，具有某些技术技能的人可能会容易地检索和滥用它们。这就是为什么应使用个人互联网和个人计算机/智能电话进行任何类型的交易。</p><p><img src="https://s1.ax1x.com/2020/08/05/arBzaF.jpg" alt="arBzaF.jpg"></p><h2 id="7、应用强加密"><a href="#7、应用强加密" class="headerlink" title="7、应用强加密"></a>7、应用强加密</h2><p>无论使用哪种加密货币钱包，都必须对其进行高度加密，以确保储蓄安全可靠。它越强大，被黑客入侵的机会就越少。</p><p>通过对钱包或整个设备进行加密，用户可以设置私钥或一种防火墙，以防止试图取出任何钱的不良玩家。因此，确保对钱包进行严格而正确的加密将使用户能够安然入睡，而不必担心丢失自己的资金。</p><hr><h2 id="8、永远不要将所有加密货币都放在一个地方"><a href="#8、永远不要将所有加密货币都放在一个地方" class="headerlink" title="8、永远不要将所有加密货币都放在一个地方"></a>8、永远不要将所有加密货币都放在一个地方</h2><p>非洲谚语说“不要把所有鸡蛋都放在一个篮子里”-因为一旦跌倒，一个人就有将所有鸡蛋切成碎片的风险。所有令牌用户都可以在加密货币行业中采用相同的原理。</p><p>最好将储蓄存储在几个加密货币和几个钱包中。因此，即使一个钱包被黑客入侵，一个人也将设法保留一个人的大部分储蓄。经验丰富的投资者总是将他们的投资分成几种加密货币。除了保护储蓄免受攻击外，这种方法还可以最大程度地降低与价格波动相关的风险。</p><hr><h2 id="9、持续监控钱包交易以发现任何可疑的操作"><a href="#9、持续监控钱包交易以发现任何可疑的操作" class="headerlink" title="9、持续监控钱包交易以发现任何可疑的操作"></a>9、持续监控钱包交易以发现任何可疑的操作</h2><p>在加密货币钱包的公共地址上应用检测工具可能有助于跟踪任何可疑活动。最好继续通过短信和电子邮件获取交易通知。在这种情况下，用户将在实际进行交易之前收到交易通知。因此，即使有人访问了钱包并试图从中取出钱财，也有可能阻止交易的发生。</p><p>因此，许多还提供钱包服务的加密货币交易所具有在实际发送交易之前确认交易的功能。因此，用户有机会在汇款前仔细检查所有信息，因为基于区块链的交易是不可逆的，因此任何错误都可能导致资金损失。此外，如果有任何第三方试图代表用户进行交易，那么使用这种功能就不可能错过它。</p><hr><h2 id="10、使用冷存储"><a href="#10、使用冷存储" class="headerlink" title="10、使用冷存储"></a>10、使用冷存储</h2><p>冷存储与热存储相比，具有很大的优势，因为它没有连接到Internet。因此，窃取资金的唯一方法是钱包本身的物理隐身性。但是即使那样，罪犯也需要掌握大量的技术技能才能获得资金。</p><p><img src="https://s1.ax1x.com/2020/08/05/arBjbT.jpg" alt="arBjbT.jpg"></p><center><font color="acacac" size=2>冷存储硬件钱包</font></center><p>一些加密货币持有人同时使用两种存储。在线钱包用于进行交易，冷库用于存储加密货币。通过这种方式，他们可以确保节省下来的钱。</p><p>无论如何，在创建一个加密货币钱包并用任何资金信任它之前，最好进行彻底的研究。这将有助于了解各种钱包如何根据自己的需求做出完美选择。</p><p><img src="https://s1.ax1x.com/2020/07/20/U5nuv9.jpg" alt="U5nuv9.jpg"></p><p><strong>声明：</strong>编者在撰写本文时，未购买任何数字货币资产。本文为区块新看点-程伟在15年互联网企业从事管理经验中得出的管理技巧和企业改进观点，希望给所有精英人士一点点的分享交流意见和建议，欢迎前来讨论和给更好的论点，谢谢！转载请注明来源于“区块新看点-行业研究”。</p><p><strong>区块新看点-精彩科技内容回顾：</strong></p><ul><li><a href="https://www.chengwf.com/2020/07/Nouriel-Roubini-BitCoin.html">大反派回来了！“乌鸦嘴”末日博士称：经济可能会再次衰退，甚至引发大萧条，最佳的避险资产是比特币</a></li><li><a href="https://www.toutiao.com/i6852422789509415436/?group_id=6852422789509415436" target="_blank" rel="noopener">5G革命的新商机：我们如何在数字时代挖掘这轮财富机会？</a></li><li><a href="https://www.toutiao.com/i6845920553283355139/?group_id=6845920553283355139" target="_blank" rel="noopener">下一代5G会为我们带来有什么期望？</a></li><li><a href="https://www.toutiao.com/i6851835708215460359/?group_id=6851835708215460359" target="_blank" rel="noopener">数字经济已进入以太坊（DeFi）金融创新的新纪元</a></li><li><a href="https://www.toutiao.com/i6848883228850422285/?group_id=6848883228850422285" target="_blank" rel="noopener">什么是 Comp？深入挖掘以太坊 DeFi 的最新趋势</a> </li></ul>]]></content>
-    
-    <summary type="html">
-    
-      “区块新看点”-区块链科普分享10大绝招教你怎么保护你的加密资产.
     
     </summary>
     
